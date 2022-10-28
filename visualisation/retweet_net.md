@@ -26,13 +26,14 @@ Network of publicly visible retweet interactions related to COP26. Zoom out to s
 </p>
 
 <div class="controls small">
-  <input type="checkbox" id="live" onClick="ToggleLive()"><label for="live" class="small">Live data</label><br/>
+    <input name="cop" value="26"  onclick="LoadNetwork(26, -1)"  type="radio"><label for="26" >COP26</label><br/>
+    <input name="cop" value="27"  onclick="LoadNetwork(27, -1)"  type="radio" checked><label for="27" >COP27</label><br/>
   <br/>
   <div class="hide-sm">
     Network size:<br/>
-    <input name="size" value="150"  onclick="LoadNetwork(150 )"  type="radio" checked><label for="150" >150</label><br/>
-    <input name="size" value="500"  onclick="LoadNetwork(500 )"  type="radio"><label for="500" >500</label><br/>
-    <input name="size" value="1500" onclick="LoadNetwork(1500)"  type="radio"><label for="1500">1500</label><br/>
+    <input name="nodes" value="150"  onclick="LoadNetwork(-1, 150 )"  type="radio" checked><label for="150" >150</label><br/>
+    <input name="nodes" value="500"  onclick="LoadNetwork(-1, 500 )"  type="radio"><label for="500" >500</label><br/>
+    <input name="nodes" value="1500" onclick="LoadNetwork(-1, 1500)"  type="radio"><label for="1500">1500</label><br/>
   </div>
   <p class="small" id="updated"></p>
 </div>

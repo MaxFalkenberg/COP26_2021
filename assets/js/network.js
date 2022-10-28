@@ -2,12 +2,12 @@
 
 var GetNetwork = (function(cop, size) {
     var data;
-    if (live) {
+    if (cop == 26) {
         if (size == 150)  data = live_150;
         if (size == 500)  data = live_500;
         if (size == 1500) data = live_1500;
     }
-    else {
+    if (cop == 27) {
         if (size == 150)  data = retweets_150;
         if (size == 500)  data = retweets_500;
         if (size == 1500) data = retweets_1500;
@@ -20,8 +20,8 @@ var GetTwitterLink = (function(handle) {
         '" target="_blank">' + handle + '</a>';
 });
 
-var GetMostRetweeted = (function(handle, size, live) {
-    var data = GetNetwork(size, live);
+var GetMostRetweeted = (function(handle, cop, size) {
+    var data = GetNetwork(cop, size);
 
     var sorted_to = data['links']
         .filter(l => l.source['name'] === handle)
@@ -50,7 +50,7 @@ var ClosePanel = (function() {
     document.getElementById('panel').classList.add('hide');
 });
 
-var OpenPanel = (function(handle, size, live) {
+var OpenPanel = (function(handle, cop, size) {
     var w = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
 
     if (w > 600) {
@@ -73,7 +73,7 @@ var OpenPanel = (function(handle, size, live) {
 
         // add most retweeted by user and who retweeted user most
         panel.innerHTML += '<p>Top users retweeted by this account:<br/>';
-        var links = GetMostRetweeted(handle, size, live);
+        var links = GetMostRetweeted(handle, cop, size);
         links[0].forEach(l => panel.innerHTML += GetTwitterLink(l['name']) + ' (' + l['val'] + ' retweets)<br/>');
         panel.innerHTML += '</p><p>Top users who retweeted this account:<br/>';
         links[1].forEach(l => panel.innerHTML += GetTwitterLink(l['name']) + ' (' + l['val'] + ' retweets)<br/>');
@@ -88,20 +88,23 @@ var OpenPanel = (function(handle, size, live) {
 });
 
 
-var ToggleLive = (function() {
-    var bs = document.querySelectorAll('input[name=size]');
-	var size;
-	for (var b of bs) {
-		if (b.checked) size = b.value; break;
-	}
+var LoadNetwork = (function(cop, size) {
+    if (cop == -1) {
+        var buttons = document.getElementsByName('cop');
+        for (let b of buttons) {
+            if (b.checked) cop = b.value;
+        }
+    }
+    if (size == -1) {
+        var buttons = document.getElementsByName('nodes');
+        for (let b of buttons) {
+            if (b.checked) size = b.value;
+        }
+    }
 
-	LoadNetwork(size);
-});
+    console.log('Reloading network for cop' + cop + ' with ' + size + ' nodes');
 
-
-var LoadNetwork = (function(size) {
-    var live = document.querySelector('#live').checked;
-    var data = GetNetwork(size, live),
+    var data = GetNetwork(cop, size),
         scale = d3.scaleOrdinal(d3.schemeDark2);
 
     var width  = Math.max(document.documentElement.clientWidth  || 0, window.innerWidth  || 0) - 5,
@@ -140,7 +143,7 @@ var LoadNetwork = (function(size) {
           node.fy = node.y;
         })
         // show panel on node click
-        .onNodeClick(n => OpenPanel(n.name, size, live))
+        .onNodeClick(n => OpenPanel(n.name, cop, size))
 
     if (size != 1500) {
       // particles travelling links indicate link direction
@@ -154,13 +157,6 @@ var LoadNetwork = (function(size) {
     Graph.d3VelocityDecay(0.1)
 
     ClosePanel();
-
-	if (live) {
-		document.querySelector('#updated').innerHTML = "Last update:<br/>" + last_updated;
-	}
-	else {
-		document.querySelector('#updated').innerHTML = '';
-	}
 });
 
-LoadNetwork(150,  false);
+LoadNetwork(27, 150);
