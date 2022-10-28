@@ -17,27 +17,12 @@
 
   </head>
   <body>
-    <nav class="site-nav">
-      <h1 class="title"><a href="/">Climate Twitter</a></h1>
-      <div class="main-menu">
-        <a class="page-link" href="/visualisations">Explore</a>
-        <a class="page-link" href="/learn">Learn more</a>
-        <a class="page-link" href="/about">About us</a>
-        <a class="page-link button" href="/research">READ OUR RESEARCH</a>
-      </div>
-    </nav>
 
     <main>
     {{ content }}
     </main>
 
-{% if page.body_js %}
-    {% for js in page.body_js %}
-    <script src="{{ js }}"></script>
-    {% endfor %}
-{% endif %}
 
-  {%- include footer.html -%}
   </body>
 </html>
 
