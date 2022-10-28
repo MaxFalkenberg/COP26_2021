@@ -8,6 +8,8 @@ def Pull_Assets():
     repo.git.add('assets/data/livegraph_150_cop27.js')
     repo.git.add('assets/data/livegraph_500_cop27.js')
     repo.git.add('assets/data/livegraph_1500_cop27.js')
+    repo.git.add('assets/data/livegraph_150_cop27_pro.js')
+    repo.git.add('assets/data/livegraph_150_cop27_con.js')
     try:
         repo.git.add('assets/data/trends_data.js')
     except:
