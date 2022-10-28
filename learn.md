@@ -17,13 +17,13 @@ To learn more about COP26, the Paris Agreement, and the need for action on clima
 
 ### About this dashboard
 
-This dashboard uses data from Twitter to track the online discussion regarding COP26. By considering all publicly available tweets since June 1st, 2021 using the keyword term “cop26”, we investigate how users interact, the communities formed by user interactions, key themes in the hashtags used by ideologically opposed groups, COP26 related hashtags which are trending, and the global distribution of Twitter users engaged in the COP26 discussion.
+This dashboard uses data from Twitter to track the online discussion around COP27. Using all tweets using the keyword term “cop27”, we investigate how users interact, the communities formed by user interactions, key themes in the hashtags used by ideologically opposed groups, COP related hashtags which are trending, and the global distribution of Twitter users engaged in the COP27 discussion. Our analysis is based on similarwork we carried out for COP26 last year.
 
 ### Disclaimer
 
 All data downloaded for this project was extracted using the <a target="_blank" href="https://developer.twitter.com/en/products/twitter-api/academic-research">Twitter API for Academic Research</a>.  In accordance with the terms of the Twitter API, we only display publically accessible information and have not matched any user data to user profiles outside of Twitter.
 
-Algorithms used to rank user importance, to group users in communities, and to split users based on ideology, are all automated using standard techniques from network science - small changes in parameter algorithms can change results. The values and groupings shown should be understood as imprecise measures and not exact values. Please also note that user importance and groupings are determined based on tweets related to COP26 only, and not on any other topic on Twitter elsewhere.
+Algorithms used to rank user importance, to group users in communities, and to split users based on ideology, are all automated using standard techniques from network science - small changes in parameter algorithms can change results. The values and groupings shown should be understood as imprecise measures and not exact values. Please also note that user importance and groupings are determined based on tweets related to the COP summits only, not the general climate discussion on Twitter or elsewhere.
 
 For privacy reasons, we do not label the communities, choosing to display community grouping in an unaltered manner.
 
