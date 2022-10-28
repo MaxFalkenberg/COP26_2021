@@ -3,7 +3,7 @@ layout: home
 permalink: /learn/
 ---
 
-![](/assets/graph/cop26.png)
+![](/assets/graph/COP27-LOGO.png)
 
 Despite countries’ climate pledges and the economic downturn triggered by the Covid-19 pandemic, greenhouse gas (GHG) emissions continue to [rise at record levels](https://www.bloomberg.com/news/articles/2021-10-25/un-says-world-on-course-to-warm-2-7-c-based-on-current-plans?utm_campaign=Carbon%20Brief%20Daily%20Briefing&utm_content=20211026&utm_medium=email&utm_source=Revue%20Daily){:target="_blank"}. At COP21 in 2015, the [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement){:target="_blank"} succeeded in setting a temperature increase reduction target: countries committed to limiting global temperature rises to 1.5°C above pre-industrial levels. States had to provide Nationally Determined Contributions (NDCs) to explain how they were going to contribute to achieving the 1.5°C target, and how they were planning to adapt to ensure that people and assets are protected from the consequences of climate change.
 
