@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Community User Networks
-permalink: /visualisation/communities_search
+permalink: /visualisation/user_net
 head_js:
     - "https://d3js.org/d3.v4.min.js"
     - "https://d3js.org/d3-scale-chromatic.v1.min.js"
