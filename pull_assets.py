@@ -1,7 +1,7 @@
 import git
 
 def Pull_Assets():
-    repo = git.Repo('COP26')
+    repo = git.Repo('COP26_2021')
     repo.remote().fetch()
     origin = repo.remote(name='origin')
 

@@ -4,10 +4,9 @@ title: About us
 permalink: /about/
 ---
 
+Want to know more? Read our paper here, soon to be published in Nature Climate Change.
 
-We are a group of computational social scientists, physicists and climate scientists based in the UK and Italy.
-
-
+We are a group of computational social scientists, physicists and climate scientists based in the UK and Italy. Our team is part of the [IRIS Academic Coalition](https://www.irisacademic.org/){:target="_blank"}.
 
 - [Max Falkenberg](https://twitter.com/MaxFalken){:target="_blank"} is a post-doctoral researcher based at City, University of London with a background working in complex systems.
 - [Madalina Sas](https://mis.pm){:target="_blank"} is a Ph.D. student in complexity science at Imperial College London with a background in computer engineering and an interest in emergent phenomena.
