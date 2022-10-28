@@ -8,13 +8,13 @@ Want to know more? Read our paper here, soon to be published in Nature Climate C
 
 We are a group of computational social scientists, physicists and climate scientists based in the UK and Italy. Our team is part of the [IRIS Academic Coalition](https://www.irisacademic.org/){:target="_blank"}.
 
-- [Max Falkenberg](https://twitter.com/MaxFalken){:target="_blank"} is a post-doctoral researcher based at City, University of London with a background working in complex systems.
+- [Max Falkenberg](https://twitter.com/MaxFalken){:target="_blank"} is a researcher based at City, University of London with a background working in complex systems.
 - [Madalina Sas](https://mis.pm){:target="_blank"} is a Ph.D. student in complexity science at Imperial College London with a background in computer engineering and an interest in emergent phenomena.
-- [Alessandro Galeazzi](https://scholar.google.com/citations?user=LGWBII4AAAAJ&hl){:target="_blank"} is a Ph.D. student at the University of Brescia interested in human behavior on social media.
+- [Alessandro Galeazzi](https://scholar.google.com/citations?user=LGWBII4AAAAJ&hl){:target="_blank"} is a researcher at Ca'Foscari University of Venice interested in human behavior on social media.
 - [Francesca Larosa](https://scholar.google.com/citations?user=89qTlnEAAAAJ&hl=it&oi=ao){:target="_blank"} is a climate scientist based at University College London.
 - [Maddalena Torricelli](https://maddaleona.github.io/){:target="_blank"} is a researcher based at City, University of London with a background in computational social science and networks.
 - [Niccolò Di Marco](https://twitter.com/Nicco84394204){:target="_blank"} is a Ph.D. student at the University of Florence working on complex systems and computational social science.
-- [Fabiana Zollo](https://www.unive.it/data/persone/14075308/curriculum) is an Assistant Professor in the Dept. of Environmental Sciences, Informatics and Statistics and Research Fellow in the Center for the Humanities & Social Change at Ca’ Foscari University of Venice.
+- [Fabiana Zollo](https://www.unive.it/data/persone/14075308/curriculum) is an Assistant Professor in the Dept. of Environmental Sciences, Informatics and Statistics and Research Fellow in the Center for the Humanities & Social Change at Ca’Foscari University of Venice.
 - [Walter Quattrociocchi](https://sites.google.com/view/walterquattrociocchi/home){:target="_blank"} is head of the of the Data and Complexity for Society Lab at Sapienza Università di Roma, where he is Associate Professor in Computer Science.
 - [Andrea Baronchelli](https://www.andreabaronchelli.com/){:target="_blank"} is a Reader in Mathematics at City, University of London, and head of Economic Data Science at the Alan Turing Institute.
 
@@ -22,7 +22,7 @@ Prior to working on data science related to climate change information, our grou
 
 This project acknowledges support from the Project “IRIS: Global Health Security Academic Research Coalition”.
 
-<div class="flexi flexi-7">
+<div class="flexi flexi-6">
 <div><img src="/assets/img/city-uni.jpg"></div>
 <div><img src="/assets/img/imperial.png"></div>
 <div><img src="/assets/img/turing.jpg"></div>
