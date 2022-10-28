@@ -10,12 +10,12 @@ main { min-height: calc(100vh - 400px); }
 
 @media screen and (min-width: 600px) {
   nav, main {
-    margin-left:  10%;
-    margin-right: 10%;
+    margin-left:  10vw;
+    margin-right: 10vw;
   }
   footer {
-    padding-left:  10%;
-    padding-right: 10%;
+    padding-left:  10vw;
+    padding-right: 10vw;
   }
 }
 @media screen and (max-width: 599px) {
@@ -187,7 +187,7 @@ img {
 .controls {
   z-index: 100;
   position: absolute;
-  top: 130px;
+  top: 260px;
   left: 3px;
   border: 1px solid rgba(0,0,0,0.2);
   background: rgba(255,255,255,0.8);
@@ -227,20 +227,6 @@ svg {
 }
 #panel_content a { font-family: monospace; }
 #panel_title { margin-top: 20px; }
-
-/* Geography page */
-div.tooltip {
-  position: absolute;
-  padding: 7px;
-  font-family: monospace;
-  font-size: 0.8em;
-  pointer-events: none;
-  background: #fff;
-  border: 1px solid #ccc;
-  box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.25);
-}
-
-#legend { font: 12px monospace; }
 
 /* Communities page */
 .node--leaf { fill: rgb(255, 203, 43); }
@@ -320,3 +306,23 @@ svg tspan {
 }
 
 
+/* communities/subnetworks */
+.col-2 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap
+}
+.col-2 > .col { flex: auto }
+#graph_pro, #graph_con {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+@media (min-width: 600px) {
+  .col-2 {
+    width: 100vw;
+  }
+  .col-2 {
+    margin-left: calc(-10vw);
+  }
+}
