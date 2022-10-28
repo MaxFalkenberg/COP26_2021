@@ -1,6 +1,6 @@
 "use strict";
 
-var GetNetwork = (function(size, live) {
+var GetNetwork = (function(cop, size) {
     var data;
     if (live) {
         if (size == 150)  data = live_150;
