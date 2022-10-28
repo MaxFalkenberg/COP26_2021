@@ -7,6 +7,8 @@ head_js:
  - "https://d3js.org/d3-scale-chromatic.v1.min.js"
  - "/assets/js/force-graph.js"
 body_js:
+ - "/assets/data/livegraph_150_cop26_con.js"
+ - "/assets/data/livegraph_150_cop26_pro.js"
  - "/assets/data/livegraph_150_cop27_con.js"
  - "/assets/data/livegraph_150_cop27_pro.js"
  - "/assets/js/ideology.js"

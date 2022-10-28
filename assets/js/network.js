@@ -2,12 +2,12 @@
 
 var GetNetwork = (function(cop, size) {
     var data;
-    if (cop == 26) {
+    if (cop == 27) {
         if (size == 150)  data = live_150;
         if (size == 500)  data = live_500;
         if (size == 1500) data = live_1500;
     }
-    if (cop == 27) {
+    if (cop == 26) {
         if (size == 150)  data = retweets_150;
         if (size == 500)  data = retweets_500;
         if (size == 1500) data = retweets_1500;
