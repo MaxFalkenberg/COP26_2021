@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Community User Networks
 permalink: /visualisation/communities_search
 head_js:

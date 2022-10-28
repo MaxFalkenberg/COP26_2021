@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Hashtag Trends
 permalink: /visualisation/trends
 head_js:

@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Communities Visualisation
 permalink: /visualisation/communities
 head_js:

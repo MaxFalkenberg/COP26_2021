@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Most popular Hashtags
 permalink: /visualisation/hashtags
 head_js:

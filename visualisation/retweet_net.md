@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 permalink: /visualisation/retweet_net
 title: Retweet Network
 head_js:

@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Explore COP27
 permalink: /visualisations/
 ---

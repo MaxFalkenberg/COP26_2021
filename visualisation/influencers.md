@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 permalink: /visualisation/influencers
 title: Top Influencers
 head_js:
