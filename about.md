@@ -11,8 +11,8 @@ We are a group of computational social scientists, physicists and climate scient
 - [Max Falkenberg](https://twitter.com/MaxFalken){:target="_blank"} is a post-doctoral researcher based at City, University of London with a background working in complex systems.
 - [Madalina Sas](https://mis.pm){:target="_blank"} is a Ph.D. student in complexity science at Imperial College London with a background in computer engineering and an interest in emergent phenomena.
 - [Alessandro Galeazzi](https://scholar.google.com/citations?user=LGWBII4AAAAJ&hl){:target="_blank"} is a Ph.D. student at the University of Brescia interested in human behavior on social media.
-- [Francesca Larosa](https://scholar.google.com/citations?user=89qTlnEAAAAJ&hl=it&oi=ao){:target="_blank"} is a post-doctoral researcher at University College London (UK) and a researcher at the Euro-Mediterranean Center on Climate Change in Venice (IT).
-- [Maddalena Torricelli](https://maddaleona.github.io/){:target="_blank"} is a post-doctoral researcher based at City, University of London with a background in computational social science and networks.
+- [Francesca Larosa](https://scholar.google.com/citations?user=89qTlnEAAAAJ&hl=it&oi=ao){:target="_blank"} is a climate scientist based at University College London.
+- [Maddalena Torricelli](https://maddaleona.github.io/){:target="_blank"} is a researcher based at City, University of London with a background in computational social science and networks.
 - [Niccolò Di Marco](https://twitter.com/Nicco84394204){:target="_blank"} is a Ph.D. student at the University of Florence working on complex systems and computational social science.
 - [Fabiana Zollo](https://www.unive.it/data/persone/14075308/curriculum) is an Assistant Professor in the Dept. of Environmental Sciences, Informatics and Statistics and Research Fellow in the Center for the Humanities & Social Change at Ca’ Foscari University of Venice.
 - [Walter Quattrociocchi](https://sites.google.com/view/walterquattrociocchi/home){:target="_blank"} is head of the of the Data and Complexity for Society Lab at Sapienza Università di Roma, where he is Associate Professor in Computer Science.
@@ -28,6 +28,5 @@ This project acknowledges support from the Project “IRIS: Global Health Securi
 <div><img src="/assets/img/turing.jpg"></div>
 <div><img src="/assets/img/sapienza.png"></div>
 <div><img src="/assets/img/cafoscari.jpg"></div>
-<div><img src="/assets/img/CMCCorizzontaleCOL.jpg"></div>
 <div><img src="/assets/img/ISR_UCL.jpg"></div>
 </div>

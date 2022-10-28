@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Your aw
-email: info@cop26buzz.live
+email: max.falkenberg@city.ac.uk
 description: >-
-  Website mapping the live conversation around COP26 on Twitter.
+  Website mapping the live conversation around COP27 on Twitter.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cop26buzz.live/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://climatetwitter.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MaxFalken
 github_username:  MaxFalkenberg
 # Google Analytics
