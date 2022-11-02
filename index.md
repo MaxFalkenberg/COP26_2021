@@ -18,13 +18,13 @@ body_js:
 ---
 
 <p class="text-center">
-Network of top retweet interactions during COP visualised. Change network size using buttons on the left, and switch between historical COP26 data and live COP27 from the previous 72 hours.
+The COP retweet network. Change network size using buttons on the left, and switch between COP26 data and live COP27 data.
 </p>
 <p class="text-center">
-Zoom out on COP26 data to find the climate sceptic minority. Do they reappear during COP27?
+Can you find the climate sceptic minority during COP26? Do they reappear during COP27?
 </p>
 <p class="text-center">
-<a href="/visualisation/influencers">Pro/Anti Climate Networks</a> &nbsp;&nbsp;&nbsp; <a href="/visualisation/communities">Top COP News</a>  &nbsp;&nbsp;&nbsp; <a href="/visualisation/trends">Trending Topics</a>
+<a href="/visualisation/">EXPLORE OTHER VISUALISATIONS</a>
 </p>
 
 <div class="controls small">
