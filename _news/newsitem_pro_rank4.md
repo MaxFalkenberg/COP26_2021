@@ -1,9 +1,9 @@
 ---
-publication: "washingtontimes.com"
-link: "https://www.washingtontimes.com/news/2022/nov/1/greta-thunberg-boycotts-cop27-climate-summit-calls/"
-title: "Biden in, Greta Thunberg out: Stage set for infighting at U.N. climate summit in Egypt"
-excerpt: "President Biden plans to attend COP27, the annual United Nations climate confab, but he won’t be rubbing elbows with Swedish teen activist Greta Thunberg."
-image: "https://twt-thumbs.washtimes.com/media/image/2022/03/25/climate_protest_12436_c0-337-5208-3375_s1200x700.jpg?0224943f304814b91a4a0802077c18f2f2b87fd6"
+publication: "news.sky.com"
+link: "https://news.sky.com/story/rishi-sunak-to-go-to-cop27-in-egypt-despite-earlier-saying-he-couldnt-go-12736272"
+title: "PM makes 'screeching U-turn' on attending COP27 - and all his campaign pledges are under review"
+excerpt: "Rishi Sunak has said he will attend the COP27 climate summit in Egypt, in what has been branded a 'screeching U-turn'. Then hours later Downing Street admitted all his campaign pledges made in the summer are under review."
+image: "https://e3.365dm.com/22/11/1600x900/skynews-rishi-suna-cop26_5951781.jpg?20221102100806"
 group: pro
 rank: 4
 ---

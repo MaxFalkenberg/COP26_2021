@@ -1,9 +1,9 @@
 ---
-publication: "gbnews.uk"
-link: "https://www.gbnews.uk/news/rishi-sunak-confirms-he-will-attend-cop27-after-previously-ruling-himself-out-of-event/382879"
-title: "Rishi Sunak confirms he will attend Cop27 after previously ruling himself out of event"
-excerpt: "Rishi Sunak had previously said he would not be attending the summit in Egypt"
-image: "https://image.gbnews.uk/382179.jpg?imageId=382179&panow=100&panoh=51.034482758621&panox=0&panoy=2.7586206896552&heightw=100&heighth=100&heightx=0&heighty=0&width=1200&height=630"
+publication: "metro.co.uk"
+link: "https://metro.co.uk/2022/11/02/rishi-sunaks-cop27-u-turn-proves-hes-no-climate-leader-17687650/"
+title: "Rishi Sunak's COP27 U-turn proves he's no climate leader"
+excerpt: "We don't need a Prime Minister flip-flopping on a whim over the climate."
+image: "https://metro.co.uk/wp-content/uploads/2022/10/SEC_131671958-4fd7_1667409646.jpg?quality=90&strip=all&w=1200&h=630&crop=1"
 group: pro
 rank: 8
 ---

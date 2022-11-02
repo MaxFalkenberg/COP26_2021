@@ -1,9 +1,9 @@
 ---
-publication: "news.sky.com"
-link: "http://news.sky.com/story/rishi-sunak-to-go-to-cop27-in-egypt-despite-earlier-saying-he-couldnt-go-12736272"
-title: "Rishi Sunak to attend COP27 - reversing decision to skip it to focus on economy"
-excerpt: "Rishi Sunak has said he will attend the COP27 climate summit in Egypt, in what has been branded a 'screeching U-turn'. "
-image: "https://e3.365dm.com/22/11/1600x900/skynews-rishi-suna-cop26_5951781.jpg?20221102100806"
+publication: "gbnews.uk"
+link: "https://www.gbnews.uk/news/rishi-sunak-confirms-he-will-attend-cop27-after-previously-ruling-himself-out-of-event/382879"
+title: "Rishi Sunak confirms he will attend Cop27 after previously ruling himself out of event"
+excerpt: "Rishi Sunak had previously said he would not be attending the summit in Egypt"
+image: "https://image.gbnews.uk/382179.jpg?imageId=382179&panow=100&panoh=51.034482758621&panox=0&panoy=2.7586206896552&heightw=100&heighth=100&heightx=0&heighty=0&width=1200&height=630"
 group: pro
 rank: 7
 ---
