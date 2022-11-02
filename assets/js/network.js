@@ -156,6 +156,7 @@ var LoadNetwork = (function(cop, size) {
     Graph.d3Force("charge").strength(-900);
     Graph.d3VelocityDecay(0.1)
 
+    document.querySelector('#updated').innerHTML = "Last update:<br/>" + last_updated;
     ClosePanel();
 });
 
