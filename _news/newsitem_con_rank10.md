@@ -1,9 +1,9 @@
 ---
-publication: "benjaminwatchblog.wordpress.com"
-link: "https://benjaminwatchblog.wordpress.com/2022/10/26/the-fallacy-of-going-green-and-africa/"
-title: "The Fallacy of Going Green and Africa"
-excerpt: "Today because of capitalism a system that exploits natural resources to no end has created a world wide environment quandary of sorts. The hegemonic Imperialist west has through history benefited f…"
-image: "https://benjaminwatchblog.files.wordpress.com/2022/10/png_20221026_114729_0000.png?w=1200"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/magazine/un-conference-in-egypt-set-to-kickstart-conversation-on-climate-reparations-62016"
+title: "UN conference in Egypt set to kickstart conversation on climate reparations"
+excerpt: "Negotiators at COP27 will discuss practical solutions to address how historical polluters should pay for poor countries’ irreversible climate-related losses."
+image: "https://cdni0.trtworld.com/w480/h270/q75/142908_asset_15414504__1666877481019.jpeg"
 group: con
 rank: 10
 ---

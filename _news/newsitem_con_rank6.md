@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/world/2022/10/30/Busking-Brit-Dan-Hodd-crosses-Iraq-on-his-way-to-COP27-without-flying"
-title: "Busking Brit Dan Hodd crosses Iraq on his way to COP27 without flying"
-excerpt: "With a violin on his back and maps in his bag, Dan Hodd left Spain a month ago and was cycling through busy Baghdad as he heads to the COP27 climate talks"
-image: "https://vid.alarabiya.net/images/2022/10/30/1c2114bb-4f75-4d5e-9793-7ef5f3b19a9a/1c2114bb-4f75-4d5e-9793-7ef5f3b19a9a_16x9_600x338.JPG"
+publication: "annpettifor.substack.com"
+link: "https://annpettifor.substack.com/p/will-greta-thunbergs-campaign-destroy"
+title: "Will Greta Thunberg's campaign destroy jobs?"
+excerpt: "as Italian PM Meloni suggests..."
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F264cf71a-e021-4ded-86fa-d0a7868aaf23_1174x752.png"
 group: con
 rank: 6
 ---
