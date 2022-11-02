@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/business/energy/2022/10/31/UAE-ADNOC-Chief-says-world-needs-maximum-energy-minimum-emissions"
-title: "Saudi Arabia, UAE for higher oil output, less emissions days before COP27 talks"
-excerpt: "Saudi Arabia and the United Arab Emirates said the world needs higher oil production on Monday, just days before the COP27 climate summit aimed at curbing"
-image: "https://vid.alarabiya.net/images/2022/10/31/807a2dbc-7c22-46d1-a00f-4f35f1839740/807a2dbc-7c22-46d1-a00f-4f35f1839740_16x9_600x338.JPG"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/magazine/un-conference-in-egypt-set-to-kickstart-conversation-on-climate-reparations-62016"
+title: "UN conference in Egypt set to kickstart conversation on climate reparations"
+excerpt: "Negotiators at COP27 will discuss practical solutions to address how historical polluters should pay for poor countries’ irreversible climate-related losses."
+image: "https://cdni0.trtworld.com/w480/h270/q75/142908_asset_15414504__1666877481019.jpeg"
 group: con
 rank: 7
 ---
