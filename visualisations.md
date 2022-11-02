@@ -12,10 +12,11 @@ permalink: /visualisations/
 </div>
 
 <h3>Other visualisations</h3>
-<div class="flexi flexi-4">
-<div class="center"><a href="/visualisation/hashtags"          ><img src="/assets/img/hashtag_viz.png">  <br/>Hashtags</a></div>
-<div class="center"><a href="/visualisation/communities"       ><img src="/assets/img/community_viz.png"><br/>Communities</a></div>
-<div class="center"><a href="/visualisation/trends"            ><img src="/assets/img/trends_viz.png">   <br/>Live Trends</a></div>
-<div class="center"><a href="/visualisation/influencers"       ><img src="/assets/img/influencer_fig_cropped.png">   <br/>Live Influencers</a></div>
+<div class="flexi flexi-5">
+<div class="center"><a href="/visualisation/news"       ><img src="/assets/img/hashtag_viz.png">  <br/>News</a></div>
+<div class="center"><a href="/visualisation/hashtags"   ><img src="/assets/img/hashtag_viz.png">  <br/>Hashtags</a></div>
+<div class="center"><a href="/visualisation/communities"><img src="/assets/img/community_viz.png"><br/>Communities</a></div>
+<div class="center"><a href="/visualisation/trends"     ><img src="/assets/img/trends_viz.png">   <br/>Live Trends</a></div>
+<div class="center"><a href="/visualisation/influencers"><img src="/assets/img/influencer_fig_cropped.png">   <br/>Live Influencers</a></div>
 </div>
 

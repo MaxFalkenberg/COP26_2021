@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /visualisation/news
-title: Most retweeted news articles
+title: Top COP27 news
 head_js:
  - "/assets/js/news.js"
 ---
@@ -10,14 +10,14 @@ head_js:
 Disclaimer: Below are links to most retweeted news articles. The title, excerpt and image are previews of the news article being linked to.
 
 <div class="toggle text-center">
-  <span class="green">Green group</span>
+  <span class="green">Top news</span>
   <label class="switch"><input type="checkbox" onclick="Redraw(this)"><span class="slider"></span></label>
-  <span class="red">Red group</span>
+  <span class="red">Other news</span>
 </div>
 
 
 <div id="news-pro">
-<h2 class="text-center">News tweeted by the majority</h2>
+<h2 class="text-center">Top news articles featured in COP27 tweets</h2>
 {% assign sorted = site.news | sort: 'rank' %}
 {% for n in sorted %}
   {% if n.group == 'pro' %}
@@ -38,7 +38,7 @@ Disclaimer: Below are links to most retweeted news articles. The title, excerpt 
 </div>
 
 <div id="news-con" class="hide">
-<h2 class="text-center">News tweeted by the minority</h2>
+<h2 class="text-center">News articles from minority sources featured in COP27 tweets</h2>
 {% assign sorted = site.news | sort: 'rank' %}
 {% for n in sorted %}
   {% if n.group == 'con' %}
