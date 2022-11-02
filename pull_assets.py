@@ -5,12 +5,30 @@ def Pull_Assets():
     repo.remote().fetch()
     origin = repo.remote(name='origin')
 
-    repo.git.add('assets/data/livegraph_150_cop27.js')
-    repo.git.add('assets/data/livegraph_500_cop27.js')
-    repo.git.add('assets/data/livegraph_1500_cop27.js')
-    repo.git.add('assets/data/livegraph_150_cop27_pro.js')
-    repo.git.add('assets/data/livegraph_150_cop27_con.js')
-    repo.git.add('_news/*.md')
+    try:
+        repo.git.add('assets/data/livegraph_150_cop27.js')
+    except:
+        pass
+    try:
+        repo.git.add('assets/data/livegraph_500_cop27.js')
+    except:
+        pass
+    try:
+        repo.git.add('assets/data/livegraph_1500_cop27.js')
+    except:
+        pass
+    try:
+        repo.git.add('assets/data/livegraph_150_cop27_pro.js')
+    except:
+        pass
+    try:
+        repo.git.add('assets/data/livegraph_150_cop27_con.js')
+    except:
+        pass
+    try:
+        repo.git.add('_news/*.md')
+    except:
+        pass
     try:
         repo.git.add('assets/data/trends_data.js')
     except:
