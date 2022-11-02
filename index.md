@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /
-title: Retweet Network
+title: Climate polarisation is growing on Twitter
 head_js:
  - "https://d3js.org/d3.v4.min.js"
  - "https://d3js.org/d3-scale-chromatic.v1.min.js"
@@ -18,11 +18,11 @@ body_js:
 ---
 
 <p class="text-center">
-Network of publicly visible retweet interactions related to COP26. Zoom out to see full structure and look out for fringe communities.
+Network of top retweet interactions during COP visualised. Change network size using buttons on the left, and switch between historical COP26 data and live COP27 from the previous 72 hours.
 </p>
 
 <p class="text-center">
-<a href="/visualisation/influencers">Top Influencers</a> &nbsp;&nbsp;&nbsp; <a href="/visualisation/communities">Network Communities</a>  &nbsp;&nbsp;&nbsp; <a href="/visualisation/trends">Live Trends</a>
+<a href="/visualisation/influencers">Pro/Anti Climate Networks</a> &nbsp;&nbsp;&nbsp; <a href="/visualisation/communities">Top COP News</a>  &nbsp;&nbsp;&nbsp; <a href="/visualisation/trends">Trending Topics</a>
 </p>
 
 <div class="controls small">
