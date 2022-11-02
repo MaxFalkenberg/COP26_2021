@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/business/energy/2022/10/31/UAE-ADNOC-Chief-says-world-needs-maximum-energy-minimum-emissions"
-title: "Saudi Arabia, UAE for higher oil output, less emissions days before COP27 talks"
-excerpt: "Saudi Arabia and the United Arab Emirates said the world needs higher oil production on Monday, just days before the COP27 climate summit aimed at curbing"
-image: "https://vid.alarabiya.net/images/2022/10/31/807a2dbc-7c22-46d1-a00f-4f35f1839740/807a2dbc-7c22-46d1-a00f-4f35f1839740_16x9_600x338.JPG"
+publication: "notalotofpeopleknowthat.wordpress.com"
+link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/01/african-countries-to-push-for-more-fossil-fuel-projects-at-cop27/"
+title: "African countries to push for more fossil fuel projects at COP27"
+excerpt: "By Paul Homewood They want our money and fossil fuels:       CAPE TOWN, Oct 4 (Reuters) – African countries will use the COP27 climate talks in Egypt next month to advocate for…"
+image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb.png"
 group: con
 rank: 11
 ---
