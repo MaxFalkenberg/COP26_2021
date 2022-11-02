@@ -21,12 +21,12 @@ Disclaimer: Below are links to most retweeted news articles. The title, excerpt 
 {% assign sorted = site.news | sort: 'rank' %}
 {% for n in sorted %}
   {% if n.group == 'pro' %}
-  <a class="col-1-of-3" href="{{ n.url }}" target="_blank">
+  <a class="col-1-of-3 text-center" href="{{ n.link }}" rel="noopener noreferrer" target="_blank">
   {% if n.image != 'None' %}
     <img src="{{ n.image }}">
     <h3>{{ n.title }}</h3>
     <h5>{{ n.publication }}</h5>
-    <p>{{ n.excerpt }}</p>
+    <p>{{ n.excerpt }} ...</p>
   {% else %}
     <div class="preview-failed">
     <p>Preview failed, click to go directly to the news article.</p>
@@ -42,12 +42,12 @@ Disclaimer: Below are links to most retweeted news articles. The title, excerpt 
 {% assign sorted = site.news | sort: 'rank' %}
 {% for n in sorted %}
   {% if n.group == 'con' %}
-  <a class="col-1-of-3" href="{{ n.url }}" target="_blank">
+  <a class="col-1-of-3 text-center" href="{{ n.link }}" rel="noopener noreferrer" target="_blank">
   {% if n.image != 'None' %}
     <img src="{{ n.image }}">
     <h3>{{ n.title }}</h3>
     <h5>{{ n.publication }}</h5>
-    <p>{{ n.excerpt }}</p>
+    <p>{{ n.excerpt }} ...</p>
   {% else %}
     <div class="preview-failed">
     <p>Preview failed, click to go directly to the news article.</p>

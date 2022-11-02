@@ -1,6 +1,6 @@
 ---
 publication: "zerohedge.com"
-url: "https://www.zerohedge.com/geopolitical/another-stab-back-climate-movement-miffed-after-uks-sunak-snubs-cop27-climate-talks"
+link: "https://www.zerohedge.com/geopolitical/another-stab-back-climate-movement-miffed-after-uks-sunak-snubs-cop27-climate-talks"
 title: ""Another Stab In The Back": Climate Movement Miffed After UK's Sunak Snubs Cop27 Climate Talks"
 excerpt: ""[It’s] very worrying that the UK thought there was anything more serious than climate change..."
 "

@@ -328,7 +328,7 @@ svg tspan {
 }
 
 
-/* news */
+/*#news */
 .col-1-of-3 {
   display: inline-block;
   padding: 20px;
@@ -349,16 +349,20 @@ svg tspan {
 }
 .col-1-of-3 img {
     width: calc(100% - 40px);
+    max-height: 60%;
 }
-.news-pro a, .news-con a {
+#news-pro h3, #news-pro h5, #news-con h3, #news-con h5 {
+    margin: 10px;
+}
+#news-pro a, #news-con a {
 	text-decoration: none;
 }
-.news-pro a:hover, .news-con a:hover {
+#news-pro a:hover, #news-con a:hover {
     background: rgba(0,0,0,0.1);
 }
-.news-pro img, .news-con img {
+#news-pro img, #news-con img {
     filter: blur(10px);
 }
-.news-pro img:hover, .news-con img:hover {
+#news-pro img:hover, #news-con img:hover {
     filter: blur(0);
 }
