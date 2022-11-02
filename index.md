@@ -18,9 +18,7 @@ body_js:
 ---
 
 <p class="text-center">
-The COP retweet network. Change network size using buttons on the left, and switch between COP26 data and live COP27 data.
-</p>
-<p class="text-center">
+The COP retweet network. Change network size using buttons on the left, and switch between COP26 data and live COP27 data.<br/>
 Can you find the climate sceptic minority during COP26? Do they reappear during COP27?
 </p>
 <p class="text-center">
