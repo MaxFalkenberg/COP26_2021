@@ -22,7 +22,7 @@ The COP retweet network. Change network size using buttons on the left, and swit
 Can you find the climate sceptic minority during COP26? Do they reappear during COP27?
 </p>
 <p class="text-center">
-<a href="/visualisation/">EXPLORE OTHER VISUALISATIONS</a>
+<a href="/visualisations">EXPLORE OTHER VISUALISATIONS</a>
 </p>
 
 <div class="controls small">
