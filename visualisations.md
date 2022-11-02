@@ -6,7 +6,7 @@ permalink: /visualisations/
 
 <h3>Retweet networks</h3>
 <div class="flexi flexi-3">
-<div class="center"><a href="/visualisation/retweet_net" ><img src="/assets/img/network_viz.png">  <br/>Full Network</a></div>
+<div class="center"><a href="/"                          ><img src="/assets/img/network_viz.png">  <br/>Full Network</a></div>
 <div class="center"><a href="/visualisation/ideology_net"><img src="/assets/img/network_viz.png">  <br/>Ideology Networks</a></div>
 <div class="center"><a href="/visualisation/user_net"    ><img src="/assets/img/ego_viz.png">      <br/>User Networks</a></div>
 </div>
