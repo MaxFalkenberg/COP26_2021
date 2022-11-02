@@ -32,11 +32,17 @@ Network of publicly visible retweet interactions related to COP26. Zoom out to s
   <div class="col">
     <h2>Majority</h2>
     <div id="graph_pro"></div>
-  </div>
+<p class="text-center">
+DUMMY Majority text
+</p>  
+</div>
   <div class="col">
     <h2>Minority</h2>
     <div id="graph_con"></div>
-  </div>
+<p class="text-center">
+DUMMY Minority text
+</p>   
+</div>
 </div>
 
 <div id="panel" class="hide hide-sm">
