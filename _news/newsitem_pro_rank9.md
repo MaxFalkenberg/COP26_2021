@@ -1,9 +1,9 @@
 ---
-publication: "heraldscotland.com"
-link: "https://www.heraldscotland.com/opinion/23090641.britain-become-nasty-shabby-loser-world-stage/"
-title: "Neil Mackay: Here's why Britain has become a nasty, shabby loser on the world stage"
-excerpt: "WHEN I was young, a strange character haunted my home town. It’s harsh to say, but he was shabby, disliked. He lived in a fancy house outside… "
-image: "https://www.heraldscotland.com/resources/images/16106704/?type=og-image"
+publication: "newscientist.com"
+link: "https://www.newscientist.com/article/2345094-climate-warnings-highlight-the-urgent-need-for-action-ahead-of-cop27/"
+title: "Climate warnings highlight the urgent need for action ahead of COP27"
+excerpt: "As Egypt prepares to host the next UN climate summit, a series of reports illustrate how much further countries must go to avoid catastrophic global warming"
+image: "https://images.newscientist.com/wp-content/uploads/2022/11/01161814/SEI_131710725.jpg"
 group: pro
 rank: 9
 ---
