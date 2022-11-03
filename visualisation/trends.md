@@ -15,6 +15,8 @@ body_js:
 
 ### About this visualisation
 
+To learn more about polarisation during COP, <a href="/research">read our research</a>.
+
 The chart shows the "trending score" for hashtags associated with COP27 from tweets posted in the last 72 hours. All hashtags which appear in the top 5 trending hashtags at any point during the observation window are included on the chart.
 
 The trending score is based on methods inspired by Twitter's trending algorithm. The implementation used was created by Jeff Kolb and Josh Montague and is available <a href="https://github.com/twitterdev/Gnip-Trend-Detection" target="_blank">here</a>. 

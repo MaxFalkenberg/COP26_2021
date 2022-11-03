@@ -57,3 +57,9 @@ head_js:
   {% endif %}
 {% endfor %}
 </div>
+
+### About this visualisation
+
+To learn more about polarisation during COP, <a href="/research">read our research</a>.
+
+News articles are selected by identifying the news urls which attract the largest number of retweets from the last 72 hours. Note, news sources are identified using a news media database with US and UK bias, hence the dominance of this news. Note that news on the "other views" tab may not be reliable and is shown to indicate some of the material shared by climate sceptics during COP27.

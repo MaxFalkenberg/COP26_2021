@@ -24,6 +24,8 @@ Search for a user by typing <a>@username</a> into the search box. Need inspirati
 
 ### About this visualisation
 
+To learn more about polarisation during COP, <a href="/research">read our research</a>.
+
 The network visualises the structure of publicly visible retweet interactions for a single user and their direct connections. Only users with more than 10,000 followers are shown.
 
 Each node corresponds to a Twitter account which tweeted, or retweeted, any tweet containing the term “cop26”. An edge between two nodes indicates that one user retweeted a tweet originally authored by the other user. 

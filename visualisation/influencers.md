@@ -16,6 +16,8 @@ body_js:
 
 ### About this visualisation
 
+To learn more about polarisation during COP, <a href="/research">read our research</a>.
+
 This bubble chart shows the Twitter accounts with the largest influencer score across the last 3 days. The influencer score is measured using the PageRank algorithm, a common method for quantifying user importance in network science. User bubbles are coloured according to their grouping in the retweet network.
 
 This visualisation was created using Javascript D3 and uses the <a href="https://observablehq.com/@d3/bubble-chart?collection=@d3/charts" target="_blank">Bubble chart</a> package.

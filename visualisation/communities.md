@@ -26,6 +26,8 @@ Don't know who to search? Try the <a>I'm feeling lucky</a> button.</p>
 
 ### About this visualisation
 
+To learn more about polarisation during COP, <a href="/research">read our research</a>.
+
 Nested communities of the 500 most influential users in the COP26 retweet network. To explore the visualisation, click on a circle to zoom in on that community. Clicking on a white circle after the visualisation has zoomed will reset the visualisation.
 
 Communities are identified using the Infomap algorithm, an automated process which groups nodes based on how information flows through the directed edges of a network. This process is unsupervised, and groups nodes based on similarities in their interactions in the discussion relating to COP26 only - interactions outside of Twitter, or on Twitter which do not include the term “cop26”, do not impact the community detection algorithm. Note, for privacy and data protection reasons we have not labelled communities.

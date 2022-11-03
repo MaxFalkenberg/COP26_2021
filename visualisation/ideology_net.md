@@ -15,10 +15,6 @@ body_js:
  - "https://platform.twitter.com/widgets.js"
 ---
 
-<p class="text-center">
-Network of publicly visible retweet interactions related to COP26. Zoom out to see full structure and look out for fringe communities.
-</p>
-
 <div class="controls small">
   <br/>
   <div class="hide-sm">
@@ -33,14 +29,14 @@ Network of publicly visible retweet interactions related to COP26. Zoom out to s
     <h2>Pro-climate Majority</h2>
     <div id="graph_pro"></div>
 <p class="text-center">
-This network shows the retweet interactions during COP27 between users who were identified as part of the majority view on climate during COP26.
+COP27 retweets by users from the COP26 pro-climate majority.
 </p>  
 </div>
   <div class="col">
     <h2>Opposed minority</h2>
     <div id="graph_con"></div>
 <p class="text-center">
-This network shows the retweet interactions during COP27 between users who were identified as part of the sceptical minority view on climate during COP26.
+COP27 retweets by users from the COP26 sceptical majority.
 </p>   
 </div>
 </div>
@@ -54,6 +50,8 @@ This network shows the retweet interactions during COP27 between users who were 
 ### About this visualisation
 
 Disclaimer: Minority and Majority groups were identified from COP26 Twitter data using semi-automated methods. These methods are subject to error in some individual cases. To learn more, <a href="/research">read our paper</a> where methods are decribed in detail.
+
+To learn more about polarisation during COP, <a href="/research">read our research</a>.
 
 Each node corresponds to a Twitter account which tweeted, or retweeted, any tweet containing the term “cop26”. An edge between two nodes indicates that one user retweeted a tweet originally authored by the other user. Such a connection is generally considered to indicate the retweeter endorsing, or expressing an interest in, the originally authored tweet’s message (despite the common disclaimer that retweets are not endorsements). Quote tweets are excluded since these are more likely to express a contrasting opinion to the original tweet.
 
