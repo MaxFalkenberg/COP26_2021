@@ -4,7 +4,7 @@ title: About us
 permalink: /about/
 ---
 
-Want to know more? Read our paper here, soon to be published in Nature Climate Change.
+This website is based on work studying Twitter polarisation during COP26. To learn more, <a href="/research">read our paper here</a>, soon to be published in Nature Climate Change.
 
 We are a group of computational social scientists, physicists and climate scientists based in the UK and Italy. Our team is part of the [IRIS Academic Coalition](https://www.irisacademic.org/){:target="_blank"}.
 
