@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/middle-east/2022/11/01/Egypt-invites-Brazil-s-Lula-to-COP27"
-title: "Egypt invites Brazil’s Lula to COP27"
-excerpt: "UN climate summit host Egypt has invited incoming Brazilian President Luiz Inacio Lula da Silva, whose victory over climate-sceptic Jair Bolsonaro has"
-image: "https://vid.alarabiya.net/images/2022/11/01/95753a51-6b23-493d-8463-dcdc2ec139f2/95753a51-6b23-493d-8463-dcdc2ec139f2_16x9_600x338.jpg"
+publication: "benjaminwatchblog.wordpress.com"
+link: "https://benjaminwatchblog.wordpress.com/2022/10/26/the-fallacy-of-going-green-and-africa/"
+title: "The Fallacy of Going Green and Africa"
+excerpt: "Today because of capitalism a system that exploits natural resources to no end has created a world wide environment quandary of sorts. The hegemonic Imperialist west has through history benefited f…"
+image: "https://benjaminwatchblog.files.wordpress.com/2022/10/png_20221026_114729_0000.png?w=1200"
 group: con
 rank: 7
 ---
