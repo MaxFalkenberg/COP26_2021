@@ -1,9 +1,9 @@
 ---
-publication: "washingtontimes.com"
-link: "https://www.washingtontimes.com/news/2022/nov/1/greta-thunberg-boycotts-cop27-climate-summit-calls/"
-title: "Biden in, Greta Thunberg out: Stage set for infighting at U.N. climate summit in Egypt"
-excerpt: "President Biden plans to attend COP27, the annual United Nations climate confab, but he won’t be rubbing elbows with Swedish teen activist Greta Thunberg."
-image: "https://twt-thumbs.washtimes.com/media/image/2022/03/25/climate_protest_12436_c0-337-5208-3375_s1200x700.jpg?0224943f304814b91a4a0802077c18f2f2b87fd6"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/politics/2022/10/28/rishi-sunak-cop27-row-delays-clean-water-targets/"
+title: "Clean water targets delayed amid Rishi Sunak Cop27 row"
+excerpt: "Therese Coffey admits ministers will not meet legal deadline as campaigners warn of 'deeply concerning' delay"
+image: "https://www.telegraph.co.uk/content/dam/politics/2022/10/28/TELEMMGLPICT000314039792_trans_NvBQzQNjv4Bq14gQfIINrKeqI0-l40VDkvWW8nDgsW-netx6Mm3jPdA.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 3
 ---

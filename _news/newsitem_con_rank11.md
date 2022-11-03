@@ -1,9 +1,9 @@
 ---
-publication: "10minsocial.substack.com"
-link: "https://10minsocial.substack.com/p/deleting-your-useless-emails-is-good"
-title: "Deleting your useless emails is good for the planet 🌱"
-excerpt: "The data centers that store your emails consume fossil fuels and generate CO2."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9497ca4c-709b-4274-adc4-a619b3aab64c_1380x1172.jpeg"
+publication: "curatingtomorrow236646048.wordpress.com"
+link: "https://curatingtomorrow236646048.wordpress.com/2022/10/31/measuring-and-reporting-greenhouse-gas-emissions-new-free-guide-for-museums-and-cultural-institutions-in-support-of-cop27/"
+title: "Measuring and reporting greenhouse gas emissions: new free guide for museums and cultural institutions in support of COP27"
+excerpt: "I am very pleased to announce a new guide in the Curating Tomorrow series. This guide has been developed in partnership with Co2Action, a greenhouse gas accounting firm based in Houston. I met Herm…"
+image: "https://curatingtomorrow236646048.files.wordpress.com/2022/10/measuring-emissions-guide-cover-1.jpg"
 group: con
 rank: 11
 ---
