@@ -12,9 +12,8 @@ body_js:
  - "/assets/js/hashtags.js"
 ---
 
-<p class="text-center"> The Green and Red groups represent the two clusters in the retweet network with the greatest structural polarisation. 
-Switch the toggle to see the #Hashtags most associated with each group. 
-Click on a hashtag to see the associated COP26 tweets. </p>
+<p class="text-center"> The Green and Red groups represent the majority and minority groups in the COP26 retweet networks with the greatest  polarisation. 
+Switch the toggle to see the #Hashtags most associated with each group.  </p>
 
 <div class="toggle text-center">
   <span class="green">Green group</span>
@@ -27,7 +26,7 @@ Click on a hashtag to see the associated COP26 tweets. </p>
 
 ### About this visualisation
 
-The 180 hashtags that most often occur in tweets from two ideologically opposed COP26 Twitter communities. The size of a hashtag indicates the prevalence of that hashtag within an ideological group.
+To learn more about polarisation during COP, <a href="/research"></a>The 180 hashtags that most often occur in tweets from two ideologically opposed COP26 Twitter communities. The size of a hashtag indicates the prevalence of that hashtag within an ideological group.
 
 Ideological opposition is detected automatically by applying community detection methods to the retweet network prior to COP26 (data from 01/06/2021 to 20/10/2021), and identifying the communities whose interactions exhibit the clearest separation. Note, for privacy and data protection reasons we do not identify which twitter users fall within each group.
 
