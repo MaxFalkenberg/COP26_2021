@@ -20,6 +20,3 @@ permalink: /visualisations/
 <div class="center"><a href="/visualisation/influencers"><img src="/assets/img/influencer_fig_cropped.png">   <br/>Live Influencers</a></div>
 </div>
 
-### About this visualisation
-
-This work is based on research carried out in the past year on polarisation during COP26. To learn more, <a href="/research">read our paper, our soon in Nature Climate Change</a>.
