@@ -1,9 +1,9 @@
 ---
-publication: "curatingtomorrow236646048.wordpress.com"
-link: "https://curatingtomorrow236646048.wordpress.com/2022/10/31/measuring-and-reporting-greenhouse-gas-emissions-new-free-guide-for-museums-and-cultural-institutions-in-support-of-cop27/"
-title: "Measuring and reporting greenhouse gas emissions: new free guide for museums and cultural institutions in support of COP27"
-excerpt: "I am very pleased to announce a new guide in the Curating Tomorrow series. This guide has been developed in partnership with Co2Action, a greenhouse gas accounting firm based in Houston. I met Herm…"
-image: "https://curatingtomorrow236646048.files.wordpress.com/2022/10/measuring-emissions-guide-cover-1.jpg"
+publication: "susancrowauthor.blogspot.com"
+link: "https://susancrowauthor.blogspot.com/2022/10/october-to-see-world-in-grain-of-sand.html"
+title: "October - 'To see a world in a grain of sand and a heaven in a wild flower, Hold infinity in the palm of your hand and eternity in an hour' - William Blake from 'Auguries of Innocence'"
+excerpt: "Not giant molehills... piles of leaves being transferred to near the hedgehog house! The kitchen is full of the fragrance of ginger and the ..."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxv41bnyie9LFTZivYxqffHuteks5Nwssav8NxJ9RjJVIy8_X7ghItDbyvuFeqNgMdSJcWgIBzmmhfzV39ONf4225GJ9-b1u6mhdr-cXx4vWHI39C528fCNa7Vbc-hauK1XzroTap80yapw5ofU8pTifVmh8Oa-A2gEnYsNrkes504zUdDCjg-evJo/w1200-h630-p-k-no-nu/20221023_162010.jpg"
 group: con
 rank: 11
 ---
