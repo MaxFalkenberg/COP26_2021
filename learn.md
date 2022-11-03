@@ -5,6 +5,8 @@ permalink: /learn/
 
 ![](/assets/graph/COP27-LOGO.png)
 
+During last year's COP26 summit, our team found that polarisation around climate issues grew significantly, relative to previous summits. To learn more, <a href="/research">read our research</a>.
+
 This year's UN Conference of the Parties on Climate Change (COP27) is being hosted in Sharm-el-Sheikh, Egypt, and aims to build on previous summits. In particular, it follows the Paris Agreement, agreed at COP21 in 2015, and the Glasgow Climate Pact, negotiated in 2021 at COP26.
 
 
