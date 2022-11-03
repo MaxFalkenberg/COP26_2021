@@ -7,7 +7,7 @@ head_js:
 ---
 
 
-<p class="text-center">DISCLAIMED: News articles below are extracted automatically from most retweeted COP27 tweets. News may not be from reliable sources.</p>
+<p class="text-center">DISCLAIMER: News articles are extracted automatically and may not be from reliable sources.</p>
 
 <div class="toggle text-center">
   <span class="green">Top news</span>
