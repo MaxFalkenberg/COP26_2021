@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/environment/greta-thunberg-cop27-an-opportunity-greenwashing-lying-cheating-2022-10-30/"
-title: "Greta Thunberg: COP27 an opportunity for 'greenwashing, lying and cheating'"
-excerpt: "Climate activist Greta Thunberg on Sunday called out next month's United Nations climate summit in Egypt for being 'held in a tourist paradise in a country that violates many basic human rights.'"
-image: "https://www.reuters.com/resizer/KRNfmVjT5ZNsUqXbAs9JFkPKE6Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3QXRL3IISFKK5LB2FSEXOJ47HM.jpg"
+publication: "msn.com"
+link: "https://www.msn.com/en-gb/news/world/rishi-sunak-will-attend-cop27-climate-summit-in-first-u-turn-as-pm/ar-AA13EHX6"
+title: "Rishi Sunak will attend Cop27 climate summit in first U-turn as PM"
+excerpt: "Rishi Sunak will attend Cop27 climate summit in first U-turn as PM"
+image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13EAwA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=384&y=132"
 group: pro
 rank: 10
 ---
