@@ -1,9 +1,9 @@
 ---
-publication: "heraldscotland.com"
-link: "https://www.heraldscotland.com/opinion/23090641.britain-become-nasty-shabby-loser-world-stage/"
-title: "Neil Mackay: Here's why Britain has become a nasty, shabby loser on the world stage"
-excerpt: "WHEN I was young, a strange character haunted my home town. It’s harsh to say, but he was shabby, disliked. He lived in a fancy house outside… "
-image: "https://www.heraldscotland.com/resources/images/16106704/?type=og-image"
+publication: "bylinetimes.com"
+link: "https://bylinetimes.com/2022/10/28/rishi-sunak-received-141000-from-energy-interests/"
+title: "REVEALED: Rishi Sunak Received £141,000 from Energy Interests this Year – Byline Times"
+excerpt: "The Conservative Party remains indebted to big money interests in oil, gas and aviation"
+image: "https://bylinetimes.com/wp-content/uploads/2021/11/2H4HRJ9-600x314.jpg"
 group: pro
 rank: 10
 ---
