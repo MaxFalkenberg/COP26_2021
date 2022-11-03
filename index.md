@@ -49,7 +49,7 @@ Can you find the climate sceptic minority during COP26? Do they reappear during 
 
 ### About this visualisation
 
-This work is based on research carried out in the past year on polarisation during COP26. To learn more, <a href="/research"></a>
+This work is based on research carried out in the past year on polarisation during COP26. To learn more, <a href="/research">read our paper, our soon in Nature Climate Change</a>.
 
 Use the buttons on the left to change the size of the visualised network (not available on mobile) or switch between the network of interactions during COP26, or live data for COP27 from the previous 72 hours.
 

@@ -10,7 +10,7 @@ body_js:
     - "/assets/js/communities.js"
 ---
 
-<p class="text-center">Click on each coloured circle to explore community of top influencers during COP26. Click on a yellow circle to zoom out. Use the search bar below to find specific users.</p>
+<p class="text-center">Click on each coloured circle to explore community of top influencers during COP26. Click on a yellow circle to zoom out. </p>
 
 <svg id="circles" class="center"></svg>
 
