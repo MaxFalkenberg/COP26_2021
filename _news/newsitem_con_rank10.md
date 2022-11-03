@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/magazine/un-conference-in-egypt-set-to-kickstart-conversation-on-climate-reparations-62016"
-title: "UN conference in Egypt set to kickstart conversation on climate reparations"
-excerpt: "Negotiators at COP27 will discuss practical solutions to address how historical polluters should pay for poor countries’ irreversible climate-related losses."
-image: "https://cdni0.trtworld.com/w480/h270/q75/142908_asset_15414504__1666877481019.jpeg"
+publication: "breitbart.com"
+link: "https://www.breitbart.com/europe/2022/11/02/rishi-sunak-caves-in-flying-to-cop27-climate-talks-after-all/"
+title: "Rishi Sunak Caves In: Flying to COP27 Climate Talks After All"
+excerpt: "UK Prime Minister Rishi Sunak made a spectacular reverse and announced he will now fly to Egypt for the globalist COP 27 climate talks."
+image: "https://media.breitbart.com/media/2022/11/cop27-for-rishi-sunak-640x335.jpg"
 group: con
 rank: 10
 ---
