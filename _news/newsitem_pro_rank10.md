@@ -1,9 +1,9 @@
 ---
-publication: "bylinetimes.com"
-link: "https://bylinetimes.com/2022/10/28/rishi-sunak-received-141000-from-energy-interests/"
-title: "REVEALED: Rishi Sunak Received £141,000 from Energy Interests this Year – Byline Times"
-excerpt: "The Conservative Party remains indebted to big money interests in oil, gas and aviation"
-image: "https://bylinetimes.com/wp-content/uploads/2021/11/2H4HRJ9-600x314.jpg"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/environment/greta-thunberg-cop27-an-opportunity-greenwashing-lying-cheating-2022-10-30/"
+title: "Greta Thunberg: COP27 an opportunity for 'greenwashing, lying and cheating'"
+excerpt: "Climate activist Greta Thunberg on Sunday called out next month's United Nations climate summit in Egypt for being 'held in a tourist paradise in a country that violates many basic human rights.'"
+image: "https://www.reuters.com/resizer/KRNfmVjT5ZNsUqXbAs9JFkPKE6Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3QXRL3IISFKK5LB2FSEXOJ47HM.jpg"
 group: pro
 rank: 10
 ---

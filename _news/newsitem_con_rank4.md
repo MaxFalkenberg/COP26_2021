@@ -1,9 +1,9 @@
 ---
-publication: "notalotofpeopleknowthat.wordpress.com"
-link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/01/african-countries-to-push-for-more-fossil-fuel-projects-at-cop27/"
-title: "African countries to push for more fossil fuel projects at COP27"
-excerpt: "By Paul Homewood They want our money and fossil fuels:       CAPE TOWN, Oct 4 (Reuters) – African countries will use the COP27 climate talks in Egypt next month to advocate for…"
-image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb.png"
+publication: "africauncensored.substack.com"
+link: "https://africauncensored.substack.com/p/the-road-to-cop27"
+title: "The Road to COP27"
+excerpt: "The Deep Dive 37th Edition."
+image: "https://substackcdn.com/image/youtube/w_728,c_limit/fHqRnz2TIzs"
 group: con
 rank: 4
 ---
