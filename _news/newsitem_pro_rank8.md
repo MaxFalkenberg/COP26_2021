@@ -1,9 +1,9 @@
 ---
-publication: "weforum.org"
-link: "https://www.weforum.org/agenda/2022/11/cop27-alliance-of-ceo-climate-leaders"
-title: "More than 100 CEO Climate Leaders share an open letter for world leaders at COP27"
-excerpt: "The Alliance of CEO Climate Leaders shares an open letter for world leaders, stating they want to work with governments to accelerate the move to net zero"
-image: "https://assets.weforum.org/article/image/responsive_medium_mw5VKIOJj9fSdGadglRegyuc8T10aXbLtY2IXSxWJTs.jpg"
+publication: "newscientist.com"
+link: "https://www.newscientist.com/article/2345094-climate-warnings-highlight-the-urgent-need-for-action-ahead-of-cop27/"
+title: "Climate warnings highlight the urgent need for action ahead of COP27"
+excerpt: "As Egypt prepares to host the next UN climate summit, a series of reports illustrate how much further countries must go to avoid catastrophic global warming"
+image: "https://images.newscientist.com/wp-content/uploads/2022/11/01161814/SEI_131710725.jpg"
 group: pro
 rank: 8
 ---

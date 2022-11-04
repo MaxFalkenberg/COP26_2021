@@ -1,9 +1,9 @@
 ---
-publication: "metro.co.uk"
-link: "https://metro.co.uk/2022/11/02/rishi-sunaks-cop27-u-turn-proves-hes-no-climate-leader-17687650/"
-title: "Rishi Sunak's COP27 U-turn proves he's no climate leader"
-excerpt: "We don't need a Prime Minister flip-flopping on a whim over the climate."
-image: "https://metro.co.uk/wp-content/uploads/2022/10/SEC_131671958-4fd7_1667409646.jpg?quality=90&strip=all&w=1200&h=630&crop=1"
+publication: "msn.com"
+link: "https://www.msn.com/en-gb/news/world/rishi-sunak-will-attend-cop27-climate-summit-in-first-u-turn-as-pm/ar-AA13EHX6"
+title: "Rishi Sunak will attend Cop27 climate summit in first U-turn as PM"
+excerpt: "Rishi Sunak will attend Cop27 climate summit in first U-turn as PM"
+image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13EAwA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=384&y=132"
 group: pro
 rank: 10
 ---

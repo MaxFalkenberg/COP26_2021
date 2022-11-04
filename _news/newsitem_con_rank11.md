@@ -1,9 +1,9 @@
 ---
-publication: "breitbart.com"
-link: "https://www.breitbart.com/europe/2022/11/02/rishi-sunak-caves-in-flying-to-cop27-climate-talks-after-all/"
-title: "Rishi Sunak Caves In: Flying to COP27 Climate Talks After All"
-excerpt: "UK Prime Minister Rishi Sunak made a spectacular reverse and announced he will now fly to Egypt for the globalist COP 27 climate talks."
-image: "https://media.breitbart.com/media/2022/11/cop27-for-rishi-sunak-640x335.jpg"
+publication: "notalotofpeopleknowthat.wordpress.com"
+link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/01/african-countries-to-push-for-more-fossil-fuel-projects-at-cop27/"
+title: "African countries to push for more fossil fuel projects at COP27"
+excerpt: "By Paul Homewood They want our money and fossil fuels:       CAPE TOWN, Oct 4 (Reuters) – African countries will use the COP27 climate talks in Egypt next month to advocate for…"
+image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb.png"
 group: con
 rank: 11
 ---

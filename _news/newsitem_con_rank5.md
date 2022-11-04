@@ -1,9 +1,9 @@
 ---
-publication: "arationalfear.substack.com"
-link: "https://arationalfear.substack.com/p/lions-horses-and-bombers-oh-my"
-title: "Lions, Horses and Bombers. Oh my!"
-excerpt: "🎧 PODCAST GUESTS: Osman Faruqi, Scott Mitchell, Linh Do, Lewis Hobba, Dan Ilic"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F94cf69f0-c171-4bfc-ba3c-8bf60491b4ed_1920x1080.png"
+publication: "cabot-institute.blogspot.com"
+link: "https://cabot-institute.blogspot.com/2022/10/are-you-journalist-looking-for-climate.html"
+title: "Are you a journalist looking for climate experts? We've got you covered"
+excerpt: "The Cabot Institute blog about how we live in a changing and uncertain  world. The University of Bristol's institute for environmental research."
+image: "//2.bp.blogspot.com/-oMI3HwsOa4I/WhVw-h3MXhI/AAAAAAAABgQ/Xo3j7eLufJEzMf0J7SijbFHXdAzR4J_nwCK4BGAYYCw/s109-pf/CaptureBris.PNG"
 group: con
 rank: 5
 ---

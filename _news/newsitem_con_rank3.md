@@ -1,9 +1,9 @@
 ---
-publication: "notalotofpeopleknowthat.wordpress.com"
-link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/01/african-countries-to-push-for-more-fossil-fuel-projects-at-cop27/"
-title: "African countries to push for more fossil fuel projects at COP27"
-excerpt: "By Paul Homewood They want our money and fossil fuels:       CAPE TOWN, Oct 4 (Reuters) – African countries will use the COP27 climate talks in Egypt next month to advocate for…"
-image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb.png"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/middle-east/2022/11/01/Egypt-invites-Brazil-s-Lula-to-COP27"
+title: "Egypt invites Brazil’s Lula to COP27"
+excerpt: "UN climate summit host Egypt has invited incoming Brazilian President Luiz Inacio Lula da Silva, whose victory over climate-sceptic Jair Bolsonaro has"
+image: "https://vid.alarabiya.net/images/2022/11/01/95753a51-6b23-493d-8463-dcdc2ec139f2/95753a51-6b23-493d-8463-dcdc2ec139f2_16x9_600x338.jpg"
 group: con
 rank: 3
 ---
