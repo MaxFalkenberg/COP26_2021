@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/02/greta-thunberg-coca-cola-and-cop27-why-greenwashing-is-overshadowing-the-un-climate-summit-climatecrisis-cop27-demand-climateaction-sdg13-tellthetruth/"
-title: "Greta Thunberg, Coca-Cola and COP27: Why greenwashing is overshadowing the UN climate summit #ClimateCrisis #COP27 demand #ClimateAction #SDG13 #TellTheTruth"
-excerpt: "Coca-Cola is a major sponsor of the climate change-tackling event, despite being labelled as the world’s worst plastic polluter. By Tom Canetti Source: SBS News It’s the summit where wo…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1895.jpg?w=1200"
+publication: "notalotofpeopleknowthat.wordpress.com"
+link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/01/african-countries-to-push-for-more-fossil-fuel-projects-at-cop27/"
+title: "African countries to push for more fossil fuel projects at COP27"
+excerpt: "By Paul Homewood They want our money and fossil fuels:       CAPE TOWN, Oct 4 (Reuters) – African countries will use the COP27 climate talks in Egypt next month to advocate for…"
+image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb.png"
 group: con
 rank: 3
 ---
