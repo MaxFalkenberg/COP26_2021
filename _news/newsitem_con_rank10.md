@@ -1,9 +1,9 @@
 ---
-publication: "ntd.com"
-link: "https://www.ntd.com/ntd-uk-news-full-broadcast-nov-3-2_867114.html"
-title: "NTD UK News Full Broadcast (Nov. 3)"
-excerpt: "The Bank of England has lifted interest rates to 3 percent and warns the UK could be on course ..."
-image: "https://img.ntd.com/assets/uploads/2020/09/Bank-of-England.jpg"
+publication: "tallbloke.wordpress.com"
+link: "https://tallbloke.wordpress.com/2022/11/03/another-kilimanjaro-glacier-prediction-following-earlier-failures/"
+title: "Another Kilimanjaro glacier prediction, following earlier failures"
+excerpt: "Here’s a recent report, posting a video from 2014 saying the glaciers could be gone by 2020. The report itself, headlined ‘Mount Kilimanjaro’s Glaciers Estimated to be Gone by 2030&#821…"
+image: "https://tallbloke.files.wordpress.com/2022/11/kilimanjaro.jpg"
 group: con
 rank: 10
 ---
