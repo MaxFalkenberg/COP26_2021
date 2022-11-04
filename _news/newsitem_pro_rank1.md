@@ -1,9 +1,9 @@
 ---
-publication: "theneweuropean.co.uk"
-link: "https://www.theneweuropean.co.uk/caroline-lucas-were-staring-climate-catastrophe-in-the-face-and-sunak-is-looking-the-other-way/"
-title: "Caroline Lucas: ‘We’re staring climate catastrophe in the face and Sunak is looking the other way’"
-excerpt: "The Green Party MP hits out as the PM dithers over whether to attend COP27, and points to real environmental leadership elsewhere"
-image: "https://www.theneweuropean.co.uk/wp-content/uploads/sites/2/2022/11/GettyImages-1244080666-e1667228202277.jpg"
+publication: "washingtontimes.com"
+link: "https://www.washingtontimes.com/news/2022/nov/1/greta-thunberg-boycotts-cop27-climate-summit-calls/"
+title: "Biden in, Greta Thunberg out: Stage set for infighting at U.N. climate summit in Egypt"
+excerpt: "President Biden plans to attend COP27, the annual United Nations climate confab, but he won’t be rubbing elbows with Swedish teen activist Greta Thunberg."
+image: "https://twt-thumbs.washtimes.com/media/image/2022/03/25/climate_protest_12436_c0-337-5208-3375_s1200x700.jpg?0224943f304814b91a4a0802077c18f2f2b87fd6"
 group: pro
 rank: 1
 ---

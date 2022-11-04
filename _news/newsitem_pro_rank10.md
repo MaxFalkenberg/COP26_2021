@@ -1,9 +1,9 @@
 ---
-publication: "msn.com"
-link: "https://www.msn.com/en-gb/news/world/rishi-sunak-will-attend-cop27-climate-summit-in-first-u-turn-as-pm/ar-AA13EHX6"
-title: "Rishi Sunak will attend Cop27 climate summit in first U-turn as PM"
-excerpt: "Rishi Sunak will attend Cop27 climate summit in first U-turn as PM"
-image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13EAwA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=384&y=132"
+publication: "aljazeera.com"
+link: "https://www.aljazeera.com/news/2022/11/2/cop-27-nobel-prize-winners-demand-egypt-free-political-prisoners"
+title: "COP27: Nobel Prize winners demand Egypt free political prisoners"
+excerpt: "Nobel Literature laureates urge world leaders to pressure Cairo to free dissidents ahead of the COP27 summit."
+image: "https://www.aljazeera.com/wp-content/uploads/2022/11/000_1H029Z.jpg?resize=1920%2C1440"
 group: pro
 rank: 10
 ---
