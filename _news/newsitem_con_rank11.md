@@ -1,9 +1,9 @@
 ---
-publication: "ntd.com"
-link: "https://www.ntd.com/ntd-uk-news-full-broadcast-nov-3-2_867114.html"
-title: "NTD UK News Full Broadcast (Nov. 3)"
-excerpt: "The Bank of England has lifted interest rates to 3 percent and warns the UK could be on course ..."
-image: "https://img.ntd.com/assets/uploads/2020/09/Bank-of-England.jpg"
+publication: "breitbart.com"
+link: "https://www.breitbart.com/europe/2022/11/02/rishi-sunak-caves-in-flying-to-cop27-climate-talks-after-all/"
+title: "Rishi Sunak Caves In: Flying to COP27 Climate Talks After All"
+excerpt: "UK Prime Minister Rishi Sunak made a spectacular reverse and announced he will now fly to Egypt for the globalist COP 27 climate talks."
+image: "https://media.breitbart.com/media/2022/11/cop27-for-rishi-sunak-640x335.jpg"
 group: con
 rank: 11
 ---

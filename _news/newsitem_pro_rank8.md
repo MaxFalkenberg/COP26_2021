@@ -1,9 +1,9 @@
 ---
-publication: "gbnews.uk"
-link: "https://www.gbnews.uk/news/rishi-sunak-confirms-he-will-attend-cop27-after-previously-ruling-himself-out-of-event/382879"
-title: "Rishi Sunak confirms he will attend Cop27 after previously ruling himself out of event"
-excerpt: "Rishi Sunak had previously said he would not be attending the summit in Egypt"
-image: "https://image.gbnews.uk/382179.jpg?imageId=382179&panow=100&panoh=51.034482758621&panox=0&panoy=2.7586206896552&heightw=100&heighth=100&heightx=0&heighty=0&width=1200&height=630"
+publication: "weforum.org"
+link: "https://www.weforum.org/agenda/2022/11/cop27-alliance-of-ceo-climate-leaders"
+title: "More than 100 CEO Climate Leaders share an open letter for world leaders at COP27"
+excerpt: "The Alliance of CEO Climate Leaders shares an open letter for world leaders, stating they want to work with governments to accelerate the move to net zero"
+image: "https://assets.weforum.org/article/image/responsive_medium_mw5VKIOJj9fSdGadglRegyuc8T10aXbLtY2IXSxWJTs.jpg"
 group: pro
 rank: 8
 ---
