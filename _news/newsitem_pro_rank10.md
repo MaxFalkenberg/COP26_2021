@@ -1,9 +1,9 @@
 ---
-publication: "heraldscotland.com"
-link: "https://www.heraldscotland.com/opinion/23090641.britain-become-nasty-shabby-loser-world-stage/"
-title: "Neil Mackay: Here's why Britain has become a nasty, shabby loser on the world stage"
-excerpt: "WHEN I was young, a strange character haunted my home town. It’s harsh to say, but he was shabby, disliked. He lived in a fancy house outside… "
-image: "https://www.heraldscotland.com/resources/images/16106704/?type=og-image"
+publication: "msn.com"
+link: "https://www.msn.com/en-gb/news/world/rishi-sunak-will-attend-cop27-climate-summit-in-first-u-turn-as-pm/ar-AA13EHX6"
+title: "Rishi Sunak will attend Cop27 climate summit in first U-turn as PM"
+excerpt: "Rishi Sunak will attend Cop27 climate summit in first U-turn as PM"
+image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13EAwA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=384&y=132"
 group: pro
 rank: 10
 ---
