@@ -1,9 +1,9 @@
 ---
-publication: "ntd.com"
-link: "https://www.ntd.com/ntd-uk-news-full-broadcast-nov-3-2_867114.html"
-title: "NTD UK News Full Broadcast (Nov. 3)"
-excerpt: "The Bank of England has lifted interest rates to 3 percent and warns the UK could be on course ..."
-image: "https://img.ntd.com/assets/uploads/2020/09/Bank-of-England.jpg"
+publication: "10minsocial.substack.com"
+link: "https://10minsocial.substack.com/p/deleting-your-useless-emails-is-good"
+title: "Deleting your useless emails is good for the planet 🌱"
+excerpt: "The data centers that store your emails consume fossil fuels and generate CO2."
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9497ca4c-709b-4274-adc4-a619b3aab64c_1380x1172.jpeg"
 group: con
 rank: 10
 ---
