@@ -1,9 +1,9 @@
 ---
-publication: "gulfnews.com"
-link: "https://gulfnews.com/opinion/op-eds/cop27-world-cant-defer-its-actions-on-climate-crises-1.91640563"
-title: "COP27: World can’t defer its actions on climate crises"
-excerpt: "Climate change demands a transformative response from the world’s most powerful countries"
-image: "https://imagevars.gulfnews.com/2021/04/25/Climate-change-_179089dd92d_medium.jpg"
+publication: "africauncensored.substack.com"
+link: "https://africauncensored.substack.com/p/the-road-to-cop27"
+title: "The Road to COP27"
+excerpt: "The Deep Dive 37th Edition."
+image: "https://substackcdn.com/image/youtube/w_728,c_limit/fHqRnz2TIzs"
 group: con
 rank: 1
 ---

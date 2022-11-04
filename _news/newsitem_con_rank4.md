@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/02/greta-thunberg-coca-cola-and-cop27-why-greenwashing-is-overshadowing-the-un-climate-summit-climatecrisis-cop27-demand-climateaction-sdg13-tellthetruth/"
-title: "Greta Thunberg, Coca-Cola and COP27: Why greenwashing is overshadowing the UN climate summit #ClimateCrisis #COP27 demand #ClimateAction #SDG13 #TellTheTruth"
-excerpt: "Coca-Cola is a major sponsor of the climate change-tackling event, despite being labelled as the world’s worst plastic polluter. By Tom Canetti Source: SBS News It’s the summit where wo…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1895.jpg?w=1200"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/theborderchronicle/p/finding-a-solution-to-climate-displacement"
+title: "Finding a Solution to Climate Displacement: Time to Divert Border Enforcement Billions into Loss and Damage Finance"
+excerpt: "On the cusp of COP27, it is time to build solidarity with the increasing millions displaced by climate, not more deadly walls."
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F14743734-118b-4edc-8ac0-2721fa3ffcf9_4032x3024.jpeg"
 group: con
 rank: 4
 ---

@@ -1,10 +1,9 @@
 ---
-publication: "zerohedge.com"
-link: "https://www.zerohedge.com/geopolitical/another-stab-back-climate-movement-miffed-after-uks-sunak-snubs-cop27-climate-talks"
-title: "'Another Stab In The Back': Climate Movement Miffed After UK's Sunak Snubs Cop27 Climate Talks"
-excerpt: "'[It’s] very worrying that the UK thought there was anything more serious than climate change...'
-"
-image: "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-10/sunakbrief.PNG?itok=cS-Tz1Ph"
+publication: "gulfnews.com"
+link: "https://gulfnews.com/opinion/op-eds/cop27-world-cant-defer-its-actions-on-climate-crises-1.91640563"
+title: "COP27: World can’t defer its actions on climate crises"
+excerpt: "Climate change demands a transformative response from the world’s most powerful countries"
+image: "https://imagevars.gulfnews.com/2021/04/25/Climate-change-_179089dd92d_medium.jpg"
 group: con
 rank: 0
 ---
