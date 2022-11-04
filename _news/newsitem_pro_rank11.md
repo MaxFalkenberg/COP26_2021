@@ -1,9 +1,9 @@
 ---
-publication: "aljazeera.com"
-link: "https://www.aljazeera.com/news/2022/11/2/cop-27-nobel-prize-winners-demand-egypt-free-political-prisoners"
-title: "COP27: Nobel Prize winners demand Egypt free political prisoners"
-excerpt: "Nobel Literature laureates urge world leaders to pressure Cairo to free dissidents ahead of the COP27 summit."
-image: "https://www.aljazeera.com/wp-content/uploads/2022/11/000_1H029Z.jpg?resize=1920%2C1440"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/politics/2022/11/01/boris-johnson-confirms-will-attend-cop27/"
+title: "Boris Johnson confirms he will attend Cop27"
+excerpt: "The move will add to pressure on Rishi Sunak to attend the global meeting"
+image: "https://www.telegraph.co.uk/content/dam/politics/2022/11/01/TELEMMGLPICT000225163746_trans_NvBQzQNjv4BqTheMekNEFDBENhR4YB_8soBnAPLtS9Qw0qB8C9ewCN8.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 11
 ---
