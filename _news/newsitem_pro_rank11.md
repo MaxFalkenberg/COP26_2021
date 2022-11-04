@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/uk-politics-63478120.amp"
-title: "Boris Johnson confirms he is attending COP27 - BBC News"
-excerpt: "Rishi Sunak is coming under growing pressure to do a U-turn on attending the UN climate summit."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/14CD0/production/_121300258_976a.jpg"
+publication: "pinknews.co.uk"
+link: "https://www.pinknews.co.uk/2020/06/15/sara-hegazy-egypt-lgbt-activist-pride-flag-death-suicide-tribute-mashrou-leila-canada"
+title: "Sara Hegazy, the pioneering Egyptian LGBT+ activist who was tortured for flying a Pride flag, has died by suicide"
+excerpt: "Sara Hegazy, an Egyptian LGBT+ activist who was jailed and tortured for raising a Pride flag at a concert, has tragically died by suicide at the age of 30."
+image: "https://s31242.pcdn.co/wp-content/uploads/2020/06/Screenshot-2020-06-15-at-15.55.58.png"
 group: pro
 rank: 11
 ---
