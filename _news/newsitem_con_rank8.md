@@ -1,9 +1,10 @@
 ---
-publication: "benjaminwatchblog.wordpress.com"
-link: "https://benjaminwatchblog.wordpress.com/2022/10/26/the-fallacy-of-going-green-and-africa/"
-title: "The Fallacy of Going Green and Africa"
-excerpt: "Today because of capitalism a system that exploits natural resources to no end has created a world wide environment quandary of sorts. The hegemonic Imperialist west has through history benefited f…"
-image: "https://benjaminwatchblog.files.wordpress.com/2022/10/png_20221026_114729_0000.png?w=1200"
+publication: "zerohedge.com"
+link: "https://www.zerohedge.com/political/uk-pm-sunak-u-turns-decision-skip-cop27"
+title: "UK PM Sunak U-Turns On Decision To Skip COP27"
+excerpt: "'There is no long-term prosperity without action on climate change... That is why I will attend Cop27 next week' 
+"
+image: "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-11/2022-11-02_14-46-34.png?h=8bd17bcf&itok=Se7ubGTH"
 group: con
 rank: 8
 ---

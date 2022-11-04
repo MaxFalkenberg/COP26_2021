@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/politics/2022/10/28/rishi-sunak-cop27-row-delays-clean-water-targets/"
-title: "Clean water targets delayed amid Rishi Sunak Cop27 row"
-excerpt: "Therese Coffey admits ministers will not meet legal deadline as campaigners warn of 'deeply concerning' delay"
-image: "https://www.telegraph.co.uk/content/dam/politics/2022/10/28/TELEMMGLPICT000314039792_trans_NvBQzQNjv4Bq14gQfIINrKeqI0-l40VDkvWW8nDgsW-netx6Mm3jPdA.jpeg?impolicy=logo-overlay"
+publication: "news.sky.com"
+link: "https://news.sky.com/story/rishi-sunak-to-go-to-cop27-in-egypt-despite-earlier-saying-he-couldnt-go-12736272"
+title: "PM makes 'screeching U-turn' on attending COP27 - and all his campaign pledges are under review"
+excerpt: "Rishi Sunak has said he will attend the COP27 climate summit in Egypt, in what has been branded a 'screeching U-turn'. Then hours later Downing Street admitted all his campaign pledges made in the summer are under review."
+image: "https://e3.365dm.com/22/11/1600x900/skynews-rishi-suna-cop26_5951781.jpg?20221102100806"
 group: pro
 rank: 3
 ---
