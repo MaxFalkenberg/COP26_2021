@@ -1,9 +1,9 @@
 ---
-publication: "harpers.org"
-link: "https://harpers.org/an-open-letter-from-nobel-laureates-on-alaa-abd-el-fattah/"
-title: "An Open Letter from Nobel Laureates on Alaa Abd el-Fattah | Harper's Magazine"
-excerpt: "As the world prepares for the COP27 International Climate Conference in Egypt we, as Nobel laureates, write to urge the world not to forget about the many thousands of political prisoners held in Egyp"
-image: "https://harpers.org/wp-content/uploads/2020/04/harpers-twitter.png"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/news/2022/11/04/cop27s-solutions-tackle-climate-change-insane/"
+title: "Pushing the same old climate policies at COP27 is simply insane"
+excerpt: "After decades of failure to curb emissions, let's accept that capitalist investment is not the problem: it's the solution"
+image: "https://www.telegraph.co.uk/content/dam/news/2022/11/04/TELEMMGLPICT000314877019_trans_NvBQzQNjv4BqNr7buqbkV04AEATLFYLNjAsIcagKWDTsYii0WZbrxoU.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 5
 ---

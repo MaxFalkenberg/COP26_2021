@@ -1,9 +1,9 @@
 ---
-publication: "euronews.com"
-link: "https://www.euronews.com/my-europe/2022/11/03/energy-crisis-eu-heads-to-cop27-as-countries-switch-from-gas-to-coal"
-title: "EU leaders head to COP27 as countries switch from gas to coal"
-excerpt: "The EU intends to urge other countries to 'close the book on unabated coal' and put an end to 'inefficient' fossil fuel subsidises. #EuropeNews"
-image: "https://static.euronews.com/articles/stories/07/17/13/42/1000x563_cmsv2_998bb118-cfb6-5fc6-8624-52e91581f5ca-7171342.jpg"
+publication: "thenational.scot"
+link: "https://www.thenational.scot/news/23102826.nicola-sturgeon-speak-major-new-york-times-cop27-climate-event/"
+title: "Nicola Sturgeon to speak at major New York Times event"
+excerpt: "NICOLA Sturgeon is set to speak at a major New York Times event during COP27 in Egypt next week."
+image: "https://www.thenational.scot/resources/images/16123293/?type=og-image"
 group: pro
 rank: 2
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "channel4.com"
-link: "https://www.channel4.com/news/cop-27-king-charles-hosts-reception-ahead-of-climate-summit"
-title: "COP 27: King Charles hosts reception ahead of climate summit"
-excerpt: "King Charles has hosted a reception in Buckingham Palace to discuss climate change - inviting world leaders, politicians and environmental experts to gather ahead of the COP27 talks which begin in Egy"
-image: "https://fournews-assets-prod-s3-ew1-nmprod.s3.amazonaws.com/media/2022/11/COP27-VT-MCNAMARA-1920x1080.png"
+publication: "thenarwhal.ca"
+link: "https://thenarwhal.ca/coastal-gaslink-wetsuweten-blasting/"
+title: "Tensions rise as Coastal GasLink blasts beside a creek near a Wet’suwet’en camp | The Narwhal"
+excerpt: "Questions and concerns about salmon, steelhead and the health of the river remain unaddressed as TC Energy continues construction of its gas pipeline "
+image: "https://thenarwhal.ca/wp-content/uploads/2022/11/CGL-lamprey-drone-1024x768.jpg"
 group: pro
 rank: 14
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "english.news.cn"
-link: "https://english.news.cn/20221105/00a03f8b1799423eb8f94c01d1a1e286/c.html"
-title: "Red Cross warns of disastrous consequences of climate change ahead of COP27"
-excerpt: "Red Cross warns of disastrous consequences of climate change ahead of COP27-"
-image: "zxcode_2022110500a03f8b1799423eb8f94c01d1a1e286.jpg"
+publication: "chinadaily.com.cn"
+link: "https://www.chinadaily.com.cn/a/202211/04/WS6364d860a3105ca1f22741eb.html"
+title: "Shell and other companies look to carbon capture and storage"
+excerpt: "Shell has signed a memorandum of understanding with China Petrochemical Corp, China Baowu Steel Group Corp and BASF to explore the feasibility of developing an open-source carbon capture, utilization "
+image: "http://img2.chinadaily.com.cn/images/202211/04/6364d860a3105ca157bffc0c.jpeg"
 group: con
 rank: 10
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63516054"
-title: "COP27: King Charles hosts meeting ahead of climate summit"
-excerpt: "The monarch will not be attending the UN climate summit COP27 which starts on Sunday."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/173F6/production/_127522259_cc4a554a4ecaa47c866ff99035b084e1106d4fb30_0_3000_30001000x1000.jpg"
+publication: "harpers.org"
+link: "https://harpers.org/an-open-letter-from-nobel-laureates-on-alaa-abd-el-fattah/"
+title: "An Open Letter from Nobel Laureates on Alaa Abd el-Fattah | Harper's Magazine"
+excerpt: "As the world prepares for the COP27 International Climate Conference in Egypt we, as Nobel laureates, write to urge the world not to forget about the many thousands of political prisoners held in Egyp"
+image: "https://harpers.org/wp-content/uploads/2020/04/harpers-twitter.png"
 group: pro
 rank: 10
 ---

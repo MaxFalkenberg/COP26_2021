@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "https://www.chinadaily.com.cn/a/202211/04/WS6364d860a3105ca1f22741eb.html"
-title: "Shell and other companies look to carbon capture and storage"
-excerpt: "Shell has signed a memorandum of understanding with China Petrochemical Corp, China Baowu Steel Group Corp and BASF to explore the feasibility of developing an open-source carbon capture, utilization "
-image: "http://img2.chinadaily.com.cn/images/202211/04/6364d860a3105ca157bffc0c.jpeg"
+publication: "nateclalanguageissues.wordpress.com"
+link: "https://nateclalanguageissues.wordpress.com/2022/11/04/sustainability-in-esol-a-commitment-to-our-planet-strong/"
+title: "Sustainability in ESOL – A commitment to our planet"
+excerpt: "Carol Samlal Over the last year, I have had the opportunity to deliver several workshops on Sustainability for NATECLA. It is by far the most pressing issue that we need to understand and action. L…"
+image: "https://nateclalanguageissues.files.wordpress.com/2022/11/sustainability-2.png"
 group: con
 rank: 8
 ---

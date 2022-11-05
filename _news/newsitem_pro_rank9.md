@@ -1,9 +1,9 @@
 ---
-publication: "news.sky.com"
-link: "http://news.sky.com/story/rishi-sunak-promises-uk-will-lead-climate-change-fight-after-u-turn-on-attending-cop27-climate-summit-12738333"
-title: "Rishi Sunak promises UK will lead climate change fight - after U-turn on attending COP27 climate summit"
-excerpt: "The prime minister had previously said he was not going to COP27 in Egypt but was forced to go after strong criticism. He has now thrown himself into the commitment by focusing on what needs to be don"
-image: "https://e3.365dm.com/22/11/1600x900/skynews-cop27-king-charles_5954241.jpg?20221104141301"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63516054"
+title: "COP27: King Charles hosts meeting ahead of climate summit"
+excerpt: "The monarch will not be attending the UN climate summit COP27 which starts on Sunday."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/173F6/production/_127522259_cc4a554a4ecaa47c866ff99035b084e1106d4fb30_0_3000_30001000x1000.jpg"
 group: pro
 rank: 9
 ---
