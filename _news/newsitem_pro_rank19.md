@@ -1,9 +1,9 @@
 ---
-publication: "ft.com"
-link: "https://www.ft.com/content/b49f6f7b-eb49-41a3-a0ea-f14a5ab9b404"
-title: "Subscribe to read | Financial Times"
-excerpt: "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
-image: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/default.jpg?v=2"
+publication: "ox.ac.uk"
+link: "https://www.ox.ac.uk/news/2021-08-09-oxford-climate-scientists-no-doubt-about-climate-change"
+title: "Oxford climate scientists: No doubt about climate change. |"
+excerpt: "Leading Oxford climate scientists today insisted there can be no doubt that human-driven climate change is a fact and urgent action is needed, as the IPCC’s report is released showing emissions are"
+image: "https://www.ox.ac.uk/sites/files/oxford/field/field_image_main/shutterstock_717645178%20%281%29.jpg"
 group: pro
 rank: 19
 ---

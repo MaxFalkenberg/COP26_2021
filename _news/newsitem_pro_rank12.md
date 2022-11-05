@@ -1,9 +1,9 @@
 ---
-publication: "thenational.scot"
-link: "https://www.thenational.scot/news/23102826.nicola-sturgeon-speak-major-new-york-times-cop27-climate-event/"
-title: "Nicola Sturgeon to speak at major New York Times event"
-excerpt: "NICOLA Sturgeon is set to speak at a major New York Times event during COP27 in Egypt next week."
-image: "https://www.thenational.scot/resources/images/16123293/?type=og-image"
+publication: "voicesofyouth.org"
+link: "https://www.voicesofyouth.org/blog/heatwaves-disrupt-our-daily-lives"
+title: "Heatwaves disrupt our daily lives"
+excerpt: "My name is Fatima Faraz. I am a 16-year-old climate activist from Peshawar, Pakistan.  "
+image: "https://www.voicesofyouth.org/sites/voy/files/styles/blog_teaser/public/images/2022-10/screen_shot_2022-10-25_at_09.13.19.jpg?h=a40531b4&itok=l73lEcqy"
 group: pro
 rank: 12
 ---

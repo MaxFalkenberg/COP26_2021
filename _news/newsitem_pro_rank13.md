@@ -1,9 +1,9 @@
 ---
-publication: "voicesofyouth.org"
-link: "https://www.voicesofyouth.org/blog/heatwaves-disrupt-our-daily-lives"
-title: "Heatwaves disrupt our daily lives"
-excerpt: "My name is Fatima Faraz. I am a 16-year-old climate activist from Peshawar, Pakistan.  "
-image: "https://www.voicesofyouth.org/sites/voy/files/styles/blog_teaser/public/images/2022-10/screen_shot_2022-10-25_at_09.13.19.jpg?h=a40531b4&itok=l73lEcqy"
+publication: "thetimes.co.uk"
+link: "https://www.thetimes.co.uk/article/government-urged-to-block-first-new-coal-mine-for-30-years-5s906r6d2"
+title: "Government urged to block first new coal mine for 30 years"
+excerpt: "The government must reject plans for the UK’s first new deep coal mine since the 1980s, environmental groups have said after a pivotal decision on the project"
+image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fc0a52fac-5c36-11ed-9b1f-f7c251e9dfdc.jpg?crop=2939%2C1653%2C842%2C263&resize=1200"
 group: pro
 rank: 13
 ---

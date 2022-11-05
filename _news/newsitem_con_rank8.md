@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/camarra/p/nov-4-buonasera-mag"
-title: "Nov 4 Buonasera Mag"
-excerpt: "Day 254: Kharkiv, Donetsk, Kherson, RU military, G7, Netherlands, Pentagon, Greece, Switzerland, SK, COP27, H&M, Xi-Scholz-A&Ps-DefenceUA, Tendar, Avdeeva, Fras, Letterman, Piagnerelli, Warner, WOTR"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFgpCb_BWAAAZgmh.jpg"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/magazine/un-conference-in-egypt-set-to-kickstart-conversation-on-climate-reparations-62016"
+title: "UN conference in Egypt set to kickstart conversation on climate reparations"
+excerpt: "Negotiators at COP27 will discuss practical solutions to address how historical polluters should pay for poor countries’ irreversible climate-related losses."
+image: "https://cdni0.trtworld.com/w480/h270/q75/142908_asset_15414504__1666877481019.jpeg"
 group: con
 rank: 8
 ---
