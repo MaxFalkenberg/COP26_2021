@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/05/cop27-summit-egypt-climate-change/"
-title: "At COP27, flood-battered Pakistan leads push to make polluting countries pay"
-excerpt: "Developing nations have long sought compensation for climate harms. Now, the cost of global warming may be growing too great for rich countries to ignore. "
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HFVOJSI3MUCIR7LN3CWRBDZGEE.JPG&w=1440"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63516055"
+title: "COP27: Climate anxiety is rising - it might be a good thing"
+excerpt: "As another UN summit kicks off, experts say climate anxiety could help solve the problem."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/12E00/production/_127521377_climate_2_cc_index_and_article_image_template_976-ncclimate_change_promo_image_template_976-nc.png"
 group: pro
 rank: 9
 ---

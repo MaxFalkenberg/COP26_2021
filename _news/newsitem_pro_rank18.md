@@ -1,9 +1,9 @@
 ---
-publication: "theconversation.com"
-link: "https://theconversation.com/cop27-five-things-to-expect-from-this-years-un-climate-summit-193671"
-title: "COP27: five things to expect from this year's UN climate summit"
-excerpt: "Stronger pledges, more climate finance, and payments for loss and damage."
-image: "https://images.theconversation.com/files/493509/original/file-20221104-13-8avfhq.jpg?ixlib=rb-1.1.0&rect=8%2C646%2C5982%2C2991&q=45&auto=format&w=1356&h=668&fit=crop"
+publication: "news.sky.com"
+link: "https://news.sky.com/story/rishi-sunak-promises-uk-will-lead-climate-change-fight-after-u-turn-on-attending-cop27-climate-summit-12738333"
+title: "Rishi Sunak promises UK will lead climate change fight - after U-turn on attending COP27 climate summit"
+excerpt: "The prime minister had previously said he was not going to COP27 in Egypt but was forced to go after strong criticism. He has now thrown himself into the commitment by focusing on what needs to be don"
+image: "https://e3.365dm.com/22/11/1600x900/skynews-cop27-king-charles_5954241.jpg?20221104141301"
 group: pro
 rank: 18
 ---

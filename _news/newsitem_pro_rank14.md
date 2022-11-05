@@ -1,9 +1,9 @@
 ---
-publication: "gbnews.uk"
-link: "https://www.gbnews.uk/news/climate-change-will-cause-more-human-suffering-and-ravage-our-planet-without-urgent-action-rishi-sunak-says/383951"
-title: "Climate change will cause 'more human suffering' and 'ravage our planet' without urgent action, Rishi Sunak says"
-excerpt: "The PM spoke at a COP 27 reception hosted by King Charles III"
-image: "https://image.gbnews.uk/383958.jpg?imageId=383958&panow=100&panoh=45.121951219512&panox=0&panoy=0&heightw=100&heighth=100&heightx=0&heighty=0&width=1200&height=630"
+publication: "voicesofyouth.org"
+link: "https://www.voicesofyouth.org/blog/heatwaves-disrupt-our-daily-lives"
+title: "Heatwaves disrupt our daily lives"
+excerpt: "My name is Fatima Faraz. I am a 16-year-old climate activist from Peshawar, Pakistan.  "
+image: "https://www.voicesofyouth.org/sites/voy/files/styles/blog_teaser/public/images/2022-10/screen_shot_2022-10-25_at_09.13.19.jpg?h=a40531b4&itok=l73lEcqy"
 group: pro
 rank: 14
 ---

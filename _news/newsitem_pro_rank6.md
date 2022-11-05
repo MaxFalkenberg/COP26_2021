@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1692577/cheap-electricity-angela-rayner-Putin-Britain-s-energy-policy-Labour-COP27-Rishi-Sunak"
-title: "Net zero isn't a hippy dream it's UK's industrial future ANGELA RAYNER"
-excerpt: "Last week Rishi Sunak said he would snub this month's crunch global climate summit, but this week he's been shamed into yet another U-turn and will now attend COP27 on a day trip rather than leave our"
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4384498.jpg?r=1667653454462"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/05/cop27-summit-egypt-climate-change/"
+title: "At COP27, flood-battered Pakistan leads push to make polluting countries pay"
+excerpt: "Developing nations have long sought compensation for climate harms. Now, the cost of global warming may be growing too great for rich countries to ignore. "
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HFVOJSI3MUCIR7LN3CWRBDZGEE.JPG&w=1440"
 group: pro
 rank: 6
 ---

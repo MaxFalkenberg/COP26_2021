@@ -1,9 +1,9 @@
 ---
-publication: "nateclalanguageissues.wordpress.com"
-link: "https://nateclalanguageissues.wordpress.com/2022/11/04/sustainability-in-esol-a-commitment-to-our-planet-strong/"
-title: "Sustainability in ESOL – A commitment to our planet"
-excerpt: "Carol Samlal Over the last year, I have had the opportunity to deliver several workshops on Sustainability for NATECLA. It is by far the most pressing issue that we need to understand and action. L…"
-image: "https://nateclalanguageissues.files.wordpress.com/2022/11/sustainability-2.png"
+publication: "hodges-model.blogspot.com"
+link: "https://hodges-model.blogspot.com/search"
+title: "Hodges' Model: Welcome to the QUAD"
+excerpt: "A blog on Hodges model, an open generic framework for nursing, health, social care and education, supporting person centred and integrated care."
+image: "https://4.bp.blogspot.com/-gpH6-25jabg/Utq7SPCfbpI/AAAAAAAAEDo/peOJa6HPmFc/s1600/hodgesmodelfig1.png"
 group: con
 rank: 7
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "thenarwhal.ca"
-link: "https://thenarwhal.ca/coastal-gaslink-wetsuweten-blasting/"
-title: "Tensions rise as Coastal GasLink blasts beside a creek near a Wet’suwet’en camp | The Narwhal"
-excerpt: "Questions and concerns about salmon, steelhead and the health of the river remain unaddressed as TC Energy continues construction of its gas pipeline "
-image: "https://thenarwhal.ca/wp-content/uploads/2022/11/CGL-lamprey-drone-1024x768.jpg"
+publication: "nature.com"
+link: "https://www.nature.com/articles/d41586-022-03585-9"
+title: "As COP27 kicks off, Egypt warns wealthy nations against ‘backsliding’"
+excerpt: "Host-country scientists call for more finance for research at the start of United Nations climate summit."
+image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03585-9/d41586-022-03585-9_23675110.jpg"
 group: pro
 rank: 13
 ---
