@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/government-urged-to-block-first-new-coal-mine-for-30-years-5s906r6d2"
-title: "Government urged to block first new coal mine for 30 years"
-excerpt: "The government must reject plans for the UK’s first new deep coal mine since the 1980s, environmental groups have said after a pivotal decision on the project"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fc0a52fac-5c36-11ed-9b1f-f7c251e9dfdc.jpg?crop=2939%2C1653%2C842%2C263&resize=1200"
+publication: "independent.co.uk"
+link: "https://www.independent.co.uk/climate-change/cop27-climate-oil-gas-kerry-b2218302.html"
+title: "Joe Biden’s climate envoy warns UK against North Sea oil and gas expansion"
+excerpt: "New drilling ‘isn’t going to make the difference today, or tomorrow, or in the next month – because it’s just not going to be available’ "
+image: "https://static.independent.co.uk/2022/11/03/14/22130824-035976b8-4e6f-41fc-8bbd-17903eb07ccf.png?quality=75&width=1200&auto=webp"
 group: pro
 rank: 13
 ---

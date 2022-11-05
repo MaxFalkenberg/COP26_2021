@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1692458/climate-change-environment-catastrophe-cop27-alok-sharma"
-title: "'UK not immune to climate crisis - we must act to avoid catastrophe'"
-excerpt: "Last year, during a global pandemic, the world came together for the 26th United Nations Climate Change Conference, COP26. 197 countries signed up to the historic Glasgow Climate Pact. "
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4383976.jpg?r=1667659185425"
+publication: "ox.ac.uk"
+link: "https://www.ox.ac.uk/news/2021-08-09-oxford-climate-scientists-no-doubt-about-climate-change"
+title: "Oxford climate scientists: No doubt about climate change. |"
+excerpt: "Leading Oxford climate scientists today insisted there can be no doubt that human-driven climate change is a fact and urgent action is needed, as the IPCC’s report is released showing emissions are"
+image: "https://www.ox.ac.uk/sites/files/oxford/field/field_image_main/shutterstock_717645178%20%281%29.jpg"
 group: pro
 rank: 15
 ---
