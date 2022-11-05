@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63516055"
-title: "COP27: Climate anxiety is rising - it might be a good thing"
-excerpt: "As another UN summit kicks off, experts say climate anxiety could help solve the problem."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/12E00/production/_127521377_climate_2_cc_index_and_article_image_template_976-ncclimate_change_promo_image_template_976-nc.png"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/cop26-year-later-where-do-last-years-climate-pledges-stand-2022-11-01/"
+title: "Factbox: COP26 a year later: Where do last year's climate pledges stand?"
+excerpt: "A year ago at the U.N. climate talks in Glasgow, Scotland, countries, banks and business leaders announced a slew of climate plans and pledges. Here is an update on how some of the biggest promises ha"
+image: "https://www.reuters.com/resizer/GxtvTJkXNZT5blUVQDRnCi8sn3A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NK2SBUSXTNML7PUMFGIPU7PWN4.jpg"
 group: pro
 rank: 11
 ---

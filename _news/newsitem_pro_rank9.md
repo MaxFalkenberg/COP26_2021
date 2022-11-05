@@ -1,9 +1,9 @@
 ---
-publication: "project-syndicate.org"
-link: "https://www.project-syndicate.org/commentary/entrepreneurial-state-only-solution-to-climate-change-by-mariana-mazzucato-2022-11"
-title: "The Entrepreneurial State Must Lead on Climate Change | by Mariana Mazzucato - Project Syndicate"
-excerpt: "Mariana Mazzucato explains how governments, and only governments, can accelerate the transition to a carbon-neutral economy."
-image: "https://webapi.project-syndicate.org/library/3fcb6ad6cc2e48735661999a977504e1.2-1-super.1.jpg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/05/cop27-summit-egypt-climate-change/"
+title: "At COP27, flood-battered Pakistan leads push to make polluting countries pay"
+excerpt: "Developing nations have long sought compensation for climate harms. Now, the cost of global warming may be growing too great for rich countries to ignore. "
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HFVOJSI3MUCIR7LN3CWRBDZGEE.JPG&w=1440"
 group: pro
 rank: 9
 ---
