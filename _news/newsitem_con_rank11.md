@@ -1,9 +1,9 @@
 ---
-publication: "tallbloke.wordpress.com"
-link: "https://tallbloke.wordpress.com/2022/11/03/another-kilimanjaro-glacier-prediction-following-earlier-failures/"
-title: "Another Kilimanjaro glacier prediction, following earlier failures"
-excerpt: "Here’s a recent report, posting a video from 2014 saying the glaciers could be gone by 2020. The report itself, headlined ‘Mount Kilimanjaro’s Glaciers Estimated to be Gone by 2030&#821…"
-image: "https://tallbloke.files.wordpress.com/2022/11/kilimanjaro.jpg"
+publication: "hodges-model.blogspot.com"
+link: "https://hodges-model.blogspot.com/search"
+title: "Hodges' Model: Welcome to the QUAD"
+excerpt: "A blog on Hodges model, an open generic framework for nursing, health, social care and education, supporting person centred and integrated care."
+image: "https://4.bp.blogspot.com/-gpH6-25jabg/Utq7SPCfbpI/AAAAAAAAEDo/peOJa6HPmFc/s1600/hodgesmodelfig1.png"
 group: con
 rank: 11
 ---
