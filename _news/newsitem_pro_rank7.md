@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/business/2022/11/03/fossil-fuel-cop27-russia/"
-title: "Fossil fuel projects were stalled a year ago. Now they’re making a comeback."
-excerpt: "As world leaders prepare to gather for this year's climate summit, they will have to contend with a surge in new fossil fuel infrastructure prompted by the Russian invasion of Ukraine."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OWKDCAIQMRQZJIDSS4WYU4IWIM.jpg&w=1440"
+publication: "harpers.org"
+link: "https://harpers.org/an-open-letter-from-nobel-laureates-on-alaa-abd-el-fattah/"
+title: "An Open Letter from Nobel Laureates on Alaa Abd el-Fattah | Harper's Magazine"
+excerpt: "As the world prepares for the COP27 International Climate Conference in Egypt we, as Nobel laureates, write to urge the world not to forget about the many thousands of political prisoners held in Egyp"
+image: "https://harpers.org/wp-content/uploads/2020/04/harpers-twitter.png"
 group: pro
 rank: 7
 ---

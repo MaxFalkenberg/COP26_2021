@@ -1,9 +1,9 @@
 ---
-publication: "thestar.com"
-link: "https://www.thestar.com/politics/federal/2022/11/03/justin-trudeau-shows-lack-of-leadership-by-skipping-climate-change-conference-critics-charge.html"
-title: "Justin Trudeau shows ‘lack of leadership’ by skipping climate-change conference, critics charge"
-excerpt: "Prime Minister Justin Trudeau is missing an opportunity to send a strong message about fighting climate change by not attending COP27, this year’s United Nations climate change conference, Green MP El"
-image: "https://images.thestar.com/wokJD-pxLiS8BQztqmm9YqFEmg4=/1200x730/smart/filters:cb(1667565802977):format(webp)/https://www.thestar.com/content/dam/thestar/politics/federal/2022/11/03/justin-trudeau-shows-lack-of-leadership-by-skipping-climate-change-conference-critics-charge/justin_trudeau.jpg"
+publication: "nature.com"
+link: "https://www.nature.com/articles/d41586-022-03585-9"
+title: "As COP27 kicks off, Egypt warns wealthy nations against ‘backsliding’"
+excerpt: "Host-country scientists call for more finance for research at the start of United Nations climate summit."
+image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03585-9/d41586-022-03585-9_23675110.jpg"
 group: pro
 rank: 17
 ---

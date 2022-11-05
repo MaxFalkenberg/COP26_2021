@@ -1,9 +1,9 @@
 ---
-publication: "harpers.org"
-link: "https://harpers.org/an-open-letter-from-nobel-laureates-on-alaa-abd-el-fattah/"
-title: "An Open Letter from Nobel Laureates on Alaa Abd el-Fattah | Harper's Magazine"
-excerpt: "As the world prepares for the COP27 International Climate Conference in Egypt we, as Nobel laureates, write to urge the world not to forget about the many thousands of political prisoners held in Egyp"
-image: "https://harpers.org/wp-content/uploads/2020/04/harpers-twitter.png"
+publication: "project-syndicate.org"
+link: "https://www.project-syndicate.org/commentary/entrepreneurial-state-only-solution-to-climate-change-by-mariana-mazzucato-2022-11"
+title: "The Entrepreneurial State Must Lead on Climate Change | by Mariana Mazzucato - Project Syndicate"
+excerpt: "Mariana Mazzucato explains how governments, and only governments, can accelerate the transition to a carbon-neutral economy."
+image: "https://webapi.project-syndicate.org/library/3fcb6ad6cc2e48735661999a977504e1.2-1-super.1.jpg"
 group: pro
 rank: 9
 ---

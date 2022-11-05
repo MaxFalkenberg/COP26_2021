@@ -1,9 +1,9 @@
 ---
-publication: "weforum.org"
-link: "https://www.weforum.org/agenda/2022/11/cop27-alliance-of-ceo-climate-leaders"
-title: "More than 100 CEO Climate Leaders share an open letter for world leaders at COP27"
-excerpt: "The Alliance of CEO Climate Leaders shares an open letter for world leaders, stating they want to work with governments to accelerate the move to net zero"
-image: "https://assets.weforum.org/article/image/responsive_medium_mw5VKIOJj9fSdGadglRegyuc8T10aXbLtY2IXSxWJTs.jpg"
+publication: "thestar.com"
+link: "https://www.thestar.com/politics/federal/2022/11/03/justin-trudeau-shows-lack-of-leadership-by-skipping-climate-change-conference-critics-charge.html"
+title: "Justin Trudeau shows ‘lack of leadership’ by skipping climate-change conference, critics charge"
+excerpt: "Prime Minister Justin Trudeau is missing an opportunity to send a strong message about fighting climate change by not attending COP27, this year’s United Nations climate change conference, Green MP El"
+image: "https://images.thestar.com/wokJD-pxLiS8BQztqmm9YqFEmg4=/1200x730/smart/filters:cb(1667565802977):format(webp)/https://www.thestar.com/content/dam/thestar/politics/federal/2022/11/03/justin-trudeau-shows-lack-of-leadership-by-skipping-climate-change-conference-critics-charge/justin_trudeau.jpg"
 group: pro
 rank: 16
 ---
