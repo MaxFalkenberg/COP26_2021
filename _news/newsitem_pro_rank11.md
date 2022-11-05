@@ -1,9 +1,9 @@
 ---
-publication: "pinknews.co.uk"
-link: "https://www.pinknews.co.uk/2020/06/15/sara-hegazy-egypt-lgbt-activist-pride-flag-death-suicide-tribute-mashrou-leila-canada"
-title: "Sara Hegazy, the pioneering Egyptian LGBT+ activist who was tortured for flying a Pride flag, has died by suicide"
-excerpt: "Sara Hegazy, an Egyptian LGBT+ activist who was jailed and tortured for raising a Pride flag at a concert, has tragically died by suicide at the age of 30."
-image: "https://s31242.pcdn.co/wp-content/uploads/2020/06/Screenshot-2020-06-15-at-15.55.58.png"
+publication: "euronews.com"
+link: "https://www.euronews.com/my-europe/2022/11/03/energy-crisis-eu-heads-to-cop27-as-countries-switch-from-gas-to-coal"
+title: "EU leaders head to COP27 as countries switch from gas to coal"
+excerpt: "The EU intends to urge other countries to 'close the book on unabated coal' and put an end to 'inefficient' fossil fuel subsidises. #EuropeNews"
+image: "https://static.euronews.com/articles/stories/07/17/13/42/1000x563_cmsv2_998bb118-cfb6-5fc6-8624-52e91581f5ca-7171342.jpg"
 group: pro
 rank: 11
 ---

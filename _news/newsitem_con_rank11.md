@@ -1,9 +1,9 @@
 ---
-publication: "notalotofpeopleknowthat.wordpress.com"
-link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/01/african-countries-to-push-for-more-fossil-fuel-projects-at-cop27/"
-title: "African countries to push for more fossil fuel projects at COP27"
-excerpt: "By Paul Homewood They want our money and fossil fuels:       CAPE TOWN, Oct 4 (Reuters) – African countries will use the COP27 climate talks in Egypt next month to advocate for…"
-image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb.png"
+publication: "tallbloke.wordpress.com"
+link: "https://tallbloke.wordpress.com/2022/11/03/another-kilimanjaro-glacier-prediction-following-earlier-failures/"
+title: "Another Kilimanjaro glacier prediction, following earlier failures"
+excerpt: "Here’s a recent report, posting a video from 2014 saying the glaciers could be gone by 2020. The report itself, headlined ‘Mount Kilimanjaro’s Glaciers Estimated to be Gone by 2030&#821…"
+image: "https://tallbloke.files.wordpress.com/2022/11/kilimanjaro.jpg"
 group: con
 rank: 11
 ---
