@@ -1,9 +1,0 @@
----
-publication: "arationalfear.substack.com"
-link: "https://arationalfear.substack.com/p/lions-horses-and-bombers-oh-my"
-title: "Lions, Horses and Bombers. Oh my!"
-excerpt: "🎧 PODCAST GUESTS: Osman Faruqi, Scott Mitchell, Linh Do, Lewis Hobba, Dan Ilic"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F94cf69f0-c171-4bfc-ba3c-8bf60491b4ed_1920x1080.png"
-group: con
-rank: 2
----
