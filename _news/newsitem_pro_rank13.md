@@ -1,9 +1,9 @@
 ---
-publication: "thenational.scot"
-link: "https://www.thenational.scot/news/23102826.nicola-sturgeon-speak-major-new-york-times-cop27-climate-event/"
-title: "Nicola Sturgeon to speak at major New York Times event"
-excerpt: "NICOLA Sturgeon is set to speak at a major New York Times event during COP27 in Egypt next week."
-image: "https://www.thenational.scot/resources/images/16123293/?type=og-image"
+publication: "ft.com"
+link: "https://www.ft.com/content/b49f6f7b-eb49-41a3-a0ea-f14a5ab9b404"
+title: "Subscribe to read | Financial Times"
+excerpt: "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
+image: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/default.jpg?v=2"
 group: pro
 rank: 13
 ---

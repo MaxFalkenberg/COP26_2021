@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1692458/climate-change-environment-catastrophe-cop27-alok-sharma"
-title: "'UK not immune to climate crisis - we must act to avoid catastrophe'"
-excerpt: "Last year, during a global pandemic, the world came together for the 26th United Nations Climate Change Conference, COP26. 197 countries signed up to the historic Glasgow Climate Pact. "
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4383976.jpg?r=1667659185425"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/world/2022/11/03/alaa-prisoner-egypt-cop27/"
+title: "As Egypt hosts COP27, its most famous political prisoner may die, family warns"
+excerpt: "Alaa Abdel Fattah has been on a partial hunger strike in an Egyptian prison for more than 200 days. On Nov. 6, his family says he will stop drinking water. "
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHGG3TP3UUYAPI2FZ7WN5FNXHU.jpg&w=1440"
 group: pro
 rank: 11
 ---

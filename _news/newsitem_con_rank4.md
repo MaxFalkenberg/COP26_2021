@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/05/cop27-what-you-need-to-know-about-this-years-big-un-climate-conference-climatecrisis-demand-climateaction-sdg13-tellthetruth-auspol/"
-title: "COP27: What you need to know about this year’s big UN Climate Conference #ClimateCrisis demand #ClimateAction #SDG13 #TellTheTruth #auspol"
-excerpt: "The Secretary-General has said COP27 must deliver a “down-payment” on climate solutions that match the scale of the problem, so, will leaders deliver? UNFCCC/Kiara WorthDelegates seated in the…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1883.jpg?w=1200"
+publication: "revkin.substack.com"
+link: "https://revkin.substack.com/p/after-cop26-cheers-and-jeers-some-21-11-15"
+title: "After COP26 Cheers and Jeers, Some Hopeful Climate and Energy Undercurrents"
+excerpt: "Amid cheering and rage as the latest climate talks ended, there are heaps of issues and opportunities to work on in the months and years ahead."
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimport-images%2F05be73bb-cc7b-4bd1-8e4f-bc39a9c4879d%2F0942104348cdb327d9bf697e09a72d7e.jpg"
 group: con
 rank: 4
 ---

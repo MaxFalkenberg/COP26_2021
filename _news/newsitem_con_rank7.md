@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/magazine/un-conference-in-egypt-set-to-kickstart-conversation-on-climate-reparations-62016"
-title: "UN conference in Egypt set to kickstart conversation on climate reparations"
-excerpt: "Negotiators at COP27 will discuss practical solutions to address how historical polluters should pay for poor countries’ irreversible climate-related losses."
-image: "https://cdni0.trtworld.com/w480/h270/q75/142908_asset_15414504__1666877481019.jpeg"
+publication: "woodstockearth.blogspot.com"
+link: "https://woodstockearth.blogspot.com/2020/07/Fracking-our-way-to-oblivion.html"
+title: "Woodstock Earth Blog"
+excerpt: "A blog that addresses issues dealing with human health, the safety of our food supply, and the welfare of Mother Earth."
+image: "https://1.bp.blogspot.com/-sXgkG1lylUs/XxiPQRjLTUI/AAAAAAAAApU/8hOCwTRqmBwkd1s9ZSaN5HvVl_x9ms49ACLcBGAsYHQ/w1200-h630-p-k-no-nu/01.jpg"
 group: con
 rank: 7
 ---

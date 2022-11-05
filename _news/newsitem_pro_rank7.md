@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/world/2022/11/03/alaa-prisoner-egypt-cop27/"
-title: "As Egypt hosts COP27, its most famous political prisoner may die, family warns"
-excerpt: "Alaa Abdel Fattah has been on a partial hunger strike in an Egyptian prison for more than 200 days. On Nov. 6, his family says he will stop drinking water. "
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHGG3TP3UUYAPI2FZ7WN5FNXHU.jpg&w=1440"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63516055"
+title: "COP27: Climate anxiety is rising - it might be a good thing"
+excerpt: "As another UN summit kicks off, experts say climate anxiety could help solve the problem."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/12E00/production/_127521377_climate_2_cc_index_and_article_image_template_976-ncclimate_change_promo_image_template_976-nc.png"
 group: pro
 rank: 7
 ---
