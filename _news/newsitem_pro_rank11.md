@@ -1,9 +1,9 @@
 ---
-publication: "euronews.com"
-link: "https://www.euronews.com/my-europe/2022/11/03/energy-crisis-eu-heads-to-cop27-as-countries-switch-from-gas-to-coal"
-title: "EU leaders head to COP27 as countries switch from gas to coal"
-excerpt: "The EU intends to urge other countries to 'close the book on unabated coal' and put an end to 'inefficient' fossil fuel subsidises. #EuropeNews"
-image: "https://static.euronews.com/articles/stories/07/17/13/42/1000x563_cmsv2_998bb118-cfb6-5fc6-8624-52e91581f5ca-7171342.jpg"
+publication: "newscientist.com"
+link: "https://www.newscientist.com/article/2345094-climate-warnings-highlight-the-urgent-need-for-action-ahead-of-cop27/"
+title: "Climate warnings highlight the urgent need for action ahead of COP27"
+excerpt: "As Egypt prepares to host the next UN climate summit, a series of reports illustrate how much further countries must go to avoid catastrophic global warming"
+image: "https://images.newscientist.com/wp-content/uploads/2022/11/01161814/SEI_131710725.jpg"
 group: pro
 rank: 11
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "aljazeera.com"
-link: "https://www.aljazeera.com/news/2022/11/2/cop-27-nobel-prize-winners-demand-egypt-free-political-prisoners"
-title: "COP27: Nobel Prize winners demand Egypt free political prisoners"
-excerpt: "Nobel Literature laureates urge world leaders to pressure Cairo to free dissidents ahead of the COP27 summit."
-image: "https://www.aljazeera.com/wp-content/uploads/2022/11/000_1H029Z.jpg?resize=1920%2C1440"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/cop26-year-later-where-do-last-years-climate-pledges-stand-2022-11-01/"
+title: "Factbox: COP26 a year later: Where do last year's climate pledges stand?"
+excerpt: "A year ago at the U.N. climate talks in Glasgow, Scotland, countries, banks and business leaders announced a slew of climate plans and pledges. Here is an update on how some of the biggest promises have since progressed."
+image: "https://www.reuters.com/resizer/GxtvTJkXNZT5blUVQDRnCi8sn3A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NK2SBUSXTNML7PUMFGIPU7PWN4.jpg"
 group: pro
 rank: 9
 ---

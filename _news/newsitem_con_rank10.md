@@ -1,9 +1,9 @@
 ---
-publication: "ntd.com"
-link: "https://www.ntd.com/ntd-uk-news-full-broadcast-nov-3-2_867114.html"
-title: "NTD UK News Full Broadcast (Nov. 3)"
-excerpt: "The Bank of England has lifted interest rates to 3 percent and warns the UK could be on course ..."
-image: "https://img.ntd.com/assets/uploads/2020/09/Bank-of-England.jpg"
+publication: "petersweden.substack.com"
+link: "https://petersweden.substack.com/p/wind-turbine-insects"
+title: "Wind turbines killing 1.2 TRILLION insects a year"
+excerpt: "Where are all the vegans and environmentalists?"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7fbdc38-3a02-4530-a9b3-86f3330f3f6f_906x607.png"
 group: con
 rank: 10
 ---
