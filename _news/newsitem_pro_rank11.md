@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/world/2022/11/03/alaa-prisoner-egypt-cop27/"
-title: "As Egypt hosts COP27, its most famous political prisoner may die, family warns"
-excerpt: "Alaa Abdel Fattah has been on a partial hunger strike in an Egyptian prison for more than 200 days. On Nov. 6, his family says he will stop drinking water. "
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHGG3TP3UUYAPI2FZ7WN5FNXHU.jpg&w=1440"
+publication: "nature.com"
+link: "https://www.nature.com/articles/d41586-022-03585-9"
+title: "As COP27 kicks off, Egypt warns wealthy nations against ‘backsliding’"
+excerpt: "Host-country scientists call for more finance for research at the start of United Nations climate summit."
+image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03585-9/d41586-022-03585-9_23675110.jpg"
 group: pro
 rank: 11
 ---

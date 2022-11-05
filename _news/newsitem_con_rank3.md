@@ -1,9 +1,9 @@
 ---
 publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/05/heatwaves-to-impact-almost-every-child-on-earth-by-2050-unicef-report-climatecrisis-demand-climateaction-sdg13-cop27-tellthetruth/"
-title: "Heatwaves to impact almost every child on earth by 2050: UNICEF report #ClimateCrisis demand #ClimateAction #SDG13 #COP27 #TellTheTruth"
-excerpt: "Today, at least half a billion youngsters are already exposed to a high number of heatwaves, placing them on the front lines of climate change, the UN agency noted. By the middle of this century, m…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1955.jpg"
+link: "https://climateactionaustralia.wordpress.com/2022/11/06/cop27-accounts-of-climate-crisis-victims-underscore-urgency-of-action-climatecrisis-demand-climateaction-sdg13-tellthetruth-hyperthreat/"
+title: "COP27: Accounts of climate crisis victims underscore urgency of action #ClimateCrisis demand #ClimateAction #SDG13 #TellTheTruth #Hyperthreat"
+excerpt: "With the latest reports stating that the world is hurtling toward global warming levels of at least 2.5°C, a new briefing by Amnesty International illustrates the devastation that the climate crisi…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1961.jpg"
 group: con
 rank: 3
 ---

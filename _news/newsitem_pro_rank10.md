@@ -1,9 +1,9 @@
 ---
-publication: "nature.com"
-link: "https://www.nature.com/articles/d41586-022-03585-9"
-title: "As COP27 kicks off, Egypt warns wealthy nations against ‘backsliding’"
-excerpt: "Host-country scientists call for more finance for research at the start of United Nations climate summit."
-image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03585-9/d41586-022-03585-9_23675110.jpg"
+publication: "express.co.uk"
+link: "https://www.express.co.uk/comment/expresscomment/1692458/climate-change-environment-catastrophe-cop27-alok-sharma"
+title: "'UK not immune to climate crisis - we must act to avoid catastrophe'"
+excerpt: "Last year, during a global pandemic, the world came together for the 26th United Nations Climate Change Conference, COP26. 197 countries signed up to the historic Glasgow Climate Pact. "
+image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4383976.jpg?r=1667659185425"
 group: pro
 rank: 10
 ---

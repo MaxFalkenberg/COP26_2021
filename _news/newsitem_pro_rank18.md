@@ -1,9 +1,9 @@
 ---
-publication: "cbc.ca"
-link: "https://www.cbc.ca/news/indigenous/vista-mine-cop27-keepers-water-1.6641300"
-title: "Fight against coal mine expansion to be brought to UN climate change conference | CBC News"
-excerpt: "An Indigenous coalition, Keepers of the Water, will be travelling to Egypt to attend COP27 this November to raise awareness of the potential impacts of an Alberta coal mine expansion."
-image: "https://i.cbc.ca/1.5651773.1594905192!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/vista-bighorn-mining.JPG"
+publication: "on.ft.com"
+link: "https://on.ft.com/3WwSZZ2"
+title: "Subscribe to read | Financial Times"
+excerpt: "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
+image: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/default.jpg?v=2"
 group: pro
 rank: 18
 ---

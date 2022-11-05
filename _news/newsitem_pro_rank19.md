@@ -1,9 +1,9 @@
 ---
-publication: "inews.co.uk"
-link: "https://inews.co.uk/opinion/the-pm-performs-his-first-u-turn-but-this-is-his-chance-to-set-out-his-stall-1954819"
-title: "Why boosterish Boris Johnson could upstage low key Rishi Sunak at COP27"
-excerpt: "Rishi Sunak’s foreign policy positions are largely an unknown as he jets off to Egypt for his first big overseas test, writes Katy Balls"
-image: "https://wp.inews.co.uk/wp-content/uploads/2022/11/SEI_132234842.jpg"
+publication: "cbc.ca"
+link: "https://www.cbc.ca/news/indigenous/vista-mine-cop27-keepers-water-1.6641300"
+title: "Fight against coal mine expansion to be brought to UN climate change conference | CBC News"
+excerpt: "An Indigenous coalition, Keepers of the Water, will be travelling to Egypt to attend COP27 this November to raise awareness of the potential impacts of an Alberta coal mine expansion."
+image: "https://i.cbc.ca/1.5651773.1594905192!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/vista-bighorn-mining.JPG"
 group: pro
 rank: 19
 ---
