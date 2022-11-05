@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/business/2022/11/03/fossil-fuel-cop27-russia/"
-title: "Fossil fuel projects were stalled a year ago. Now they’re making a comeback."
-excerpt: "As world leaders prepare to gather for this year's climate summit, they will have to contend with a surge in new fossil fuel infrastructure prompted by the Russian invasion of Ukraine."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OWKDCAIQMRQZJIDSS4WYU4IWIM.jpg&w=1440"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63516055"
+title: "COP27: Climate anxiety is rising - it might be a good thing"
+excerpt: "As another UN summit kicks off, experts say climate anxiety could help solve the problem."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/12E00/production/_127521377_climate_2_cc_index_and_article_image_template_976-ncclimate_change_promo_image_template_976-nc.png"
 group: pro
 rank: 11
 ---

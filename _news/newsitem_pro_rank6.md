@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63516054"
-title: "COP27: King Charles hosts meeting ahead of climate summit"
-excerpt: "The monarch will not be attending the UN climate summit COP27 which starts on Sunday."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/173F6/production/_127522259_cc4a554a4ecaa47c866ff99035b084e1106d4fb30_0_3000_30001000x1000.jpg"
+publication: "express.co.uk"
+link: "https://www.express.co.uk/comment/expresscomment/1692577/cheap-electricity-angela-rayner-Putin-Britain-s-energy-policy-Labour-COP27-Rishi-Sunak"
+title: "Net zero isn't a hippy dream it's UK's industrial future ANGELA RAYNER"
+excerpt: "Last week Rishi Sunak said he would snub this month's crunch global climate summit, but this week he's been shamed into yet another U-turn and will now attend COP27 on a day trip rather than leave our"
+image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4384498.jpg?r=1667653454462"
 group: pro
 rank: 6
 ---

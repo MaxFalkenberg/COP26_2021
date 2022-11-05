@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1692577/cheap-electricity-angela-rayner-Putin-Britain-s-energy-policy-Labour-COP27-Rishi-Sunak"
-title: "Net zero isn't a hippy dream it's UK's industrial future ANGELA RAYNER"
-excerpt: "Last week Rishi Sunak said he would snub this month's crunch global climate summit, but this week he's been shamed into yet another U-turn and will now attend COP27 on a day trip rather than leave our"
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4384498.jpg?r=1667653454462"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/cop26-year-later-where-do-last-years-climate-pledges-stand-2022-11-01/"
+title: "Factbox: COP26 a year later: Where do last year's climate pledges stand?"
+excerpt: "A year ago at the U.N. climate talks in Glasgow, Scotland, countries, banks and business leaders announced a slew of climate plans and pledges. Here is an update on how some of the biggest promises ha"
+image: "https://www.reuters.com/resizer/GxtvTJkXNZT5blUVQDRnCi8sn3A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NK2SBUSXTNML7PUMFGIPU7PWN4.jpg"
 group: pro
 rank: 10
 ---

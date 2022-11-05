@@ -1,9 +1,9 @@
 ---
-publication: "thestar.com"
-link: "https://www.thestar.com/politics/federal/2022/11/03/justin-trudeau-shows-lack-of-leadership-by-skipping-climate-change-conference-critics-charge.html"
-title: "Justin Trudeau shows ‘lack of leadership’ by skipping climate-change conference, critics charge"
-excerpt: "Prime Minister Justin Trudeau is missing an opportunity to send a strong message about fighting climate change by not attending COP27, this year’s United Nations climate change conference, Green MP El"
-image: "https://images.thestar.com/wokJD-pxLiS8BQztqmm9YqFEmg4=/1200x730/smart/filters:cb(1667565802977):format(webp)/https://www.thestar.com/content/dam/thestar/politics/federal/2022/11/03/justin-trudeau-shows-lack-of-leadership-by-skipping-climate-change-conference-critics-charge/justin_trudeau.jpg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/world/2022/11/03/alaa-prisoner-egypt-cop27/"
+title: "As Egypt hosts COP27, its most famous political prisoner may die, family warns"
+excerpt: "Alaa Abdel Fattah has been on a partial hunger strike in an Egyptian prison for more than 200 days. On Nov. 6, his family says he will stop drinking water. "
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHGG3TP3UUYAPI2FZ7WN5FNXHU.jpg&w=1440"
 group: pro
 rank: 16
 ---

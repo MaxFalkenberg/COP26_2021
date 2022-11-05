@@ -1,9 +1,9 @@
 ---
-publication: "londongreenleft.blogspot.com"
-link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
-title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
-excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/05/cop27-what-you-need-to-know-about-this-years-big-un-climate-conference-climatecrisis-demand-climateaction-sdg13-tellthetruth-auspol/"
+title: "COP27: What you need to know about this year’s big UN Climate Conference #ClimateCrisis demand #ClimateAction #SDG13 #TellTheTruth #auspol"
+excerpt: "The Secretary-General has said COP27 must deliver a “down-payment” on climate solutions that match the scale of the problem, so, will leaders deliver? UNFCCC/Kiara WorthDelegates seated in the…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1883.jpg?w=1200"
 group: con
 rank: 4
 ---
