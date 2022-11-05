@@ -1,9 +1,10 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/05/cop27-what-you-need-to-know-about-this-years-big-un-climate-conference-climatecrisis-demand-climateaction-sdg13-tellthetruth-auspol/"
-title: "COP27: What you need to know about this year’s big UN Climate Conference #ClimateCrisis demand #ClimateAction #SDG13 #TellTheTruth #auspol"
-excerpt: "The Secretary-General has said COP27 must deliver a “down-payment” on climate solutions that match the scale of the problem, so, will leaders deliver? UNFCCC/Kiara WorthDelegates seated in the…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1883.jpg?w=1200"
+publication: "zerohedge.com"
+link: "https://www.zerohedge.com/political/uk-pm-sunak-u-turns-decision-skip-cop27"
+title: "UK PM Sunak U-Turns On Decision To Skip COP27"
+excerpt: "'There is no long-term prosperity without action on climate change... That is why I will attend Cop27 next week' 
+"
+image: "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-11/2022-11-02_14-46-34.png?h=8bd17bcf&itok=Se7ubGTH"
 group: con
 rank: 5
 ---
