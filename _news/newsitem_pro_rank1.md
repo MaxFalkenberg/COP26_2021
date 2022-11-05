@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/business/2022/11/03/fossil-fuel-cop27-russia/"
-title: "Fossil fuel projects were stalled a year ago. Now they’re making a comeback."
-excerpt: "As world leaders prepare to gather for this year's climate summit, they will have to contend with a surge in new fossil fuel infrastructure prompted by the Russian invasion of Ukraine."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OWKDCAIQMRQZJIDSS4WYU4IWIM.jpg&w=1440"
+publication: "thenational.scot"
+link: "https://www.thenational.scot/news/23102826.nicola-sturgeon-speak-major-new-york-times-cop27-climate-event/"
+title: "Nicola Sturgeon to speak at major New York Times event"
+excerpt: "NICOLA Sturgeon is set to speak at a major New York Times event during COP27 in Egypt next week."
+image: "https://www.thenational.scot/resources/images/16123293/?type=og-image"
 group: pro
 rank: 1
 ---

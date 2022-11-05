@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/news/2022/11/04/cop27s-solutions-tackle-climate-change-insane/"
-title: "Pushing the same old climate policies at COP27 is simply insane"
-excerpt: "After decades of failure to curb emissions, let's accept that capitalist investment is not the problem: it's the solution"
-image: "https://www.telegraph.co.uk/content/dam/news/2022/11/04/TELEMMGLPICT000314877019_trans_NvBQzQNjv4BqNr7buqbkV04AEATLFYLNjAsIcagKWDTsYii0WZbrxoU.jpeg?impolicy=logo-overlay"
+publication: "newstatesman.com"
+link: "https://www.newstatesman.com/spotlight/energy/2022/11/cop27-reminder-governments-short-memories"
+title: "Cop27 shows us that governments have short memories"
+excerpt: "The UK has failed time after time to live up to the climate pledges it made at Cop26."
+image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1236546537.jpg"
 group: pro
 rank: 5
 ---
