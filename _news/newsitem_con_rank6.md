@@ -1,9 +1,9 @@
 ---
-publication: "hodges-model.blogspot.com"
-link: "https://hodges-model.blogspot.com/search"
-title: "Hodges' Model: Welcome to the QUAD"
-excerpt: "A blog on Hodges model, an open generic framework for nursing, health, social care and education, supporting person centred and integrated care."
-image: "https://4.bp.blogspot.com/-gpH6-25jabg/Utq7SPCfbpI/AAAAAAAAEDo/peOJa6HPmFc/s1600/hodgesmodelfig1.png"
+publication: "petersweden.substack.com"
+link: "https://petersweden.substack.com/p/wind-turbine-insects"
+title: "Wind turbines killing 1.2 TRILLION insects a year"
+excerpt: "Where are all the vegans and environmentalists?"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7fbdc38-3a02-4530-a9b3-86f3330f3f6f_906x607.png"
 group: con
 rank: 6
 ---

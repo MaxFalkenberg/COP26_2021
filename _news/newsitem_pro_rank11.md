@@ -1,9 +1,9 @@
 ---
-publication: "euronews.com"
-link: "https://www.euronews.com/my-europe/2022/11/03/energy-crisis-eu-heads-to-cop27-as-countries-switch-from-gas-to-coal"
-title: "EU leaders head to COP27 as countries switch from gas to coal"
-excerpt: "The EU intends to urge other countries to 'close the book on unabated coal' and put an end to 'inefficient' fossil fuel subsidises. #EuropeNews"
-image: "https://static.euronews.com/articles/stories/07/17/13/42/1000x563_cmsv2_998bb118-cfb6-5fc6-8624-52e91581f5ca-7171342.jpg"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-62892013"
+title: "Switching to renewable energy could save trillions - study"
+excerpt: "New report says falling cost of renewable energy makes switch from fossil fuels cheapest option."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/42C1/production/_126698071_hi068564226.jpg"
 group: pro
 rank: 11
 ---
