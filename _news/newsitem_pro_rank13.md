@@ -1,9 +1,9 @@
 ---
-publication: "nature.com"
-link: "https://www.nature.com/articles/d41586-022-03585-9"
-title: "As COP27 kicks off, Egypt warns wealthy nations against ‘backsliding’"
-excerpt: "Host-country scientists call for more finance for research at the start of United Nations climate summit."
-image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03585-9/d41586-022-03585-9_23675110.jpg"
+publication: "voicesofyouth.org"
+link: "https://www.voicesofyouth.org/blog/heatwaves-disrupt-our-daily-lives"
+title: "Heatwaves disrupt our daily lives"
+excerpt: "My name is Fatima Faraz. I am a 16-year-old climate activist from Peshawar, Pakistan.  "
+image: "https://www.voicesofyouth.org/sites/voy/files/styles/blog_teaser/public/images/2022-10/screen_shot_2022-10-25_at_09.13.19.jpg?h=a40531b4&itok=l73lEcqy"
 group: pro
 rank: 13
 ---

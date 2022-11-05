@@ -1,9 +1,9 @@
 ---
-publication: "newstatesman.com"
-link: "https://www.newstatesman.com/spotlight/energy/2022/11/cop27-reminder-governments-short-memories"
-title: "Cop27 shows us that governments have short memories"
-excerpt: "The UK has failed time after time to live up to the climate pledges it made at Cop26."
-image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1236546537.jpg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/05/cop27-summit-egypt-climate-change/"
+title: "At COP27, flood-battered Pakistan leads push to make polluting countries pay"
+excerpt: "Developing nations have long sought compensation for climate harms. Now, the cost of global warming may be growing too great for rich countries to ignore. "
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HFVOJSI3MUCIR7LN3CWRBDZGEE.JPG&w=1440"
 group: pro
 rank: 5
 ---

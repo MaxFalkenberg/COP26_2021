@@ -1,9 +1,9 @@
 ---
-publication: "gbnews.uk"
-link: "https://www.gbnews.uk/news/climate-change-will-cause-more-human-suffering-and-ravage-our-planet-without-urgent-action-rishi-sunak-says/383951"
-title: "Climate change will cause 'more human suffering' and 'ravage our planet' without urgent action, Rishi Sunak says"
-excerpt: "The PM spoke at a COP 27 reception hosted by King Charles III"
-image: "https://image.gbnews.uk/383958.jpg?imageId=383958&panow=100&panoh=45.121951219512&panox=0&panoy=0&heightw=100&heighth=100&heightx=0&heighty=0&width=1200&height=630"
+publication: "thenational.scot"
+link: "https://www.thenational.scot/news/23102826.nicola-sturgeon-speak-major-new-york-times-cop27-climate-event/"
+title: "Nicola Sturgeon to speak at major New York Times event"
+excerpt: "NICOLA Sturgeon is set to speak at a major New York Times event during COP27 in Egypt next week."
+image: "https://www.thenational.scot/resources/images/16123293/?type=og-image"
 group: pro
 rank: 12
 ---

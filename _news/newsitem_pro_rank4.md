@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1692577/cheap-electricity-angela-rayner-Putin-Britain-s-energy-policy-Labour-COP27-Rishi-Sunak"
-title: "Net zero isn't a hippy dream it's UK's industrial future ANGELA RAYNER"
-excerpt: "Last week Rishi Sunak said he would snub this month's crunch global climate summit, but this week he's been shamed into yet another U-turn and will now attend COP27 on a day trip rather than leave our"
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4384498.jpg?r=1667653454462"
+publication: "newstatesman.com"
+link: "https://www.newstatesman.com/spotlight/energy/2022/11/cop27-reminder-governments-short-memories"
+title: "Cop27 shows us that governments have short memories"
+excerpt: "The UK has failed time after time to live up to the climate pledges it made at Cop26."
+image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1236546537.jpg"
 group: pro
 rank: 4
 ---
