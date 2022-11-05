@@ -1,9 +1,9 @@
 ---
-publication: "breitbart.com"
-link: "https://www.breitbart.com/europe/2022/11/02/rishi-sunak-caves-in-flying-to-cop27-climate-talks-after-all/"
-title: "Rishi Sunak Caves In: Flying to COP27 Climate Talks After All"
-excerpt: "UK Prime Minister Rishi Sunak made a spectacular reverse and announced he will now fly to Egypt for the globalist COP 27 climate talks."
-image: "https://media.breitbart.com/media/2022/11/cop27-for-rishi-sunak-640x335.jpg"
+publication: "chinadaily.com.cn"
+link: "https://www.chinadaily.com.cn/a/202211/04/WS6364d860a3105ca1f22741eb.html"
+title: "Shell and other companies look to carbon capture and storage"
+excerpt: "Shell has signed a memorandum of understanding with China Petrochemical Corp, China Baowu Steel Group Corp and BASF to explore the feasibility of developing an open-source carbon capture, utilization and storage (CCUS) project in the East China region, the company said on Friday."
+image: "http://img2.chinadaily.com.cn/images/202211/04/6364d860a3105ca157bffc0c.jpeg"
 group: con
 rank: 8
 ---

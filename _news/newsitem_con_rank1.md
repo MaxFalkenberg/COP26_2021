@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/theborderchronicle/p/finding-a-solution-to-climate-displacement"
-title: "Finding a Solution to Climate Displacement: Time to Divert Border Enforcement Billions into Loss and Damage Finance"
-excerpt: "On the cusp of COP27, it is time to build solidarity with the increasing millions displaced by climate, not more deadly walls."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F14743734-118b-4edc-8ac0-2721fa3ffcf9_4032x3024.jpeg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/05/cop27-what-you-need-to-know-about-this-years-big-un-climate-conference-climatecrisis-demand-climateaction-sdg13-tellthetruth-auspol/"
+title: "COP27: What you need to know about this year’s big UN Climate Conference #ClimateCrisis demand #ClimateAction #SDG13 #TellTheTruth #auspol"
+excerpt: "The Secretary-General has said COP27 must deliver a “down-payment” on climate solutions that match the scale of the problem, so, will leaders deliver? UNFCCC/Kiara WorthDelegates seated in the…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1883.jpg?w=1200"
 group: con
 rank: 1
 ---

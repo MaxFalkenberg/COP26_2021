@@ -1,9 +1,9 @@
 ---
-publication: "weforum.org"
-link: "https://www.weforum.org/agenda/2022/11/cop27-alliance-of-ceo-climate-leaders"
-title: "More than 100 CEO Climate Leaders share an open letter for world leaders at COP27"
-excerpt: "The Alliance of CEO Climate Leaders shares an open letter for world leaders, stating they want to work with governments to accelerate the move to net zero"
-image: "https://assets.weforum.org/article/image/responsive_medium_mw5VKIOJj9fSdGadglRegyuc8T10aXbLtY2IXSxWJTs.jpg"
+publication: "project-syndicate.org"
+link: "https://www.project-syndicate.org/commentary/entrepreneurial-state-only-solution-to-climate-change-by-mariana-mazzucato-2022-11"
+title: "The Entrepreneurial State Must Lead on Climate Change | by Mariana Mazzucato - Project Syndicate"
+excerpt: "Mariana Mazzucato explains how governments, and only governments, can accelerate the transition to a carbon-neutral economy."
+image: "https://webapi.project-syndicate.org/library/3fcb6ad6cc2e48735661999a977504e1.2-1-super.1.jpg"
 group: pro
 rank: 4
 ---

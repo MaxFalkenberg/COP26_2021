@@ -1,9 +1,9 @@
 ---
-publication: "newscientist.com"
-link: "https://www.newscientist.com/article/2345094-climate-warnings-highlight-the-urgent-need-for-action-ahead-of-cop27/"
-title: "Climate warnings highlight the urgent need for action ahead of COP27"
-excerpt: "As Egypt prepares to host the next UN climate summit, a series of reports illustrate how much further countries must go to avoid catastrophic global warming"
-image: "https://images.newscientist.com/wp-content/uploads/2022/11/01161814/SEI_131710725.jpg"
+publication: "weforum.org"
+link: "https://www.weforum.org/agenda/2022/11/renewable-energy-generation-soars"
+title: "5 charts that show how renewable energy generation has soared"
+excerpt: "The share of renewable energy in the global energy mix is growing rapidly. A new generation of wind, solar and hydro power plants will add to green capacity."
+image: "https://assets.weforum.org/editor/Bct0-KDrE11gqUkdHeH43Zdf17t0E-rjjTZZZtx64Es.png"
 group: pro
 rank: 11
 ---

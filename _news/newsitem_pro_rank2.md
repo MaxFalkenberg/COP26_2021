@@ -1,9 +1,9 @@
 ---
-publication: "mirror.co.uk"
-link: "https://www.mirror.co.uk/news/politics/breaking-rishi-sunak-attend-cop27-28387093"
-title: "Rishi Sunak will attend COP27 climate summit in major U-turn"
-excerpt: "The Prime Minister buckled to Tory pressure and said he would attend the summit - just hours after his rival Boris Johnson confirmed he would go to the talks in Egypt"
-image: "https://i2-prod.mirror.co.uk/incoming/article27420319.ece/ALTERNATES/s510b/0_Russian-invasion-of-Ukraine.jpg"
+publication: "euronews.com"
+link: "https://www.euronews.com/my-europe/2022/11/03/energy-crisis-eu-heads-to-cop27-as-countries-switch-from-gas-to-coal"
+title: "EU leaders head to COP27 as countries switch from gas to coal"
+excerpt: "The EU intends to urge other countries to 'close the book on unabated coal' and put an end to 'inefficient' fossil fuel subsidises. #EuropeNews"
+image: "https://static.euronews.com/articles/stories/07/17/13/42/1000x563_cmsv2_998bb118-cfb6-5fc6-8624-52e91581f5ca-7171342.jpg"
 group: pro
 rank: 2
 ---

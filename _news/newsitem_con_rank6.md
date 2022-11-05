@@ -1,10 +1,9 @@
 ---
-publication: "zerohedge.com"
-link: "https://www.zerohedge.com/political/uk-pm-sunak-u-turns-decision-skip-cop27"
-title: "UK PM Sunak U-Turns On Decision To Skip COP27"
-excerpt: "'There is no long-term prosperity without action on climate change... That is why I will attend Cop27 next week' 
-"
-image: "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-11/2022-11-02_14-46-34.png?h=8bd17bcf&itok=Se7ubGTH"
+publication: "petersweden.substack.com"
+link: "https://petersweden.substack.com/p/wind-turbine-insects"
+title: "Wind turbines killing 1.2 TRILLION insects a year"
+excerpt: "Where are all the vegans and environmentalists?"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7fbdc38-3a02-4530-a9b3-86f3330f3f6f_906x607.png"
 group: con
 rank: 6
 ---

@@ -1,10 +1,9 @@
 ---
-publication: "zerohedge.com"
-link: "https://www.zerohedge.com/political/uk-pm-sunak-u-turns-decision-skip-cop27"
-title: "UK PM Sunak U-Turns On Decision To Skip COP27"
-excerpt: "'There is no long-term prosperity without action on climate change... That is why I will attend Cop27 next week' 
-"
-image: "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-11/2022-11-02_14-46-34.png?h=8bd17bcf&itok=Se7ubGTH"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/05/heatwaves-to-impact-almost-every-child-on-earth-by-2050-unicef-report-climatecrisis-demand-climateaction-sdg13-cop27-tellthetruth/"
+title: "Heatwaves to impact almost every child on earth by 2050: UNICEF report #ClimateCrisis demand #ClimateAction #SDG13 #COP27 #TellTheTruth"
+excerpt: "Today, at least half a billion youngsters are already exposed to a high number of heatwaves, placing them on the front lines of climate change, the UN agency noted. By the middle of this century, m…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1955.jpg"
 group: con
 rank: 5
 ---
