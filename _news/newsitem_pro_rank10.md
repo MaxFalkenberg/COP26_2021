@@ -1,9 +1,9 @@
 ---
-publication: "news.sky.com"
-link: "https://news.sky.com/story/cop27-rishi-sunak-will-not-attend-climate-summit-in-egypt-next-month-number-10-confirms-12731621"
-title: "COP27: Rishi Sunak will not attend climate summit in Egypt next month, Number 10 confirms"
-excerpt: "Earlier this week, while moulding his new ministerial top team, the new PM downgraded Alok Sharma's role so that he will no longer attend cabinet meetings."
-image: "https://e3.365dm.com/22/10/1600x900/skynews-cop27-summit-egypt_5945617.png?20221027190106"
+publication: "channel4.com"
+link: "https://www.channel4.com/news/familys-plea-to-save-british-egyptian-activist-ahead-of-cop27"
+title: "Family’s plea to save British-Egyptian activist ahead of COP27"
+excerpt: "As global leaders descend on Sharm-El-Sheik for COP 27, the family of a British Egyptian activist are appealing to them to speak out as they fear he may die in prison."
+image: "https://fournews-assets-prod-s3-ew1-nmprod.s3.amazonaws.com/media/2022/11/ALAA-FATIMA-MANJI-1920x1080.png"
 group: pro
 rank: 10
 ---

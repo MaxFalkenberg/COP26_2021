@@ -1,9 +1,9 @@
 ---
-publication: "cbc.ca"
-link: "https://www.cbc.ca/radio/asithappens/egypt-cop27-prisoner-hunger-strike-1.6641173"
-title: "This political prisoner will stop drinking water when world leaders arrive in Egypt | CBC Radio"
-excerpt: "Sanaa Seif is scheduled to visit her brother in prison in a week and a half. But she fears that by then, it will already be too late."
-image: "https://i.cbc.ca/1.6641266.1667596353!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/egypt.jpg"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/news/2022/11/04/cop27s-solutions-tackle-climate-change-insane/"
+title: "Pushing the same old climate policies at COP27 is simply insane"
+excerpt: "After decades of failure to curb emissions, let's accept that capitalist investment is not the problem: it's the solution"
+image: "https://www.telegraph.co.uk/content/dam/news/2022/11/04/TELEMMGLPICT000314877019_trans_NvBQzQNjv4BqNr7buqbkV04AEATLFYLNjAsIcagKWDTsYii0WZbrxoU.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 7
 ---

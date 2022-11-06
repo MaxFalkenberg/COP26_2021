@@ -1,9 +1,9 @@
 ---
-publication: "hrw.org"
-link: "https://www.hrw.org/news/2022/11/06/egypt-arrests-curbs-protests-cop27-nears"
-title: "Egypt: Arrests, Curbs on Protests As COP27 Nears"
-excerpt: "Egyptian authorities have arrested dozens of people for calling for protests and restricted the right to protest in the days leading up to the COP27 climate summit, threatening its success."
-image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/07/202207mena_egypt_COP27.jpeg?h=4b5b4458&itok=8qq42DWQ"
+publication: "foreignpolicy.com"
+link: "https://foreignpolicy.com/2022/11/06/climate-cop27-emissions-adaptation-development-energy-africa-developing-countries-global-south/"
+title: "The Obvious Climate Strategy Nobody Will Talk About"
+excerpt: "Economic development is the only proven path to climate resilience."
+image: "https://foreignpolicy.com/wp-content/uploads/2022/11/Central-Africa-Flood-GettyImages-1178775661.jpg?w=1000"
 group: pro
 rank: 16
 ---
