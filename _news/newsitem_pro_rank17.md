@@ -1,11 +1,9 @@
 ---
-publication: "thelancet.com"
-link: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)02182-1/fulltext"
-title: "Climate change, health, and discrimination: action towards racial justice"
-excerpt: "The health impacts of climate change will affect everyone. But the consequences are
-unevenly distributed, falling much harder on some communities than others. Although
-discourse on climate change and "
-image: "https://www.thelancet.com/pb-assets/Lancet/lancet/ogImg-1592317277397.png"
+publication: "independent.co.uk"
+link: "https://www.independent.co.uk/climate-change/cop27-climate-oil-gas-kerry-b2218302.html"
+title: "Joe Biden’s climate envoy warns UK against North Sea oil and gas expansion"
+excerpt: "New drilling ‘isn’t going to make the difference today, or tomorrow, or in the next month – because it’s just not going to be available’ "
+image: "https://static.independent.co.uk/2022/11/03/14/22130824-035976b8-4e6f-41fc-8bbd-17903eb07ccf.png?quality=75&width=1200&auto=webp"
 group: pro
 rank: 17
 ---

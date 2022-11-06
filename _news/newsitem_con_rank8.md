@@ -1,9 +1,9 @@
 ---
-publication: "revkin.substack.com"
-link: "https://revkin.substack.com/p/after-cop26-cheers-and-jeers-some-21-11-15"
-title: "After COP26 Cheers and Jeers, Some Hopeful Climate and Energy Undercurrents"
-excerpt: "Amid cheering and rage as the latest climate talks ended, there are heaps of issues and opportunities to work on in the months and years ahead."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimport-images%2F05be73bb-cc7b-4bd1-8e4f-bc39a9c4879d%2F0942104348cdb327d9bf697e09a72d7e.jpg"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/06/Ten-things-to-watch-out-for-at-COP27-climate-summit-in-Egypt"
+title: "Ten things to watch out for at COP27 climate summit in Egypt"
+excerpt: "The world faces threats from war, an energy crisis, and the risk of a global recession, but climate change is by no means a sleeper issue this year. Deadly"
+image: "https://vid.alarabiya.net/images/2022/11/06/22b4bd1a-51ea-4cc1-b404-081886850046/22b4bd1a-51ea-4cc1-b404-081886850046_16x9_600x338.JPG"
 group: con
 rank: 8
 ---

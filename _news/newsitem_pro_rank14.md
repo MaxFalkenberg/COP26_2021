@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1692458/climate-change-environment-catastrophe-cop27-alok-sharma"
-title: "'UK not immune to climate crisis - we must act to avoid catastrophe'"
-excerpt: "Last year, during a global pandemic, the world came together for the 26th United Nations Climate Change Conference, COP26. 197 countries signed up to the historic Glasgow Climate Pact. "
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4383976.jpg?r=1667659185425"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/uk-63527460"
+title: "COP27: Rishi Sunak urges world to move faster on renewable energy"
+excerpt: "Rishi Sunak faces criticism on climate policy as he travels to the COP27 summit in Egypt on Sunday."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/175E/production/_127528950_242cf9dc0e7c56f57a26de0d5f9874e8058bf21c.jpg"
 group: pro
 rank: 14
 ---

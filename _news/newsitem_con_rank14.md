@@ -1,11 +1,9 @@
 ---
-publication: "davidicke.com"
-link: "https://davidicke.com/2022/11/04/cop27-is-about-a-jet"
-title: "COP27 Is About a Jet-Setting Elite Trying to Make a World of Fewer, Poorer People Who “Live Meagre Lives”, Says Ecologist"
-excerpt: "
-
-Ahead of COP27, the ecologist Dr. Susan Crockford has launched a hard-hitting attack on the World Wildlife Fund (WWF), the World Economic Forum (WEF), King Charles and Sir David Attenborough. The "
-image: "https://davidicke.com/wp-content/uploads/2020/01/CHARLES-PRIVATE-JET-IMAGE.jpg"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/gulf/2022/11/06/UAE-President-Sheikh-Mohamed-bin-Zayed-to-attend-COP27-in-Egypt"
+title: "UAE President Sheikh Mohamed bin Zayed to attend COP27 in Egypt"
+excerpt: "The United Arab Emirates’ President Sheikh Mohamed bin Zayed Al Nahyan will attend the COP27 UN climate conference in Egypt, the official Emirates News"
+image: "https://vid.alarabiya.net/images/2022/11/06/0b45dcd7-a741-407b-bda8-2f2ec9bb6333/0b45dcd7-a741-407b-bda8-2f2ec9bb6333_16x9_600x338.JPG"
 group: con
 rank: 14
 ---

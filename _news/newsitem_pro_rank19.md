@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/africa-namibia-climate-and-environment-717dd68027951a1a496e5f923b3c28e2"
-title: "Ahead of COP27, young African climate activists speak out"
-excerpt: "WINDHOEK, Namibia (AP) — Young climate activists from African nations have high demands but low expectations for the U.N. climate conference which begins Sunday in the Egyptian coastal resort of Sharm"
-image: "https://storage.googleapis.com/afs-prod/media/5d8e4d7c44af4d4eb3863eebab41258e/3000.jpeg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/world/2022/11/03/alaa-prisoner-egypt-cop27/"
+title: "As Egypt hosts COP27, its most famous political prisoner may die, family warns"
+excerpt: "Alaa Abdel Fattah has been on a partial hunger strike in an Egyptian prison for more than 200 days. On Nov. 6, his family says he will stop drinking water. "
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHGG3TP3UUYAPI2FZ7WN5FNXHU.jpg&w=1440"
 group: pro
 rank: 19
 ---

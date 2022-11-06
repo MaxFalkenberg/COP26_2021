@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop26-year-later-where-do-last-years-climate-pledges-stand-2022-11-01/"
-title: "Factbox: COP26 a year later: Where do last year's climate pledges stand?"
-excerpt: "A year ago at the U.N. climate talks in Glasgow, Scotland, countries, banks and business leaders announced a slew of climate plans and pledges. Here is an update on how some of the biggest promises ha"
-image: "https://www.reuters.com/resizer/GxtvTJkXNZT5blUVQDRnCi8sn3A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NK2SBUSXTNML7PUMFGIPU7PWN4.jpg"
+publication: "thetimes.co.uk"
+link: "https://www.thetimes.co.uk/article/4a331244-5d49-11ed-9a48-54549b73e939"
+title: "Alaa Abdel Fattah will die in an Egyptian jail this week unless Rishi Sunak saves him"
+excerpt: "In foreign policy, it’s the unplanned events that make or break a prime minister. Rishi Sunak’s trip to Egypt this week won’t be remembered for the Cop27 clima"
+image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F9edc90b4-5d52-11ed-aecd-3ad6d7298755.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
 group: pro
 rank: 4
 ---
