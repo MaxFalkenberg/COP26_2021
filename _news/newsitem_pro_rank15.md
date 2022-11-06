@@ -1,9 +1,9 @@
 ---
-publication: "hrw.org"
-link: "https://www.hrw.org/news/2022/11/06/egypt-arrests-curbs-protests-cop27-nears"
-title: "Egypt: Arrests, Curbs on Protests As COP27 Nears"
-excerpt: "Egyptian authorities have arrested dozens of people for calling for protests and restricted the right to protest in the days leading up to the COP27 climate summit, threatening its success."
-image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/07/202207mena_egypt_COP27.jpeg?h=4b5b4458&itok=8qq42DWQ"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/05/cop27-summit-egypt-climate-change/"
+title: "At COP27, flood-battered Pakistan leads push to make polluting countries pay"
+excerpt: "Developing nations have long sought compensation for climate harms. Now, the cost of global warming may be growing too great for rich countries to ignore. "
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HFVOJSI3MUCIR7LN3CWRBDZGEE.JPG&w=1440"
 group: pro
 rank: 15
 ---
