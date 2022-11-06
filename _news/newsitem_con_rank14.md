@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/boardroomeducation/p/the-esg-transformation-of-the-insurance"
-title: "The ESG Transformation of the Insurance Industry: How to NetZero Your Business "
-excerpt: "Board of Directors' Guide to the ESG Transition in the Insurance Industry by Yusuf Azizullah GBAC Boardroomeducation.com CEO"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5d13d42-a224-45d3-85d7-6689c200eedb_1920x1080.jpeg"
+publication: "depalan.blogspot.com"
+link: "https://depalan.blogspot.com/2022/11/book-suggestion-drawdown.html"
+title: "Book suggestion: Drawdown"
+excerpt: "  COP27 meeting starts at Sharm El Sheikh Egypt with low expectations and irresponsible ways. Meanwhile as they discuss and haggle this book..."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglo88uCQwnN0D2XvnmUBvMwGE5gtwePPgxkDpQgZg-BGuNspQLezyu5D6oKcXPTIRX3PmMU9zv3SrBEoyzV8qhzAtFI8PBfP1HzlNu5vMf_fw9VMsZVF_sREMGIdkYrdRk88OQEd-QEhqrmhjLlTigpWFQnMqTllbgw9q2bf1-mvqLpK_34A/w1200-h630-p-k-no-nu/IMG20221106125735.jpg"
 group: con
 rank: 14
 ---
