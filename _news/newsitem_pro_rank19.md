@@ -1,11 +1,9 @@
 ---
-publication: "thelancet.com"
-link: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)02182-1/fulltext"
-title: "Climate change, health, and discrimination: action towards racial justice"
-excerpt: "The health impacts of climate change will affect everyone. But the consequences are
-unevenly distributed, falling much harder on some communities than others. Although
-discourse on climate change and "
-image: "https://www.thelancet.com/pb-assets/Lancet/lancet/ogImg-1592317277397.png"
+publication: "apnews.com"
+link: "https://apnews.com/article/africa-namibia-climate-and-environment-717dd68027951a1a496e5f923b3c28e2"
+title: "Ahead of COP27, young African climate activists speak out"
+excerpt: "WINDHOEK, Namibia (AP) — Young climate activists from African nations have high demands but low expectations for the U.N. climate conference which begins Sunday in the Egyptian coastal resort of Sharm"
+image: "https://storage.googleapis.com/afs-prod/media/5d8e4d7c44af4d4eb3863eebab41258e/3000.jpeg"
 group: pro
 rank: 19
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/05/cop27-summit-egypt-climate-change/"
-title: "At COP27, flood-battered Pakistan leads push to make polluting countries pay"
-excerpt: "Developing nations have long sought compensation for climate harms. Now, the cost of global warming may be growing too great for rich countries to ignore. "
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HFVOJSI3MUCIR7LN3CWRBDZGEE.JPG&w=1440"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/cop26-year-later-where-do-last-years-climate-pledges-stand-2022-11-01/"
+title: "Factbox: COP26 a year later: Where do last year's climate pledges stand?"
+excerpt: "A year ago at the U.N. climate talks in Glasgow, Scotland, countries, banks and business leaders announced a slew of climate plans and pledges. Here is an update on how some of the biggest promises ha"
+image: "https://www.reuters.com/resizer/GxtvTJkXNZT5blUVQDRnCi8sn3A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NK2SBUSXTNML7PUMFGIPU7PWN4.jpg"
 group: pro
 rank: 4
 ---

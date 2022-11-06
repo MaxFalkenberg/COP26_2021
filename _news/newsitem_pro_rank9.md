@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1692458/climate-change-environment-catastrophe-cop27-alok-sharma"
-title: "'UK not immune to climate crisis - we must act to avoid catastrophe'"
-excerpt: "Last year, during a global pandemic, the world came together for the 26th United Nations Climate Change Conference, COP26. 197 countries signed up to the historic Glasgow Climate Pact. "
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4383976.jpg?r=1667659185425"
+publication: "news.sky.com"
+link: "https://news.sky.com/story/cop27-rishi-sunak-will-not-attend-climate-summit-in-egypt-next-month-number-10-confirms-12731621"
+title: "COP27: Rishi Sunak will not attend climate summit in Egypt next month, Number 10 confirms"
+excerpt: "Earlier this week, while moulding his new ministerial top team, the new PM downgraded Alok Sharma's role so that he will no longer attend cabinet meetings."
+image: "https://e3.365dm.com/22/10/1600x900/skynews-cop27-summit-egypt_5945617.png?20221027190106"
 group: pro
 rank: 9
 ---

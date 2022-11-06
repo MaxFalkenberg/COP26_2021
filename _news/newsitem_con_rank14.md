@@ -1,9 +1,11 @@
 ---
-publication: "pedromzileni.wordpress.com"
-link: "https://pedromzileni.wordpress.com/2022/11/04/why-south-africa-needs-more-agricultural-colleges/"
-title: "Why South Africa needs more agricultural colleges"
-excerpt: "The UN predicts that by 2050, the population of Africa will increase by 25% and the highest concentration of that rise will be in Southern Africa. This because the continent is overwhelmingly young…"
-image: "https://secure.gravatar.com/blavatar/073f025d0ccb84cff6c93277663f002a?s=200&ts=1667725500"
+publication: "davidicke.com"
+link: "https://davidicke.com/2022/11/04/cop27-is-about-a-jet"
+title: "COP27 Is About a Jet-Setting Elite Trying to Make a World of Fewer, Poorer People Who “Live Meagre Lives”, Says Ecologist"
+excerpt: "
+
+Ahead of COP27, the ecologist Dr. Susan Crockford has launched a hard-hitting attack on the World Wildlife Fund (WWF), the World Economic Forum (WEF), King Charles and Sir David Attenborough. The "
+image: "https://davidicke.com/wp-content/uploads/2020/01/CHARLES-PRIVATE-JET-IMAGE.jpg"
 group: con
 rank: 14
 ---

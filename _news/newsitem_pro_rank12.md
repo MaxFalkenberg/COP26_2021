@@ -1,9 +1,9 @@
 ---
-publication: "news.sky.com"
-link: "https://news.sky.com/story/cop27-rishi-sunak-will-not-attend-climate-summit-in-egypt-next-month-number-10-confirms-12731621"
-title: "COP27: Rishi Sunak will not attend climate summit in Egypt next month, Number 10 confirms"
-excerpt: "Earlier this week, while moulding his new ministerial top team, the new PM downgraded Alok Sharma's role so that he will no longer attend cabinet meetings."
-image: "https://e3.365dm.com/22/10/1600x900/skynews-cop27-summit-egypt_5945617.png?20221027190106"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/06/egypt-arrests-curbs-protests-cop27-nears"
+title: "Egypt: Arrests, Curbs on Protests As COP27 Nears"
+excerpt: "Egyptian authorities have arrested dozens of people for calling for protests and restricted the right to protest in the days leading up to the COP27 climate summit, threatening its success."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/07/202207mena_egypt_COP27.jpeg?h=4b5b4458&itok=8qq42DWQ"
 group: pro
 rank: 12
 ---
