@@ -1,9 +1,9 @@
 ---
-publication: "axios.com"
-link: "https://www.axios.com/2022/11/05/cop27-egypt-sharm-el-sheikh-climate"
-title: "COP27 to kick off Sunday in Egypt: Here's everything you need to know"
-excerpt: "Participants face a sobering reality."
-image: "https://images.axios.com/tjKxyHRfmb1GatmjOADGGYIQClE=/0x0:1920x1080/1366x768/2022/11/04/1667574564317.jpg"
+publication: "newstatesman.com"
+link: "https://newstatesman.com/environment/2022/11/greta-thunberg-cop27-is-a-scam"
+title: "Greta Thunberg on why Cop27 is a 'scam'"
+excerpt: "The activist calls out politicians who use the UN climate process for their own ends."
+image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1169833108.jpg"
 group: pro
 rank: 18
 ---
