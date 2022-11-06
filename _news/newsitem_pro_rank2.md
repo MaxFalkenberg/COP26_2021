@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1692577/cheap-electricity-angela-rayner-Putin-Britain-s-energy-policy-Labour-COP27-Rishi-Sunak"
-title: "Net zero isn't a hippy dream it's UK's industrial future ANGELA RAYNER"
-excerpt: "Last week Rishi Sunak said he would snub this month's crunch global climate summit, but this week he's been shamed into yet another U-turn and will now attend COP27 on a day trip rather than leave our"
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4384498.jpg?r=1667653454462"
+publication: "thetimes.co.uk"
+link: "https://www.thetimes.co.uk/article/4a331244-5d49-11ed-9a48-54549b73e939"
+title: "Alaa Abdel Fattah will die in an Egyptian jail this week unless Rishi Sunak saves him"
+excerpt: "In foreign policy, it’s the unplanned events that make or break a prime minister. Rishi Sunak’s trip to Egypt this week won’t be remembered for the Cop27 clima"
+image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F9edc90b4-5d52-11ed-aecd-3ad6d7298755.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
 group: pro
 rank: 2
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "news.sky.com"
-link: "https://news.sky.com/story/cop27-rishi-sunak-will-not-attend-climate-summit-in-egypt-next-month-number-10-confirms-12731621"
-title: "COP27: Rishi Sunak will not attend climate summit in Egypt next month, Number 10 confirms"
-excerpt: "Earlier this week, while moulding his new ministerial top team, the new PM downgraded Alok Sharma's role so that he will no longer attend cabinet meetings."
-image: "https://e3.365dm.com/22/10/1600x900/skynews-cop27-summit-egypt_5945617.png?20221027190106"
+publication: "politico.com"
+link: "https://www.politico.com/news/2022/11/04/climate-change-solve-cop27-00065263"
+title: "An inconvenient truth: Climate change won't be solved in this desert"
+excerpt: "Leaders will gather in Egypt to discuss action to counter global warming. But events elsewhere in the world are pushing in the opposite direction."
+image: "https://static.politico.com/6f/23/961dabe04c51ba0ef6a7cdad8f21/aptopix-egypt-cop27-climate-summit-59066.jpg"
 group: pro
 rank: 10
 ---
