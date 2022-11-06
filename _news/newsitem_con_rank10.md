@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-06/COP27-UN-climate-conference-opens-in-Sharm-El-Sheikh-Egypt-1eJTwV094MU/index.html"
-title: "COP27: UN climate conference opens in Sharm El-Sheikh, Egypt"
-excerpt: "The 27th Conference of the Parties of the United Nations Framework Convention on Climate Change (COP27) opened in the coastal Egyptian city of Sharm El-Sheikh on Sunday.(Cover: Signage promoting this "
-image: "https://news.cgtn.com/news/2022-11-06/COP27-UN-climate-conference-opens-in-Sharm-El-Sheikh-Egypt-1eJTwV094MU/img/1bc498fafb05487f975d9977c00038bd/1bc498fafb05487f975d9977c00038bd-750.png"
+publication: "newsmax.com"
+link: "https://www.newsmax.com/newsfront/COP27/2022/11/06/id/1095062/"
+title: "World in Crisis a Grim Backdrop for UN Climate Talks"
+excerpt: "Envoys from around the globe gathered Sunday in the Egyptian seaside resort of Sharm el-Sheikh for talks on tackling climate change amid a multitude of competing crises, including the war in Ukraine, "
+image: "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=8a6e1792-a849-4637-bca4-388beaee9332&SiteName=Newsmax"
 group: con
 rank: 10
 ---

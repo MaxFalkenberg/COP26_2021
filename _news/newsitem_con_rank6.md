@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/06/review-an-inconvenient-apocalypse-by-wes-jackson-and-robert-jensen-ecologicalcrisis-climatecrisis-economiccrisis-cop27-tellthetruth-limitstogrowth/"
-title: "Review: An Inconvenient Apocalypse by Wes Jackson and Robert Jensen #EcologicalCrisis #ClimateCrisis #EconomicCrisis #COP27 #TellTheTruth #LimitsToGrowth"
-excerpt: "By Frank Kaminski An Inconvenient Apocalypse: Environmental Collapse, Climate Crisis, and the Fate of HumanityBy Wes Jackson and Robert Jensen184 pp. University of Notre Dame Press, Sept. 2022. $24…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/09/img_1613.jpg"
+publication: "gulfnews.com"
+link: "https://gulfnews.com/opinion/op-eds/cop27-world-cant-defer-its-actions-on-climate-crises-1.91640563"
+title: "COP27: World can’t defer its actions on climate crises"
+excerpt: "Climate change demands a transformative response from the world’s most powerful countries"
+image: "https://imagevars.gulfnews.com/2021/04/25/Climate-change-_179089dd92d_medium.jpg"
 group: con
 rank: 6
 ---

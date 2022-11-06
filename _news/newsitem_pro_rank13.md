@@ -1,9 +1,9 @@
 ---
-publication: "ft.com"
-link: "https://www.ft.com/content/773679fd-6674-4a3b-9348-771b10919382"
-title: "Subscribe to read | Financial Times"
-excerpt: "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
-image: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/default.jpg?v=2"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63517078"
+title: "COP27: 'Climate chaos' warning as UN summit begins"
+excerpt: "Egypt urges nations to turn pledges into action as the UN climate conference opens."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/A3D7/production/_127534914_7c8393641ba3745c95db58367a506d7d8b7fa8f80_378_3632_20433632x2043.jpg"
 group: pro
 rank: 13
 ---

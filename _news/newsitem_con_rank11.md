@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/features/2022/11/06/UAE-delegation-to-COP27-in-Egypt-has-strong-diverse-representation"
-title: "UAE delegation to COP27 in Egypt has strong, diverse representation"
-excerpt: "The UAE is participating in the 27th Conference of the Parties to the United Nations Framework Convention on Climate Change (COP27), being held in Sharm el"
-image: "https://vid.alarabiya.net/images/2022/06/07/75c224ee-708b-4dac-aa19-62061e7fd5ac/75c224ee-708b-4dac-aa19-62061e7fd5ac_16x9_600x338.PNG"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/06/cop27-accounts-of-climate-crisis-victims-underscore-urgency-of-action-climatecrisis-demand-climateaction-sdg13-tellthetruth-hyperthreat/"
+title: "COP27: Accounts of climate crisis victims underscore urgency of action #ClimateCrisis demand #ClimateAction #SDG13 #TellTheTruth #Hyperthreat"
+excerpt: "With the latest reports stating that the world is hurtling toward global warming levels of at least 2.5°C, a new briefing by Amnesty International illustrates the devastation that the climate crisi…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1961.jpg"
 group: con
 rank: 11
 ---
