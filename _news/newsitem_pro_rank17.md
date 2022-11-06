@@ -1,9 +1,9 @@
 ---
-publication: "cbc.ca"
-link: "https://www.cbc.ca/news/indigenous/vista-mine-cop27-keepers-water-1.6641300"
-title: "Fight against coal mine expansion to be brought to UN climate change conference | CBC News"
-excerpt: "An Indigenous coalition, Keepers of the Water, will be travelling to Egypt to attend COP27 this November to raise awareness of the potential impacts of an Alberta coal mine expansion."
-image: "https://i.cbc.ca/1.5651773.1594905192!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/vista-bighorn-mining.JPG"
+publication: "newstatesman.com"
+link: "https://newstatesman.com/environment/2022/11/greta-thunberg-cop27-is-a-scam"
+title: "Greta Thunberg on why Cop27 is a 'scam'"
+excerpt: "The activist calls out politicians who use the UN climate process for their own ends."
+image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1169833108.jpg"
 group: pro
 rank: 17
 ---

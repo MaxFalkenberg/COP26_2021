@@ -1,9 +1,9 @@
 ---
-publication: "harpers.org"
-link: "https://harpers.org/an-open-letter-from-nobel-laureates-on-alaa-abd-el-fattah/"
-title: "An Open Letter from Nobel Laureates on Alaa Abd el-Fattah | Harper's Magazine"
-excerpt: "As the world prepares for the COP27 International Climate Conference in Egypt we, as Nobel laureates, write to urge the world not to forget about the many thousands of political prisoners held in Egyp"
-image: "https://harpers.org/wp-content/uploads/2020/04/harpers-twitter.png"
+publication: "axios.com"
+link: "https://www.axios.com/2022/11/05/cop27-egypt-sharm-el-sheikh-climate"
+title: "COP27 to kick off Sunday in Egypt: Here's everything you need to know"
+excerpt: "Participants face a sobering reality."
+image: "https://images.axios.com/tjKxyHRfmb1GatmjOADGGYIQClE=/0x0:1920x1080/1366x768/2022/11/04/1667574564317.jpg"
 group: pro
 rank: 19
 ---

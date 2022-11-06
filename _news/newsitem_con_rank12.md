@@ -1,9 +1,9 @@
 ---
-publication: "arabnews.com"
-link: "https://www.arabnews.com/node/2194356"
-title: "How Egypt, host of UN Climate Change Conference COP27, is spurring a domestic ‘green economy’"
-excerpt: "CAIRO: When the Red Sea resort town of Sharm El-Sheikh hosts the COP27 UN Climate Change Conference between Nov. 6 and Nov. 18, the Egyption government will use the occasion to promote its National In"
-image: "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2022/11/06/3526906-1412808358.jpg?itok=LwD3o___"
+publication: "ussanews.com"
+link: "https://ussanews.com/2022/11/04/on-sunday-november-13th-get-ready-for-the-chrislam-climate-repentance-ceremony-on-mount-sinai-in-egypt-as-the-united-nations-holds-cop27/"
+title: "On Sunday November 13th, Get Ready For The Chrislam ‘Climate Repentance Ceremony’ On Mount Sinai In Egypt As The United Nations Holds COP27"
+excerpt: "We come to Sinai in a movement of repentance and quest bring to together leaders from the world’s major religions to put forth a prophetic interreligious call to action with ‘Climate Justice: Ten Univ"
+image: "https://ussanews.com/wp-content/uploads/2022/11/king-james-bible-commentaries-dispensational-truth-600x525.jpg"
 group: con
 rank: 12
 ---
