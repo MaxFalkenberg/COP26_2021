@@ -1,11 +1,9 @@
 ---
-publication: "davidicke.com"
-link: "https://davidicke.com/2022/11/04/cop27-is-about-a-jet"
-title: "COP27 Is About a Jet-Setting Elite Trying to Make a World of Fewer, Poorer People Who “Live Meagre Lives”, Says Ecologist"
-excerpt: "
-
-Ahead of COP27, the ecologist Dr. Susan Crockford has launched a hard-hitting attack on the World Wildlife Fund (WWF), the World Economic Forum (WEF), King Charles and Sir David Attenborough. The "
-image: "https://davidicke.com/wp-content/uploads/2020/01/CHARLES-PRIVATE-JET-IMAGE.jpg"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/magazine/un-conference-in-egypt-set-to-kickstart-conversation-on-climate-reparations-62016"
+title: "UN conference in Egypt set to kickstart conversation on climate reparations"
+excerpt: "Negotiators at COP27 will discuss practical solutions to address how historical polluters should pay for poor countries’ irreversible climate-related losses."
+image: "https://cdni0.trtworld.com/w480/h270/q75/142908_asset_15414504__1666877481019.jpeg"
 group: con
 rank: 6
 ---

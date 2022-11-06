@@ -1,9 +1,9 @@
 ---
-publication: "randomdumber.blogspot.com"
-link: "https://randomdumber.blogspot.com/2022/10/climate-crisis-things-we-need-from.html"
-title: "Climate Crisis: The things we need from COP27 are the things we probably won't get"
-excerpt: "COP26 wasn't a disaster from an outcomes point of view, but it was a massive failure when measured against the outcomes necessary to put the..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5znEXd5uLVRm2VE11aqFhHk9tZVEsW2cTcSeRJSm9s0qkLH8yEH-p9YaZ5waJhkRAG0vdBe4HDflsKvFSE6lhivJ02-whFlqh36LnYod3y9Obig5Se9X2Nu3blyzzWbRwal5MBvhTsbeoMnBZXRCcO-CWVLYgJ15-IJ2ExlRLw0jWR1YqFaWTMC_I/w1200-h630-p-k-no-nu/COP%2027.gif"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/boardroomeducation/p/the-esg-transformation-of-the-insurance"
+title: "The ESG Transformation of the Insurance Industry: How to NetZero Your Business "
+excerpt: "Board of Directors' Guide to the ESG Transition in the Insurance Industry by Yusuf Azizullah GBAC Boardroomeducation.com CEO"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5d13d42-a224-45d3-85d7-6689c200eedb_1920x1080.jpeg"
 group: con
 rank: 8
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "cbc.ca"
-link: "https://www.cbc.ca/news/indigenous/vista-mine-cop27-keepers-water-1.6641300"
-title: "Fight against coal mine expansion to be brought to UN climate change conference | CBC News"
-excerpt: "An Indigenous coalition, Keepers of the Water, will be travelling to Egypt to attend COP27 this November to raise awareness of the potential impacts of an Alberta coal mine expansion."
-image: "https://i.cbc.ca/1.5651773.1594905192!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/vista-bighorn-mining.JPG"
+publication: "harpers.org"
+link: "https://harpers.org/an-open-letter-from-nobel-laureates-on-alaa-abd-el-fattah/"
+title: "An Open Letter from Nobel Laureates on Alaa Abd el-Fattah | Harper's Magazine"
+excerpt: "As the world prepares for the COP27 International Climate Conference in Egypt we, as Nobel laureates, write to urge the world not to forget about the many thousands of political prisoners held in Egyp"
+image: "https://harpers.org/wp-content/uploads/2020/04/harpers-twitter.png"
 group: pro
 rank: 19
 ---

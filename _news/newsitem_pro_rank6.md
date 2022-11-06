@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop26-year-later-where-do-last-years-climate-pledges-stand-2022-11-01/"
-title: "Factbox: COP26 a year later: Where do last year's climate pledges stand?"
-excerpt: "A year ago at the U.N. climate talks in Glasgow, Scotland, countries, banks and business leaders announced a slew of climate plans and pledges. Here is an update on how some of the biggest promises ha"
-image: "https://www.reuters.com/resizer/GxtvTJkXNZT5blUVQDRnCi8sn3A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NK2SBUSXTNML7PUMFGIPU7PWN4.jpg"
+publication: "channel4.com"
+link: "https://www.channel4.com/news/familys-plea-to-save-british-egyptian-activist-ahead-of-cop27"
+title: "Family’s plea to save British-Egyptian activist ahead of COP27"
+excerpt: "As global leaders descend on Sharm-El-Sheik for COP 27, the family of a British Egyptian activist are appealing to them to speak out as they fear he may die in prison."
+image: "https://fournews-assets-prod-s3-ew1-nmprod.s3.amazonaws.com/media/2022/11/ALAA-FATIMA-MANJI-1920x1080.png"
 group: pro
 rank: 6
 ---
