@@ -1,9 +1,11 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/world/2022/11/03/alaa-prisoner-egypt-cop27/"
-title: "As Egypt hosts COP27, its most famous political prisoner may die, family warns"
-excerpt: "Alaa Abdel Fattah has been on a partial hunger strike in an Egyptian prison for more than 200 days. On Nov. 6, his family says he will stop drinking water. "
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHGG3TP3UUYAPI2FZ7WN5FNXHU.jpg&w=1440"
+publication: "thelancet.com"
+link: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)02182-1/fulltext"
+title: "Climate change, health, and discrimination: action towards racial justice"
+excerpt: "The health impacts of climate change will affect everyone. But the consequences are
+unevenly distributed, falling much harder on some communities than others. Although
+discourse on climate change and "
+image: "https://www.thelancet.com/pb-assets/Lancet/lancet/ogImg-1592317277397.png"
 group: pro
 rank: 19
 ---

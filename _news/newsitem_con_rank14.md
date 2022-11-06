@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/gulf/2022/11/06/UAE-President-Sheikh-Mohamed-bin-Zayed-to-attend-COP27-in-Egypt"
-title: "UAE President Sheikh Mohamed bin Zayed to attend COP27 in Egypt"
-excerpt: "The United Arab Emirates’ President Sheikh Mohamed bin Zayed Al Nahyan will attend the COP27 UN climate conference in Egypt, the official Emirates News"
-image: "https://vid.alarabiya.net/images/2022/11/06/0b45dcd7-a741-407b-bda8-2f2ec9bb6333/0b45dcd7-a741-407b-bda8-2f2ec9bb6333_16x9_600x338.JPG"
+publication: "sharadakshara.blogspot.com"
+link: "https://sharadakshara.blogspot.com/2022/11/article-cop-summits-and-their-efforts.html"
+title: "Article | COP Summits and their efforts and effects | Dr (Ms) Sharad Singh | Central Chronicle "
+excerpt: "            Article COP Summits and their efforts and effects -    Dr (Ms) Sharad Singh Writer, Author & Social Activist Blogger - 'Climate ..."
+image: "https://lh3.googleusercontent.com/-dHUNCKO4nTY/Y2cOXCOyMZI/AAAAAAAAu2s/JkkO46Y92Isagbnl8I0IIIw-MViv3CvlwCNcBGAsYHQ/w1200-h630-p-k-no-nu/1667698264851464-0.png"
 group: con
 rank: 14
 ---

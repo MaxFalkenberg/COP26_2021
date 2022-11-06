@@ -1,11 +1,9 @@
 ---
-publication: "thelancet.com"
-link: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)02182-1/fulltext"
-title: "Climate change, health, and discrimination: action towards racial justice"
-excerpt: "The health impacts of climate change will affect everyone. But the consequences are
-unevenly distributed, falling much harder on some communities than others. Although
-discourse on climate change and "
-image: "https://www.thelancet.com/pb-assets/Lancet/lancet/ogImg-1592317277397.png"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/sounds/play/w3ct33ps"
+title: "The Real Story - Daunting challenges for UN climate conference - BBC Sounds"
+excerpt: "Delegates are gathering in Sharm el-Sheikh, Egypt, for the COP27 UN climate conference"
+image: "https://ichef.bbci.co.uk/images/ic/1024x576/p0dcqyfc.jpg"
 group: pro
 rank: 18
 ---
