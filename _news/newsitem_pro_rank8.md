@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63516055"
-title: "COP27: Climate anxiety is rising - it might be a good thing"
-excerpt: "As another UN summit kicks off, experts say climate anxiety could help solve the problem."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/12E00/production/_127521377_climate_2_cc_index_and_article_image_template_976-ncclimate_change_promo_image_template_976-nc.png"
+publication: "express.co.uk"
+link: "https://www.express.co.uk/comment/expresscomment/1692458/climate-change-environment-catastrophe-cop27-alok-sharma"
+title: "'UK not immune to climate crisis - we must act to avoid catastrophe'"
+excerpt: "Last year, during a global pandemic, the world came together for the 26th United Nations Climate Change Conference, COP26. 197 countries signed up to the historic Glasgow Climate Pact. "
+image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4383976.jpg?r=1667659185425"
 group: pro
 rank: 8
 ---

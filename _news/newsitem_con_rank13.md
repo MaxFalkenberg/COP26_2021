@@ -1,9 +1,9 @@
 ---
-publication: "arabnews.com"
-link: "https://www.arabnews.com/node/2194356"
-title: "How Egypt, host of UN Climate Change Conference COP27, is spurring a domestic ‘green economy’"
-excerpt: "CAIRO: When the Red Sea resort town of Sharm El-Sheikh hosts the COP27 UN Climate Change Conference between Nov. 6 and Nov. 18, the Egyption government will use the occasion to promote its National In"
-image: "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2022/11/06/3526906-1412808358.jpg?itok=LwD3o___"
+publication: "sharadakshara.blogspot.com"
+link: "https://sharadakshara.blogspot.com/2022/11/article-cop-summits-and-their-efforts.html"
+title: "Article | COP Summits and their efforts and effects | Dr (Ms) Sharad Singh | Central Chronicle "
+excerpt: "            Article COP Summits and their efforts and effects -    Dr (Ms) Sharad Singh Writer, Author & Social Activist Blogger - 'Climate ..."
+image: "https://lh3.googleusercontent.com/-dHUNCKO4nTY/Y2cOXCOyMZI/AAAAAAAAu2s/JkkO46Y92Isagbnl8I0IIIw-MViv3CvlwCNcBGAsYHQ/w1200-h630-p-k-no-nu/1667698264851464-0.png"
 group: con
 rank: 13
 ---

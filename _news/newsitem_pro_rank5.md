@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/05/cop27-summit-egypt-climate-change/"
-title: "At COP27, flood-battered Pakistan leads push to make polluting countries pay"
-excerpt: "Developing nations have long sought compensation for climate harms. Now, the cost of global warming may be growing too great for rich countries to ignore. "
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HFVOJSI3MUCIR7LN3CWRBDZGEE.JPG&w=1440"
+publication: "channel4.com"
+link: "https://www.channel4.com/news/familys-plea-to-save-british-egyptian-activist-ahead-of-cop27"
+title: "Family’s plea to save British-Egyptian activist ahead of COP27"
+excerpt: "As global leaders descend on Sharm-El-Sheik for COP 27, the family of a British Egyptian activist are appealing to them to speak out as they fear he may die in prison."
+image: "https://fournews-assets-prod-s3-ew1-nmprod.s3.amazonaws.com/media/2022/11/ALAA-FATIMA-MANJI-1920x1080.png"
 group: pro
 rank: 5
 ---

@@ -1,11 +1,9 @@
 ---
-publication: "davidicke.com"
-link: "https://davidicke.com/2022/11/04/cop27-is-about-a-jet"
-title: "COP27 Is About a Jet-Setting Elite Trying to Make a World of Fewer, Poorer People Who “Live Meagre Lives”, Says Ecologist"
-excerpt: "
-
-Ahead of COP27, the ecologist Dr. Susan Crockford has launched a hard-hitting attack on the World Wildlife Fund (WWF), the World Economic Forum (WEF), King Charles and Sir David Attenborough. The "
-image: "https://davidicke.com/wp-content/uploads/2020/01/CHARLES-PRIVATE-JET-IMAGE.jpg"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/06/COP27-explainer-What-is-Loss-and-Damage-compensation-and-who-should-pay-"
+title: "COP27 explainer: What is ‘Loss and Damage’ compensation, and who should pay?"
+excerpt: "Nearly 200 countries gathering for the UN climate conference in Egypt are expected to lock horns over whether rich nations should pay compensation to"
+image: "https://vid.alarabiya.net/images/2022/11/02/ce097661-639d-4649-878a-108c0542e383/ce097661-639d-4649-878a-108c0542e383_16x9_600x338.JPG"
 group: con
 rank: 9
 ---

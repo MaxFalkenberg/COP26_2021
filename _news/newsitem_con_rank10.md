@@ -1,9 +1,10 @@
 ---
-publication: "randomdumber.blogspot.com"
-link: "https://randomdumber.blogspot.com/2022/10/climate-crisis-things-we-need-from.html"
-title: "Climate Crisis: The things we need from COP27 are the things we probably won't get"
-excerpt: "COP26 wasn't a disaster from an outcomes point of view, but it was a massive failure when measured against the outcomes necessary to put the..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5znEXd5uLVRm2VE11aqFhHk9tZVEsW2cTcSeRJSm9s0qkLH8yEH-p9YaZ5waJhkRAG0vdBe4HDflsKvFSE6lhivJ02-whFlqh36LnYod3y9Obig5Se9X2Nu3blyzzWbRwal5MBvhTsbeoMnBZXRCcO-CWVLYgJ15-IJ2ExlRLw0jWR1YqFaWTMC_I/w1200-h630-p-k-no-nu/COP%2027.gif"
+publication: "english.aawsat.com"
+link: "https://english.aawsat.com/node/3971931"
+title: "COP27 Summit to Kick off in Egypt"
+excerpt: "The COP27 summit kicks off Sunday in Egypt with nearly 200 countries struggling to outpace increasingly dire climate impacts in a world upended by war and economic turmoil. 
+Just in the last few month"
+image: "https://english.aawsat.com/sites/default/files/styles/large/public/2022/11/06/_afp_32mv4gx-1667647843.jpg?itok=1WG7mDM2"
 group: con
 rank: 10
 ---

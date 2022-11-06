@@ -1,9 +1,9 @@
 ---
-publication: "ft.com"
-link: "https://www.ft.com/content/b49f6f7b-eb49-41a3-a0ea-f14a5ab9b404"
-title: "Subscribe to read | Financial Times"
-excerpt: "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
-image: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/default.jpg?v=2"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/sounds/play/w172ykwqlsg4tnb"
+title: "Weekend - COP27 climate summit set for Sunday - BBC Sounds"
+excerpt: "US climate change envoy appeals for help for developing countries to reduce fossil fuels"
+image: "https://ichef.bbci.co.uk/images/ic/1024x576/p0dd1g67.jpg"
 group: pro
 rank: 16
 ---
