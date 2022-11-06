@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/climate-change/cop27-climate-oil-gas-kerry-b2218302.html"
-title: "Joe Biden’s climate envoy warns UK against North Sea oil and gas expansion"
-excerpt: "New drilling ‘isn’t going to make the difference today, or tomorrow, or in the next month – because it’s just not going to be available’ "
-image: "https://static.independent.co.uk/2022/11/03/14/22130824-035976b8-4e6f-41fc-8bbd-17903eb07ccf.png?quality=75&width=1200&auto=webp"
+publication: "cbc.ca"
+link: "https://www.cbc.ca/radio/asithappens/egypt-cop27-prisoner-hunger-strike-1.6641173"
+title: "This political prisoner will stop drinking water when world leaders arrive in Egypt | CBC Radio"
+excerpt: "Sanaa Seif is scheduled to visit her brother in prison in a week and a half. But she fears that by then, it will already be too late."
+image: "https://i.cbc.ca/1.6641266.1667596353!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/egypt.jpg"
 group: pro
 rank: 8
 ---

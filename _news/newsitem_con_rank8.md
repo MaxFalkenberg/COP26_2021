@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/world/2022/11/06/COP27-explainer-What-is-Loss-and-Damage-compensation-and-who-should-pay-"
-title: "COP27 explainer: What is ‘Loss and Damage’ compensation, and who should pay?"
-excerpt: "Nearly 200 countries gathering for the UN climate conference in Egypt are expected to lock horns over whether rich nations should pay compensation to"
-image: "https://vid.alarabiya.net/images/2022/11/02/ce097661-639d-4649-878a-108c0542e383/ce097661-639d-4649-878a-108c0542e383_16x9_600x338.JPG"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/06/cop27-accounts-of-climate-crisis-victims-underscore-urgency-of-action-climatecrisis-demand-climateaction-sdg13-tellthetruth-hyperthreat/"
+title: "COP27: Accounts of climate crisis victims underscore urgency of action #ClimateCrisis demand #ClimateAction #SDG13 #TellTheTruth #Hyperthreat"
+excerpt: "With the latest reports stating that the world is hurtling toward global warming levels of at least 2.5°C, a new briefing by Amnesty International illustrates the devastation that the climate crisi…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1961.jpg"
 group: con
 rank: 8
 ---

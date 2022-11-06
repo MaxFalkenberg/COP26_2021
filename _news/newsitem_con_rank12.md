@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/boardroomeducation/p/the-esg-transformation-of-the-insurance"
-title: "The ESG Transformation of the Insurance Industry: How to NetZero Your Business "
-excerpt: "Board of Directors' Guide to the ESG Transition in the Insurance Industry by Yusuf Azizullah GBAC Boardroomeducation.com CEO"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5d13d42-a224-45d3-85d7-6689c200eedb_1920x1080.jpeg"
+publication: "ussanews.com"
+link: "https://ussanews.com/2022/11/04/on-sunday-november-13th-get-ready-for-the-chrislam-climate-repentance-ceremony-on-mount-sinai-in-egypt-as-the-united-nations-holds-cop27/"
+title: "On Sunday November 13th, Get Ready For The Chrislam ‘Climate Repentance Ceremony’ On Mount Sinai In Egypt As The United Nations Holds COP27"
+excerpt: "We come to Sinai in a movement of repentance and quest bring to together leaders from the world’s major religions to put forth a prophetic interreligious call to action with ‘Climate Justice: Ten Univ"
+image: "https://ussanews.com/wp-content/uploads/2022/11/king-james-bible-commentaries-dispensational-truth-600x525.jpg"
 group: con
 rank: 12
 ---

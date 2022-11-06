@@ -1,9 +1,9 @@
 ---
-publication: "cbc.ca"
-link: "https://www.cbc.ca/radio/asithappens/egypt-cop27-prisoner-hunger-strike-1.6641173"
-title: "This political prisoner will stop drinking water when world leaders arrive in Egypt | CBC Radio"
-excerpt: "Sanaa Seif is scheduled to visit her brother in prison in a week and a half. But she fears that by then, it will already be too late."
-image: "https://i.cbc.ca/1.6641266.1667596353!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/egypt.jpg"
+publication: "channel4.com"
+link: "https://www.channel4.com/news/familys-plea-to-save-british-egyptian-activist-ahead-of-cop27"
+title: "Family’s plea to save British-Egyptian activist ahead of COP27"
+excerpt: "As global leaders descend on Sharm-El-Sheik for COP 27, the family of a British Egyptian activist are appealing to them to speak out as they fear he may die in prison."
+image: "https://fournews-assets-prod-s3-ew1-nmprod.s3.amazonaws.com/media/2022/11/ALAA-FATIMA-MANJI-1920x1080.png"
 group: pro
 rank: 7
 ---

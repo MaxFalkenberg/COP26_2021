@@ -1,9 +1,9 @@
 ---
-publication: "hrw.org"
-link: "https://www.hrw.org/news/2022/11/06/egypt-arrests-curbs-protests-cop27-nears"
-title: "Egypt: Arrests, Curbs on Protests As COP27 Nears"
-excerpt: "Egyptian authorities have arrested dozens of people for calling for protests and restricted the right to protest in the days leading up to the COP27 climate summit, threatening its success."
-image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/07/202207mena_egypt_COP27.jpeg?h=4b5b4458&itok=8qq42DWQ"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63517078"
+title: "COP27: 'Climate chaos' warning as UN summit begins"
+excerpt: "Egypt urges nations to turn pledges into action as the UN climate conference opens."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/A3D7/production/_127534914_7c8393641ba3745c95db58367a506d7d8b7fa8f80_378_3632_20433632x2043.jpg"
 group: pro
 rank: 16
 ---
