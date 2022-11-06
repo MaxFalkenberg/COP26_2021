@@ -1,9 +1,9 @@
 ---
-publication: "ussanews.com"
-link: "https://ussanews.com/2022/11/04/on-sunday-november-13th-get-ready-for-the-chrislam-climate-repentance-ceremony-on-mount-sinai-in-egypt-as-the-united-nations-holds-cop27/"
-title: "On Sunday November 13th, Get Ready For The Chrislam ‘Climate Repentance Ceremony’ On Mount Sinai In Egypt As The United Nations Holds COP27"
-excerpt: "We come to Sinai in a movement of repentance and quest bring to together leaders from the world’s major religions to put forth a prophetic interreligious call to action with ‘Climate Justice: Ten Univ"
-image: "https://ussanews.com/wp-content/uploads/2022/11/king-james-bible-commentaries-dispensational-truth-600x525.jpg"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1278818.shtml"
+title: "West adopts 'all talk' approach as China sticks firmly to its role as a real force for climate action"
+excerpt: "The contrasting demands from developed countries and developing ones and the lack of concerted global efforts to curb climate change should be attributed to the malfunctioning of the West-led global o"
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/0b6d47ed-5d2e-4c9d-aca3-efc0df2793d0.jpeg"
 group: con
 rank: 12
 ---

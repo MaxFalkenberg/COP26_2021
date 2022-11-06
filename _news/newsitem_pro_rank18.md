@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/news/politics/1692855/miliband-reparations-pakistan-climate-change-cop27-loss-and-damage-vn"
-title: "Ed Miliband demands Britain give money to nations like Pakistan "
-excerpt: "The Shadow climate change secretary has revealed a Labour Government would commit to giving money to 'poor countries' to help tackle climate change."
-image: "https://cdn.images.express.co.uk/img/dynamic/139/1200x712/4385669.jpg?r=1667739880521"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/world/2022/11/06/egypt-cop27-climate-change-population/"
+title: "As climate change worsens, Egypt is begging families to have fewer kids"
+excerpt: "The Egyptian government sees large families as an existential threat to the country at a time of dwindling natural resources."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MA7QXRVWSBH353YVEFJHRCTWZE.jpg&w=1440"
 group: pro
 rank: 18
 ---
