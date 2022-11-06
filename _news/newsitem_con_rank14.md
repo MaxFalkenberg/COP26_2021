@@ -1,9 +1,9 @@
 ---
-publication: "sharadakshara.blogspot.com"
-link: "https://sharadakshara.blogspot.com/2022/11/article-cop-summits-and-their-efforts.html"
-title: "Article | COP Summits and their efforts and effects | Dr (Ms) Sharad Singh | Central Chronicle "
-excerpt: "            Article COP Summits and their efforts and effects -    Dr (Ms) Sharad Singh Writer, Author & Social Activist Blogger - 'Climate ..."
-image: "https://lh3.googleusercontent.com/-dHUNCKO4nTY/Y2cOXCOyMZI/AAAAAAAAu2s/JkkO46Y92Isagbnl8I0IIIw-MViv3CvlwCNcBGAsYHQ/w1200-h630-p-k-no-nu/1667698264851464-0.png"
+publication: "gulfnews.com"
+link: "https://gulfnews.com/opinion/editorials/the-critical-importance-of-cop27-1.91730564"
+title: "The critical importance of COP27"
+excerpt: "Sharm Al Sheikh summit is crucial to the future of this planet"
+image: "https://imagevars.gulfnews.com/2022/11/04/OPN-COP27_18442139b34_medium.jpg"
 group: con
 rank: 14
 ---
