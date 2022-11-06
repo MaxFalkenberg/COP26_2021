@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/world/2022/11/03/alaa-prisoner-egypt-cop27/"
-title: "As Egypt hosts COP27, its most famous political prisoner may die, family warns"
-excerpt: "Alaa Abdel Fattah has been on a partial hunger strike in an Egyptian prison for more than 200 days. On Nov. 6, his family says he will stop drinking water. "
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHGG3TP3UUYAPI2FZ7WN5FNXHU.jpg&w=1440"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/06/egypt-arrests-curbs-protests-cop27-nears"
+title: "Egypt: Arrests, Curbs on Protests As COP27 Nears"
+excerpt: "Egyptian authorities have arrested dozens of people for calling for protests and restricted the right to protest in the days leading up to the COP27 climate summit, threatening its success."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/07/202207mena_egypt_COP27.jpeg?h=4b5b4458&itok=8qq42DWQ"
 group: pro
 rank: 13
 ---

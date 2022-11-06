@@ -1,9 +1,9 @@
 ---
-publication: "revkin.substack.com"
-link: "https://revkin.substack.com/p/after-cop26-cheers-and-jeers-some-21-11-15"
-title: "After COP26 Cheers and Jeers, Some Hopeful Climate and Energy Undercurrents"
-excerpt: "Amid cheering and rage as the latest climate talks ended, there are heaps of issues and opportunities to work on in the months and years ahead."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimport-images%2F05be73bb-cc7b-4bd1-8e4f-bc39a9c4879d%2F0942104348cdb327d9bf697e09a72d7e.jpg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/06/cop27-accounts-of-climate-crisis-victims-underscore-urgency-of-action-climatecrisis-demand-climateaction-sdg13-tellthetruth-hyperthreat/"
+title: "COP27: Accounts of climate crisis victims underscore urgency of action #ClimateCrisis demand #ClimateAction #SDG13 #TellTheTruth #Hyperthreat"
+excerpt: "With the latest reports stating that the world is hurtling toward global warming levels of at least 2.5°C, a new briefing by Amnesty International illustrates the devastation that the climate crisi…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1961.jpg"
 group: con
 rank: 5
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/06/review-an-inconvenient-apocalypse-by-wes-jackson-and-robert-jensen-ecologicalcrisis-climatecrisis-economiccrisis-cop27-tellthetruth-limitstogrowth/"
-title: "Review: An Inconvenient Apocalypse by Wes Jackson and Robert Jensen #EcologicalCrisis #ClimateCrisis #EconomicCrisis #COP27 #TellTheTruth #LimitsToGrowth"
-excerpt: "By Frank Kaminski An Inconvenient Apocalypse: Environmental Collapse, Climate Crisis, and the Fate of HumanityBy Wes Jackson and Robert Jensen184 pp. University of Notre Dame Press, Sept. 2022. $24…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/09/img_1613.jpg"
+publication: "ntd.com"
+link: "https://www.ntd.com/rishi-sunaks-cop27-u-turn_867101.html"
+title: "Rishi Sunak's COP27 U-Turn"
+excerpt: "Rishi Sunak now says he will travel to Egypt for the COP27 climate summit. World leaders and climate ..."
+image: "https://img.ntd.com/assets/uploads/2022/11/Ben-Pile-e1667514726355.jpg"
 group: con
 rank: 2
 ---

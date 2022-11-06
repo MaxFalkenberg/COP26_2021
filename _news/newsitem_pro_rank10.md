@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/sounds/play/w3ct33ps"
-title: "The Real Story - Daunting challenges for UN climate conference - BBC Sounds"
-excerpt: "Delegates are gathering in Sharm el-Sheikh, Egypt, for the COP27 UN climate conference"
-image: "https://ichef.bbci.co.uk/images/ic/1024x576/p0dcqyfc.jpg"
+publication: "cbc.ca"
+link: "https://www.cbc.ca/radio/asithappens/egypt-cop27-prisoner-hunger-strike-1.6641173"
+title: "This political prisoner will stop drinking water when world leaders arrive in Egypt | CBC Radio"
+excerpt: "Sanaa Seif is scheduled to visit her brother in prison in a week and a half. But she fears that by then, it will already be too late."
+image: "https://i.cbc.ca/1.6641266.1667596353!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/egypt.jpg"
 group: pro
 rank: 10
 ---

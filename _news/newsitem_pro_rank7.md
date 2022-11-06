@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop26-year-later-where-do-last-years-climate-pledges-stand-2022-11-01/"
-title: "Factbox: COP26 a year later: Where do last year's climate pledges stand?"
-excerpt: "A year ago at the U.N. climate talks in Glasgow, Scotland, countries, banks and business leaders announced a slew of climate plans and pledges. Here is an update on how some of the biggest promises ha"
-image: "https://www.reuters.com/resizer/GxtvTJkXNZT5blUVQDRnCi8sn3A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NK2SBUSXTNML7PUMFGIPU7PWN4.jpg"
+publication: "politico.com"
+link: "https://www.politico.com/news/2022/11/04/climate-change-solve-cop27-00065263"
+title: "An inconvenient truth: Climate change won't be solved in this desert"
+excerpt: "Leaders will gather in Egypt to discuss action to counter global warming. But events elsewhere in the world are pushing in the opposite direction."
+image: "https://static.politico.com/6f/23/961dabe04c51ba0ef6a7cdad8f21/aptopix-egypt-cop27-climate-summit-59066.jpg"
 group: pro
 rank: 7
 ---

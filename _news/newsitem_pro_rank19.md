@@ -1,9 +1,11 @@
 ---
-publication: "axios.com"
-link: "https://www.axios.com/2022/11/05/cop27-egypt-sharm-el-sheikh-climate"
-title: "COP27 to kick off Sunday in Egypt: Here's everything you need to know"
-excerpt: "Participants face a sobering reality."
-image: "https://images.axios.com/tjKxyHRfmb1GatmjOADGGYIQClE=/0x0:1920x1080/1366x768/2022/11/04/1667574564317.jpg"
+publication: "thelancet.com"
+link: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)02182-1/fulltext"
+title: "Climate change, health, and discrimination: action towards racial justice"
+excerpt: "The health impacts of climate change will affect everyone. But the consequences are
+unevenly distributed, falling much harder on some communities than others. Although
+discourse on climate change and "
+image: "https://www.thelancet.com/pb-assets/Lancet/lancet/ogImg-1592317277397.png"
 group: pro
 rank: 19
 ---

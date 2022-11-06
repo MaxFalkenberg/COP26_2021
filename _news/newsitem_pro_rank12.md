@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/climate-change/cop27-climate-oil-gas-kerry-b2218302.html"
-title: "Joe Biden’s climate envoy warns UK against North Sea oil and gas expansion"
-excerpt: "New drilling ‘isn’t going to make the difference today, or tomorrow, or in the next month – because it’s just not going to be available’ "
-image: "https://static.independent.co.uk/2022/11/03/14/22130824-035976b8-4e6f-41fc-8bbd-17903eb07ccf.png?quality=75&width=1200&auto=webp"
+publication: "news.sky.com"
+link: "https://news.sky.com/story/cop27-rishi-sunak-will-not-attend-climate-summit-in-egypt-next-month-number-10-confirms-12731621"
+title: "COP27: Rishi Sunak will not attend climate summit in Egypt next month, Number 10 confirms"
+excerpt: "Earlier this week, while moulding his new ministerial top team, the new PM downgraded Alok Sharma's role so that he will no longer attend cabinet meetings."
+image: "https://e3.365dm.com/22/10/1600x900/skynews-cop27-summit-egypt_5945617.png?20221027190106"
 group: pro
 rank: 12
 ---

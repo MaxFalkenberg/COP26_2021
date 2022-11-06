@@ -1,9 +1,9 @@
 ---
-publication: "ussanews.com"
-link: "https://ussanews.com/2022/11/04/on-sunday-november-13th-get-ready-for-the-chrislam-climate-repentance-ceremony-on-mount-sinai-in-egypt-as-the-united-nations-holds-cop27/"
-title: "On Sunday November 13th, Get Ready For The Chrislam ‘Climate Repentance Ceremony’ On Mount Sinai In Egypt As The United Nations Holds COP27"
-excerpt: "We come to Sinai in a movement of repentance and quest bring to together leaders from the world’s major religions to put forth a prophetic interreligious call to action with ‘Climate Justice: Ten Univ"
-image: "https://ussanews.com/wp-content/uploads/2022/11/king-james-bible-commentaries-dispensational-truth-600x525.jpg"
+publication: "pedromzileni.wordpress.com"
+link: "https://pedromzileni.wordpress.com/2022/11/04/why-south-africa-needs-more-agricultural-colleges/"
+title: "Why South Africa needs more agricultural colleges"
+excerpt: "The UN predicts that by 2050, the population of Africa will increase by 25% and the highest concentration of that rise will be in Southern Africa. This because the continent is overwhelmingly young…"
+image: "https://secure.gravatar.com/blavatar/073f025d0ccb84cff6c93277663f002a?s=200&ts=1667725500"
 group: con
 rank: 14
 ---

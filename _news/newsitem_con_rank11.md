@@ -1,9 +1,9 @@
 ---
-publication: "randomdumber.blogspot.com"
-link: "https://randomdumber.blogspot.com/2022/10/climate-crisis-things-we-need-from.html"
-title: "Climate Crisis: The things we need from COP27 are the things we probably won't get"
-excerpt: "COP26 wasn't a disaster from an outcomes point of view, but it was a massive failure when measured against the outcomes necessary to put the..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5znEXd5uLVRm2VE11aqFhHk9tZVEsW2cTcSeRJSm9s0qkLH8yEH-p9YaZ5waJhkRAG0vdBe4HDflsKvFSE6lhivJ02-whFlqh36LnYod3y9Obig5Se9X2Nu3blyzzWbRwal5MBvhTsbeoMnBZXRCcO-CWVLYgJ15-IJ2ExlRLw0jWR1YqFaWTMC_I/w1200-h630-p-k-no-nu/COP%2027.gif"
+publication: "ussanews.com"
+link: "https://ussanews.com/2022/11/04/on-sunday-november-13th-get-ready-for-the-chrislam-climate-repentance-ceremony-on-mount-sinai-in-egypt-as-the-united-nations-holds-cop27/"
+title: "On Sunday November 13th, Get Ready For The Chrislam ‘Climate Repentance Ceremony’ On Mount Sinai In Egypt As The United Nations Holds COP27"
+excerpt: "We come to Sinai in a movement of repentance and quest bring to together leaders from the world’s major religions to put forth a prophetic interreligious call to action with ‘Climate Justice: Ten Univ"
+image: "https://ussanews.com/wp-content/uploads/2022/11/king-james-bible-commentaries-dispensational-truth-600x525.jpg"
 group: con
 rank: 11
 ---

@@ -1,9 +1,9 @@
 ---
 publication: "theguardian.com"
-link: "https://www.theguardian.com/environment/2022/nov/05/brazil-indonesia-drc-cop27-conservation-opec-rainforests-aoe"
-title: "Brazil, Indonesia and DRC in talks to form ‘Opec of rainforests’"
-excerpt: "Spurred by Lula’s election, the three countries, home to half of all tropical forests, will pledge stronger conservation efforts"
-image: "https://i.guim.co.uk/img/media/521f4fb1f329d8db1c8cda647bbcdaf9dc506513/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15c3c72f3f3551b2c1f99eff7f345de2"
+link: "https://www.theguardian.com/politics/2022/nov/05/sunak-claims-role-as-clean-energy-champion-on-eve-of-cop27"
+title: "Sunak claims role as ‘clean energy champion’ on eve of Cop27"
+excerpt: "Scepticism from summit attendees as PM adopts Labour leader’s stated aim of making UK a green ‘superpower’"
+image: "https://i.guim.co.uk/img/media/29b3e5780689872ee7ca85dd6091dee1480a30be/1197_846_2891_1735/master/2891.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=0c755fbadc63f5e0dfccebd54580f3a5"
 group: pro
 rank: 0
 ---

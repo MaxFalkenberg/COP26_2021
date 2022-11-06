@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/world/2022/11/06/COP27-explainer-What-is-Loss-and-Damage-compensation-and-who-should-pay-"
-title: "COP27 explainer: What is ‘Loss and Damage’ compensation, and who should pay?"
-excerpt: "Nearly 200 countries gathering for the UN climate conference in Egypt are expected to lock horns over whether rich nations should pay compensation to"
-image: "https://vid.alarabiya.net/images/2022/11/02/ce097661-639d-4649-878a-108c0542e383/ce097661-639d-4649-878a-108c0542e383_16x9_600x338.JPG"
+publication: "randomdumber.blogspot.com"
+link: "https://randomdumber.blogspot.com/2022/10/climate-crisis-things-we-need-from.html"
+title: "Climate Crisis: The things we need from COP27 are the things we probably won't get"
+excerpt: "COP26 wasn't a disaster from an outcomes point of view, but it was a massive failure when measured against the outcomes necessary to put the..."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5znEXd5uLVRm2VE11aqFhHk9tZVEsW2cTcSeRJSm9s0qkLH8yEH-p9YaZ5waJhkRAG0vdBe4HDflsKvFSE6lhivJ02-whFlqh36LnYod3y9Obig5Se9X2Nu3blyzzWbRwal5MBvhTsbeoMnBZXRCcO-CWVLYgJ15-IJ2ExlRLw0jWR1YqFaWTMC_I/w1200-h630-p-k-no-nu/COP%2027.gif"
 group: con
 rank: 9
 ---

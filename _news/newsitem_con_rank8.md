@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/gulf/2022/11/06/UAE-President-Sheikh-Mohamed-bin-Zayed-to-attend-COP27-in-Egypt"
-title: "UAE President Sheikh Mohamed bin Zayed to attend COP27 in Egypt"
-excerpt: "The United Arab Emirates’ President Sheikh Mohamed bin Zayed Al Nahyan will attend the COP27 UN climate conference in Egypt, the official Emirates News"
-image: "https://vid.alarabiya.net/images/2022/11/06/0b45dcd7-a741-407b-bda8-2f2ec9bb6333/0b45dcd7-a741-407b-bda8-2f2ec9bb6333_16x9_600x338.JPG"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/boardroomeducation/p/the-esg-transformation-of-the-insurance"
+title: "The ESG Transformation of the Insurance Industry: How to NetZero Your Business "
+excerpt: "Board of Directors' Guide to the ESG Transition in the Insurance Industry by Yusuf Azizullah GBAC Boardroomeducation.com CEO"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5d13d42-a224-45d3-85d7-6689c200eedb_1920x1080.jpeg"
 group: con
 rank: 8
 ---
