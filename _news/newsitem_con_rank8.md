@@ -1,9 +1,9 @@
 ---
-publication: "newsmax.com"
-link: "https://www.newsmax.com/newsfront/COP27/2022/11/06/id/1095062/"
-title: "World in Crisis a Grim Backdrop for UN Climate Talks"
-excerpt: "Envoys from around the globe gathered Sunday in the Egyptian seaside resort of Sharm el-Sheikh for talks on tackling climate change amid a multitude of competing crises, including the war in Ukraine, "
-image: "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=8a6e1792-a849-4637-bca4-388beaee9332&SiteName=Newsmax"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/06/COP27-explainer-What-is-Loss-and-Damage-compensation-and-who-should-pay-"
+title: "COP27 explainer: What is ‘Loss and Damage’ compensation, and who should pay?"
+excerpt: "Nearly 200 countries gathering for the UN climate conference in Egypt are expected to lock horns over whether rich nations should pay compensation to"
+image: "https://vid.alarabiya.net/images/2022/11/02/ce097661-639d-4649-878a-108c0542e383/ce097661-639d-4649-878a-108c0542e383_16x9_600x338.JPG"
 group: con
 rank: 8
 ---

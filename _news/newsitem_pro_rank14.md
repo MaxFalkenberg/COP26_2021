@@ -1,9 +1,9 @@
 ---
-publication: "politico.com"
-link: "https://www.politico.com/news/2022/11/04/climate-change-solve-cop27-00065263"
-title: "An inconvenient truth: Climate change won't be solved in this desert"
-excerpt: "Leaders will gather in Egypt to discuss action to counter global warming. But events elsewhere in the world are pushing in the opposite direction."
-image: "https://static.politico.com/6f/23/961dabe04c51ba0ef6a7cdad8f21/aptopix-egypt-cop27-climate-summit-59066.jpg"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63517078"
+title: "COP27: 'Climate chaos' warning as UN summit begins"
+excerpt: "Egypt urges nations to turn pledges into action as the UN climate conference opens."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/A3D7/production/_127534914_7c8393641ba3745c95db58367a506d7d8b7fa8f80_378_3632_20433632x2043.jpg"
 group: pro
 rank: 14
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "scotsman.com"
-link: "https://www.scotsman.com/news/environment/cop27-warning-world-is-doomed-unless-cop27-delivers-historic-pact-3906948"
-title: "COP27: UN secretary general Antonio Guterres warning on eve of COP27 world is ‘doomed’ without historic pact"
-excerpt: "UN secretary general Antonio Guterres has said the world is 'doomed' unless a 'historic pact' is signed between rich and poor countries, speaking on the eve of Cop27."
-image: "https://www.scotsman.com/webimg/b25lY21zOjdhYzNhYWM5LTJlYmItNDg0OS1iMjU2LWMxODI1MjVkNjMyNDo5ZjY3NGIzMi02YzRkLTRhNWQtYTMyZC0zMzM3OTVlM2VhYTE=.jpg?width=1200&enable=upscale"
+publication: "news.sky.com"
+link: "https://news.sky.com/story/cop27-rishi-sunak-will-not-attend-climate-summit-in-egypt-next-month-number-10-confirms-12731621"
+title: "COP27: Rishi Sunak will not attend climate summit in Egypt next month, Number 10 confirms"
+excerpt: "Earlier this week, while moulding his new ministerial top team, the new PM downgraded Alok Sharma's role so that he will no longer attend cabinet meetings."
+image: "https://e3.365dm.com/22/10/1600x900/skynews-cop27-summit-egypt_5945617.png?20221027190106"
 group: pro
 rank: 12
 ---
