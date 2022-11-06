@@ -1,9 +1,9 @@
 ---
-publication: "newstatesman.com"
-link: "https://newstatesman.com/environment/2022/11/greta-thunberg-cop27-is-a-scam"
-title: "Greta Thunberg on why Cop27 is a 'scam'"
-excerpt: "The activist calls out politicians who use the UN climate process for their own ends."
-image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1169833108.jpg"
+publication: "on.ft.com"
+link: "https://on.ft.com/3WwSZZ2"
+title: "Subscribe to read | Financial Times"
+excerpt: "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
+image: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/default.jpg?v=2"
 group: pro
 rank: 16
 ---

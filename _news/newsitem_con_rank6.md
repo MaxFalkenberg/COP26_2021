@@ -1,9 +1,11 @@
 ---
-publication: "randomdumber.blogspot.com"
-link: "https://randomdumber.blogspot.com/2022/10/climate-crisis-things-we-need-from.html"
-title: "Climate Crisis: The things we need from COP27 are the things we probably won't get"
-excerpt: "COP26 wasn't a disaster from an outcomes point of view, but it was a massive failure when measured against the outcomes necessary to put the..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5znEXd5uLVRm2VE11aqFhHk9tZVEsW2cTcSeRJSm9s0qkLH8yEH-p9YaZ5waJhkRAG0vdBe4HDflsKvFSE6lhivJ02-whFlqh36LnYod3y9Obig5Se9X2Nu3blyzzWbRwal5MBvhTsbeoMnBZXRCcO-CWVLYgJ15-IJ2ExlRLw0jWR1YqFaWTMC_I/w1200-h630-p-k-no-nu/COP%2027.gif"
+publication: "davidicke.com"
+link: "https://davidicke.com/2022/11/04/cop27-is-about-a-jet"
+title: "COP27 Is About a Jet-Setting Elite Trying to Make a World of Fewer, Poorer People Who “Live Meagre Lives”, Says Ecologist"
+excerpt: "
+
+Ahead of COP27, the ecologist Dr. Susan Crockford has launched a hard-hitting attack on the World Wildlife Fund (WWF), the World Economic Forum (WEF), King Charles and Sir David Attenborough. The "
+image: "https://davidicke.com/wp-content/uploads/2020/01/CHARLES-PRIVATE-JET-IMAGE.jpg"
 group: con
 rank: 6
 ---

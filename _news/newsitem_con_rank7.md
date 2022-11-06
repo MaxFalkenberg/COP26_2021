@@ -1,9 +1,9 @@
 ---
-publication: "woodstockearth.blogspot.com"
-link: "https://woodstockearth.blogspot.com/2020/07/Fracking-our-way-to-oblivion.html"
-title: "Woodstock Earth Blog"
-excerpt: "A blog that addresses issues dealing with human health, the safety of our food supply, and the welfare of Mother Earth."
-image: "https://1.bp.blogspot.com/-sXgkG1lylUs/XxiPQRjLTUI/AAAAAAAAApU/8hOCwTRqmBwkd1s9ZSaN5HvVl_x9ms49ACLcBGAsYHQ/w1200-h630-p-k-no-nu/01.jpg"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/boardroomeducation/p/the-esg-transformation-of-the-insurance"
+title: "The ESG Transformation of the Insurance Industry: How to NetZero Your Business "
+excerpt: "Board of Directors' Guide to the ESG Transition in the Insurance Industry by Yusuf Azizullah GBAC Boardroomeducation.com CEO"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5d13d42-a224-45d3-85d7-6689c200eedb_1920x1080.jpeg"
 group: con
 rank: 7
 ---
