@@ -1,9 +1,9 @@
 ---
-publication: "woodstockearth.blogspot.com"
-link: "https://woodstockearth.blogspot.com/2020/07/Fracking-our-way-to-oblivion.html"
-title: "Woodstock Earth Blog"
-excerpt: "A blog that addresses issues dealing with human health, the safety of our food supply, and the welfare of Mother Earth."
-image: "https://1.bp.blogspot.com/-sXgkG1lylUs/XxiPQRjLTUI/AAAAAAAAApU/8hOCwTRqmBwkd1s9ZSaN5HvVl_x9ms49ACLcBGAsYHQ/w1200-h630-p-k-no-nu/01.jpg"
+publication: "ussanews.com"
+link: "https://ussanews.com/2022/11/04/on-sunday-november-13th-get-ready-for-the-chrislam-climate-repentance-ceremony-on-mount-sinai-in-egypt-as-the-united-nations-holds-cop27/"
+title: "On Sunday November 13th, Get Ready For The Chrislam ‘Climate Repentance Ceremony’ On Mount Sinai In Egypt As The United Nations Holds COP27"
+excerpt: "We come to Sinai in a movement of repentance and quest bring to together leaders from the world’s major religions to put forth a prophetic interreligious call to action with ‘Climate Justice: Ten Univ"
+image: "https://ussanews.com/wp-content/uploads/2022/11/king-james-bible-commentaries-dispensational-truth-600x525.jpg"
 group: con
 rank: 11
 ---

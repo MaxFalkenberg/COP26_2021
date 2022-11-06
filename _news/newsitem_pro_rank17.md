@@ -1,9 +1,11 @@
 ---
-publication: "newstatesman.com"
-link: "https://newstatesman.com/environment/2022/11/greta-thunberg-cop27-is-a-scam"
-title: "Greta Thunberg on why Cop27 is a 'scam'"
-excerpt: "The activist calls out politicians who use the UN climate process for their own ends."
-image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1169833108.jpg"
+publication: "thelancet.com"
+link: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)02182-1/fulltext"
+title: "Climate change, health, and discrimination: action towards racial justice"
+excerpt: "The health impacts of climate change will affect everyone. But the consequences are
+unevenly distributed, falling much harder on some communities than others. Although
+discourse on climate change and "
+image: "https://www.thelancet.com/pb-assets/Lancet/lancet/ogImg-1592317277397.png"
 group: pro
 rank: 17
 ---

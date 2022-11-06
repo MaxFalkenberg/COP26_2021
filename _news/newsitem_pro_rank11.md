@@ -1,9 +1,9 @@
 ---
-publication: "nature.com"
-link: "https://www.nature.com/articles/d41586-022-03585-9"
-title: "As COP27 kicks off, Egypt warns wealthy nations against ‘backsliding’"
-excerpt: "Host-country scientists call for more finance for research at the start of United Nations climate summit."
-image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03585-9/d41586-022-03585-9_23675110.jpg"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/sounds/play/w3ct33ps"
+title: "The Real Story - Daunting challenges for UN climate conference - BBC Sounds"
+excerpt: "Delegates are gathering in Sharm el-Sheikh, Egypt, for the COP27 UN climate conference"
+image: "https://ichef.bbci.co.uk/images/ic/1024x576/p0dcqyfc.jpg"
 group: pro
 rank: 11
 ---

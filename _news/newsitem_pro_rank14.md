@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/world/2022/11/03/alaa-prisoner-egypt-cop27/"
-title: "As Egypt hosts COP27, its most famous political prisoner may die, family warns"
-excerpt: "Alaa Abdel Fattah has been on a partial hunger strike in an Egyptian prison for more than 200 days. On Nov. 6, his family says he will stop drinking water. "
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHGG3TP3UUYAPI2FZ7WN5FNXHU.jpg&w=1440"
+publication: "ft.com"
+link: "https://www.ft.com/content/b49f6f7b-eb49-41a3-a0ea-f14a5ab9b404"
+title: "Subscribe to read | Financial Times"
+excerpt: "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
+image: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/default.jpg?v=2"
 group: pro
 rank: 14
 ---
