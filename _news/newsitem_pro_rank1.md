@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/4a331244-5d49-11ed-9a48-54549b73e939"
-title: "Alaa Abdel Fattah will die in an Egyptian jail this week unless Rishi Sunak saves him"
-excerpt: "In foreign policy, it’s the unplanned events that make or break a prime minister. Rishi Sunak’s trip to Egypt this week won’t be remembered for the Cop27 clima"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F9edc90b4-5d52-11ed-aecd-3ad6d7298755.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
+publication: "express.co.uk"
+link: "https://www.express.co.uk/news/politics/1692855/miliband-reparations-pakistan-climate-change-cop27-loss-and-damage-vn"
+title: "Miliband demands UK makes 'climate reparations' to countries worst hit"
+excerpt: "The Shadow climate change secretary has revealed a Labour Government would commit to giving money to 'poor countries' to help tackle climate change."
+image: "https://cdn.images.express.co.uk/img/dynamic/139/1200x712/4385669.jpg?r=1667812377791"
 group: pro
 rank: 1
 ---

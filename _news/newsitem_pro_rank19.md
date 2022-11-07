@@ -1,9 +1,9 @@
 ---
-publication: "francetvinfo.fr"
-link: "https://www.francetvinfo.fr/monde/environnement/crise-climatique/cop27-on-vous-raconte-l-histoire-des-warming-stripes-le-meilleur-graphique-pour-comprendre-le-rechauffement-climatique_5416930.html"
-title: "COP27 : on vous raconte l'histoire des 'Warming Stripes', le meilleur graphique pour comprendre le réchauffement climatique"
-excerpt: "Mises au point par le climatologue britannique Ed Hawkins, ces bandes ont largement dépassé le domaine scientifique pour s'afficher jusque sur des maillots de foot et dans des défilés de mode."
-image: "https://www.francetvinfo.fr/pictures/Aoqi3fBgHj6ltMRHLMkc5mKZKX8/1500x843/2022/10/20/phpeU4cZk.jpg"
+publication: "thetimes.co.uk"
+link: "https://www.thetimes.co.uk/article/alaa-abdel-fattah-will-die-in-an-egyptian-jail-this-week-unless-rishi-sunak-saves-him-5zz2g20md"
+title: "Alaa Abdel Fattah will die in an Egyptian jail this week unless Rishi Sunak saves him"
+excerpt: "In foreign policy, it’s the unplanned events that make or break a prime minister. Rishi Sunak’s trip to Egypt this week won’t be remembered for the Cop27 clima"
+image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F9edc90b4-5d52-11ed-aecd-3ad6d7298755.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
 group: pro
 rank: 19
 ---

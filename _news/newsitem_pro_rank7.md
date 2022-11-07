@@ -5,5 +5,5 @@ title: "The Obvious Climate Strategy Nobody Will Talk About"
 excerpt: "Economic development is the only proven path to climate resilience."
 image: "https://foreignpolicy.com/wp-content/uploads/2022/11/Central-Africa-Flood-GettyImages-1178775661.jpg?w=1000"
 group: pro
-rank: 8
+rank: 7
 ---
