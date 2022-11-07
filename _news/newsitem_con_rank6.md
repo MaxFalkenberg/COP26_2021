@@ -1,9 +1,9 @@
 ---
-publication: "newsmax.com"
-link: "https://www.newsmax.com/newsfront/COP27/2022/11/06/id/1095062/"
-title: "World in Crisis a Grim Backdrop for UN Climate Talks"
-excerpt: "Envoys from around the globe gathered Sunday in the Egyptian seaside resort of Sharm el-Sheikh for talks on tackling climate change amid a multitude of competing crises, including the war in Ukraine, "
-image: "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=8a6e1792-a849-4637-bca4-388beaee9332&SiteName=Newsmax"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1278847.shtml"
+title: "COP27 kicks off in Egypt, with rich countries under scrutiny on fulfilling promises"
+excerpt: "This year's UN climate summit in Egypt, which kicked off after a year of devastating natural disasters and energy crisis, will focus on industrialized countries' commitment on tackling global warming,"
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/974d4b5c-d5ae-4913-a33f-e6a302b23b84_s.jpeg"
 group: con
 rank: 6
 ---
