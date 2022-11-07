@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/politics/2022/11/07/rishi-sunak-news-rishi-sunak-news-gavin-williamson-cop27-latest/"
-title: "Cop27 latest news: Boris Johnson says UK cannot afford climate reparations - live updates"
-excerpt: None
-image: "https://www.telegraph.co.uk/content/dam/politics/2022/11/07/TELEMMGLPICT000315411417_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
+publication: "thesun.co.uk"
+link: "https://www.thesun.co.uk/news/20343122/just-stop-oil-chief-nicked-motorway-plot/"
+title: "Eco mob mastermind nicked after The Sun blew whistle on plot to block M25"
+excerpt: "THE mastermind behind eco mob Just Stop Oil was nicked last night after The Sun blew the whistle on their plot to block the motorway network. Roger Hallam, 56, was being questioned after we told po…"
+image: "https://www.thesun.co.uk/wp-content/uploads/2022/11/ROB-HALLAM-OFF-PLATFORM-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
 group: pro
 rank: 12
 ---

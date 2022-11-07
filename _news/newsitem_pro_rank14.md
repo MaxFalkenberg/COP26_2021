@@ -1,9 +1,9 @@
 ---
-publication: "thesun.co.uk"
-link: "https://www.thesun.co.uk/news/20343122/just-stop-oil-chief-nicked-motorway-plot/"
-title: "Eco mob mastermind nicked after The Sun blew whistle on plot to block M25"
-excerpt: "THE mastermind behind eco mob Just Stop Oil was nicked last night after The Sun blew the whistle on their plot to block the motorway network. Roger Hallam, 56, was being questioned after we told po…"
-image: "https://www.thesun.co.uk/wp-content/uploads/2022/11/ROB-HALLAM-OFF-PLATFORM-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/politics/2022/11/06/boris-johnson-will-urge-world-keep-net-zero-plan-cop27-speech/"
+title: "Boris Johnson will urge world to keep net zero plan in Cop27 speech"
+excerpt: "Ex-PM says mission to drive down fossil fuel use must not be disrupted by war in Ukraine and 'corrosive cynicism'"
+image: "https://www.telegraph.co.uk/content/dam/politics/2022/11/06/TELEMMGLPICT000315336204_trans_NvBQzQNjv4BqtMyiJIkNU3shY9HjSd3eOlVHX5gVWnokUmFudJiSXB0.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 14
 ---

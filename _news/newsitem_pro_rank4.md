@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/climate-change/cop27-climate-oil-gas-kerry-b2218302.html"
-title: "Joe Biden’s climate envoy warns UK against North Sea oil and gas expansion"
-excerpt: "New drilling ‘isn’t going to make the difference today, or tomorrow, or in the next month – because it’s just not going to be available’ "
-image: "https://static.independent.co.uk/2022/11/03/14/22130824-035976b8-4e6f-41fc-8bbd-17903eb07ccf.png?quality=75&width=1200&auto=webp"
+publication: "foreignpolicy.com"
+link: "https://foreignpolicy.com/2022/11/06/climate-cop27-emissions-adaptation-development-energy-africa-developing-countries-global-south/"
+title: "The Obvious Climate Strategy Nobody Will Talk About"
+excerpt: "Economic development is the only proven path to climate resilience."
+image: "https://foreignpolicy.com/wp-content/uploads/2022/11/Central-Africa-Flood-GettyImages-1178775661.jpg?w=1000"
 group: pro
 rank: 4
 ---
