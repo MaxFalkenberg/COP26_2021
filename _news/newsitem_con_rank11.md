@@ -1,9 +1,9 @@
 ---
-publication: "yoursforscotlandcom.wordpress.com"
-link: "https://yoursforscotlandcom.wordpress.com/2022/11/06/as-cop-27-opens/"
-title: "AS COP 27 OPENS"
-excerpt: "A guest post from Fiona Sinclair The COP 27 climate conference begins today in Sharm-El Sheikh in Egypt. Those countries deemed most vulnerable to the effects of climate change, because they are so…"
-image: "https://yoursforscotlandcom.files.wordpress.com/2021/02/image-9.jpeg"
+publication: "news.cgtn.com"
+link: "https://news.cgtn.com/news/2022-11-06/COP27-kicks-off-in-Egypt-Here-are-three-things-you-need-to-know-1eK77dZSJHy/index.html"
+title: "COP27 kicks off in Egypt: Here are three things you need to know"
+excerpt: "The biggest and most important climate-related conference this year - COP27 - opened Sunday afternoon in the Egyptian coastal city of Sharm El Sheikh."
+image: "https://news.cgtn.com/news/2022-11-06/COP27-kicks-off-in-Egypt-Here-are-three-things-you-need-to-know-1eK77dZSJHy/img/bfcb69e7380a43c29b0ca0a71ad15901/bfcb69e7380a43c29b0ca0a71ad15901-750.png"
 group: con
 rank: 11
 ---
