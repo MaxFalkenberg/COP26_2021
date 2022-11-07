@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-07/World-Leaders-Summit-of-COP27-kicks-off-in-Egypt-1eLANWr42L6/index.html"
-title: "World Leaders Summit of COP27 kicks off in Egypt"
-excerpt: "The World Leaders Summit of the 27th United Nations Climate Change Conference (COP27) got underway on Monday in the Egyptian city of Sharm el-Sheikh.United Nations Secretary General Antonio Guterres t"
-image: "https://news.cgtn.com/news/2022-11-07/World-Leaders-Summit-of-COP27-kicks-off-in-Egypt-1eLANWr42L6/img/05add5af3e474f38a82014a4753f4ed1/05add5af3e474f38a82014a4753f4ed1-750.png"
+publication: "action4equalityscotland.blogspot.com"
+link: "https://action4equalityscotland.blogspot.com/2022/11/j-is-for-junket.html"
+title: "J Is For Junket"
+excerpt: "Campaigning and organising on equality issues - and around the politics of standing up for the little guy against the big guy"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7O1r5zmDeLesOJeI5wt5ZdzRfVjRSQQyD9RHZOmeEolhjOg9x5hJ6MYLxVM31U95siLjDT79z00t2iOEsf1u5AkctI5gzumC8sYfb17g5gCcD_peIsOLg3TzTg5PQg_0I6l0u7Ecug8ZeAp3-_N3IRPN38yf4H6M4bawDnnFfHaFBb9-LUDwi_Qf/w1200-h630-p-k-no-nu/COP26.jpg"
 group: con
 rank: 11
 ---

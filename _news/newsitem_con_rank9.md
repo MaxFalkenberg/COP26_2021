@@ -1,9 +1,9 @@
 ---
-publication: "newsmax.com"
-link: "https://www.newsmax.com/newsfront/COP27/2022/11/06/id/1095062/"
-title: "World in Crisis a Grim Backdrop for UN Climate Talks"
-excerpt: "Envoys from around the globe gathered Sunday in the Egyptian seaside resort of Sharm el-Sheikh for talks on tackling climate change amid a multitude of competing crises, including the war in Ukraine, "
-image: "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=8a6e1792-a849-4637-bca4-388beaee9332&SiteName=Newsmax"
+publication: "londongreenleft.blogspot.com"
+link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
+title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
+excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
 group: con
 rank: 9
 ---

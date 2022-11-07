@@ -1,9 +1,9 @@
 ---
 publication: "trtworld.com"
 link: "https://www.trtworld.com/life/fight-of-our-lives-world-leaders-urged-to-choose-climate-solidarity-62326"
-title: "'Fight of our lives': World leaders urged to choose climate solidarity"
-excerpt: "UN chief Antonio Guterres calls for a 'historic' deal between rich countries and emerging economies that would aim to reduce emissions and keep the temperature rise to above the pre-industrial era."
-image: "https://cdni0.trtworld.com/w480/h270/q75/143584_egyclimatesummitaa_1667823811831.jpg"
+title: "COP27: UN unveils plan to build $3B global 'early warning' system"
+excerpt: "Humanity is in 'the fight of our lives' as climate crisis intensifies droughts, floods and heatwaves, UN chief Antonio Guterres warned leaders at the COP27 climate summit in Egypt."
+image: "https://cdni0.trtworld.com/w480/h270/q75/000_32MZ4Q7_1667847907966.jpg"
 group: con
 rank: 3
 ---
