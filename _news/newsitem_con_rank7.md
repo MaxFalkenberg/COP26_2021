@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/06/review-an-inconvenient-apocalypse-by-wes-jackson-and-robert-jensen-ecologicalcrisis-climatecrisis-economiccrisis-cop27-tellthetruth-limitstogrowth/"
-title: "Review: An Inconvenient Apocalypse by Wes Jackson and Robert Jensen #EcologicalCrisis #ClimateCrisis #EconomicCrisis #COP27 #TellTheTruth #LimitsToGrowth"
-excerpt: "By Frank Kaminski An Inconvenient Apocalypse: Environmental Collapse, Climate Crisis, and the Fate of HumanityBy Wes Jackson and Robert Jensen184 pp. University of Notre Dame Press, Sept. 2022. $24…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/09/img_1613.jpg"
+publication: "newsmax.com"
+link: "https://www.newsmax.com/newsfront/COP27/2022/11/06/id/1095062/"
+title: "World in Crisis a Grim Backdrop for UN Climate Talks"
+excerpt: "Envoys from around the globe gathered Sunday in the Egyptian seaside resort of Sharm el-Sheikh for talks on tackling climate change amid a multitude of competing crises, including the war in Ukraine, "
+image: "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=8a6e1792-a849-4637-bca4-388beaee9332&SiteName=Newsmax"
 group: con
 rank: 7
 ---
