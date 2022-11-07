@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/politics/2022/11/06/boris-johnson-will-urge-world-keep-net-zero-plan-cop27-speech/"
-title: "Boris Johnson will urge world to keep net zero plan in Cop27 speech"
-excerpt: "Ex-PM says mission to drive down fossil fuel use must not be disrupted by war in Ukraine and 'corrosive cynicism'"
-image: "https://www.telegraph.co.uk/content/dam/politics/2022/11/06/TELEMMGLPICT000315336204_trans_NvBQzQNjv4BqtMyiJIkNU3shY9HjSd3eOlVHX5gVWnokUmFudJiSXB0.jpeg?impolicy=logo-overlay"
+publication: "theintercept.com"
+link: "https://theintercept.com/2022/10/07/egypt-cop27-climate-prisoners-alaa/"
+title: "Holding the COP27 Summit in Egypt’s Police State Creates a Moral Crisis for the Climate Movement"
+excerpt: "The ongoing hunger strike of Egyptian political prisoner Alaa Abd El Fattah forcefully reminds us that there can be no meaningful climate action without political freedom."
+image: "https://theintercept.imgix.net/wp-uploads/sites/1/2022/10/GettyImages-467968752-climate-egypt-protest-alaa.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
 group: pro
 rank: 16
 ---

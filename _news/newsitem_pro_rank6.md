@@ -1,11 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/07/cop27-egypt-climate-conference-live-updates/"
-title: "COP27 live updates: U.N. chief calls for global climate pact, warning of ‘highway to climate hell’"
-excerpt: "“Humanity has a choice: cooperate or perish,” U.N. Secretary General António Guterres said. “It is either a climate solidarity pact — or a collective suicide pact.”
-
-"
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-07-2022/t_2520cacdcf3f4fb895ad7810906a8f60_name_20221104_Doughnut_Molotov_00_00_52_20_Still021.jpg&w=1440"
+publication: "dailymail.co.uk"
+link: "https://www.dailymail.co.uk/news/article-11397881/Sunak-arrives-COP27-summit-amid-clime-change-reparations-row.html"
+title: "Sunak arrives at COP27 summit amid clime change 'reparations' row"
+excerpt: "Rishi Sunak is in Egypt for the gathering - his first test on the foreign stage since entering No10 - having U-turned on his original decision not to attend."
+image: "https://i.dailymail.co.uk/1s/2022/11/07/10/64268861-0-image-a-31_1667818580932.jpg"
 group: pro
 rank: 6
 ---
