@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/07/WS63684281a3105ca1f227454b.html"
-title: "Climate urgency stressed at COP27"
-excerpt: "The world needs to act urgently to increase the political will to fight climate change and transform words into actions, which was described at the opening on Sunday of a key global conference on clim"
-image: "http://img2.chinadaily.com.cn/images/202211/07/63684a0fa3105ca157c060bf.jpeg"
+publication: "newsmax.com"
+link: "https://www.newsmax.com/newsfront/COP27/2022/11/06/id/1095062/"
+title: "World in Crisis a Grim Backdrop for UN Climate Talks"
+excerpt: "Envoys from around the globe gathered Sunday in the Egyptian seaside resort of Sharm el-Sheikh for talks on tackling climate change amid a multitude of competing crises, including the war in Ukraine, "
+image: "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=8a6e1792-a849-4637-bca4-388beaee9332&SiteName=Newsmax"
 group: con
 rank: 8
 ---
