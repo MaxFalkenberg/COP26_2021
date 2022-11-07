@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/uk-63527460"
-title: "COP27: Rishi Sunak urges world to move faster on renewable energy"
-excerpt: "Rishi Sunak faces criticism on climate policy as he travels to the COP27 summit in Egypt on Sunday."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/175E/production/_127528950_242cf9dc0e7c56f57a26de0d5f9874e8058bf21c.jpg"
+publication: "thenational.scot"
+link: "https://www.thenational.scot/news/23105864.boris-johnson-declares-spirit-glasgow-cop27/"
+title: "Scotland reacts as Boris Johnson declares himself the 'spirit of Glasgow' at COP27"
+excerpt: "BORIS Johnson has said a lot of questionable things in his time in politics but his most recent statement at the COP27 climate conference is a… "
+image: "https://www.thenational.scot/resources/images/13188780/?type=og-image"
 group: pro
 rank: 13
 ---
