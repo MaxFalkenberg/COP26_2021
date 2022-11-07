@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/politics/2022/11/06/boris-johnson-will-urge-world-keep-net-zero-plan-cop27-speech/"
-title: "Boris Johnson will urge world to keep net zero plan in Cop27 speech"
-excerpt: "Ex-PM says mission to drive down fossil fuel use must not be disrupted by war in Ukraine and 'corrosive cynicism'"
-image: "https://www.telegraph.co.uk/content/dam/politics/2022/11/06/TELEMMGLPICT000315336204_trans_NvBQzQNjv4BqtMyiJIkNU3shY9HjSd3eOlVHX5gVWnokUmFudJiSXB0.jpeg?impolicy=logo-overlay"
+publication: "thenation.com"
+link: "https://www.thenation.com/article/culture/alaa-abd-el-fattah-essays/"
+title: "Alaa Abd el-Fattah and the Hope of a Generation"
+excerpt: "In the essays of You Have Not Yet Been Defeated, the Egyptian activist and blogger reminds us that democracy flourishes and falters at the interstices, the in-between spaces, and the squares where rev"
+image: "https://www.thenation.com/wp-content/uploads/2022/06/GettyImages-1147419612.jpg"
 group: pro
 rank: 14
 ---

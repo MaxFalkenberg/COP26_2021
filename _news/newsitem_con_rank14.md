@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/middle-east/2022/11/07/French-President-Macron-urges-US-China-to-pay-their-fair-share-on-climate-"
-title: "French President Macron urges US, China to pay their fair share on climate  "
-excerpt: "French President Emmanuel Macron on Monday urged the United States, China and other non-European rich nations ahead of COP27 talks to pay their fair share"
-image: "https://vid.alarabiya.net/images/2022/11/07/88c48d86-8e44-419d-b7ee-4830c7683ab5/88c48d86-8e44-419d-b7ee-4830c7683ab5_16x9_600x338.jpg"
+publication: "yoursforscotlandcom.wordpress.com"
+link: "https://yoursforscotlandcom.wordpress.com/2022/11/06/as-cop-27-opens/"
+title: "AS COP 27 OPENS"
+excerpt: "A guest post from Fiona Sinclair The COP 27 climate conference begins today in Sharm-El Sheikh in Egypt. Those countries deemed most vulnerable to the effects of climate change, because they are so…"
+image: "https://yoursforscotlandcom.files.wordpress.com/2021/02/image-9.jpeg"
 group: con
 rank: 14
 ---

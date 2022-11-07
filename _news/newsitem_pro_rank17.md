@@ -1,9 +1,9 @@
 ---
-publication: "thenational.scot"
-link: "https://www.thenational.scot/news/23104264.world-leaders-urged-follow-nicola-sturgeons-lead-climate-change-compensation/"
-title: "World leaders urged to follow Scotland’s lead on climate change compensation"
-excerpt: "GLOBAL leaders are being urged to follow the lead of First Minister Nicola Sturgeon by pledging money to compensate countries suffering the most… "
-image: "https://www.thenational.scot/resources/images/13704500/?type=og-image"
+publication: "u.afp.com"
+link: "http://u.afp.com/iSjs"
+title: "World risks 'collective suicide', UN chief warns climate summit"
+excerpt: "UN chief Antonio Guterres warned world leaders at a climate summit in Egypt on Monday that humanity faces a stark choice between working together or 'collective suicide' in the battle against global w"
+image: "https://media.zenfs.com/en/afp.com.sg/dcacc0f03403e1d1e2fc4a0bafbd37bc"
 group: pro
 rank: 17
 ---

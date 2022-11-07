@@ -1,9 +1,9 @@
 ---
-publication: "dailymail.co.uk"
-link: "https://www.dailymail.co.uk/news/article-11397881/Sunak-arrives-COP27-summit-amid-clime-change-reparations-row.html"
-title: "Sunak arrives at COP27 summit amid clime change 'reparations' row"
-excerpt: "Rishi Sunak is in Egypt for the gathering - his first test on the foreign stage since entering No10 - having U-turned on his original decision not to attend."
-image: "https://i.dailymail.co.uk/1s/2022/11/07/10/64268861-0-image-a-31_1667818580932.jpg"
+publication: "foreignpolicy.com"
+link: "https://foreignpolicy.com/2022/11/06/climate-cop27-emissions-adaptation-development-energy-africa-developing-countries-global-south/"
+title: "The Obvious Climate Strategy Nobody Will Talk About"
+excerpt: "Economic development is the only proven path to climate resilience."
+image: "https://foreignpolicy.com/wp-content/uploads/2022/11/Central-Africa-Flood-GettyImages-1178775661.jpg?w=1000"
 group: pro
 rank: 5
 ---

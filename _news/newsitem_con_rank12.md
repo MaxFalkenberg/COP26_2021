@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/justtwothings/p/7-november-2022-food-ai"
-title: "7 November 2022. Food | AI"
-excerpt: "How to feed the planet. // AI and the corporate capture of the imagination."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb32da317-8a3b-4494-afe2-b04cfa9a392f_900x504.webp"
+publication: "news.cgtn.com"
+link: "https://news.cgtn.com/news/2022-11-07/World-Leaders-Summit-of-COP27-kicks-off-in-Egypt-1eLANWr42L6/index.html"
+title: "World Leaders Summit of COP27 kicks off in Egypt"
+excerpt: "The World Leaders Summit of the 27th United Nations Climate Change Conference (COP27) got underway on Monday in the Egyptian city of Sharm el-Sheikh.United Nations Secretary General Antonio Guterres t"
+image: "https://news.cgtn.com/news/2022-11-07/World-Leaders-Summit-of-COP27-kicks-off-in-Egypt-1eLANWr42L6/img/05add5af3e474f38a82014a4753f4ed1/05add5af3e474f38a82014a4753f4ed1-750.png"
 group: con
 rank: 12
 ---
