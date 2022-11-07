@@ -1,9 +1,9 @@
 ---
 publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63517078"
-title: "COP27: 'Climate chaos' warning as UN summit begins"
-excerpt: "Egypt urges nations to turn pledges into action as the UN climate conference opens."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/A3D7/production/_127534914_7c8393641ba3745c95db58367a506d7d8b7fa8f80_378_3632_20433632x2043.jpg"
+link: "https://www.bbc.co.uk/news/uk-63527460"
+title: "COP27: Rishi Sunak urges world to move faster on renewable energy"
+excerpt: "Rishi Sunak faces criticism on climate policy as he travels to the COP27 summit in Egypt on Sunday."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/175E/production/_127528950_242cf9dc0e7c56f57a26de0d5f9874e8058bf21c.jpg"
 group: pro
 rank: 12
 ---

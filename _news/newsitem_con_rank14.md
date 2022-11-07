@@ -1,9 +1,9 @@
 ---
-publication: "globaltimes.cn"
-link: "https://www.globaltimes.cn/page/202211/1278875.shtml"
-title: "Carbon dioxide emissions China produces per unit of GDP in 2021 50.8% lower than in 2005: envoy"
-excerpt: "China has made remarkable progress toward its goals of reaching peak carbon emissions and carbon neutralization, China's Special Envoy for Climate Change Xie Zhenhua said Sunday during this year's UN "
-image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-10-31/dd7537f3-c8ba-46d3-9e57-0c2e847b48d8_s.jpeg"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/06/COP27-explainer-What-is-Loss-and-Damage-compensation-and-who-should-pay-"
+title: "COP27 explainer: What is ‘Loss and Damage’ compensation, and who should pay?"
+excerpt: "Nearly 200 countries gathering for the UN climate conference in Egypt are expected to lock horns over whether rich nations should pay compensation to"
+image: "https://vid.alarabiya.net/images/2022/11/02/ce097661-639d-4649-878a-108c0542e383/ce097661-639d-4649-878a-108c0542e383_16x9_600x338.JPG"
 group: con
 rank: 14
 ---

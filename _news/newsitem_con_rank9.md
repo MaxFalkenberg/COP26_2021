@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-07/World-Leaders-Summit-of-COP27-kicks-off-in-Egypt-1eLANWr42L6/index.html"
-title: "World Leaders Summit of COP27 kicks off in Egypt"
-excerpt: "The World Leaders Summit of the 27th United Nations Climate Change Conference (COP27) got underway on Monday in the Egyptian city of Sharm el-Sheikh."
-image: "https://news.cgtn.com/resource/default/img/breaking.png"
+publication: "newsmax.com"
+link: "https://www.newsmax.com/newsfront/COP27/2022/11/06/id/1095062/"
+title: "World in Crisis a Grim Backdrop for UN Climate Talks"
+excerpt: "Envoys from around the globe gathered Sunday in the Egyptian seaside resort of Sharm el-Sheikh for talks on tackling climate change amid a multitude of competing crises, including the war in Ukraine, "
+image: "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=8a6e1792-a849-4637-bca4-388beaee9332&SiteName=Newsmax"
 group: con
 rank: 9
 ---

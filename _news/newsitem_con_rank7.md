@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/07/WS63685bdda3105ca1f22745e7.html"
-title: "China, Kenya foster cooperation on climate, energy"
-excerpt: "With the global community looking forward to the 27th session of the Conference of the Parties to the United Nations Framework Convention on Climate Change, or COP27, which opened on Sunday in Sharm E"
-image: "http://img2.chinadaily.com.cn/images/202211/07/63685bdda3105ca157c0698f.jpeg"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1278847.shtml"
+title: "COP27 kicks off in Egypt, with rich countries under scrutiny on fulfilling promises"
+excerpt: "This year's UN climate summit in Egypt, which kicked off after a year of devastating natural disasters and energy crisis, will focus on industrialized countries' commitment on tackling global warming,"
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/974d4b5c-d5ae-4913-a33f-e6a302b23b84_s.jpeg"
 group: con
 rank: 7
 ---
