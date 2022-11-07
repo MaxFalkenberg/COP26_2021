@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/07/WS63685bdda3105ca1f22745e7.html"
-title: "China, Kenya foster cooperation on climate, energy"
-excerpt: "With the global community looking forward to the 27th session of the Conference of the Parties to the United Nations Framework Convention on Climate Change, or COP27, which opened on Sunday in Sharm E"
-image: "http://img2.chinadaily.com.cn/images/202211/07/63685bdda3105ca157c0698f.jpeg"
+publication: "newsmax.com"
+link: "https://www.newsmax.com/newsfront/COP27/2022/11/06/id/1095062/"
+title: "World in Crisis a Grim Backdrop for UN Climate Talks"
+excerpt: "Envoys from around the globe gathered Sunday in the Egyptian seaside resort of Sharm el-Sheikh for talks on tackling climate change amid a multitude of competing crises, including the war in Ukraine, "
+image: "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=8a6e1792-a849-4637-bca4-388beaee9332&SiteName=Newsmax"
 group: con
 rank: 11
 ---

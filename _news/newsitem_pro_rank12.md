@@ -1,9 +1,9 @@
 ---
-publication: "thesun.co.uk"
-link: "https://www.thesun.co.uk/news/20343122/just-stop-oil-chief-nicked-motorway-plot/"
-title: "Eco mob mastermind nicked after The Sun blew whistle on plot to block M25"
-excerpt: "THE mastermind behind eco mob Just Stop Oil was nicked last night after The Sun blew the whistle on their plot to block the motorway network. Roger Hallam, 56, was being questioned after we told po…"
-image: "https://www.thesun.co.uk/wp-content/uploads/2022/11/ROB-HALLAM-OFF-PLATFORM-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+publication: "foreignpolicy.com"
+link: "https://foreignpolicy.com/2022/11/06/climate-cop27-emissions-adaptation-development-energy-africa-developing-countries-global-south/"
+title: "The Obvious Climate Strategy Nobody Will Talk About"
+excerpt: "Economic development is the only proven path to climate resilience."
+image: "https://foreignpolicy.com/wp-content/uploads/2022/11/Central-Africa-Flood-GettyImages-1178775661.jpg?w=1000"
 group: pro
 rank: 12
 ---
