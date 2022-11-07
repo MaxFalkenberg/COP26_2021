@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/world/2022/11/06/COP27-explainer-What-is-Loss-and-Damage-compensation-and-who-should-pay-"
-title: "COP27 explainer: What is ‘Loss and Damage’ compensation, and who should pay?"
-excerpt: "Nearly 200 countries gathering for the UN climate conference in Egypt are expected to lock horns over whether rich nations should pay compensation to"
-image: "https://vid.alarabiya.net/images/2022/11/02/ce097661-639d-4649-878a-108c0542e383/ce097661-639d-4649-878a-108c0542e383_16x9_600x338.JPG"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1278847.shtml"
+title: "COP27 kicks off in Egypt, with rich countries under scrutiny on fulfilling promises"
+excerpt: "This year's UN climate summit in Egypt, which kicked off after a year of devastating natural disasters and energy crisis, will focus on industrialized countries' commitment on tackling global warming,"
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/974d4b5c-d5ae-4913-a33f-e6a302b23b84_s.jpeg"
 group: con
 rank: 6
 ---
