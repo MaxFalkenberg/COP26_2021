@@ -1,9 +1,9 @@
 ---
-publication: "foreignpolicy.com"
-link: "https://foreignpolicy.com/2022/11/06/climate-cop27-emissions-adaptation-development-energy-africa-developing-countries-global-south/"
-title: "The Obvious Climate Strategy Nobody Will Talk About"
-excerpt: "Economic development is the only proven path to climate resilience."
-image: "https://foreignpolicy.com/wp-content/uploads/2022/11/Central-Africa-Flood-GettyImages-1178775661.jpg?w=1000"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/uk-63527460"
+title: "COP27: Rishi Sunak urges world to move faster on renewable energy"
+excerpt: "Rishi Sunak faces criticism on climate policy as he travels to the COP27 summit in Egypt on Sunday."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/175E/production/_127528950_242cf9dc0e7c56f57a26de0d5f9874e8058bf21c.jpg"
 group: pro
 rank: 12
 ---
