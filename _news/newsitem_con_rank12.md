@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/07/ecologicalcrisis-climatecrisis-economiccrisis-hyperthreat-tellthetruth-cop27-demand-climateaction-sdg13/"
-title: "#EcologicalCrisis + #ClimateCrisis = #EconomicCrisis #Hyperthreat #TellTheTruth #COP27 demand #ClimateAction #SDG13"
-excerpt: "How do we act, when all the options open to us will result in harm. This piece seeks to acknowledge and accept this dilemma, that there maybe no clear resolution. Yet each one of us – if we are hon…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1966.jpg"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1278818.shtml"
+title: "West adopts 'all talk' approach as China sticks firmly to its role as a real force for climate action"
+excerpt: "The contrasting demands from developed countries and developing ones and the lack of concerted global efforts to curb climate change should be attributed to the malfunctioning of the West-led global o"
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/0b6d47ed-5d2e-4c9d-aca3-efc0df2793d0.jpeg"
 group: con
 rank: 12
 ---
