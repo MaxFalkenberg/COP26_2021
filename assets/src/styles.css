@@ -17,6 +17,9 @@ main { min-height: calc(100vh - 400px); }
     padding-left:  10vw;
     padding-right: 10vw;
   }
+  footer div {
+    width: calc(100vw - 50px);
+  }
 }
 @media screen and (max-width: 599px) {
   nav, main {
@@ -26,6 +29,9 @@ main { min-height: calc(100vh - 400px); }
   footer {
     padding-left:  25px;
     padding-right: 25px;
+  }
+  footer div {
+    width: calc(100vw - 50px);
   }
 }
 footer {
@@ -187,12 +193,17 @@ img {
 .controls {
   z-index: 100;
   position: absolute;
-  top: 260px;
+  top: 316px;
   left: 3px;
   border: 1px solid rgba(0,0,0,0.2);
   background: rgba(255,255,255,0.8);
   text-align: left;
   padding: 10px 5px;
+}
+@media screen and (max-width: 599px) {
+  .controls {
+    top: 460px;
+  }
 }
 
 svg {
@@ -242,6 +253,11 @@ svg {
   font-size: 14px;
   text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
 }
+
+/* Visualisation list */
+.vis-list img {
+    max-width: 300px;
+ }
 
 
 /* Hashtags page */
