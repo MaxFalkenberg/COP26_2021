@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/06/review-an-inconvenient-apocalypse-by-wes-jackson-and-robert-jensen-ecologicalcrisis-climatecrisis-economiccrisis-cop27-tellthetruth-limitstogrowth/"
-title: "Review: An Inconvenient Apocalypse by Wes Jackson and Robert Jensen #EcologicalCrisis #ClimateCrisis #EconomicCrisis #COP27 #TellTheTruth #LimitsToGrowth"
-excerpt: "By Frank Kaminski An Inconvenient Apocalypse: Environmental Collapse, Climate Crisis, and the Fate of HumanityBy Wes Jackson and Robert Jensen184 pp. University of Notre Dame Press, Sept. 2022. $24…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/09/img_1613.jpg"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/07/WS63685bdda3105ca1f22745e7.html"
+title: "China, Kenya foster cooperation on climate, energy"
+excerpt: "With the global community looking forward to the 27th session of the Conference of the Parties to the United Nations Framework Convention on Climate Change, or COP27, which opened on Sunday in Sharm E"
+image: "http://img2.chinadaily.com.cn/images/202211/07/63685bdda3105ca157c0698f.jpeg"
 group: con
 rank: 10
 ---
