@@ -36,7 +36,7 @@ COP27 retweets by users from the COP26 pro-climate majority.
     <h2>Opposed minority</h2>
     <div id="graph_con"></div>
 <p class="text-center">
-COP27 retweets by users from the COP26 sceptical majority.
+COP27 retweets by users from the COP26 sceptical minority.
 </p>   
 </div>
 </div>
