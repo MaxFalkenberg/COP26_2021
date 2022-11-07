@@ -1,9 +1,9 @@
 ---
-publication: "yoursforscotlandcom.wordpress.com"
-link: "https://yoursforscotlandcom.wordpress.com/2022/11/06/as-cop-27-opens/"
-title: "AS COP 27 OPENS"
-excerpt: "A guest post from Fiona Sinclair The COP 27 climate conference begins today in Sharm-El Sheikh in Egypt. Those countries deemed most vulnerable to the effects of climate change, because they are so…"
-image: "https://yoursforscotlandcom.files.wordpress.com/2021/02/image-9.jpeg"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1278875.shtml"
+title: "Carbon dioxide emissions China produces per unit of GDP in 2021 50.8% lower than in 2005: envoy"
+excerpt: "China has made remarkable progress toward its goals of reaching peak carbon emissions and carbon neutralization, China's Special Envoy for Climate Change Xie Zhenhua said Sunday during this year's UN "
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-10-31/dd7537f3-c8ba-46d3-9e57-0c2e847b48d8_s.jpeg"
 group: con
 rank: 12
 ---
