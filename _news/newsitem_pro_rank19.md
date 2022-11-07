@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/alaa-abdel-fattah-will-die-in-an-egyptian-jail-this-week-unless-rishi-sunak-saves-him-5zz2g20md"
-title: "Alaa Abdel Fattah will die in an Egyptian jail this week unless Rishi Sunak saves him"
-excerpt: "In foreign policy, it’s the unplanned events that make or break a prime minister. Rishi Sunak’s trip to Egypt this week won’t be remembered for the Cop27 clima"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F9edc90b4-5d52-11ed-aecd-3ad6d7298755.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/uk-63527460"
+title: "COP27: Rishi Sunak urges world to move faster on renewable energy"
+excerpt: "Rishi Sunak faces criticism on climate policy as he travels to the COP27 summit in Egypt on Sunday."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/175E/production/_127528950_242cf9dc0e7c56f57a26de0d5f9874e8058bf21c.jpg"
 group: pro
 rank: 19
 ---
