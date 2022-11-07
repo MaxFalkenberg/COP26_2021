@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/07/WS63684281a3105ca1f227454b.html"
-title: "Climate urgency stressed at COP27"
-excerpt: "The world needs to act urgently to increase the political will to fight climate change and transform words into actions, which was described at the opening on Sunday of a key global conference on clim"
-image: "http://img2.chinadaily.com.cn/images/202211/07/63684a0fa3105ca157c060bf.jpeg"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1278847.shtml"
+title: "COP27 kicks off in Egypt, with rich countries under scrutiny on fulfilling promises"
+excerpt: "This year's UN climate summit in Egypt, which kicked off after a year of devastating natural disasters and energy crisis, will focus on industrialized countries' commitment on tackling global warming,"
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/974d4b5c-d5ae-4913-a33f-e6a302b23b84_s.jpeg"
 group: con
 rank: 6
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/life/crucial-loss-and-damage-reparations-included-in-cop27-agenda-62300"
-title: "Crucial 'loss and damage' reparations included in COP27 agenda"
-excerpt: "Inclusion of the agenda item 'reflects a sense of solidarity and empathy for the suffering of the victims of climate induced disasters,' said COP27 President Sameh Shukri of Egypt."
-image: "https://cdni0.trtworld.com/w480/h270/q75/143527_AP22310387981982_1667734239004.jpg"
+publication: "gulfnews.com"
+link: "https://gulfnews.com/opinion/op-eds/cop27-world-cant-defer-its-actions-on-climate-crises-1.91640563"
+title: "COP27: World can’t defer its actions on climate crises"
+excerpt: "Climate change demands a transformative response from the world’s most powerful countries"
+image: "https://imagevars.gulfnews.com/2021/04/25/Climate-change-_179089dd92d_medium.jpg"
 group: con
 rank: 3
 ---
