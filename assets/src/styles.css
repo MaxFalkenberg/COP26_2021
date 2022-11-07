@@ -360,9 +360,3 @@ svg tspan {
 #news-pro a:hover, #news-con a:hover {
     background: rgba(0,0,0,0.1);
 }
-#news-pro img, #news-con img {
-    filter: blur(10px);
-}
-#news-pro img:hover, #news-con img:hover {
-    filter: blur(0);
-}
