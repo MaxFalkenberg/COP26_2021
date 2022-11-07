@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/politics/2022/11/07/rishi-sunak-news-rishi-sunak-news-gavin-williamson-cop27-latest/"
-title: "Cop27 latest news: Rishi Sunak meets Emmanuel Macron at Cop27 - live updates"
-excerpt: None
-image: "https://www.telegraph.co.uk/content/dam/politics/2022/11/07/TELEMMGLPICT000315429901_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0gmyy-GsNrhPQbLesooHneHs.jpeg?impolicy=logo-overlay"
+publication: "dailymail.co.uk"
+link: "https://www.dailymail.co.uk/news/article-11397881/Sunak-arrives-COP27-summit-amid-clime-change-reparations-row.html"
+title: "Sunak arrives at COP27 summit amid clime change 'reparations' row"
+excerpt: "Rishi Sunak is in Egypt for the gathering - his first test on the foreign stage since entering No10 - having U-turned on his original decision not to attend."
+image: "https://i.dailymail.co.uk/1s/2022/11/07/10/64268861-0-image-a-31_1667818580932.jpg"
 group: pro
 rank: 4
 ---

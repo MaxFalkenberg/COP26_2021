@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/uk-63527460"
-title: "COP27: Rishi Sunak urges world to move faster on renewable energy"
-excerpt: "Rishi Sunak faces criticism on climate policy as he travels to the COP27 summit in Egypt on Sunday."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/175E/production/_127528950_242cf9dc0e7c56f57a26de0d5f9874e8058bf21c.jpg"
+publication: "thesun.co.uk"
+link: "https://www.thesun.co.uk/news/20343122/just-stop-oil-chief-nicked-motorway-plot/"
+title: "Eco mob mastermind nicked after The Sun blew whistle on plot to block M25"
+excerpt: "THE mastermind behind eco mob Just Stop Oil was nicked last night after The Sun blew the whistle on their plot to block the motorway network. Roger Hallam, 56, was being questioned after we told po…"
+image: "https://www.thesun.co.uk/wp-content/uploads/2022/11/ROB-HALLAM-OFF-PLATFORM-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
 group: pro
 rank: 12
 ---

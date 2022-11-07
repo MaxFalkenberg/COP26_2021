@@ -1,9 +1,9 @@
 ---
-publication: "londongreenleft.blogspot.com"
-link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
-title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
-excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/life/fight-of-our-lives-world-leaders-urged-to-choose-climate-solidarity-62326"
+title: "'Fight of our lives': World leaders urged to choose climate solidarity"
+excerpt: "UN chief Antonio Guterres calls for a 'historic' deal between rich countries and emerging economies that would aim to reduce emissions and keep the temperature rise to above the pre-industrial era."
+image: "https://cdni0.trtworld.com/w480/h270/q75/143584_egyclimatesummitaa_1667823811831.jpg"
 group: con
 rank: 3
 ---

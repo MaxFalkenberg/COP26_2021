@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/07/cop27-egypt-climate-conference-live-updates/"
-title: "COP27 live updates: ‘Cooperate or perish’: U.N. chief calls for global climate pact as leaders gather in Egypt"
-excerpt: "COP27 opening remarks continue in Sharm el-Sheikh, Egypt. A key flash point in the next two weeks of negotiations will be how wealthy nations will assist vulnerable countries and communities with the "
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-07-2022/t_2520cacdcf3f4fb895ad7810906a8f60_name_20221104_Doughnut_Molotov_00_00_52_20_Still021.jpg&w=1440"
+publication: "thenation.com"
+link: "https://www.thenation.com/article/culture/alaa-abd-el-fattah-essays/"
+title: "Alaa Abd el-Fattah and the Hope of a Generation"
+excerpt: "In the essays of You Have Not Yet Been Defeated, the Egyptian activist and blogger reminds us that democracy flourishes and falters at the interstices, the in-between spaces, and the squares where rev"
+image: "https://www.thenation.com/wp-content/uploads/2022/06/GettyImages-1147419612.jpg"
 group: pro
 rank: 10
 ---

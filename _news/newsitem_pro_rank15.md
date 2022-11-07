@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/politics/2022/11/06/boris-johnson-will-urge-world-keep-net-zero-plan-cop27-speech/"
-title: "Boris Johnson will urge world to keep net zero plan in Cop27 speech"
-excerpt: "Ex-PM says mission to drive down fossil fuel use must not be disrupted by war in Ukraine and 'corrosive cynicism'"
-image: "https://www.telegraph.co.uk/content/dam/politics/2022/11/06/TELEMMGLPICT000315336204_trans_NvBQzQNjv4BqtMyiJIkNU3shY9HjSd3eOlVHX5gVWnokUmFudJiSXB0.jpeg?impolicy=logo-overlay"
+publication: "thenational.scot"
+link: "https://www.thenational.scot/news/23104264.world-leaders-urged-follow-nicola-sturgeons-lead-climate-change-compensation/"
+title: "World leaders urged to follow Scotland’s lead on climate change compensation"
+excerpt: "GLOBAL leaders are being urged to follow the lead of First Minister Nicola Sturgeon by pledging money to compensate countries suffering the most… "
+image: "https://www.thenational.scot/resources/images/13704500/?type=og-image"
 group: pro
 rank: 15
 ---
