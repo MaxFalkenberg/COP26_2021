@@ -1,9 +1,9 @@
 ---
-publication: "zimbabweland.wordpress.com"
-link: "https://zimbabweland.wordpress.com/2022/11/07/why-cop27-needs-a-more-sophisticated-debate-about-livestock-and-climate-change/"
-title: "Why COP27 needs a more sophisticated debate about livestock and climate change"
-excerpt: "As the climate conference, COP27, kicks of in Sharm el Sheik in Egypt debates about agriculture and land use will be centre stage. And amongst these discussions the role of livestock in the future …"
-image: "https://zimbabweland.files.wordpress.com/2022/11/sheep.jpg"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/07/WS63685bdda3105ca1f22745e7.html"
+title: "China, Kenya foster cooperation on climate, energy"
+excerpt: "With the global community looking forward to the 27th session of the Conference of the Parties to the United Nations Framework Convention on Climate Change, or COP27, which opened on Sunday in Sharm E"
+image: "http://img2.chinadaily.com.cn/images/202211/07/63685bdda3105ca157c0698f.jpeg"
 group: con
 rank: 8
 ---

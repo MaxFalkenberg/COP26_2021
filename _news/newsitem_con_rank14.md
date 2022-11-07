@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-06/COP27-kicks-off-in-Egypt-Here-are-three-things-you-need-to-know-1eK77dZSJHy/index.html"
-title: "COP27 kicks off in Egypt: Here are three things you need to know"
-excerpt: "The biggest and most important climate-related conference this year - COP27 - opened Sunday afternoon in the Egyptian coastal city of Sharm El Sheikh."
-image: "https://news.cgtn.com/news/2022-11-06/COP27-kicks-off-in-Egypt-Here-are-three-things-you-need-to-know-1eK77dZSJHy/img/bfcb69e7380a43c29b0ca0a71ad15901/bfcb69e7380a43c29b0ca0a71ad15901-750.png"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/middle-east/2022/11/07/French-President-Macron-urges-US-China-to-pay-their-fair-share-on-climate-"
+title: "French President Macron urges US, China to pay their fair share on climate  "
+excerpt: "French President Emmanuel Macron on Monday urged the United States, China and other non-European rich nations ahead of COP27 talks to pay their fair share"
+image: "https://vid.alarabiya.net/images/2022/11/07/88c48d86-8e44-419d-b7ee-4830c7683ab5/88c48d86-8e44-419d-b7ee-4830c7683ab5_16x9_600x338.jpg"
 group: con
 rank: 14
 ---
