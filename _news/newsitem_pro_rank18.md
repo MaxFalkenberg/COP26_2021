@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop27-small-island-nations-want-big-oil-pay-up-climate-damage-2022-11-08/"
-title: "COP27: Polluters must pay for climate change, poor nations tell rich"
-excerpt: "Leaders from poor countries criticized wealthy governments and oil companies for driving global warming, using their speeches on Tuesday at the COP27 climate summit in Egypt to demand that they pay up"
-image: "https://www.reuters.com/resizer/e5GspTsT9weBfX4RVbc0hxt2pVo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K74WF6EQ7FLRHBKFWYOKOO4DGE.jpg"
+publication: "weforum.org"
+link: "https://www.weforum.org/events/united-nations-climate-change-conference-cop27-2022/sessions/first-movers-coalition-leaders-panel"
+title: "First Movers Coalition Leaders Panel"
+excerpt: "Coming together one year after the First Movers Coalition launch at COP27, Secretary John Kerry and Børge Brende, President, World Economic Forum, will share exciting announcements on the progress tha"
+image: "https://assets.weforum.org/event_session/image/responsive_medium_UZ2yhZLAaZrumm-0QUfSrwYYUdP7hTDXWTU-ShrFMyA.png"
 group: pro
 rank: 18
 ---

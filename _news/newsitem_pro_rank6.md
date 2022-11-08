@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/rishi-sunak-gavin-williamson-cop-27-egypt-latest-news-k9nbt83xw"
-title: "Tackle climate change for sake of world economy, Sunak urges Cop27"
-excerpt: "Britain faces both a moral responsibility and an economic necessity to tackle climate change, Rishi Sunak said in his first speech on the international stage"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fbcd8bd9a-5ec4-11ed-b307-a145cdf366c3.jpg?crop=3448%2C1940%2C17%2C223&resize=1200"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/environment/2022/11/07/china-pumps-pollution-eight-years-uk-since-industrial-revolution/"
+title: "China pumps out more pollution in eight years than UK since Industrial Revolution"
+excerpt: "CO2 emissions of 80bn tonnes from 2013 to 2020 is higher than Britain’s 78bn over 220 years"
+image: "https://www.telegraph.co.uk/content/dam/environment/2022/11/07/TELEMMGLPICT000283920967_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 6
 ---

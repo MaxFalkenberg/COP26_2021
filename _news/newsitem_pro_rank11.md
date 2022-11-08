@@ -5,5 +5,5 @@ title: "Boris Johnson races from COP26 on private jet to meet climate change sce
 excerpt: "The Mirror understands Prime Minister Boris Johnson flew 400 miles on a private jet to attend a reunion dinner for Daily Telegraph journalists, with self-confessed climate change sceptic Lord Moore - "
 image: "https://i2-prod.mirror.co.uk/incoming/article25371542.ece/ALTERNATES/s1200/0_Hypocrite-Johnson-EXCL.jpg"
 group: pro
-rank: 10
+rank: 11
 ---

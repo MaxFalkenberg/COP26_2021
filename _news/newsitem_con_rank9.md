@@ -1,9 +1,9 @@
 ---
-publication: "arabnews.com"
-link: "https://www.arabnews.com/node/2195206/business-economy"
-title: "Saudi Arabia commits $2.5bn to Middle East green initiative: Crown Prince"
-excerpt: "SHARM EL-SHEIKH: Saudi Arabia will contribute $2.5 billion to the Middle East Green Initiative over the next 10 years and host its headquarters in the Kingdom, Crown Prince Mohammed bin Salman said on"
-image: "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2022/11/07/3529846-1200457638.jpg?itok=lnjZu_Pu"
+publication: "esgadvocate.substack.com"
+link: "https://esgadvocate.substack.com/p/cop27-finance-is-the-litmus-test"
+title: "COP27: Finance is the litmus test"
+excerpt: "Emerging markets need protection and low cost capital. Who will step up?"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c94d645-3d6c-4cec-a9e6-4c3c1c1d0efe_1125x750.jpeg"
 group: con
 rank: 9
 ---

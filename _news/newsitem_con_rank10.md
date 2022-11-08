@@ -1,9 +1,9 @@
 ---
-publication: "esgadvocate.substack.com"
-link: "https://esgadvocate.substack.com/p/cop27-finance-is-the-litmus-test"
-title: "COP27: Finance is the litmus test"
-excerpt: "Emerging markets need protection and low cost capital. Who will step up?"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c94d645-3d6c-4cec-a9e6-4c3c1c1d0efe_1125x750.jpeg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/09/gday-cop27-australias-global-climate-reset-cop27-tellthetruth-highwaytohell-auspol-demand-climateaction-sdg13-juststopoil/"
+title: "G’Day COP27: Australia’s global climate reset #COP27 #TellTheTruth #HighwayToHell #auspol demand #ClimateAction #SDG13 #JustStopOil"
+excerpt: "Australia will once again be in the spotlight at this year’s United Nations (UN) climate talks in Egypt. After almost a decade of stalled climate policy, the federal government has legislated a new…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1969.jpg"
 group: con
 rank: 10
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "news.sky.com"
-link: "https://news.sky.com/story/cop27-latest-sunak-giving-speech-after-u-turn-taboo-issue-to-be-discussed-12740682"
-title: "COP27 latest: Pakistan makes emotional plea; 'deep fault line' emerges at summit; UK 'close to energy deal with US'"
-excerpt: "Coverage of the second day of COP27 in Sharm el-Sheikh, Egypt."
-image: "https://e3.365dm.com/22/11/1600x900/skynews-cop27-sharm-el-sheik_5957886.jpg?20221107203832"
+publication: "dailynews.com"
+link: "https://www.dailynews.com/2022/11/05/the-hypocrisy-and-illogic-of-the-un-climate-summit/"
+title: "The hypocrisy and illogic of the UN climate summit"
+excerpt: "Europe is scouring the world for more fossil fuels because the continent needs them for its growth and prosperity. That same opportunity should not be withheld from the world’s poorest."
+image: "https://www.dailynews.com/wp-content/uploads/2022/11/Russia_Ukraine_War_Gas_Misinformation_71673.jpg?w=1024&h=683"
 group: pro
 rank: 16
 ---

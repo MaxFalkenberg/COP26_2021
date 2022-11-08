@@ -1,9 +1,9 @@
 ---
-publication: "scotsman.com"
-link: "https://www.scotsman.com/news/opinion/columnists/nicola-sturgeons-grandstanding-at-cop27-in-egypt-is-pointless-she-should-be-focussed-on-problems-at-home-murdo-fraser-3909689"
-title: "Sturgeon's grandstanding at COP27 is a Mr Benn-style fantasy for the benefit of no one but herself – Murdo Fraser"
-excerpt: "Should Nicola Sturgeon ever be described as a ‘Bennite’ you can be sure it is nothing to do with the political beliefs of the legendary Labour left-winger, Tony Benn."
-image: "https://www.scotsman.com/webimg/b25lY21zOjM3YTQ4NmY2LWRhNGYtNDI2ZC1iMTBkLWM5OTRlNmY2MjI2NDphYjJmYjE5NS04NTM0LTRkNjQtYjJiOC0xY2YyZjVhOTQyYzM=.jpg?width=1200&enable=upscale"
+publication: "cbc.ca"
+link: "https://www.cbc.ca/news/world/un-cop27-climate-guterres-gore-1.6642844"
+title: "UN chief says world is 'on a highway to climate hell' without urgent action to cut emissions | CBC News"
+excerpt: "United Nations Secretary General Antonio Guterres told countries gathered at the start of the COP27 summit in Egypt on Monday they face a stark choice: work together now to cut emissions or condemn fu"
+image: "https://i.cbc.ca/1.6642854.1667824921!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1439721011.jpg"
 group: pro
 rank: 19
 ---
