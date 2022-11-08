@@ -1,9 +1,9 @@
 ---
 publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/politics/2022/11/07/rishi-sunak-strike-gas-deal-us-ease-energy-crisis/"
-title: "Rishi Sunak to strike gas deal with US to ease energy crisis"
-excerpt: "PM to announce 'partnership' to ship liquefied natural gas to allay blackout fears"
-image: "https://www.telegraph.co.uk/content/dam/politics/2022/11/07/TELEMMGLPICT000315441293_trans_NvBQzQNjv4BqNUmAuoxa99wuiW24GHOm6uil7a1KV2STY3xRqqFt_No.jpeg?impolicy=logo-overlay"
+link: "https://www.telegraph.co.uk/columnists/2022/11/08/cop27-dont-owe-developing-countries-climate-reparations-owe/"
+title: "We don’t owe developing countries ‘climate reparations’ – they owe us"
+excerpt: "We are on the hook for untold billions to countries experiencing adverse weather conditions, because we invented factories – and cars"
+image: "https://www.telegraph.co.uk/content/dam/columnists/2022/11/08/TELEMMGLPICT000315446064_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 6
 ---

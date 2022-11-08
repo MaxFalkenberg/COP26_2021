@@ -1,9 +1,9 @@
 ---
-publication: "presstv.ir"
-link: "https://www.presstv.ir/Detail/2022/11/07/692335/United-Nations-Antonio-Guterres-COP27-summit-highway-climate-hell-global-warming"
-title: "UN chief: World on ‘highway to climate hell’ amid rising temperatures, global warming"
-excerpt: "UN Secretary-General Guterres said the planet “is fast approaching tipping points that will make climate chaos irreversible.”"
-image: "https://cdn.presstv.ir/Photo/2022/11/7/20ad5081-873d-44fa-a49e-dcd239b38e5e.jpg"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1278933.shtml"
+title: "Unity, action urged to tackle global climate crisis as experts warn against COP27 entangled in politics"
+excerpt: "This year's COP27, convened after a year under the shadow of climate disasters and an energy crisis, appeared to have made some breakthrough to include loss and damage compensation into talks, in resp"
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-07/c99e0caa-73fc-492e-8064-c29376dbde28_s.jpeg"
 group: con
 rank: 14
 ---

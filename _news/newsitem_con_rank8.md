@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/08/WS6369456ca3105ca1f2274954.html"
-title: "Intl Drought Resilience Alliance launched at COP27"
-excerpt: " Leaders from nearly 50 countries and organizations on Monday launched the International Drought Resilience Alliance here at the ongoing COP27 to help countries to be better prepared for future drough"
-image: "http://img2.chinadaily.com.cn/images/202211/08/6369456ca3105ca157c09e95.jpeg"
+publication: "esgadvocate.substack.com"
+link: "https://esgadvocate.substack.com/p/cop27-finance-is-the-litmus-test"
+title: "COP27: Finance is the litmus test"
+excerpt: "Emerging markets need protection and low cost capital. Who will step up?"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c94d645-3d6c-4cec-a9e6-4c3c1c1d0efe_1125x750.jpeg"
 group: con
 rank: 8
 ---
