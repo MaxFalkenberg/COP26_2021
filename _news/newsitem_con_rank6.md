@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/07/WS6368a5bfa3105ca1f22747e5.html"
-title: "China to synergize reduction of pollution, carbon emissions"
-excerpt: "China will beef up actions to synergize the reduction of both pollution and carbon emissions as it forges ahead with its climate targets, said Zhao Yingmin, head of Chinese delegation to the COP 27 Un"
-image: "http://img2.chinadaily.com.cn/images/202211/07/6368a5bfa3105ca157c08578.jpeg"
+publication: "gulfnews.com"
+link: "https://gulfnews.com/opinion/op-eds/cop27-climate-crisis-threatens-global-health-1.91797058"
+title: "COP27: Climate crisis threatens global health"
+excerpt: "Climate change impacts social causes that promote good health, like sustainable livelihood"
+image: "https://imagevars.gulfnews.com/2022/11/07/OPN-COP27-climate_18451c67296_medium.jpg"
 group: con
 rank: 6
 ---

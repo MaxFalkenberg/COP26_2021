@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/politics/2022/11/06/boris-johnson-will-urge-world-keep-net-zero-plan-cop27-speech/"
-title: "Boris Johnson will urge world to keep net zero plan in Cop27 speech"
-excerpt: "Ex-PM says mission to drive down fossil fuel use must not be disrupted by war in Ukraine and 'corrosive cynicism'"
-image: "https://www.telegraph.co.uk/content/dam/politics/2022/11/06/TELEMMGLPICT000315336204_trans_NvBQzQNjv4BqtMyiJIkNU3shY9HjSd3eOlVHX5gVWnokUmFudJiSXB0.jpeg?impolicy=logo-overlay"
+publication: "reuters.com"
+link: "https://www.reuters.com/world/uk/uk-pledges-more-than-115-mln-developing-economies-tackle-climate-change-2022-11-07/"
+title: "UK pledges more than $115 mln to developing economies to tackle climate change"
+excerpt: "Britain's foreign minister James Cleverly on Monday will announce investments of more than 100 million pounds ($115 million) to support developing countries in their fight against the impact of climat"
+image: "https://www.reuters.com/resizer/YvyUev5APWFjGXX0ikWZI6U5if8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FONS623TUBMBPGX3RB27WVFKHA.jpg"
 group: pro
 rank: 18
 ---
