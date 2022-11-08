@@ -1,9 +1,9 @@
 ---
-publication: "esgadvocate.substack.com"
-link: "https://esgadvocate.substack.com/p/cop27-finance-is-the-litmus-test"
-title: "COP27: Finance is the litmus test"
-excerpt: "Emerging markets need protection and low cost capital. Who will step up?"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c94d645-3d6c-4cec-a9e6-4c3c1c1d0efe_1125x750.jpeg"
+publication: "presstv.ir"
+link: "https://www.presstv.ir/Detail/2022/11/07/692335/United-Nations-Antonio-Guterres-COP27-summit-highway-climate-hell-global-warming"
+title: "UN chief: World on ‘highway to climate hell’ amid rising temperatures, global warming"
+excerpt: "UN Secretary-General Guterres said the planet “is fast approaching tipping points that will make climate chaos irreversible.”"
+image: "https://cdn.presstv.ir/Photo/2022/11/7/20ad5081-873d-44fa-a49e-dcd239b38e5e.jpg"
 group: con
 rank: 11
 ---

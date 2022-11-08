@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/life/cop27-un-unveils-plan-to-build-3b-global-early-warning-system-62326"
-title: "COP27: UN unveils plan to build $3B global 'early warning' system"
-excerpt: "Humanity is in 'the fight of our lives' as climate crisis intensifies droughts, floods and heatwaves, UN chief Antonio Guterres warned leaders at the COP27 climate summit in Egypt."
-image: "https://cdni0.trtworld.com/w480/h270/q75/000_32MZ4Q7_1667847907966.jpg"
+publication: "esgadvocate.substack.com"
+link: "https://esgadvocate.substack.com/p/cop27-finance-is-the-litmus-test"
+title: "COP27: Finance is the litmus test"
+excerpt: "Emerging markets need protection and low cost capital. Who will step up?"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c94d645-3d6c-4cec-a9e6-4c3c1c1d0efe_1125x750.jpeg"
 group: con
 rank: 12
 ---
