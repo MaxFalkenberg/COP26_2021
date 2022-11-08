@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/08/WS6369422ca3105ca1f2274952.html"
-title: "COP27 seeks unity in tackling global climate crisis"
-excerpt: " The 27th session of the Conference of the Parties (COP27) to the United Nations Framework Convention on Climate Change (UNFCCC) started Sunday in the Egyptian coastal city of Sharm El-Sheikh, with co"
-image: "http://img2.chinadaily.com.cn/images/202211/08/6369422ca3105ca157c09e80.jpeg"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/middle-east/2022/11/07/French-President-Macron-urges-US-China-to-pay-their-fair-share-on-climate-"
+title: "French President Macron urges US, China to pay their fair share on climate  "
+excerpt: "French President Emmanuel Macron on Monday urged the United States, China and other non-European rich nations ahead of COP27 talks to pay their fair share"
+image: "https://vid.alarabiya.net/images/2022/11/07/88c48d86-8e44-419d-b7ee-4830c7683ab5/88c48d86-8e44-419d-b7ee-4830c7683ab5_16x9_600x338.jpg"
 group: con
 rank: 13
 ---
