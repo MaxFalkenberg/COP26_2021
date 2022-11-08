@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/rishi-sunak-gavin-williamson-cop-27-egypt-latest-news-k9nbt83xw"
-title: "Tackle climate change for sake of world economy, Sunak urges Cop27"
-excerpt: "Britain faces both a moral responsibility and an economic necessity to tackle climate change, Rishi Sunak said in his first speech on the international stage"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fbcd8bd9a-5ec4-11ed-b307-a145cdf366c3.jpg?crop=3448%2C1940%2C17%2C223&resize=1200"
+publication: "gizmodo.com"
+link: "https://gizmodo.com/coca-cola-sponsor-cop27-climate-change-1849716645"
+title: "Why Is Global Polluter Coca-Cola Sponsoring a Major Climate Conference?"
+excerpt: "Companies have learned they can use UN climate talks to deflect from their contributions to the global crisis."
+image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cb7998eda34aa2d0c8ea5e21b9372934.jpg"
 group: pro
 rank: 18
 ---

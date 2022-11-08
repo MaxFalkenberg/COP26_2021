@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/world/uk/uk-pledges-more-than-115-mln-developing-economies-tackle-climate-change-2022-11-07/"
-title: "UK pledges more than $115 mln to developing economies to tackle climate change"
-excerpt: "Britain's foreign minister James Cleverly on Monday will announce investments of more than 100 million pounds ($115 million) to support developing countries in their fight against the impact of climat"
-image: "https://www.reuters.com/resizer/YvyUev5APWFjGXX0ikWZI6U5if8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FONS623TUBMBPGX3RB27WVFKHA.jpg"
+publication: "mirror.co.uk"
+link: "https://www.mirror.co.uk/news/politics/boris-johnson-races-back-cop-25371485.amp"
+title: "Boris Johnson races from COP26 on private jet to meet climate change sceptic pal"
+excerpt: "The Mirror understands Prime Minister Boris Johnson flew 400 miles on a private jet to attend a reunion dinner for Daily Telegraph journalists, with self-confessed climate change sceptic Lord Moore - "
+image: "https://i2-prod.mirror.co.uk/incoming/article25371542.ece/ALTERNATES/s1200/0_Hypocrite-Johnson-EXCL.jpg"
 group: pro
 rank: 19
 ---
