@@ -1,9 +1,9 @@
 ---
-publication: "mikerobbinsnyc.blogspot.com"
-link: "https://mikerobbinsnyc.blogspot.com/2020/02/two-fine-new-novels-inspired-by-climate.html"
-title: "Two fine new novels inspired by climate change"
-excerpt: "Two great new novels that explore climate change and its effect on the zeitgeist"
-image: "https://1.bp.blogspot.com/-DsJ2RxoEn80/XlLuOid8f-I/AAAAAAAAIrY/w-1UDVQCGQogzD0TMoY5MpK5viBe8JuiwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Eternity.jpg"
+publication: "nemerulez.blogspot.com"
+link: "https://nemerulez.blogspot.com/2022/11/the-blessing-of-breaking.html"
+title: "THE BLESSING OF BREAKING. "
+excerpt: "A blog about positivity, inspiration, motivation, singles and married, quotes, food for thoughts, parenting, health/beauty and entertainment."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg81WWd4GGR5jXL_i_-m_9OWyoAYlMWp8dFRS49OIXvPLPLNZzTs9C8w7qRPE-qypxHwWYa2bLV_jZwot4XR9lo-WEhtdhFP2T1Kg6OwKqaFyprSKVG8TnWK_iKo3m8sE0pJ3TCv1BYUfn1SUIzmlHbMWblM3mp4YdoniO9DiozKEP-VHUiHoBK-ERN/w1200-h630-p-k-no-nu/quote20221108005919.jpg"
 group: con
 rank: 8
 ---

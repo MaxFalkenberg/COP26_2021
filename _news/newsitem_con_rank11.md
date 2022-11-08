@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/08/health-must-be-front-and-centre-cop27-climatecrisis-ecologicalcrisis-economiccrisis-healthcrisis-demand-climateaction-sdg13-tellthetruth/"
-title: "Health must be front and centre #COP27 #ClimateCrisis #EcologicalCrisis #EconomicCrisis #HealthCrisis demand #ClimateAction #SDG13 #TellTheTruth"
-excerpt: "On the eve of the pivotal climate talks at COP27, WHO issues a grim reminder that the climate crisis continues to make people sick and jeopardizes lives and that health must be at the core of these…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1863.jpg?w=1200"
+publication: "action4equalityscotland.blogspot.com"
+link: "https://action4equalityscotland.blogspot.com/2022/11/j-is-for-junket.html"
+title: "J Is For Junket"
+excerpt: "Campaigning and organising on equality issues - and around the politics of standing up for the little guy against the big guy"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7O1r5zmDeLesOJeI5wt5ZdzRfVjRSQQyD9RHZOmeEolhjOg9x5hJ6MYLxVM31U95siLjDT79z00t2iOEsf1u5AkctI5gzumC8sYfb17g5gCcD_peIsOLg3TzTg5PQg_0I6l0u7Ecug8ZeAp3-_N3IRPN38yf4H6M4bawDnnFfHaFBb9-LUDwi_Qf/w1200-h630-p-k-no-nu/COP26.jpg"
 group: con
 rank: 11
 ---

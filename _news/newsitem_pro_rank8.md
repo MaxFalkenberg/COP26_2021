@@ -1,9 +1,9 @@
 ---
-publication: "thenational.scot"
-link: "https://www.thenational.scot/news/23107660.nicola-sturgeon-fires-back-tory-critics-attack-cop27-trip/"
-title: "Nicola Sturgeon fires back at Tory critics who attack her attendance at COP27"
-excerpt: "NICOLA Sturgeon has hit back at critics who claimed she “has no real reason to go” to the COP27 climate summit in Egypt."
-image: "https://www.thenational.scot/resources/images/16130556/?type=og-image"
+publication: "theintercept.com"
+link: "https://theintercept.com/2022/10/07/egypt-cop27-climate-prisoners-alaa/"
+title: "Holding the COP27 Summit in Egypt’s Police State Creates a Moral Crisis for the Climate Movement"
+excerpt: "The ongoing hunger strike of Egyptian political prisoner Alaa Abd El Fattah forcefully reminds us that there can be no meaningful climate action without political freedom."
+image: "https://theintercept.imgix.net/wp-uploads/sites/1/2022/10/GettyImages-467968752-climate-egypt-protest-alaa.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
 group: pro
 rank: 8
 ---

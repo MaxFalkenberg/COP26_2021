@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/07/WS6368a5bfa3105ca1f22747e5.html"
-title: "China to synergize reduction of pollution, carbon emissions"
-excerpt: "China will beef up actions to synergize the reduction of both pollution and carbon emissions as it forges ahead with its climate targets, said Zhao Yingmin, head of Chinese delegation to the COP 27 Un"
-image: "http://img2.chinadaily.com.cn/images/202211/07/6368a5bfa3105ca157c08578.jpeg"
+publication: "londongreenleft.blogspot.com"
+link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
+title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
+excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
 group: con
 rank: 6
 ---

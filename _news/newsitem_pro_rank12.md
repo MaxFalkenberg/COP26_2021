@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/rishi-sunak-gavin-williamson-cop-27-egypt-latest-news-k9nbt83xw"
-title: "Tackle climate change for sake of world economy, Sunak urges Cop27"
-excerpt: "Britain faces both a moral responsibility and an economic necessity to tackle climate change, Rishi Sunak said in his first speech on the international stage"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fbcd8bd9a-5ec4-11ed-b307-a145cdf366c3.jpg?crop=3448%2C1940%2C17%2C223&resize=1200"
+publication: "express.co.uk"
+link: "https://www.express.co.uk/news/science/1693272/nicola-sturgeon-snp-energy-efficiency-scheme-bills-133-million-empty-promises-cop27"
+title: "Sturgeon shamed as SNP axes £133m energy scheme to slash bills"
+excerpt: "Despite vital funds being axed from projects which are aimed at lowering household energy bills - the Scottish Government insists it is 'committed to its current plans'."
+image: "https://cdn.images.express.co.uk/img/dynamic/151/1200x712/4387388.jpg?r=1667832836001"
 group: pro
 rank: 12
 ---
