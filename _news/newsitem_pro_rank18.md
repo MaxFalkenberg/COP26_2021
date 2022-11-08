@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/world/uk/uk-pledges-more-than-115-mln-developing-economies-tackle-climate-change-2022-11-07/"
-title: "UK pledges more than $115 mln to developing economies to tackle climate change"
-excerpt: "Britain's foreign minister James Cleverly on Monday will announce investments of more than 100 million pounds ($115 million) to support developing countries in their fight against the impact of climat"
-image: "https://www.reuters.com/resizer/YvyUev5APWFjGXX0ikWZI6U5if8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FONS623TUBMBPGX3RB27WVFKHA.jpg"
+publication: "thetimes.co.uk"
+link: "https://www.thetimes.co.uk/article/rishi-sunak-gavin-williamson-cop-27-egypt-latest-news-k9nbt83xw"
+title: "Tackle climate change for sake of world economy, Sunak urges Cop27"
+excerpt: "Britain faces both a moral responsibility and an economic necessity to tackle climate change, Rishi Sunak said in his first speech on the international stage"
+image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fbcd8bd9a-5ec4-11ed-b307-a145cdf366c3.jpg?crop=3448%2C1940%2C17%2C223&resize=1200"
 group: pro
 rank: 18
 ---

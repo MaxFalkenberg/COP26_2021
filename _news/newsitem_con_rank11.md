@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-07/World-Leaders-Summit-of-COP27-kicks-off-in-Egypt-1eLANWr42L6/index.html"
-title: "World Leaders Summit of COP27 kicks off in Egypt"
-excerpt: "The World Leaders Summit of the 27th United Nations Climate Change Conference (COP27) got underway on Monday in the Egyptian city of Sharm el-Sheikh.United Nations Secretary General Antonio Guterres t"
-image: "https://news.cgtn.com/news/2022-11-07/World-Leaders-Summit-of-COP27-kicks-off-in-Egypt-1eLANWr42L6/img/05add5af3e474f38a82014a4753f4ed1/05add5af3e474f38a82014a4753f4ed1-750.png"
+publication: "londongreenleft.blogspot.com"
+link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
+title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
+excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
 group: con
 rank: 11
 ---
