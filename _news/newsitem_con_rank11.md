@@ -1,9 +1,9 @@
 ---
-publication: "londongreenleft.blogspot.com"
-link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
-title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
-excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
+publication: "mikerobbinsnyc.blogspot.com"
+link: "https://mikerobbinsnyc.blogspot.com/2020/02/two-fine-new-novels-inspired-by-climate.html"
+title: "Two fine new novels inspired by climate change"
+excerpt: "Two great new novels that explore climate change and its effect on the zeitgeist"
+image: "https://1.bp.blogspot.com/-DsJ2RxoEn80/XlLuOid8f-I/AAAAAAAAIrY/w-1UDVQCGQogzD0TMoY5MpK5viBe8JuiwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Eternity.jpg"
 group: con
 rank: 11
 ---
