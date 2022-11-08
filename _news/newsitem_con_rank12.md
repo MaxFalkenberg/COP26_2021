@@ -1,9 +1,9 @@
 ---
-publication: "nemerulez.blogspot.com"
-link: "https://nemerulez.blogspot.com/2022/11/the-blessing-of-breaking.html"
-title: "THE BLESSING OF BREAKING. "
-excerpt: "A blog about positivity, inspiration, motivation, singles and married, quotes, food for thoughts, parenting, health/beauty and entertainment."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg81WWd4GGR5jXL_i_-m_9OWyoAYlMWp8dFRS49OIXvPLPLNZzTs9C8w7qRPE-qypxHwWYa2bLV_jZwot4XR9lo-WEhtdhFP2T1Kg6OwKqaFyprSKVG8TnWK_iKo3m8sE0pJ3TCv1BYUfn1SUIzmlHbMWblM3mp4YdoniO9DiozKEP-VHUiHoBK-ERN/w1200-h630-p-k-no-nu/quote20221108005919.jpg"
+publication: "action4equalityscotland.blogspot.com"
+link: "https://action4equalityscotland.blogspot.com/2022/11/j-is-for-junket.html"
+title: "J Is For Junket"
+excerpt: "Campaigning and organising on equality issues - and around the politics of standing up for the little guy against the big guy"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7O1r5zmDeLesOJeI5wt5ZdzRfVjRSQQyD9RHZOmeEolhjOg9x5hJ6MYLxVM31U95siLjDT79z00t2iOEsf1u5AkctI5gzumC8sYfb17g5gCcD_peIsOLg3TzTg5PQg_0I6l0u7Ecug8ZeAp3-_N3IRPN38yf4H6M4bawDnnFfHaFBb9-LUDwi_Qf/w1200-h630-p-k-no-nu/COP26.jpg"
 group: con
 rank: 12
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "theguardian.com"
-link: "https://www.theguardian.com/environment/2022/nov/07/cop27-climate-summit-un-secretary-general-antonio-guterres"
-title: "World is on ‘highway to climate hell’, UN chief warns at Cop27 summit"
-excerpt: "António Guterres tells leaders ‘global climate fight will be won or lost in this crucial decade – on our watch’"
-image: "https://i.guim.co.uk/img/media/5978dda94a4eada0ac9332ad2e624a1aa76e3793/2_59_1879_1128/master/1879.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83efdd4f596970c5af6bbc88936e66e2"
+publication: "theglobeandmail.com"
+link: "https://www.theglobeandmail.com/world/article-recognize-genocide-in-ethiopias-tigray-region-experts-urge-canadian/"
+title: "Recognize genocide in Ethiopia’s Tigray region, experts urge Canadian committee"
+excerpt: "MPs say they will push ahead with their Tigray report as urgently as they can, spurred on by witnesses who described mass rapes and starvation"
+image: "https://www.theglobeandmail.com/resizer/yrL4t86GZNRC9nMBMJ6zE-TlptM=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/JKTAMNUNSJPDJCOC5O35QSFGW4.jpg"
 group: pro
 rank: 2
 ---

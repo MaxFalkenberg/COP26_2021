@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/rishi-sunak-gavin-williamson-cop-27-egypt-latest-news-k9nbt83xw"
-title: "Tackle climate change for sake of world economy, Sunak urges Cop27"
-excerpt: "Britain faces both a moral responsibility and an economic necessity to tackle climate change, Rishi Sunak said in his first speech on the international stage"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fbcd8bd9a-5ec4-11ed-b307-a145cdf366c3.jpg?crop=3448%2C1940%2C17%2C223&resize=1200"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/news/2022/11/07/what-nicola-sturgeon-cop27-dont-ask-just-ignore/"
+title: "What is Nicola Sturgeon doing at Cop27? Don’t ask, just ignore"
+excerpt: "These are more publicity-seeking antics, but there is no need to push back. Soon voters will see for themselves what an irrelevance she is"
+image: "https://www.telegraph.co.uk/content/dam/news/2022/11/07/TELEMMGLPICT000315051635_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwZ-noePaJta23NuHfKFFEj8.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 14
 ---

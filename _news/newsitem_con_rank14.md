@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/08/health-must-be-front-and-centre-cop27-climatecrisis-ecologicalcrisis-economiccrisis-healthcrisis-demand-climateaction-sdg13-tellthetruth/"
-title: "Health must be front and centre #COP27 #ClimateCrisis #EcologicalCrisis #EconomicCrisis #HealthCrisis demand #ClimateAction #SDG13 #TellTheTruth"
-excerpt: "On the eve of the pivotal climate talks at COP27, WHO issues a grim reminder that the climate crisis continues to make people sick and jeopardizes lives and that health must be at the core of these…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1863.jpg?w=1200"
+publication: "datavaluesdigest.substack.com"
+link: "https://datavaluesdigest.substack.com/p/context-matters-a-conversation-on"
+title: "Context matters: a conversation on misleading statistics"
+excerpt: "Statistics don't mean much in themselves. Anyone who summarizes research for others is taking on a very important responsibility."
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F584db791-33ed-44a1-8ec2-b8882156cbd2_5306x3537.jpeg"
 group: con
 rank: 14
 ---
