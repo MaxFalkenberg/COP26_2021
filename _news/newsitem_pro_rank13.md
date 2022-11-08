@@ -1,9 +1,9 @@
 ---
-publication: "ft.com"
-link: "https://www.ft.com/content/662d4a0d-e8f5-4cd4-b03f-05b97e13e771"
-title: "Subscribe to read | Financial Times"
-excerpt: "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
-image: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/default.jpg?v=2"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/news/2022/11/07/what-nicola-sturgeon-cop27-dont-ask-just-ignore/"
+title: "What is Nicola Sturgeon doing at Cop27? Don’t ask, just ignore"
+excerpt: "These are more publicity-seeking antics, but there is no need to push back. Soon voters will see for themselves what an irrelevance she is"
+image: "https://www.telegraph.co.uk/content/dam/news/2022/11/07/TELEMMGLPICT000315051635_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwZ-noePaJta23NuHfKFFEj8.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 13
 ---

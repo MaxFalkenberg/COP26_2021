@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/07/climate-cop27-biden-companies-un/"
-title: "In a shift, U.S. says companies are pivotal to climate talks’ success"
-excerpt: "The private sector is being pressured to play a leading role in climate action, amid global political paralysis."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S2P4NAXJYBYAU2GXWWVQ55GAPQ.jpg&w=1440"
+publication: "thenational.scot"
+link: "https://www.thenational.scot/news/23107660.nicola-sturgeon-fires-back-tory-critics-attack-cop27-trip/"
+title: "Nicola Sturgeon fires back at Tory critics who attack her attendance at COP27"
+excerpt: "NICOLA Sturgeon has hit back at critics who claimed she “has no real reason to go” to the COP27 climate summit in Egypt."
+image: "https://www.thenational.scot/resources/images/16130556/?type=og-image"
 group: pro
 rank: 7
 ---
