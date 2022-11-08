@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/rishi-sunak-gavin-williamson-cop-27-egypt-latest-news-k9nbt83xw"
-title: "Tackle climate change for sake of world economy, Sunak urges Cop27"
-excerpt: "Britain faces both a moral responsibility and an economic necessity to tackle climate change, Rishi Sunak said in his first speech on the international stage"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fbcd8bd9a-5ec4-11ed-b307-a145cdf366c3.jpg?crop=3448%2C1940%2C17%2C223&resize=1200"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/politics/2022/11/07/rishi-sunak-strike-gas-deal-us-ease-energy-crisis/"
+title: "Rishi Sunak to strike gas deal with US to ease energy crisis"
+excerpt: "PM to announce 'partnership' to ship liquefied natural gas to allay blackout fears"
+image: "https://www.telegraph.co.uk/content/dam/politics/2022/11/07/TELEMMGLPICT000315441293_trans_NvBQzQNjv4BqNUmAuoxa99wuiW24GHOm6uil7a1KV2STY3xRqqFt_No.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 7
 ---

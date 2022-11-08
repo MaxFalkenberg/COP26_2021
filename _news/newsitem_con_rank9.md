@@ -1,9 +1,9 @@
 ---
-publication: "nemerulez.blogspot.com"
-link: "https://nemerulez.blogspot.com/2022/11/the-blessing-of-breaking.html"
-title: "THE BLESSING OF BREAKING. "
-excerpt: "A blog about positivity, inspiration, motivation, singles and married, quotes, food for thoughts, parenting, health/beauty and entertainment."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg81WWd4GGR5jXL_i_-m_9OWyoAYlMWp8dFRS49OIXvPLPLNZzTs9C8w7qRPE-qypxHwWYa2bLV_jZwot4XR9lo-WEhtdhFP2T1Kg6OwKqaFyprSKVG8TnWK_iKo3m8sE0pJ3TCv1BYUfn1SUIzmlHbMWblM3mp4YdoniO9DiozKEP-VHUiHoBK-ERN/w1200-h630-p-k-no-nu/quote20221108005919.jpg"
+publication: "arabnews.com"
+link: "https://www.arabnews.com/node/2195206/business-economy"
+title: "Saudi Arabia commits $2.5bn to Middle East green initiative: Crown Prince"
+excerpt: "SHARM EL-SHEIKH: Saudi Arabia will contribute $2.5 billion to the Middle East Green Initiative over the next 10 years and host its headquarters in the Kingdom, Crown Prince Mohammed bin Salman said on"
+image: "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2022/11/07/3529846-1200457638.jpg?itok=lnjZu_Pu"
 group: con
 rank: 9
 ---

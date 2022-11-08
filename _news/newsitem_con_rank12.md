@@ -1,9 +1,9 @@
 ---
-publication: "presstv.ir"
-link: "https://www.presstv.ir/Detail/2022/11/07/692335/United-Nations-Antonio-Guterres-COP27-summit-highway-climate-hell-global-warming"
-title: "UN chief: World on ‘highway to climate hell’ amid rising temperatures, global warming"
-excerpt: "UN Secretary-General Guterres said the planet “is fast approaching tipping points that will make climate chaos irreversible.”"
-image: "https://cdn.presstv.ir/Photo/2022/11/7/20ad5081-873d-44fa-a49e-dcd239b38e5e.jpg"
+publication: "nemerulez.blogspot.com"
+link: "https://nemerulez.blogspot.com/2022/11/the-blessing-of-breaking.html"
+title: "THE BLESSING OF BREAKING. "
+excerpt: "A blog about positivity, inspiration, motivation, singles and married, quotes, food for thoughts, parenting, health/beauty and entertainment."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg81WWd4GGR5jXL_i_-m_9OWyoAYlMWp8dFRS49OIXvPLPLNZzTs9C8w7qRPE-qypxHwWYa2bLV_jZwot4XR9lo-WEhtdhFP2T1Kg6OwKqaFyprSKVG8TnWK_iKo3m8sE0pJ3TCv1BYUfn1SUIzmlHbMWblM3mp4YdoniO9DiozKEP-VHUiHoBK-ERN/w1200-h630-p-k-no-nu/quote20221108005919.jpg"
 group: con
 rank: 12
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "notalotofpeopleknowthat.wordpress.com"
-link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/01/african-countries-to-push-for-more-fossil-fuel-projects-at-cop27/"
-title: "African countries to push for more fossil fuel projects at COP27"
-excerpt: "By Paul Homewood They want our money and fossil fuels:       CAPE TOWN, Oct 4 (Reuters) – African countries will use the COP27 climate talks in Egypt next month to advocate for…"
-image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb.png"
+publication: "presstv.ir"
+link: "https://www.presstv.ir/Detail/2022/11/07/692335/United-Nations-Antonio-Guterres-COP27-summit-highway-climate-hell-global-warming"
+title: "UN chief: World on ‘highway to climate hell’ amid rising temperatures, global warming"
+excerpt: "UN Secretary-General Guterres said the planet “is fast approaching tipping points that will make climate chaos irreversible.”"
+image: "https://cdn.presstv.ir/Photo/2022/11/7/20ad5081-873d-44fa-a49e-dcd239b38e5e.jpg"
 group: con
 rank: 13
 ---

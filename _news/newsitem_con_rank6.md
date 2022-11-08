@@ -1,9 +1,9 @@
 ---
-publication: "technocracy.news"
-link: "https://www.technocracy.news/greta-thunberg-shuns-cop27-calls-for-overthrow-of-the-whole-capitalist-system/"
-title: "Greta Thunberg Shuns COP27, Calls For 'Overthrow Of The Whole Capitalist System'"
-excerpt: "Greta Thunberg has moved past global warming and onto the main event: overthrowing capitalism altogether in favor of Sustainable Development, aka Technocracy. This has been the goal of global warming "
-image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-08-at-8.08.36-AM.png"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/08/WS6369422ca3105ca1f2274952.html"
+title: "COP27 seeks unity in tackling global climate crisis"
+excerpt: " The 27th session of the Conference of the Parties (COP27) to the United Nations Framework Convention on Climate Change (UNFCCC) started Sunday in the Egyptian coastal city of Sharm El-Sheikh, with co"
+image: "http://img2.chinadaily.com.cn/images/202211/08/6369422ca3105ca157c09e80.jpeg"
 group: con
 rank: 6
 ---
