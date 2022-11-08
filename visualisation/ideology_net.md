@@ -26,17 +26,17 @@ body_js:
 
 <div class="col-2">
   <div class="col">
-    <h2>Pro-climate Majority</h2>
+    <h2>Majority view</h2>
     <div id="graph_pro"></div>
 <p class="text-center">
 COP27 retweets by users from the COP26 pro-climate majority.
 </p>  
 </div>
   <div class="col">
-    <h2>Opposed minority</h2>
+    <h2>Minority view</h2>
     <div id="graph_con"></div>
 <p class="text-center">
-COP27 retweets by users from the COP26 sceptical minority.
+COP27 retweets by users from the COP26 minority view.
 </p>   
 </div>
 </div>
