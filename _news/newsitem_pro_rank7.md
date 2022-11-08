@@ -1,11 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/07/cop27-egypt-climate-conference-live-updates/"
-title: "COP27 live updates: U.N. chief calls for global climate pact, warning of ‘highway to climate hell’"
-excerpt: "“Humanity has a choice: cooperate or perish,” U.N. Secretary General António Guterres said. “It is either a climate solidarity pact — or a collective suicide pact.”
-
-"
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-07-2022/t_2520cacdcf3f4fb895ad7810906a8f60_name_20221104_Doughnut_Molotov_00_00_52_20_Still021.jpg&w=1440"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/hunger-strikers-sister-flies-egypt-cop27-campaign-his-release-2022-11-07/"
+title: "Hunger striker's sister arrives in Egypt to campaign for his release"
+excerpt: "The sister of an Egyptian-British hunger striker landed in Sharm el-Sheikh on Monday to campaign for his release from jail as British Prime Minister Rishi Sunak and other world leaders flew in for the"
+image: "https://www.reuters.com/resizer/5xON6RZQyKDUUd_hz1XkDjnsZUw=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZEIQLEHIDRLSZNGJYFWH3JAIRY.jpg"
 group: pro
 rank: 7
 ---
