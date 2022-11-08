@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/news/politics/1693214/cop27-boris-johnson-rishi-sunak-reparations-row"
-title: "Sunak set to back climate reparations but Boris says 'we can't afford'"
-excerpt: "Boris Johnson appeared to take a swipe at Rishi Sunak this morning."
-image: "https://cdn.images.express.co.uk/img/dynamic/139/1200x712/4387200.jpg?r=1667823576862"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/politics/2022/11/07/rishi-sunak-strike-gas-deal-us-ease-energy-crisis/"
+title: "Rishi Sunak to strike gas deal with US to ease energy crisis"
+excerpt: "PM to announce 'partnership' to ship liquefied natural gas to allay blackout fears"
+image: "https://www.telegraph.co.uk/content/dam/politics/2022/11/07/TELEMMGLPICT000315441293_trans_NvBQzQNjv4BqNUmAuoxa99wuiW24GHOm6uil7a1KV2STY3xRqqFt_No.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 8
 ---

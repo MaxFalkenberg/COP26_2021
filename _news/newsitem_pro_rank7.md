@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/07/climate-cop27-biden-companies-un/"
-title: "In a shift, U.S. says companies are pivotal to climate talks’ success"
-excerpt: "The private sector is being pressured to play a leading role in climate action, amid global political paralysis."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S2P4NAXJYBYAU2GXWWVQ55GAPQ.jpg&w=1440"
+publication: "thetimes.co.uk"
+link: "https://www.thetimes.co.uk/article/rishi-sunak-gavin-williamson-cop-27-egypt-latest-news-k9nbt83xw"
+title: "Tackle climate change for sake of world economy, Sunak urges Cop27"
+excerpt: "Britain faces both a moral responsibility and an economic necessity to tackle climate change, Rishi Sunak said in his first speech on the international stage"
+image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fbcd8bd9a-5ec4-11ed-b307-a145cdf366c3.jpg?crop=3448%2C1940%2C17%2C223&resize=1200"
 group: pro
 rank: 7
 ---
