@@ -1,9 +1,9 @@
 ---
-publication: "mirror.co.uk"
-link: "https://www.mirror.co.uk/news/politics/boris-johnson-races-back-cop-25371485.amp"
-title: "Boris Johnson races from COP26 on private jet to meet climate change sceptic pal"
-excerpt: "The Mirror understands Prime Minister Boris Johnson flew 400 miles on a private jet to attend a reunion dinner for Daily Telegraph journalists, with self-confessed climate change sceptic Lord Moore - "
-image: "https://i2-prod.mirror.co.uk/incoming/article25371542.ece/ALTERNATES/s1200/0_Hypocrite-Johnson-EXCL.jpg"
+publication: "ft.com"
+link: "https://www.ft.com/content/662d4a0d-e8f5-4cd4-b03f-05b97e13e771"
+title: "Subscribe to read | Financial Times"
+excerpt: "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
+image: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/default.jpg?v=2"
 group: pro
 rank: 14
 ---

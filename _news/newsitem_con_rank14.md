@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/08/un-warns-world-is-speeding-down-a-highway-to-hell-as-cop27-leaders-open-two-weeks-of-talks-overshoot-climatecrisis-ecologicalcrisis-economiccrisis/"
-title: "UN warns world is speeding down a ‘highway to hell’ as COP27 leaders open two weeks of talks #Overshoot #ClimateCrisis #EcologicalCrisis #EconomicCrisis"
-excerpt: "United Nations Secretary-General Antonio Guterres has declared a lack of progress on climate change has the world speeding down a “highway to hell”, as world leaders frame the fight aga…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1891.jpg"
+publication: "notalotofpeopleknowthat.wordpress.com"
+link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/01/african-countries-to-push-for-more-fossil-fuel-projects-at-cop27/"
+title: "African countries to push for more fossil fuel projects at COP27"
+excerpt: "By Paul Homewood They want our money and fossil fuels:       CAPE TOWN, Oct 4 (Reuters) – African countries will use the COP27 climate talks in Egypt next month to advocate for…"
+image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb.png"
 group: con
 rank: 14
 ---

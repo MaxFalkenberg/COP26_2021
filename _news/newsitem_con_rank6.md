@@ -1,9 +1,9 @@
 ---
-publication: "londongreenleft.blogspot.com"
-link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
-title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
-excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
+publication: "nemerulez.blogspot.com"
+link: "https://nemerulez.blogspot.com/2022/11/the-blessing-of-breaking.html"
+title: "THE BLESSING OF BREAKING. "
+excerpt: "A blog about positivity, inspiration, motivation, singles and married, quotes, food for thoughts, parenting, health/beauty and entertainment."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg81WWd4GGR5jXL_i_-m_9OWyoAYlMWp8dFRS49OIXvPLPLNZzTs9C8w7qRPE-qypxHwWYa2bLV_jZwot4XR9lo-WEhtdhFP2T1Kg6OwKqaFyprSKVG8TnWK_iKo3m8sE0pJ3TCv1BYUfn1SUIzmlHbMWblM3mp4YdoniO9DiozKEP-VHUiHoBK-ERN/w1200-h630-p-k-no-nu/quote20221108005919.jpg"
 group: con
 rank: 6
 ---

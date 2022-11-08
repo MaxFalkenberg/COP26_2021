@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/07/climate-cop27-biden-companies-un/"
-title: "In a shift, U.S. says companies are pivotal to climate talks’ success"
-excerpt: "The private sector is being pressured to play a leading role in climate action, amid global political paralysis."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S2P4NAXJYBYAU2GXWWVQ55GAPQ.jpg&w=1440"
+publication: "theintercept.com"
+link: "https://theintercept.com/2022/10/07/egypt-cop27-climate-prisoners-alaa/"
+title: "Holding the COP27 Summit in Egypt’s Police State Creates a Moral Crisis for the Climate Movement"
+excerpt: "The ongoing hunger strike of Egyptian political prisoner Alaa Abd El Fattah forcefully reminds us that there can be no meaningful climate action without political freedom."
+image: "https://theintercept.imgix.net/wp-uploads/sites/1/2022/10/GettyImages-467968752-climate-egypt-protest-alaa.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
 group: pro
 rank: 6
 ---

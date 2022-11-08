@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/07/cop27-climate-change-report-us/"
-title: "Climate change threatening ‘things Americans value most,’ U.S. report says"
-excerpt: "The latest National Climate Assessment also finds that the United States has warmed 68 percent faster than the planet as a whole. "
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NQHX5Q66MAN3KISGVD6H6Y652A.jpg&w=1440"
+publication: "theglobeandmail.com"
+link: "https://www.theglobeandmail.com/world/article-recognize-genocide-in-ethiopias-tigray-region-experts-urge-canadian/"
+title: "Recognize genocide in Ethiopia’s Tigray region, experts urge Canadian committee"
+excerpt: "MPs say they will push ahead with their Tigray report as urgently as they can, spurred on by witnesses who described mass rapes and starvation"
+image: "https://www.theglobeandmail.com/resizer/yrL4t86GZNRC9nMBMJ6zE-TlptM=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/JKTAMNUNSJPDJCOC5O35QSFGW4.jpg"
 group: pro
 rank: 1
 ---
