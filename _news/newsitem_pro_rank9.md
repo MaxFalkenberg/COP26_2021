@@ -1,9 +1,9 @@
 ---
-publication: "dailymail.co.uk"
-link: "https://www.dailymail.co.uk/news/article-11397881/Sunak-arrives-COP27-summit-amid-clime-change-reparations-row.html"
-title: "Sunak arrives at COP27 summit amid clime change 'reparations' row"
-excerpt: "Rishi Sunak is in Egypt for the gathering - his first test on the foreign stage since entering No10 - having U-turned on his original decision not to attend."
-image: "https://i.dailymail.co.uk/1s/2022/11/07/10/64268861-0-image-a-31_1667818580932.jpg"
+publication: "theintercept.com"
+link: "https://theintercept.com/2022/10/07/egypt-cop27-climate-prisoners-alaa/"
+title: "Holding the COP27 Summit in Egypt’s Police State Creates a Moral Crisis for the Climate Movement"
+excerpt: "The ongoing hunger strike of Egyptian political prisoner Alaa Abd El Fattah forcefully reminds us that there can be no meaningful climate action without political freedom."
+image: "https://theintercept.imgix.net/wp-uploads/sites/1/2022/10/GettyImages-467968752-climate-egypt-protest-alaa.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
 group: pro
 rank: 9
 ---

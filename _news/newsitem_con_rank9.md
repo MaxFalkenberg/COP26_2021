@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-07/World-Leaders-Summit-of-COP27-kicks-off-in-Egypt-1eLANWr42L6/index.html"
-title: "World Leaders Summit of COP27 kicks off in Egypt"
-excerpt: "The World Leaders Summit of the 27th United Nations Climate Change Conference (COP27) got underway on Monday in the Egyptian city of Sharm el-Sheikh.United Nations Secretary General Antonio Guterres t"
-image: "https://news.cgtn.com/news/2022-11-07/World-Leaders-Summit-of-COP27-kicks-off-in-Egypt-1eLANWr42L6/img/05add5af3e474f38a82014a4753f4ed1/05add5af3e474f38a82014a4753f4ed1-750.png"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/08/WS6369422ca3105ca1f2274952.html"
+title: "COP27 seeks unity in tackling global climate crisis"
+excerpt: " The 27th session of the Conference of the Parties (COP27) to the United Nations Framework Convention on Climate Change (UNFCCC) started Sunday in the Egyptian coastal city of Sharm El-Sheikh, with co"
+image: "http://img2.chinadaily.com.cn/images/202211/08/6369422ca3105ca157c09e80.jpeg"
 group: con
 rank: 9
 ---

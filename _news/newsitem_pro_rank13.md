@@ -1,9 +1,9 @@
 ---
-publication: "thenational.scot"
-link: "https://www.thenational.scot/news/23105864.boris-johnson-declares-spirit-glasgow-cop27/"
-title: "Scotland reacts as Boris Johnson declares himself the 'spirit of Glasgow' at COP27"
-excerpt: "BORIS Johnson has said a lot of questionable things in his time in politics but his most recent statement at the COP27 climate conference is a… "
-image: "https://www.thenational.scot/resources/images/13188780/?type=og-image"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/politics/2022/11/07/rishi-sunak-strike-gas-deal-us-ease-energy-crisis/"
+title: "Rishi Sunak to strike gas deal with US to ease energy crisis"
+excerpt: "PM to announce 'partnership' to ship liquefied natural gas to allay blackout fears"
+image: "https://www.telegraph.co.uk/content/dam/politics/2022/11/07/TELEMMGLPICT000315441293_trans_NvBQzQNjv4BqNUmAuoxa99wuiW24GHOm6uil7a1KV2STY3xRqqFt_No.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 13
 ---
