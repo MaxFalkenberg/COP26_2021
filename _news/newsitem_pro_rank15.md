@@ -1,9 +1,9 @@
 ---
-publication: "thesun.co.uk"
-link: "https://www.thesun.co.uk/news/20343122/just-stop-oil-chief-nicked-motorway-plot/"
-title: "Eco mob mastermind nicked after The Sun blew whistle on plot to block M25"
-excerpt: "THE mastermind behind eco mob Just Stop Oil was nicked last night after The Sun blew the whistle on their plot to block the motorway network. Roger Hallam, 56, was being questioned after we told po…"
-image: "https://www.thesun.co.uk/wp-content/uploads/2022/11/ROB-HALLAM-OFF-PLATFORM-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+publication: "theintercept.com"
+link: "https://theintercept.com/2022/10/07/egypt-cop27-climate-prisoners-alaa/"
+title: "Holding the COP27 Summit in Egypt’s Police State Creates a Moral Crisis for the Climate Movement"
+excerpt: "The ongoing hunger strike of Egyptian political prisoner Alaa Abd El Fattah forcefully reminds us that there can be no meaningful climate action without political freedom."
+image: "https://theintercept.imgix.net/wp-uploads/sites/1/2022/10/GettyImages-467968752-climate-egypt-protest-alaa.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
 group: pro
 rank: 15
 ---

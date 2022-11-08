@@ -1,9 +1,9 @@
 ---
-publication: "revkin.substack.com"
-link: "https://revkin.substack.com/p/behind-global-climate-emergency-rhetoric-21-08-06"
-title: "Behind Global 'Climate Emergency' Rhetoric, Solvable Vulnerability Emergencies Abound"
-excerpt: "Rich-world climate impacts - explosive wildfires, deadly urban floods and heat domes - are terrible. But this phrase obscures a profound vulnerability divide among and within countries."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9aea3024-81bc-4596-a400-9d9853b78cf9_2700x1001.jpeg"
+publication: "action4equalityscotland.blogspot.com"
+link: "https://action4equalityscotland.blogspot.com/2022/11/j-is-for-junket.html"
+title: "J Is For Junket"
+excerpt: "Campaigning and organising on equality issues - and around the politics of standing up for the little guy against the big guy"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7O1r5zmDeLesOJeI5wt5ZdzRfVjRSQQyD9RHZOmeEolhjOg9x5hJ6MYLxVM31U95siLjDT79z00t2iOEsf1u5AkctI5gzumC8sYfb17g5gCcD_peIsOLg3TzTg5PQg_0I6l0u7Ecug8ZeAp3-_N3IRPN38yf4H6M4bawDnnFfHaFBb9-LUDwi_Qf/w1200-h630-p-k-no-nu/COP26.jpg"
 group: con
 rank: 11
 ---
