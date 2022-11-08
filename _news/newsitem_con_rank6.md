@@ -1,9 +1,9 @@
 ---
-publication: "londongreenleft.blogspot.com"
-link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
-title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
-excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
+publication: "arabnews.com"
+link: "https://www.arabnews.com/node/2195206/business-economy"
+title: "Saudi Arabia commits $2.5bn to Middle East green initiative: Crown Prince"
+excerpt: "SHARM EL-SHEIKH: Saudi Arabia will contribute $2.5 billion to the Middle East Green Initiative over the next 10 years and host its headquarters in the Kingdom, Crown Prince Mohammed bin Salman said on"
+image: "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2022/11/07/3529846-1200457638.jpg?itok=lnjZu_Pu"
 group: con
 rank: 6
 ---

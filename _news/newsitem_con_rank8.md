@@ -1,9 +1,9 @@
 ---
-publication: "arabnews.com"
-link: "https://www.arabnews.com/node/2195206/business-economy"
-title: "Saudi Arabia commits $2.5bn to Middle East green initiative: Crown Prince"
-excerpt: "SHARM EL-SHEIKH: Saudi Arabia will contribute $2.5 billion to the Middle East Green Initiative over the next 10 years and host its headquarters in the Kingdom, Crown Prince Mohammed bin Salman said on"
-image: "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2022/11/07/3529846-1200457638.jpg?itok=lnjZu_Pu"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/08/WS6369456ca3105ca1f2274954.html"
+title: "Intl Drought Resilience Alliance launched at COP27"
+excerpt: " Leaders from nearly 50 countries and organizations on Monday launched the International Drought Resilience Alliance here at the ongoing COP27 to help countries to be better prepared for future drough"
+image: "http://img2.chinadaily.com.cn/images/202211/08/6369456ca3105ca157c09e95.jpeg"
 group: con
 rank: 8
 ---

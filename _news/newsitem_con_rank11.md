@@ -1,9 +1,9 @@
 ---
-publication: "dctechthoughts.blogspot.com"
-link: "https://dctechthoughts.blogspot.com/2022/10/climate-disasters-new-normal-for-and.html"
-title: "CLIMATE DISASTERS: THE NEW NORMAL FOR  IT AND BUSINESS CONTINUITY       Part 1: Climate Chaos"
-excerpt: "Just in case someone didn’t get the memo, the Planet Earth is in big trouble. “The dangers of climate change are no longer hypothetical”, th..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtd0e1lu1lDiebpMOZvGPwXrZsiv5xt9nTsdv2Xyt-god2fluTU2IhQA19aouble7CqjdTv1puYgC8704axM5yy8MW14wDd2aGwu_NDszVsWa_qKStm3zoqfLZnxygsMkbrqV2LExN0QBRwWPuYCaBOf6eiwigTdIt_kwC-BOZ2ypXY3yERf-PH01i/w1200-h630-p-k-no-nu/global%20warming.jpg"
+publication: "esgadvocate.substack.com"
+link: "https://esgadvocate.substack.com/p/cop27-finance-is-the-litmus-test"
+title: "COP27: Finance is the litmus test"
+excerpt: "Emerging markets need protection and low cost capital. Who will step up?"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c94d645-3d6c-4cec-a9e6-4c3c1c1d0efe_1125x750.jpeg"
 group: con
 rank: 11
 ---

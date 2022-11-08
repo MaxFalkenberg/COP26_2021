@@ -1,9 +1,9 @@
 ---
-publication: "scotsman.com"
-link: "https://www.scotsman.com/news/opinion/columnists/nicola-sturgeons-grandstanding-at-cop27-in-egypt-is-pointless-she-should-be-focussed-on-problems-at-home-murdo-fraser-3909689"
-title: "Sturgeon's grandstanding at COP27 is a Mr Benn-style fantasy for the benefit of no one but herself – Murdo Fraser"
-excerpt: "Should Nicola Sturgeon ever be described as a ‘Bennite’ you can be sure it is nothing to do with the political beliefs of the legendary Labour left-winger, Tony Benn."
-image: "https://www.scotsman.com/webimg/b25lY21zOjM3YTQ4NmY2LWRhNGYtNDI2ZC1iMTBkLWM5OTRlNmY2MjI2NDphYjJmYjE5NS04NTM0LTRkNjQtYjJiOC0xY2YyZjVhOTQyYzM=.jpg?width=1200&enable=upscale"
+publication: "weforum.org"
+link: "https://www.weforum.org/events/united-nations-climate-change-conference-cop27-2022/sessions/first-movers-coalition-leaders-panel"
+title: "First Movers Coalition Leaders Panel"
+excerpt: "Coming together one year after the First Movers Coalition launch at COP27, Secretary John Kerry and Børge Brende, President, World Economic Forum, will share exciting announcements on the progress tha"
+image: "https://assets.weforum.org/event_session/image/responsive_medium_UZ2yhZLAaZrumm-0QUfSrwYYUdP7hTDXWTU-ShrFMyA.png"
 group: pro
 rank: 14
 ---

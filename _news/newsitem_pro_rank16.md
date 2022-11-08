@@ -1,9 +1,9 @@
 ---
-publication: "dailynews.com"
-link: "https://www.dailynews.com/2022/11/05/the-hypocrisy-and-illogic-of-the-un-climate-summit/"
-title: "The hypocrisy and illogic of the UN climate summit"
-excerpt: "Europe is scouring the world for more fossil fuels because the continent needs them for its growth and prosperity. That same opportunity should not be withheld from the world’s poorest."
-image: "https://www.dailynews.com/wp-content/uploads/2022/11/Russia_Ukraine_War_Gas_Misinformation_71673.jpg?w=1024&h=683"
+publication: "heraldscotland.com"
+link: "https://www.heraldscotland.com/politics/23109277.nicola-sturgeon-may-broken-ministerial-code-calmac-ferries-fiasco-meeting-claims-tory-msp/"
+title: "Sturgeon 'may have broken ministerial code' over CalMac ferries fiasco"
+excerpt: "NICOLA Sturgeon may have broken the ministerial code in connection to the CalMac ferries scandal, a Tory MSP has claimed."
+image: "https://www.heraldscotland.com/resources/images/16133049/?type=og-image"
 group: pro
 rank: 16
 ---
