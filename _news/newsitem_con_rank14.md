@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/middle-east/2022/11/07/French-President-Macron-urges-US-China-to-pay-their-fair-share-on-climate-"
-title: "French President Macron urges US, China to pay their fair share on climate  "
-excerpt: "French President Emmanuel Macron on Monday urged the United States, China and other non-European rich nations ahead of COP27 talks to pay their fair share"
-image: "https://vid.alarabiya.net/images/2022/11/07/88c48d86-8e44-419d-b7ee-4830c7683ab5/88c48d86-8e44-419d-b7ee-4830c7683ab5_16x9_600x338.jpg"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1278875.shtml"
+title: "Carbon dioxide emissions China produces per unit of GDP in 2021 50.8% lower than in 2005: envoy"
+excerpt: "China has made remarkable progress toward its goals of reaching peak carbon emissions and carbon neutralization, China's Special Envoy for Climate Change Xie Zhenhua said Sunday during this year's UN "
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-10-31/dd7537f3-c8ba-46d3-9e57-0c2e847b48d8_s.jpeg"
 group: con
 rank: 14
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/politics/2022/11/07/rishi-sunak-news-rishi-sunak-news-gavin-williamson-cop27-latest/"
-title: "Cop27 latest news: Russia's invasion of Ukraine reason 'to act faster' on climate change, Rishi Sunak says"
-excerpt: None
-image: "https://www.telegraph.co.uk/content/dam/politics/2022/11/07/TELEMMGLPICT000315441143_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwekapBZ1c_8650LP5YH00zA.jpeg?impolicy=logo-overlay"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/07/cop27-climate-change-report-us/"
+title: "Climate change threatening ‘things Americans value most,’ U.S. report says"
+excerpt: "The latest National Climate Assessment also finds that the United States has warmed 68 percent faster than the planet as a whole. "
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NGLLYEROUUI63PGGBB2LE2XCSY.jpg&w=1440"
 group: pro
 rank: 0
 ---

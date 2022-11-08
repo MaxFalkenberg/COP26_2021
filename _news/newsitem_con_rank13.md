@@ -1,9 +1,9 @@
 ---
-publication: "action4equalityscotland.blogspot.com"
-link: "https://action4equalityscotland.blogspot.com/2022/11/j-is-for-junket.html"
-title: "J Is For Junket"
-excerpt: "Campaigning and organising on equality issues - and around the politics of standing up for the little guy against the big guy"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7O1r5zmDeLesOJeI5wt5ZdzRfVjRSQQyD9RHZOmeEolhjOg9x5hJ6MYLxVM31U95siLjDT79z00t2iOEsf1u5AkctI5gzumC8sYfb17g5gCcD_peIsOLg3TzTg5PQg_0I6l0u7Ecug8ZeAp3-_N3IRPN38yf4H6M4bawDnnFfHaFBb9-LUDwi_Qf/w1200-h630-p-k-no-nu/COP26.jpg"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/08/WS6369422ca3105ca1f2274952.html"
+title: "COP27 seeks unity in tackling global climate crisis"
+excerpt: " The 27th session of the Conference of the Parties (COP27) to the United Nations Framework Convention on Climate Change (UNFCCC) started Sunday in the Egyptian coastal city of Sharm El-Sheikh, with co"
+image: "http://img2.chinadaily.com.cn/images/202211/08/6369422ca3105ca157c09e80.jpeg"
 group: con
 rank: 13
 ---
