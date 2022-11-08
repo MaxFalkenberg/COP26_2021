@@ -1,9 +1,9 @@
 ---
-publication: "presstv.ir"
-link: "https://www.presstv.ir/Detail/2022/11/07/692335/United-Nations-Antonio-Guterres-COP27-summit-highway-climate-hell-global-warming"
-title: "UN chief: World on ‘highway to climate hell’ amid rising temperatures, global warming"
-excerpt: "UN Secretary-General Guterres said the planet “is fast approaching tipping points that will make climate chaos irreversible.”"
-image: "https://cdn.presstv.ir/Photo/2022/11/7/20ad5081-873d-44fa-a49e-dcd239b38e5e.jpg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/08/health-must-be-front-and-centre-cop27-climatecrisis-ecologicalcrisis-economiccrisis-healthcrisis-demand-climateaction-sdg13-tellthetruth/"
+title: "Health must be front and centre #COP27 #ClimateCrisis #EcologicalCrisis #EconomicCrisis #HealthCrisis demand #ClimateAction #SDG13 #TellTheTruth"
+excerpt: "On the eve of the pivotal climate talks at COP27, WHO issues a grim reminder that the climate crisis continues to make people sick and jeopardizes lives and that health must be at the core of these…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1863.jpg?w=1200"
 group: con
 rank: 11
 ---

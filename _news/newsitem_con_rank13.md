@@ -1,9 +1,9 @@
 ---
-publication: "warmfeelings.substack.com"
-link: "https://warmfeelings.substack.com/p/warm-feelings-1-cop27-feelings-are"
-title: "Warm Feelings #1 ~ COP27 ~ Feelings are not necessarily facts"
-excerpt: "Let's get this party started"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F02ec863b-ac5d-4ac4-89a2-42a2fa18e1fd_1280x1280.png"
+publication: "notalotofpeopleknowthat.wordpress.com"
+link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/01/african-countries-to-push-for-more-fossil-fuel-projects-at-cop27/"
+title: "African countries to push for more fossil fuel projects at COP27"
+excerpt: "By Paul Homewood They want our money and fossil fuels:       CAPE TOWN, Oct 4 (Reuters) – African countries will use the COP27 climate talks in Egypt next month to advocate for…"
+image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb.png"
 group: con
 rank: 13
 ---
