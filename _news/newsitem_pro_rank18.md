@@ -1,9 +1,9 @@
 ---
-publication: "gizmodo.com"
-link: "https://gizmodo.com/coca-cola-sponsor-cop27-climate-change-1849716645"
-title: "Why Is Global Polluter Coca-Cola Sponsoring a Major Climate Conference?"
-excerpt: "Companies have learned they can use UN climate talks to deflect from their contributions to the global crisis."
-image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cb7998eda34aa2d0c8ea5e21b9372934.jpg"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/politics/2022/11/06/boris-johnson-will-urge-world-keep-net-zero-plan-cop27-speech/"
+title: "Boris Johnson will urge world to keep net zero plan in Cop27 speech"
+excerpt: "Ex-PM says mission to drive down fossil fuel use must not be disrupted by war in Ukraine and 'corrosive cynicism'"
+image: "https://www.telegraph.co.uk/content/dam/politics/2022/11/06/TELEMMGLPICT000315336204_trans_NvBQzQNjv4BqtMyiJIkNU3shY9HjSd3eOlVHX5gVWnokUmFudJiSXB0.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 18
 ---
