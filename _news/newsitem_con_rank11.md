@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/justtwothings/p/7-november-2022-food-ai"
-title: "7 November 2022. Food | AI"
-excerpt: "How to feed the planet. // AI and the corporate capture of the imagination."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb32da317-8a3b-4494-afe2-b04cfa9a392f_900x504.webp"
+publication: "zimbabweland.wordpress.com"
+link: "https://zimbabweland.wordpress.com/2022/11/07/why-cop27-needs-a-more-sophisticated-debate-about-livestock-and-climate-change/"
+title: "Why COP27 needs a more sophisticated debate about livestock and climate change"
+excerpt: "As the climate conference, COP27, kicks of in Sharm el Sheik in Egypt debates about agriculture and land use will be centre stage. And amongst these discussions the role of livestock in the future …"
+image: "https://zimbabweland.files.wordpress.com/2022/11/sheep.jpg"
 group: con
 rank: 11
 ---

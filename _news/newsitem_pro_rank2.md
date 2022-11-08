@@ -5,5 +5,5 @@ title: "Cop27 latest news: Russia's invasion of Ukraine reason 'to act faster' o
 excerpt: None
 image: "https://www.telegraph.co.uk/content/dam/politics/2022/11/07/TELEMMGLPICT000315441143_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwekapBZ1c_8650LP5YH00zA.jpeg?impolicy=logo-overlay"
 group: pro
-rank: 1
+rank: 2
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "gizmodo.com"
-link: "https://gizmodo.com/coca-cola-sponsor-cop27-climate-change-1849716645"
-title: "Why Is Global Polluter Coca-Cola Sponsoring a Major Climate Conference?"
-excerpt: "Companies have learned they can use UN climate talks to deflect from their contributions to the global crisis."
-image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cb7998eda34aa2d0c8ea5e21b9372934.jpg"
+publication: "express.co.uk"
+link: "https://www.express.co.uk/news/science/1693272/nicola-sturgeon-snp-energy-efficiency-scheme-bills-133-million-empty-promises-cop27"
+title: "Sturgeon shamed as SNP axes £133m energy scheme to slash bills"
+excerpt: "Despite vital funds being axed from projects which are aimed at lowering household energy bills - the Scottish Government insists it is 'committed to its current plans'."
+image: "https://cdn.images.express.co.uk/img/dynamic/151/1200x712/4387388.jpg?r=1667832836001"
 group: pro
 rank: 17
 ---
