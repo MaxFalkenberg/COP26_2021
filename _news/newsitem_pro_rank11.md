@@ -1,9 +1,9 @@
 ---
-publication: "scotsman.com"
-link: "https://www.scotsman.com/news/opinion/columnists/nicola-sturgeons-grandstanding-at-cop27-in-egypt-is-pointless-she-should-be-focussed-on-problems-at-home-murdo-fraser-3909689"
-title: "Sturgeon's grandstanding at COP27 is a Mr Benn-style fantasy for the benefit of no one but herself – Murdo Fraser"
-excerpt: "Should Nicola Sturgeon ever be described as a ‘Bennite’ you can be sure it is nothing to do with the political beliefs of the legendary Labour left-winger, Tony Benn."
-image: "https://www.scotsman.com/webimg/b25lY21zOjM3YTQ4NmY2LWRhNGYtNDI2ZC1iMTBkLWM5OTRlNmY2MjI2NDphYjJmYjE5NS04NTM0LTRkNjQtYjJiOC0xY2YyZjVhOTQyYzM=.jpg?width=1200&enable=upscale"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/uk-scotland-63484112.amp"
+title: "Swinney reveals further £615m of spending cuts - BBC News"
+excerpt: "The 'reductions and reprioritisations' of this year's Scottish budget is on top of £560m cuts already announced."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/69D9/production/_127479072_642951edb2ebf8535084155edad9c27cf67b3767.jpg"
 group: pro
 rank: 11
 ---

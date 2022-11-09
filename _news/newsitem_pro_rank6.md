@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/environment/2022/11/07/china-pumps-pollution-eight-years-uk-since-industrial-revolution/"
-title: "China pumps out more pollution in eight years than UK since Industrial Revolution"
-excerpt: "CO2 emissions of 80bn tonnes from 2013 to 2020 is higher than Britain’s 78bn over 220 years"
-image: "https://www.telegraph.co.uk/content/dam/environment/2022/11/07/TELEMMGLPICT000283920967_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/08/egypt-cop27-alaa-hunger-strike/"
+title: "Climate talks in Egypt overshadowed by shouting matches over human rights"
+excerpt: "Egypt's efforts to suppress political dissent has distracted from the broader climate debate at the annual U.N. climate negotiations in Sharm el-Sheikh."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZUN5NXC7PEI63IJR5EAOJJRTNM.jpg&w=1440"
 group: pro
 rank: 6
 ---

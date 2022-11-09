@@ -1,9 +1,9 @@
 ---
-publication: "theglobeandmail.com"
-link: "https://www.theglobeandmail.com/world/article-recognize-genocide-in-ethiopias-tigray-region-experts-urge-canadian/"
-title: "Recognize genocide in Ethiopia’s Tigray region, experts urge Canadian committee"
-excerpt: "MPs say they will push ahead with their Tigray report as urgently as they can, spurred on by witnesses who described mass rapes and starvation"
-image: "https://www.theglobeandmail.com/resizer/yrL4t86GZNRC9nMBMJ6zE-TlptM=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/JKTAMNUNSJPDJCOC5O35QSFGW4.jpg"
+publication: "theguardian.com"
+link: "https://www.theguardian.com/commentisfree/2022/nov/09/leaders-cop27-livestock-farming-carbon-budget-governments"
+title: "There’s one big subject our leaders at Cop27 won’t touch: livestock farming | George Monbiot"
+excerpt: "It’s on course to guzzle half the world’s carbon budget, so why are governments so afraid to discuss it?, says Guardian columnist George Monbiot"
+image: "https://i.guim.co.uk/img/media/ab6fc4d2a1b190deb4d09484549d2688a55910d3/0_362_5464_3278/master/5464.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=e03bcb962ae515489b6677258e0fb825"
 group: pro
 rank: 2
 ---
