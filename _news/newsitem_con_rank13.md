@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "https://www.chinadaily.com.cn/a/202211/08/WS636a4186a3105ca1f2274c99.html"
-title: "Developed countries must deliver on promises: China Daily editorial"
-excerpt: "From the conflict in Ukraine to the midterm elections in the United States, there are plenty of ongoing and impending events to distract countries and their leaders from this year's United Nations cli"
-image: "http://img2.chinadaily.com.cn/images/202211/08/636a4354a3105ca157c0cbb0.jpeg"
+publication: "esgadvocate.substack.com"
+link: "https://esgadvocate.substack.com/p/cop27-finance-is-the-litmus-test"
+title: "COP27: Finance is the litmus test"
+excerpt: "Emerging markets need protection and low cost capital. Who will step up?"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c94d645-3d6c-4cec-a9e6-4c3c1c1d0efe_1125x750.jpeg"
 group: con
 rank: 13
 ---
