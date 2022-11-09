@@ -1,9 +1,9 @@
 ---
-publication: "ca.finance.yahoo.com"
-link: "https://ca.finance.yahoo.com/news/liberals-working-policies-ensure-carbon-120056327.html"
-title: "Liberals working on policies to ensure carbon tax remains in place for years to come"
-excerpt: "Minister says businesses won't invest without 'certainty' carbon regime is here to stay"
-image: "https://media.zenfs.com/en/financial_post_articles_610/56181dbcf14250a736562b6f6b7b16f1"
+publication: "express.co.uk"
+link: "https://www.express.co.uk/comment/expresscomment/1693788/COP27-britain-carbon-dioxide-emissions-reparations-ed-miliband-Rishi-sunak"
+title: "'COP27 is a joke, world’s filthiest polluters don’t even turn up'"
+excerpt: "Ed Miliband was one of the weakest, worst leaders the Labour Party has ever had. He led his party to a crushing defeat in 2015 when Labour lost 48 seats and he had to resign in utter humiliation."
+image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4389644.jpg?r=1667989374060"
 group: pro
 rank: 12
 ---

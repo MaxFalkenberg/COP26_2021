@@ -1,9 +1,9 @@
 ---
-publication: "technocracy.news"
-link: "https://www.technocracy.news/greta-thunberg-shuns-cop27-calls-for-overthrow-of-the-whole-capitalist-system/"
-title: "Greta Thunberg Shuns COP27, Calls For 'Overthrow Of The Whole Capitalist System'"
-excerpt: "Greta Thunberg has moved past global warming and onto the main event: overthrowing capitalism altogether in favor of Sustainable Development, aka Technocracy. This has been the goal of global warming "
-image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-08-at-8.08.36-AM.png"
+publication: "dctechthoughts.blogspot.com"
+link: "https://dctechthoughts.blogspot.com/2022/10/climate-disasters-new-normal-for-and.html"
+title: "CLIMATE DISASTERS: THE NEW NORMAL FOR  IT AND BUSINESS CONTINUITY       Part 1: Climate Chaos"
+excerpt: "Just in case someone didn’t get the memo, the Planet Earth is in big trouble. “The dangers of climate change are no longer hypothetical”, th..."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtd0e1lu1lDiebpMOZvGPwXrZsiv5xt9nTsdv2Xyt-god2fluTU2IhQA19aouble7CqjdTv1puYgC8704axM5yy8MW14wDd2aGwu_NDszVsWa_qKStm3zoqfLZnxygsMkbrqV2LExN0QBRwWPuYCaBOf6eiwigTdIt_kwC-BOZ2ypXY3yERf-PH01i/w1200-h630-p-k-no-nu/global%20warming.jpg"
 group: con
 rank: 7
 ---
