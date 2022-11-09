@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/08/health-must-be-front-and-centre-cop27-climatecrisis-ecologicalcrisis-economiccrisis-healthcrisis-demand-climateaction-sdg13-tellthetruth/"
-title: "Health must be front and centre #COP27 #ClimateCrisis #EcologicalCrisis #EconomicCrisis #HealthCrisis demand #ClimateAction #SDG13 #TellTheTruth"
-excerpt: "On the eve of the pivotal climate talks at COP27, WHO issues a grim reminder that the climate crisis continues to make people sick and jeopardizes lives and that health must be at the core of these…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1863.jpg?w=1200"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/08/France-s-Macron-accused-of-U-turn-over-Nicolas-Maduro-encounter-"
+title: "France’s Macron accused of ‘U-turn’ over Nicolas Maduro encounter "
+excerpt: "French President Emmanuel Macron faced accusations Tuesday of making a major foreign policy reversal after an apparently cordial encounter with his"
+image: "https://vid.alarabiya.net/images/2022/11/08/5c05d59a-b129-43fc-a819-f8049b8249ab/5c05d59a-b129-43fc-a819-f8049b8249ab_16x9_600x338.jpg"
 group: con
 rank: 14
 ---
