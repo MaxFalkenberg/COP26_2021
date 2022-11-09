@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "https://www.chinadaily.com.cn/a/202211/08/WS636a4186a3105ca1f2274c99.html"
-title: "Developed countries must deliver on promises: China Daily editorial"
-excerpt: "From the conflict in Ukraine to the midterm elections in the United States, there are plenty of ongoing and impending events to distract countries and their leaders from this year's United Nations cli"
-image: "http://img2.chinadaily.com.cn/images/202211/08/636a4354a3105ca157c0cbb0.jpeg"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1278933.shtml"
+title: "Unity, action urged to tackle global climate crisis as experts warn against COP27 entangled in politics"
+excerpt: "This year's COP27, convened after a year under the shadow of climate disasters and an energy crisis, appeared to have made some breakthrough to include loss and damage compensation into talks, in resp"
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-07/c99e0caa-73fc-492e-8064-c29376dbde28_s.jpeg"
 group: con
 rank: 9
 ---

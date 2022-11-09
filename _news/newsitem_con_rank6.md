@@ -1,9 +1,9 @@
 ---
-publication: "londongreenleft.blogspot.com"
-link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
-title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
-excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
+publication: "dctechthoughts.blogspot.com"
+link: "https://dctechthoughts.blogspot.com/2022/10/climate-disasters-new-normal-for-and.html"
+title: "CLIMATE DISASTERS: THE NEW NORMAL FOR  IT AND BUSINESS CONTINUITY       Part 1: Climate Chaos"
+excerpt: "Just in case someone didn’t get the memo, the Planet Earth is in big trouble. “The dangers of climate change are no longer hypothetical”, th..."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtd0e1lu1lDiebpMOZvGPwXrZsiv5xt9nTsdv2Xyt-god2fluTU2IhQA19aouble7CqjdTv1puYgC8704axM5yy8MW14wDd2aGwu_NDszVsWa_qKStm3zoqfLZnxygsMkbrqV2LExN0QBRwWPuYCaBOf6eiwigTdIt_kwC-BOZ2ypXY3yERf-PH01i/w1200-h630-p-k-no-nu/global%20warming.jpg"
 group: con
 rank: 6
 ---

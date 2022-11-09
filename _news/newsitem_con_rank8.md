@@ -1,9 +1,9 @@
 ---
-publication: "arabnews.com"
-link: "https://www.arabnews.com/node/2195206/business-economy"
-title: "Saudi Arabia commits $2.5bn to Middle East green initiative: Crown Prince"
-excerpt: "SHARM EL-SHEIKH: Saudi Arabia will contribute $2.5 billion to the Middle East Green Initiative over the next 10 years and host its headquarters in the Kingdom, Crown Prince Mohammed bin Salman said on"
-image: "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2022/11/07/3529846-1200457638.jpg?itok=lnjZu_Pu"
+publication: "chinadaily.com.cn"
+link: "https://www.chinadaily.com.cn/a/202211/08/WS636a4186a3105ca1f2274c99.html"
+title: "Developed countries must deliver on promises: China Daily editorial"
+excerpt: "From the conflict in Ukraine to the midterm elections in the United States, there are plenty of ongoing and impending events to distract countries and their leaders from this year's United Nations cli"
+image: "http://img2.chinadaily.com.cn/images/202211/08/636a4354a3105ca157c0cbb0.jpeg"
 group: con
 rank: 8
 ---

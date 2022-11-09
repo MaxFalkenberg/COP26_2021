@@ -1,9 +1,9 @@
 ---
-publication: "dctechthoughts.blogspot.com"
-link: "https://dctechthoughts.blogspot.com/2022/10/climate-disasters-new-normal-for-and.html"
-title: "CLIMATE DISASTERS: THE NEW NORMAL FOR  IT AND BUSINESS CONTINUITY       Part 1: Climate Chaos"
-excerpt: "Just in case someone didn’t get the memo, the Planet Earth is in big trouble. “The dangers of climate change are no longer hypothetical”, th..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtd0e1lu1lDiebpMOZvGPwXrZsiv5xt9nTsdv2Xyt-god2fluTU2IhQA19aouble7CqjdTv1puYgC8704axM5yy8MW14wDd2aGwu_NDszVsWa_qKStm3zoqfLZnxygsMkbrqV2LExN0QBRwWPuYCaBOf6eiwigTdIt_kwC-BOZ2ypXY3yERf-PH01i/w1200-h630-p-k-no-nu/global%20warming.jpg"
+publication: "arabnews.com"
+link: "https://www.arabnews.com/node/2195206/business-economy"
+title: "Saudi Arabia commits $2.5bn to Middle East green initiative: Crown Prince"
+excerpt: "SHARM EL-SHEIKH: Saudi Arabia will contribute $2.5 billion to the Middle East Green Initiative over the next 10 years and host its headquarters in the Kingdom, Crown Prince Mohammed bin Salman said on"
+image: "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2022/11/07/3529846-1200457638.jpg?itok=lnjZu_Pu"
 group: con
 rank: 7
 ---
