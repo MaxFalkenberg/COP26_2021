@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-08/International-Drought-Resilience-Alliance-launched-at-COP27-1eN2qpMyU3m/index.html"
-title: "International Drought Resilience Alliance launched at COP27"
-excerpt: "Leaders from nearly 50 countries and organizations on Monday launched the International Drought Resilience Alliance at the ongoing COP27 to help countries to be better prepared for future droughts.Ini"
-image: "https://news.cgtn.com/news/2022-11-08/International-Drought-Resilience-Alliance-launched-at-COP27-1eN2qpMyU3m/img/e4962d0ee6c84a108c61f67f31af29c2/e4962d0ee6c84a108c61f67f31af29c2-750.png"
+publication: "londongreenleft.blogspot.com"
+link: "https://londongreenleft.blogspot.com/2022/11/extract-from-ecosocialism-not-extinction.html"
+title: "Extract From: Ecosocialism Not Extinction  "
+excerpt: "Written by Allan Todd (2022)     “The central preomise of ecosocialism, already suggested by the term itself, is that non-ecological sociali..."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOnGFu2WFN8j2gycS06HZ75nEWFUt9D1NBDq-lEWGmFZc0ehRT64ddPVWfVUqWM0wlx6h9catM047Q3HlFivr_j7zniynnGXzXUkbNwsYs89KkQDEdsv803SwGwXV7sU8ubdbFNIo7LZwYyldmPBXiisfqqouBt4GcVM1rQMbf-gWB1F7iYKac9jVB/w1200-h630-p-k-no-nu/ECOSOCIALISM.NOTEXTINCTION%20(1).jpg"
 group: con
 rank: 11
 ---

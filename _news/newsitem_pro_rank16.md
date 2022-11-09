@@ -1,9 +1,9 @@
 ---
-publication: "foreignpolicy.com"
-link: "https://foreignpolicy.com/2022/11/06/climate-cop27-emissions-adaptation-development-energy-africa-developing-countries-global-south/"
-title: "The Obvious Climate Strategy Nobody Will Talk About"
-excerpt: "Economic development is the only proven path to climate resilience."
-image: "https://foreignpolicy.com/wp-content/uploads/2022/11/Central-Africa-Flood-GettyImages-1178775661.jpg?w=1000"
+publication: "climate-events.nytimes.com"
+link: "https://climate-events.nytimes.com/climate-forward/events/sharm-el-sheikh"
+title: "The New York Times Climate Forward Sharm el Sheikh"
+excerpt: "As world leaders assemble at COP27 to demonstrate how they’ve measured up against last year’s goals, come together with people from all over the world to demand sustained progress."
+image: "https://images.prismic.io/climateforward/171840aa-54b6-4f37-9704-75327d2cbedf_sharm.jpg?auto=compress,format"
 group: pro
 rank: 16
 ---
