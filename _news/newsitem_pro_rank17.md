@@ -1,9 +1,9 @@
 ---
-publication: "hrw.org"
-link: "https://www.hrw.org/news/2022/11/08/ugandan-youth-activists-urging-action-cop27"
-title: "The Ugandan Youth Activists Urging Action at COP27"
-excerpt: "This week, world leaders are meeting in Egypt for COP27, the global climate summit. Joining them will be Ugandan youth activists who have decided to make their voices heard."
-image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211afr_uganda_friday_for_future_activists.jpg?h=ddb1ad0c&itok=XU3_wUic"
+publication: "nature.com"
+link: "https://www.nature.com/articles/s41893-022-00996-4"
+title: "Looking beyond glaciers to understand mountain water security - Nature Sustainability"
+excerpt: "Moving from a glacial-hydrological focus to a social-ecological perspective of the wider catchment hydrology can improve the assessment of mountain water security. Such a shift can help in the develop"
+image: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-022-00996-4/MediaObjects/41893_2022_996_Fig1_HTML.png"
 group: pro
 rank: 17
 ---
