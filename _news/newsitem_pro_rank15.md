@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/07/cop27-climate-change-report-us/"
-title: "Climate change threatening ‘things Americans value most,’ U.S. report says"
-excerpt: "The latest National Climate Assessment also finds that the United States has warmed 68 percent faster than the planet as a whole. "
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NQHX5Q66MAN3KISGVD6H6Y652A.jpg&w=1440"
+publication: "cbsnews.com"
+link: "https://www.cbsnews.com/sanfrancisco/news/children-unicef-heat-waves-warning/"
+title: "UNICEF warns billions of children at risk from increased heat waves"
+excerpt: "With increased exposure to heat waves, children are at greater risk of chronic respiratory conditions like asthma and cardiovascular diseases, according to the U.N. children's agency."
+image: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/25/8c9aeeb4-c4d1-4733-b050-11713de911a7/thumbnail/1200x630g2/3bd71ec4004e0b07a33a7b17b9e6008b/gettyimages-1241093370.jpg"
 group: pro
 rank: 15
 ---

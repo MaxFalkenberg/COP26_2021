@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-08/International-Drought-Resilience-Alliance-launched-at-COP27-1eN2qpMyU3m/index.html"
-title: "International Drought Resilience Alliance launched at COP27"
-excerpt: "Leaders from nearly 50 countries and organizations on Monday launched the International Drought Resilience Alliance at the ongoing COP27 to help countries to be better prepared for future droughts.Ini"
-image: "https://news.cgtn.com/news/2022-11-08/International-Drought-Resilience-Alliance-launched-at-COP27-1eN2qpMyU3m/img/e4962d0ee6c84a108c61f67f31af29c2/e4962d0ee6c84a108c61f67f31af29c2-750.png"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/theunbrief/p/cop27-interview-with-juan-ferres"
+title: "COP27: Interview with Juan Ferres, Chief Data Scientist at Microsoft | Interview with Sandro Giuliani, CEO of GESDA | WTO Launches World Trade Report"
+excerpt: "Interview with Juan Ferres, Chief Data Scientist at Microsoft, and Director of the AI for Good Lab Maya Plentz We are seeing, at COP27, a great push from the private sector to be truly engaged and wor"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6422f255-01fa-4154-8f40-51bba09a287c_610x610.jpeg"
 group: con
 rank: 12
 ---

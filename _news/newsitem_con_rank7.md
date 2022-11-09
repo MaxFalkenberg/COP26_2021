@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-09/China-calls-on-developed-countries-to-fulfill-climate-finance-promise-1eOsEokQ5u8/index.html"
-title: "China calls on developed countries to fulfill climate finance promise"
-excerpt: "The developed countries should fulfill their promise of providing $100 billion in climate finance as soon as possible and draw a road map for doubling the adaptation fund, China's Special Envoy for Cl"
-image: "https://news.cgtn.com/news/2022-11-09/China-calls-on-developed-countries-to-fulfill-climate-finance-promise-1eOsEokQ5u8/img/1ff9d15bc0044811a9bf6dab05220e6a/1ff9d15bc0044811a9bf6dab05220e6a-750.png"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/09/Climate-change-a-ticking-time-bomb-for-people-in-conflict-zones-ICRC-director"
+title: "Climate change a 'ticking time bomb' for people in conflict zones: ICRC director"
+excerpt: "Climate change is devastating vulnerable populations across the globe with those living in conflict situations across the Middle East and wider world"
+image: "https://vid.alarabiya.net/images/2022/11/09/0eb0a10a-a9e8-498b-bdf2-9a4412314418/0eb0a10a-a9e8-498b-bdf2-9a4412314418_16x9_600x338.jpg"
 group: con
 rank: 7
 ---
