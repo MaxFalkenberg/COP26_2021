@@ -1,9 +1,9 @@
 ---
-publication: "publicsenat.fr"
-link: "https://www.publicsenat.fr/article/parlementaire/l-obligation-de-pose-de-panneaux-photovoltaiques-sur-les-grands-parkings"
-title: "L’obligation de pose de panneaux photovoltaïques sur les grands parkings extérieurs adoptée au Sénat"
-excerpt: "Les sénateurs ont adopté ce 4 novembre l’article 11 du projet de loi sur l’accélération des énergies renouvelables, qui impose un équipement en ombrières photovoltaïques pour les parkings extérieurs d"
-image: "https://www.publicsenat.fr/sites/default/files/styles/pse_accueil_entete/public/thumbnails/image/sipa_00591366_000004.jpg?itok=4AtbO22x"
+publication: "theglobeandmail.com"
+link: "https://www.theglobeandmail.com/world/article-recognize-genocide-in-ethiopias-tigray-region-experts-urge-canadian/"
+title: "Recognize genocide in Ethiopia’s Tigray region, experts urge Canadian committee"
+excerpt: "MPs say they will push ahead with their Tigray report as urgently as they can, spurred on by witnesses who described mass rapes and starvation"
+image: "https://www.theglobeandmail.com/resizer/yrL4t86GZNRC9nMBMJ6zE-TlptM=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/JKTAMNUNSJPDJCOC5O35QSFGW4.jpg"
 group: pro
 rank: 1
 ---

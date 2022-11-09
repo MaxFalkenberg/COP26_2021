@@ -1,9 +1,9 @@
 ---
 publication: "trtworld.com"
-link: "https://www.trtworld.com/magazine/worst-hit-africa-seeks-100-bn-annually-from-biggest-polluters-62351"
-title: "Worst-hit Africa seeks $100 bn annually from biggest polluters"
-excerpt: "On the third day of COP27, developed countries have been called upon once again to rise to the occasion and fulfil their pledge of financing $100 billion a year to the developing world to combat the c"
-image: "https://cdni0.trtworld.com/w480/h270/q75/143629_20221108T104712Z_1367868053_RC2MHX9L9J71_RTRMADP_3_CLIMATEUN_1667904827693.JPG"
+link: "https://www.trtworld.com/mea/cop27-austria-becomes-latest-country-to-pledge-climate-reparation-funds-62356"
+title: "COP27: Austria becomes latest country to pledge climate reparation funds"
+excerpt: "Austria has announced it will commit $50 million for climate 'loss and damage', joining a few other European countries in pledging small amounts as campaigners say more is needed to address climate wr"
+image: "https://cdni0.trtworld.com/w480/h270/q75/143630_20221108T104711Z_1705540449_RC2ZGX9UZF5D_RTRMADP_3_CLIMATEUNQUOTES_1667913845131.JPG"
 group: con
 rank: 2
 ---

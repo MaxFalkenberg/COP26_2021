@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/independentpremium/editors-letters/alaa-abd-el-fattah-cop27-egypt-rishi-sunak-b2220516.html"
-title: "Editor’s Letter: Alaa Abd el-Fattah can only live a few more days – the UK must act"
-excerpt: "If a British citizen is allowed to die of hunger and thirst in a squalid cell while our PM is in the country cosying up to Egyptian officials, what does that mean for the safety of any British citizen"
-image: "https://static.independent.co.uk/2022/11/08/15/2022-11-08T150024Z_2135781367_RC2RHX9KW9L0_RTRMADP_3_CLIMATE-UN-EGYPT-RIGHTS.JPG?quality=75&width=1200&auto=webp"
+publication: "inews.co.uk"
+link: "https://inews.co.uk/news/environment/cop27-summit-oil-giants-shell-bp-climate-debt-1958778"
+title: "Oil giants like Shell and BP could be responsible for over £7tn in climate debt"
+excerpt: "Reaseach by Global Justice Now, shared with i, shows potential cost of 'loss and damage' as climate reparations go on agenda for the first time at COP27 summit"
+image: "https://wp.inews.co.uk/wp-content/uploads/2022/11/SEI_132237930-1200x630-pl-exclusive.jpg"
 group: pro
 rank: 18
 ---

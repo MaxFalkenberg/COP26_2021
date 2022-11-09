@@ -1,9 +1,9 @@
 ---
-publication: "arabnews.com"
-link: "https://www.arabnews.com/node/2195206/business-economy"
-title: "Saudi Arabia commits $2.5bn to Middle East green initiative: Crown Prince"
-excerpt: "SHARM EL-SHEIKH: Saudi Arabia will contribute $2.5 billion to the Middle East Green Initiative over the next 10 years and host its headquarters in the Kingdom, Crown Prince Mohammed bin Salman said on"
-image: "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2022/11/07/3529846-1200457638.jpg?itok=lnjZu_Pu"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1278933.shtml"
+title: "Unity, action urged to tackle global climate crisis as experts warn against COP27 entangled in politics"
+excerpt: "This year's COP27, convened after a year under the shadow of climate disasters and an energy crisis, appeared to have made some breakthrough to include loss and damage compensation into talks, in resp"
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-07/c99e0caa-73fc-492e-8064-c29376dbde28_s.jpeg"
 group: con
 rank: 10
 ---
