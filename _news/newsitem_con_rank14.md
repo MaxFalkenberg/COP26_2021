@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/08/health-must-be-front-and-centre-cop27-climatecrisis-ecologicalcrisis-economiccrisis-healthcrisis-demand-climateaction-sdg13-tellthetruth/"
-title: "Health must be front and centre #COP27 #ClimateCrisis #EcologicalCrisis #EconomicCrisis #HealthCrisis demand #ClimateAction #SDG13 #TellTheTruth"
-excerpt: "On the eve of the pivotal climate talks at COP27, WHO issues a grim reminder that the climate crisis continues to make people sick and jeopardizes lives and that health must be at the core of these…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1863.jpg?w=1200"
+publication: "news.cgtn.com"
+link: "https://news.cgtn.com/news/2022-11-09/China-calls-on-developed-countries-to-fulfill-climate-finance-promise-1eOsEokQ5u8/index.html"
+title: "China calls on developed countries to fulfill climate finance promise"
+excerpt: "The developed countries should fulfill their promise of providing $100 billion in climate finance as soon as possible and draw a road map for doubling the adaptation fund, China's Special Envoy for Cl"
+image: "https://news.cgtn.com/news/2022-11-09/China-calls-on-developed-countries-to-fulfill-climate-finance-promise-1eOsEokQ5u8/img/1ff9d15bc0044811a9bf6dab05220e6a/1ff9d15bc0044811a9bf6dab05220e6a-750.png"
 group: con
 rank: 14
 ---
