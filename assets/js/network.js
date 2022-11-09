@@ -15,78 +15,6 @@ var GetNetwork = (function(cop, size) {
     return data;
 });
 
-var GetTwitterLink = (function(handle) {
-    return '<a href="https://twitter.com/' + handle.slice(1) +
-        '" target="_blank">' + handle + '</a>';
-});
-
-var GetMostRetweeted = (function(handle, cop, size) {
-    var data = GetNetwork(cop, size);
-
-    var sorted_to = data['links']
-        .filter(l => l.source['name'] === handle)
-        .sort((l1, l2) => l2['value'] - l1['value']);
-    if (sorted_to.length > 3) {
-        sorted_to = sorted_to.slice(0,3);
-    }
-    sorted_to = sorted_to.map(l => {
-        return { 'name': l.target['name'], 'val': l.value }
-    });
-
-    var sorted_from = data['links']
-        .filter(l => l.target['name'] === handle)
-        .sort((l1, l2) => l2['value'] - l1['value']);
-    if (sorted_from.length > 3) {
-        sorted_from = sorted_from.slice(0,3);
-    }
-    sorted_from = sorted_from.map(l => {
-        return { 'name': l.source['name'], 'val': l.value }
-    });
-
-    return [ sorted_to, sorted_from ];
-});
-
-var ClosePanel = (function() {
-    document.getElementById('panel').classList.add('hide');
-});
-
-var OpenPanel = (function(handle, cop, size) {
-    var w = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
-
-    if (w > 600) {
-        var user = handle.slice(1)
-        document.getElementById('panel_title').innerHTML = handle;
-
-        // add embedded twitter feed for the selected user
-        var panel = document.getElementById('panel_content');
-        panel.innerHTML = '<a class="twitter-timeline" href="https://twitter.com/' + user + '"></a>';
-        var h = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0) - 370;
-        twttr.widgets.createTimeline({
-                sourceType: "profile",
-                screenName: user
-            }, panel, {
-                dnt: true,
-                height: h,
-                chrome: 'transparent'
-            }
-        );
-
-        // add most retweeted by user and who retweeted user most
-        panel.innerHTML += '<p>Top users retweeted by this account:<br/>';
-        var links = GetMostRetweeted(handle, cop, size);
-        links[0].forEach(l => panel.innerHTML += GetTwitterLink(l['name']) + ' (' + l['val'] + ' retweets)<br/>');
-        panel.innerHTML += '</p><p>Top users who retweeted this account:<br/>';
-        links[1].forEach(l => panel.innerHTML += GetTwitterLink(l['name']) + ' (' + l['val'] + ' retweets)<br/>');
-        panel.innerHTML += '</p>';
-
-        document.getElementById('panel').classList.remove('hide');
-    }
-    else {
-        window.open("https://twitter.com/" + handle.slice(1));
-    }
-
-});
-
 
 var LoadNetwork = (function(cop, size) {
     if (cop == -1) {
@@ -117,24 +45,22 @@ var LoadNetwork = (function(cop, size) {
     let Graph = ForceGraph()(elem)
         .graphData(data)
         .backgroundColor("#ffffff")
-        .zoom(size == 1500 ? 0.3 : 0.6)
+        .zoom(0.2)
         .width(width)
         .height(height)
         // configure nodes and links
         .nodeColor(n => scale(n.group))
-        .nodeVal(n => n.value * 4000.0)
+        .nodeVal(n => n.value * 5000.0)
         .linkCurvature(.2)
         // decorate the node
         .nodeCanvasObject((n, ctx, globalScale) => {
-          var label = n.name;
+          n.name = '';
           ctx.font =  (Math.pow(2, 1 + n.value * 20) * 10).toString() + 'px monospace';
           ctx.textAlign = 'center';
           ctx.textBaseline = 'middle';
           ctx.strokeStyle = '#ffffff';
           ctx.lineWidth = 4;
-          ctx.strokeText(label, n.x, n.y + 12);
           ctx.fillStyle = n.color;
-          ctx.fillText(label, n.x, n.y + 12);
         })
         .nodeCanvasObjectMode(() => 'after')
         // node remains in position after dragging
@@ -143,7 +69,9 @@ var LoadNetwork = (function(cop, size) {
           node.fy = node.y;
         })
         // show panel on node click
-        .onNodeClick(n => OpenPanel(n.name, cop, size))
+        //.onNodeClick(n => OpenPanel(n.name, cop, size))
+
+    // remove node text
 
     if (size != 1500) {
       // particles travelling links indicate link direction
@@ -153,7 +81,7 @@ var LoadNetwork = (function(cop, size) {
     }
 
     // Spread nodes a little wider
-    Graph.d3Force("charge").strength(-900);
+    Graph.d3Force("charge").strength(-300);
     Graph.d3VelocityDecay(0.1)
 
     document.querySelector('#updated').innerHTML = "Last update:<br/>" + last_updated;
