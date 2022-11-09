@@ -1,9 +1,9 @@
 ---
-publication: "conservativewoman.co.uk"
-link: "https://www.conservativewoman.co.uk/"
-title: "The Conservative Woman"
-excerpt: "We advocate for conservatism, the only rational response to modern day problems; we challenge leftism wherever it lurks and threatens our liberty."
-image: "https://www.conservativewoman.co.uk/wp-content/uploads/2021/07/Conservative-Woman-Logo-Update-July-2021_Site-Title.png"
+publication: "gulfnews.com"
+link: "https://gulfnews.com/opinion/op-eds/cop27-climate-crisis-threatens-global-health-1.91797058"
+title: "COP27: Climate crisis threatens global health"
+excerpt: "Climate change impacts social causes that promote good health, like sustainable livelihood"
+image: "https://imagevars.gulfnews.com/2022/11/07/OPN-COP27-climate_18451c67296_medium.jpg"
 group: con
 rank: 4
 ---

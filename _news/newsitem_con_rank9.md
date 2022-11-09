@@ -1,9 +1,9 @@
 ---
-publication: "londongreenleft.blogspot.com"
-link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
-title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
-excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/09/WS636bc4a9a3105ca1f22750f9.html"
+title: "China supports redress for climate change damage"
+excerpt: "China supports the proposal that developed countries compensate developing countries, especially those most vulnerable to the impact of climate change, for the loss and damage they suffer because of g"
+image: "http://img2.chinadaily.com.cn/images/202211/09/636bc4a9a3105ca157c11498.jpeg"
 group: con
 rank: 9
 ---

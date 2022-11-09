@@ -1,9 +1,9 @@
 ---
-publication: "globaltimes.cn"
-link: "https://www.globaltimes.cn/page/202211/1279057.shtml"
-title: "China willing to work with intl community to promote global climate governance: Chinese delegate at COP27"
-excerpt: "China attaches great importance to addressing climate change and is willing to work with the international community to promote global climate governance, the Chinese delegation said on Tuesday at the"
-image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/8f25207c-64e3-4e1d-bfd1-ba3da6750b77_s.jpeg"
+publication: "takvera.blogspot.com"
+link: "https://takvera.blogspot.com/2022/11/addressing-greenwashing-and-net-zero.html"
+title: "Addressing Greenwashing and net-zero pledges at non-state levels: New report by UN Expert group at COP27"
+excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgUzeaFlYWol6TIN7pW12OuqKp_QExoQACuqSPLoXoeDbwRDV74UcFhl90S70HOkn9f4H6LFZ-dIuoiJym3VKYPvypKa4m7UAm-zDNoa8pgb7hpI18UDrFRIcUWjBkf5en2UAtsJv9PB2M4n3-2FRDg6XHI_hpFI1mU2RLX0FukI-r3NU92A0nbMbR/w1200-h630-p-k-no-nu/2022-11-08-UN-McKenna-Greenwashing-report.jpeg"
 group: con
 rank: 12
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/uk-scotland-63484112.amp"
-title: "Swinney reveals further £615m of spending cuts - BBC News"
-excerpt: "The 'reductions and reprioritisations' of this year's Scottish budget is on top of £560m cuts already announced."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/69D9/production/_127479072_642951edb2ebf8535084155edad9c27cf67b3767.jpg"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/environment/2022/11/09/rishi-sunak-rules-climate-reparations-amid-ongoing-cop27-row/"
+title: "Rishi Sunak rules out climate reparations amid ongoing Cop27 row"
+excerpt: "PM claims UK is ‘fulfilling our obligations’ and said he would instead prioritise green investment that supports British jobs"
+image: "https://www.telegraph.co.uk/content/dam/environment/2022/11/09/TELEMMGLPICT000315456667_trans_NvBQzQNjv4Bqw6UWCo-0x5_BRsTZlm-GxMf-s3fZmT3Wu4SFGBFhbrU.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 11
 ---

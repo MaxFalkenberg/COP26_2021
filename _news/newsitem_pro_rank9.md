@@ -1,9 +1,9 @@
 ---
-publication: "theglobeandmail.com"
-link: "https://www.theglobeandmail.com/world/article-recognize-genocide-in-ethiopias-tigray-region-experts-urge-canadian/"
-title: "Recognize genocide in Ethiopia’s Tigray region, experts urge Canadian committee"
-excerpt: "MPs say they will push ahead with their Tigray report as urgently as they can, spurred on by witnesses who described mass rapes and starvation"
-image: "https://www.theglobeandmail.com/resizer/yrL4t86GZNRC9nMBMJ6zE-TlptM=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/JKTAMNUNSJPDJCOC5O35QSFGW4.jpg"
+publication: "inews.co.uk"
+link: "https://inews.co.uk/news/environment/cop27-summit-oil-giants-shell-bp-climate-debt-1958778"
+title: "Oil giants like Shell and BP could be responsible for over £7tn in climate debt"
+excerpt: "Reaseach by Global Justice Now, shared with i, shows potential cost of 'loss and damage' as climate reparations go on agenda for the first time at COP27 summit"
+image: "https://wp.inews.co.uk/wp-content/uploads/2022/11/SEI_132237930-1200x630-pl-exclusive.jpg"
 group: pro
 rank: 9
 ---
