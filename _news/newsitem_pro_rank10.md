@@ -1,9 +1,9 @@
 ---
-publication: "dailynews.com"
-link: "https://www.dailynews.com/2022/11/05/the-hypocrisy-and-illogic-of-the-un-climate-summit/"
-title: "The hypocrisy and illogic of the UN climate summit"
-excerpt: "Europe is scouring the world for more fossil fuels because the continent needs them for its growth and prosperity. That same opportunity should not be withheld from the world’s poorest."
-image: "https://www.dailynews.com/wp-content/uploads/2022/11/Russia_Ukraine_War_Gas_Misinformation_71673.jpg?w=1024&h=683"
+publication: "express.co.uk"
+link: "https://www.express.co.uk/comment/expresscomment/1693788/COP27-britain-carbon-dioxide-emissions-reparations-ed-miliband-Rishi-sunak"
+title: "'COP27 is a joke, world’s filthiest polluters don’t even turn up'"
+excerpt: "Ed Miliband was one of the weakest, worst leaders the Labour Party has ever had. He led his party to a crushing defeat in 2015 when Labour lost 48 seats and he had to resign in utter humiliation."
+image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4389644.jpg?r=1667989374060"
 group: pro
 rank: 10
 ---

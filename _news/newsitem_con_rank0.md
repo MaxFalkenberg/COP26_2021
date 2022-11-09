@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/middle-east/cop27-uae-and-egypt-ink-deal-to-build-one-of-world-s-largest-wind-farms-62352"
-title: "COP27: UAE and Egypt ink deal to build one of world's largest wind farms"
-excerpt: "The deal was signed on the sidelines of the COP27 climate conference in Sharm El Sheikh."
-image: "https://cdni0.trtworld.com/w480/h270/q75/143629_20221108T104712Z_1367868053_RC2MHX9L9J71_RTRMADP_3_CLIMATEUN_1667907695743.JPG"
+publication: "breitbart.com"
+link: "https://www.breitbart.com/europe/2022/11/09/cop27-hypocrisy-globalists-munch-down-on-meat-as-they-push-bug-diet-for-the-proles/"
+title: "COP27: Globalist Leaders Munch on Meat as They Push Bugs for 'Proles'"
+excerpt: "Globalist elites will be dining on a gourmet selection of meats, fish, and dairy at the UN's COP27 climate change conference in Egypt."
+image: "https://media.breitbart.com/media/2022/11/GettyImages-1244545810-2-640x335.jpg"
 group: con
 rank: 0
 ---

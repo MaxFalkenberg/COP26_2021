@@ -1,9 +1,9 @@
 ---
-publication: "takvera.blogspot.com"
-link: "https://takvera.blogspot.com/2022/11/addressing-greenwashing-and-net-zero.html"
-title: "Addressing Greenwashing and net-zero pledges at non-state levels: New report by UN Expert group at COP27"
-excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgUzeaFlYWol6TIN7pW12OuqKp_QExoQACuqSPLoXoeDbwRDV74UcFhl90S70HOkn9f4H6LFZ-dIuoiJym3VKYPvypKa4m7UAm-zDNoa8pgb7hpI18UDrFRIcUWjBkf5en2UAtsJv9PB2M4n3-2FRDg6XHI_hpFI1mU2RLX0FukI-r3NU92A0nbMbR/w1200-h630-p-k-no-nu/2022-11-08-UN-McKenna-Greenwashing-report.jpeg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/09/gday-cop27-australias-global-climate-reset-cop27-tellthetruth-highwaytohell-auspol-demand-climateaction-sdg13-juststopoil/"
+title: "G’Day COP27: Australia’s global climate reset #COP27 #TellTheTruth #HighwayToHell #auspol demand #ClimateAction #SDG13 #JustStopOil"
+excerpt: "Australia will once again be in the spotlight at this year’s United Nations (UN) climate talks in Egypt. After almost a decade of stalled climate policy, the federal government has legislated a new…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1969.jpg"
 group: con
 rank: 13
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/3210e2cc-5f83-11ed-80da-2c56e60527b0"
-title: "Kenny Farquharson: Time for Scotland to walk tall on the world stage"
-excerpt: "Westminster should be more relaxed about trips such as Nicola Sturgeon’s to Cop27 in Egypt"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F46dcc626-5f83-11ed-80da-2c56e60527b0.jpg?crop=1441%2C811%2C29%2C125&resize=1200"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/uk-scotland-63484112.amp"
+title: "Swinney reveals further £615m of spending cuts - BBC News"
+excerpt: "The 'reductions and reprioritisations' of this year's Scottish budget is on top of £560m cuts already announced."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/69D9/production/_127479072_642951edb2ebf8535084155edad9c27cf67b3767.jpg"
 group: pro
 rank: 16
 ---

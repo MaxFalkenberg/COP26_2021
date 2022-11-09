@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/09/gday-cop27-australias-global-climate-reset-cop27-tellthetruth-highwaytohell-auspol-demand-climateaction-sdg13-juststopoil/"
-title: "G’Day COP27: Australia’s global climate reset #COP27 #TellTheTruth #HighwayToHell #auspol demand #ClimateAction #SDG13 #JustStopOil"
-excerpt: "Australia will once again be in the spotlight at this year’s United Nations (UN) climate talks in Egypt. After almost a decade of stalled climate policy, the federal government has legislated a new…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1969.jpg"
+publication: "chinadaily.com.cn"
+link: "https://www.chinadaily.com.cn/a/202211/08/WS636a4186a3105ca1f2274c99.html"
+title: "Developed countries must deliver on promises: China Daily editorial"
+excerpt: "From the conflict in Ukraine to the midterm elections in the United States, there are plenty of ongoing and impending events to distract countries and their leaders from this year's United Nations cli"
+image: "http://img2.chinadaily.com.cn/images/202211/08/636a4354a3105ca157c0cbb0.jpeg"
 group: con
 rank: 11
 ---
