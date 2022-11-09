@@ -1,9 +1,9 @@
 ---
-publication: "publicsenat.fr"
-link: "https://www.publicsenat.fr/article/parlementaire/l-obligation-de-pose-de-panneaux-photovoltaiques-sur-les-grands-parkings"
-title: "L’obligation de pose de panneaux photovoltaïques sur les grands parkings extérieurs adoptée au Sénat"
-excerpt: "Les sénateurs ont adopté ce 4 novembre l’article 11 du projet de loi sur l’accélération des énergies renouvelables, qui impose un équipement en ombrières photovoltaïques pour les parkings extérieurs d"
-image: "https://www.publicsenat.fr/sites/default/files/styles/pse_accueil_entete/public/thumbnails/image/sipa_00591366_000004.jpg?itok=4AtbO22x"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/07/cop27-climate-change-report-us/"
+title: "Climate change threatening ‘things Americans value most,’ U.S. report says"
+excerpt: "The latest National Climate Assessment also finds that the United States has warmed 68 percent faster than the planet as a whole. "
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NQHX5Q66MAN3KISGVD6H6Y652A.jpg&w=1440"
 group: pro
 rank: 3
 ---

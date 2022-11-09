@@ -1,9 +1,9 @@
 ---
-publication: "theguardian.com"
-link: "https://www.theguardian.com/commentisfree/2022/nov/08/rich-countries-climate-crisis-cop27-africa-loss-and-damage"
-title: "African nations can’t ‘adapt’ to the climate crisis. Here's what rich countries must do | Vanessa Nakate"
-excerpt: "There are 37 million people facing starvation in the Horn of Africa. Time for wealthier countries to adopt ‘loss and damage finance’, says climate activist Vanessa Nakate"
-image: "https://i.guim.co.uk/img/media/acea46f2bb3336de8dbba96e46d7bf1f0d987ccd/0_377_6545_3930/master/6545.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=9152941c0754159ebc2003ea9ae8444c"
+publication: "scotsman.com"
+link: "https://www.scotsman.com/news/opinion/columnists/nicola-sturgeons-grandstanding-at-cop27-in-egypt-is-pointless-she-should-be-focussed-on-problems-at-home-murdo-fraser-3909689"
+title: "Sturgeon's grandstanding at COP27 is a Mr Benn-style fantasy for the benefit of no one but herself – Murdo Fraser"
+excerpt: "Should Nicola Sturgeon ever be described as a ‘Bennite’ you can be sure it is nothing to do with the political beliefs of the legendary Labour left-winger, Tony Benn."
+image: "https://www.scotsman.com/webimg/b25lY21zOjM3YTQ4NmY2LWRhNGYtNDI2ZC1iMTBkLWM5OTRlNmY2MjI2NDphYjJmYjE5NS04NTM0LTRkNjQtYjJiOC0xY2YyZjVhOTQyYzM=.jpg?width=1200&enable=upscale"
 group: pro
 rank: 5
 ---

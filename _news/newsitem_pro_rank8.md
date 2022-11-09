@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop27-small-island-nations-want-big-oil-pay-up-climate-damage-2022-11-08/"
-title: "COP27: Polluters must pay for climate change, poor nations tell rich"
-excerpt: "Leaders from poor countries criticized wealthy governments and oil companies for driving global warming, using their speeches on Tuesday at the COP27 climate summit in Egypt to demand that they pay up"
-image: "https://www.reuters.com/resizer/e5GspTsT9weBfX4RVbc0hxt2pVo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K74WF6EQ7FLRHBKFWYOKOO4DGE.jpg"
+publication: "express.co.uk"
+link: "https://www.express.co.uk/news/world/1693564/china-britain-pollution-co2-environment-cop27-emissions-latest-world-news-ont"
+title: "China caused more pollution in eight years than Britain has in 220 "
+excerpt: "Britain has caused 78 billion tonnes of CO2 emissions in a 270-year gap between 1750 and 2020, while China has caused 80 billion tonnes from 2013 to 2020.  "
+image: "https://cdn.images.express.co.uk/img/dynamic/78/1200x712/4388694.jpg?r=1667899279559"
 group: pro
 rank: 8
 ---
