@@ -1,9 +1,9 @@
 ---
 publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/08/WS6369b6bda3105ca1f2274a96.html"
-title: "UN chief warns world on path to 'climate hell'"
-excerpt: "The world is on a 'highway to climate hell', United Nations Secretary-General Antonio Guterres told delegates during the opening ceremony of the COP27 World Leaders Summit in Egypt on Monday."
-image: "http://img2.chinadaily.com.cn/images/202211/08/6369ef96a3105ca157c0bdce.jpeg"
+link: "https://www.chinadaily.com.cn/a/202211/08/WS636a4186a3105ca1f2274c99.html"
+title: "Developed countries must deliver on promises: China Daily editorial"
+excerpt: "From the conflict in Ukraine to the midterm elections in the United States, there are plenty of ongoing and impending events to distract countries and their leaders from this year's United Nations cli"
+image: "http://img2.chinadaily.com.cn/images/202211/08/636a4354a3105ca157c0cbb0.jpeg"
 group: con
 rank: 13
 ---
