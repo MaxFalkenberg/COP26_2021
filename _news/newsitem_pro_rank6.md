@@ -1,9 +1,9 @@
 ---
-publication: "scotsman.com"
-link: "https://www.scotsman.com/news/opinion/columnists/nicola-sturgeons-grandstanding-at-cop27-in-egypt-is-pointless-she-should-be-focussed-on-problems-at-home-murdo-fraser-3909689"
-title: "Sturgeon's grandstanding at COP27 is a Mr Benn-style fantasy for the benefit of no one but herself – Murdo Fraser"
-excerpt: "Should Nicola Sturgeon ever be described as a ‘Bennite’ you can be sure it is nothing to do with the political beliefs of the legendary Labour left-winger, Tony Benn."
-image: "https://www.scotsman.com/webimg/b25lY21zOjM3YTQ4NmY2LWRhNGYtNDI2ZC1iMTBkLWM5OTRlNmY2MjI2NDphYjJmYjE5NS04NTM0LTRkNjQtYjJiOC0xY2YyZjVhOTQyYzM=.jpg?width=1200&enable=upscale"
+publication: "theguardian.com"
+link: "https://www.theguardian.com/environment/2022/nov/08/un-experts-demand-crackdown-on-greenwashing-of-net-zero-pledges-cop27"
+title: "UN experts demand crackdown on greenwashing of net zero pledges"
+excerpt: "High level group releases report at Cop27 saying policies should be ‘about cutting emissions, not corners’"
+image: "https://i.guim.co.uk/img/media/87ee6bd7a104555a718fe623972eba4a00c17f87/234_0_3266_1961/master/3266.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=065795dbfbfe174c32604b148201e5a1"
 group: pro
 rank: 6
 ---

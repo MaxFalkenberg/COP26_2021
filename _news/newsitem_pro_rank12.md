@@ -1,9 +1,9 @@
 ---
-publication: "thenational.scot"
-link: "https://www.thenational.scot/news/23107660.nicola-sturgeon-fires-back-tory-critics-attack-cop27-trip/"
-title: "Nicola Sturgeon fires back at Tory critics who attack her attendance at COP27"
-excerpt: "NICOLA Sturgeon has hit back at critics who claimed she “has no real reason to go” to the COP27 climate summit in Egypt."
-image: "https://www.thenational.scot/resources/images/16130556/?type=og-image"
+publication: "ca.finance.yahoo.com"
+link: "https://ca.finance.yahoo.com/news/liberals-working-policies-ensure-carbon-120056327.html"
+title: "Liberals working on policies to ensure carbon tax remains in place for years to come"
+excerpt: "Minister says businesses won't invest without 'certainty' carbon regime is here to stay"
+image: "https://media.zenfs.com/en/financial_post_articles_610/56181dbcf14250a736562b6f6b7b16f1"
 group: pro
 rank: 12
 ---

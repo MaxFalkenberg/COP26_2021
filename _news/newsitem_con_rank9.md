@@ -1,9 +1,9 @@
 ---
-publication: "conservativewoman.co.uk"
-link: "https://www.conservativewoman.co.uk/"
-title: "The Conservative Woman"
-excerpt: "We advocate for conservatism, the only rational response to modern day problems; we challenge leftism wherever it lurks and threatens our liberty."
-image: "https://www.conservativewoman.co.uk/wp-content/uploads/2021/07/Conservative-Woman-Logo-Update-July-2021_Site-Title.png"
+publication: "chinadaily.com.cn"
+link: "https://www.chinadaily.com.cn/a/202211/08/WS636a4186a3105ca1f2274c99.html"
+title: "Developed countries must deliver on promises: China Daily editorial"
+excerpt: "From the conflict in Ukraine to the midterm elections in the United States, there are plenty of ongoing and impending events to distract countries and their leaders from this year's United Nations cli"
+image: "http://img2.chinadaily.com.cn/images/202211/08/636a4354a3105ca157c0cbb0.jpeg"
 group: con
 rank: 9
 ---
