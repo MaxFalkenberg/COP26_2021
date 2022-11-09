@@ -1,9 +1,9 @@
 ---
-publication: "cbc.ca"
-link: "https://www.cbc.ca/news/world/un-cop27-climate-guterres-gore-1.6642844"
-title: "UN chief says world is 'on a highway to climate hell' without urgent action to cut emissions | CBC News"
-excerpt: "United Nations Secretary General Antonio Guterres told countries gathered at the start of the COP27 summit in Egypt on Monday they face a stark choice: work together now to cut emissions or condemn fu"
-image: "https://i.cbc.ca/1.6642854.1667824921!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1439721011.jpg"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/08/ugandan-youth-activists-urging-action-cop27"
+title: "The Ugandan Youth Activists Urging Action at COP27"
+excerpt: "This week, world leaders are meeting in Egypt for COP27, the global climate summit. Joining them will be Ugandan youth activists who have decided to make their voices heard."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211afr_uganda_friday_for_future_activists.jpg?h=ddb1ad0c&itok=XU3_wUic"
 group: pro
 rank: 17
 ---

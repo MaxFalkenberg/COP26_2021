@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "https://www.chinadaily.com.cn/a/202211/08/WS636a4186a3105ca1f2274c99.html"
-title: "Developed countries must deliver on promises: China Daily editorial"
-excerpt: "From the conflict in Ukraine to the midterm elections in the United States, there are plenty of ongoing and impending events to distract countries and their leaders from this year's United Nations cli"
-image: "http://img2.chinadaily.com.cn/images/202211/08/636a4354a3105ca157c0cbb0.jpeg"
+publication: "londongreenleft.blogspot.com"
+link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
+title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
+excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
 group: con
 rank: 8
 ---

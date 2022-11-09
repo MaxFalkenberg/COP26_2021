@@ -1,9 +1,9 @@
 ---
-publication: "dctechthoughts.blogspot.com"
-link: "https://dctechthoughts.blogspot.com/2022/10/climate-disasters-new-normal-for-and.html"
-title: "CLIMATE DISASTERS: THE NEW NORMAL FOR  IT AND BUSINESS CONTINUITY       Part 1: Climate Chaos"
-excerpt: "Just in case someone didn’t get the memo, the Planet Earth is in big trouble. “The dangers of climate change are no longer hypothetical”, th..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtd0e1lu1lDiebpMOZvGPwXrZsiv5xt9nTsdv2Xyt-god2fluTU2IhQA19aouble7CqjdTv1puYgC8704axM5yy8MW14wDd2aGwu_NDszVsWa_qKStm3zoqfLZnxygsMkbrqV2LExN0QBRwWPuYCaBOf6eiwigTdIt_kwC-BOZ2ypXY3yERf-PH01i/w1200-h630-p-k-no-nu/global%20warming.jpg"
+publication: "chinadaily.com.cn"
+link: "https://www.chinadaily.com.cn/a/202211/08/WS636a4186a3105ca1f2274c99.html"
+title: "Developed countries must deliver on promises: China Daily editorial"
+excerpt: "From the conflict in Ukraine to the midterm elections in the United States, there are plenty of ongoing and impending events to distract countries and their leaders from this year's United Nations cli"
+image: "http://img2.chinadaily.com.cn/images/202211/08/636a4354a3105ca157c0cbb0.jpeg"
 group: con
 rank: 6
 ---

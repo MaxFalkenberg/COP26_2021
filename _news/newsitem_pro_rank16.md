@@ -1,9 +1,9 @@
 ---
-publication: "weforum.org"
-link: "https://www.weforum.org/events/united-nations-climate-change-conference-cop27-2022/sessions/first-movers-coalition-leaders-panel"
-title: "First Movers Coalition Leaders Panel"
-excerpt: "Coming together one year after the First Movers Coalition launch at COP27, Secretary John Kerry and Børge Brende, President, World Economic Forum, will share exciting announcements on the progress tha"
-image: "https://assets.weforum.org/event_session/image/responsive_medium_UZ2yhZLAaZrumm-0QUfSrwYYUdP7hTDXWTU-ShrFMyA.png"
+publication: "cbc.ca"
+link: "https://www.cbc.ca/news/world/un-cop27-climate-guterres-gore-1.6642844"
+title: "UN chief says world is 'on a highway to climate hell' without urgent action to cut emissions | CBC News"
+excerpt: "United Nations Secretary General Antonio Guterres told countries gathered at the start of the COP27 summit in Egypt on Monday they face a stark choice: work together now to cut emissions or condemn fu"
+image: "https://i.cbc.ca/1.6642854.1667824921!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1439721011.jpg"
 group: pro
 rank: 16
 ---

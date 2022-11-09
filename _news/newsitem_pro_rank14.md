@@ -1,9 +1,9 @@
 ---
-publication: "ca.finance.yahoo.com"
-link: "https://ca.finance.yahoo.com/news/liberals-working-policies-ensure-carbon-120056327.html"
-title: "Liberals working on policies to ensure carbon tax remains in place for years to come"
-excerpt: "Minister says businesses won't invest without 'certainty' carbon regime is here to stay"
-image: "https://media.zenfs.com/en/financial_post_articles_610/56181dbcf14250a736562b6f6b7b16f1"
+publication: "weforum.org"
+link: "https://www.weforum.org/events/united-nations-climate-change-conference-cop27-2022/sessions/first-movers-coalition-leaders-panel"
+title: "First Movers Coalition Leaders Panel"
+excerpt: "Coming together one year after the First Movers Coalition launch at COP27, Secretary John Kerry and Børge Brende, President, World Economic Forum, will share exciting announcements on the progress tha"
+image: "https://assets.weforum.org/event_session/image/responsive_medium_UZ2yhZLAaZrumm-0QUfSrwYYUdP7hTDXWTU-ShrFMyA.png"
 group: pro
 rank: 14
 ---

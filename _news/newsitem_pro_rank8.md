@@ -1,9 +1,9 @@
 ---
-publication: "scotsman.com"
-link: "https://www.scotsman.com/news/opinion/columnists/nicola-sturgeons-grandstanding-at-cop27-in-egypt-is-pointless-she-should-be-focussed-on-problems-at-home-murdo-fraser-3909689"
-title: "Sturgeon's grandstanding at COP27 is a Mr Benn-style fantasy for the benefit of no one but herself – Murdo Fraser"
-excerpt: "Should Nicola Sturgeon ever be described as a ‘Bennite’ you can be sure it is nothing to do with the political beliefs of the legendary Labour left-winger, Tony Benn."
-image: "https://www.scotsman.com/webimg/b25lY21zOjM3YTQ4NmY2LWRhNGYtNDI2ZC1iMTBkLWM5OTRlNmY2MjI2NDphYjJmYjE5NS04NTM0LTRkNjQtYjJiOC0xY2YyZjVhOTQyYzM=.jpg?width=1200&enable=upscale"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/cop27-small-island-nations-want-big-oil-pay-up-climate-damage-2022-11-08/"
+title: "COP27: Polluters must pay for climate change, poor nations tell rich"
+excerpt: "Leaders from poor countries criticized wealthy governments and oil companies for driving global warming, using their speeches on Tuesday at the COP27 climate summit in Egypt to demand that they pay up"
+image: "https://www.reuters.com/resizer/e5GspTsT9weBfX4RVbc0hxt2pVo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K74WF6EQ7FLRHBKFWYOKOO4DGE.jpg"
 group: pro
 rank: 8
 ---
