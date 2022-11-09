@@ -1,9 +1,9 @@
 ---
-publication: "conservativewoman.co.uk"
-link: "https://www.conservativewoman.co.uk/message-to-cop27-there-is-no-climate-emergency/"
-title: "Message to COP27: There is no climate emergency - The Conservative Woman"
-excerpt: "Message to COP27: There is no climate emergency"
-image: "https://www.conservativewoman.co.uk/wp-content/uploads/2022/10/cop22.jpg"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/09/Climate-change-a-ticking-time-bomb-for-people-in-conflict-zones-ICRC-director"
+title: "Climate change a 'ticking time bomb' for people in conflict zones: ICRC director"
+excerpt: "Climate change is devastating vulnerable populations across the globe with those living in conflict situations across the Middle East and wider world"
+image: "https://vid.alarabiya.net/images/2022/11/09/0eb0a10a-a9e8-498b-bdf2-9a4412314418/0eb0a10a-a9e8-498b-bdf2-9a4412314418_16x9_600x338.jpg"
 group: con
 rank: 8
 ---

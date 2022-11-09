@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/climate-change/news/tuvalu-fossil-fuel-treaty-cop27-b2220224.html"
-title: "Tuvalu leads calls at Cop27 for treaty to phase out fossil fuels"
-excerpt: "The proposal follows in the footsteps of other similar initiatives to manage threats including nuclear weapons and landmines"
-image: "https://static.independent.co.uk/2021/09/25/22/UN_General_Assembly_Tuvalu_51286.jpg?quality=75&width=1200&auto=webp"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/08/ugandan-youth-activists-urging-action-cop27"
+title: "The Ugandan Youth Activists Urging Action at COP27"
+excerpt: "This week, world leaders are meeting in Egypt for COP27, the global climate summit. Joining them will be Ugandan youth activists who have decided to make their voices heard."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211afr_uganda_friday_for_future_activists.jpg?h=ddb1ad0c&itok=XU3_wUic"
 group: pro
 rank: 18
 ---

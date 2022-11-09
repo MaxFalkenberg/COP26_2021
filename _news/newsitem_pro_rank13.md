@@ -1,9 +1,9 @@
 ---
-publication: "rte.ie"
-link: "https://www.rte.ie/news/2022/1109/1335140-dublin-airport-largest-polluter-in-ireland-cop27-data/"
-title: "Dublin Airport largest Irish polluter last year - data"
-excerpt: "According to the data unveiled at COP27, Dublin Airport was the specific source for just over one million tonnes of Ireland's greenhouse gas emissions in 2021."
-image: "https://img.rasset.ie/001c07d1-1600.jpg"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/07/leave-no-one-behind"
+title: "Leave No One Behind"
+excerpt: "Between March 2021 and October 2022, Human Rights Watch interviewed more than 100 people, including people with disabilities, their families, disability and climate change activists and experts, repre"
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211drd_asia_bangladesh_Fatema.jpeg?h=c673cd1c&itok=pobKRIYv"
 group: pro
 rank: 13
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/environment/2022/11/09/rishi-sunak-rules-climate-reparations-amid-ongoing-cop27-row/"
-title: "Rishi Sunak rules out climate reparations amid ongoing Cop27 row"
-excerpt: "PM claims UK is ‘fulfilling our obligations’ and said he would instead prioritise green investment that supports British jobs"
-image: "https://www.telegraph.co.uk/content/dam/environment/2022/11/09/TELEMMGLPICT000315456667_trans_NvBQzQNjv4Bqw6UWCo-0x5_BRsTZlm-GxMf-s3fZmT3Wu4SFGBFhbrU.jpeg?impolicy=logo-overlay"
+publication: "rte.ie"
+link: "https://www.rte.ie/news/2022/1109/1335140-dublin-airport-largest-polluter-in-ireland-cop27-data/"
+title: "Dublin Airport largest Irish polluter last year - data"
+excerpt: "According to the data unveiled at COP27, Dublin Airport was the specific source for just over one million tonnes of Ireland's greenhouse gas emissions in 2021."
+image: "https://img.rasset.ie/001c07d1-1600.jpg"
 group: pro
 rank: 11
 ---
