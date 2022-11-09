@@ -1,9 +1,9 @@
 ---
-publication: "cbsnews.com"
-link: "https://www.cbsnews.com/sanfrancisco/news/children-unicef-heat-waves-warning/"
-title: "UNICEF warns billions of children at risk from increased heat waves"
-excerpt: "With increased exposure to heat waves, children are at greater risk of chronic respiratory conditions like asthma and cardiovascular diseases, according to the U.N. children's agency."
-image: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/25/8c9aeeb4-c4d1-4733-b050-11713de911a7/thumbnail/1200x630g2/3bd71ec4004e0b07a33a7b17b9e6008b/gettyimages-1241093370.jpg"
+publication: "climate-events.nytimes.com"
+link: "https://climate-events.nytimes.com/climate-forward/events/sharm-el-sheikh"
+title: "The New York Times Climate Forward Sharm el Sheikh"
+excerpt: "As world leaders assemble at COP27 to demonstrate how they’ve measured up against last year’s goals, come together with people from all over the world to demand sustained progress."
+image: "https://images.prismic.io/climateforward/171840aa-54b6-4f37-9704-75327d2cbedf_sharm.jpg?auto=compress,format"
 group: pro
 rank: 18
 ---

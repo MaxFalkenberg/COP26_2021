@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/08/egypt-cop27-alaa-hunger-strike/"
-title: "Climate talks in Egypt overshadowed by shouting matches over human rights"
-excerpt: "Egypt's efforts to suppress political dissent has distracted from the broader climate debate at the annual U.N. climate negotiations in Sharm el-Sheikh."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZUN5NXC7PEI63IJR5EAOJJRTNM.jpg&w=1440"
+publication: "scotsman.com"
+link: "https://www.scotsman.com/news/opinion/columnists/nicola-sturgeons-grandstanding-at-cop27-in-egypt-is-pointless-she-should-be-focussed-on-problems-at-home-murdo-fraser-3909689"
+title: "Sturgeon's grandstanding at COP27 is a Mr Benn-style fantasy for the benefit of no one but herself – Murdo Fraser"
+excerpt: "Should Nicola Sturgeon ever be described as a ‘Bennite’ you can be sure it is nothing to do with the political beliefs of the legendary Labour left-winger, Tony Benn."
+image: "https://www.scotsman.com/webimg/b25lY21zOjM3YTQ4NmY2LWRhNGYtNDI2ZC1iMTBkLWM5OTRlNmY2MjI2NDphYjJmYjE5NS04NTM0LTRkNjQtYjJiOC0xY2YyZjVhOTQyYzM=.jpg?width=1200&enable=upscale"
 group: pro
 rank: 10
 ---

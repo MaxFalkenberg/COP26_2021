@@ -1,9 +1,9 @@
 ---
-publication: "globaltimes.cn"
-link: "https://www.globaltimes.cn/page/202211/1279057.shtml"
-title: "China willing to work with intl community to promote global climate governance: Chinese delegate at COP27"
-excerpt: "China attaches great importance to addressing climate change and is willing to work with the international community to promote global climate governance, the Chinese delegation said on Tuesday at the"
-image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/8f25207c-64e3-4e1d-bfd1-ba3da6750b77_s.jpeg"
+publication: "news.cgtn.com"
+link: "https://news.cgtn.com/news/2022-11-08/International-Drought-Resilience-Alliance-launched-at-COP27-1eN2qpMyU3m/index.html"
+title: "International Drought Resilience Alliance launched at COP27"
+excerpt: "Leaders from nearly 50 countries and organizations on Monday launched the International Drought Resilience Alliance at the ongoing COP27 to help countries to be better prepared for future droughts.Ini"
+image: "https://news.cgtn.com/news/2022-11-08/International-Drought-Resilience-Alliance-launched-at-COP27-1eN2qpMyU3m/img/e4962d0ee6c84a108c61f67f31af29c2/e4962d0ee6c84a108c61f67f31af29c2-750.png"
 group: con
 rank: 12
 ---

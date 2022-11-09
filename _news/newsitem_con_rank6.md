@@ -1,9 +1,9 @@
 ---
-publication: "conservativewoman.co.uk"
-link: "https://www.conservativewoman.co.uk/"
-title: "The Conservative Woman"
-excerpt: "We advocate for conservatism, the only rational response to modern day problems; we challenge leftism wherever it lurks and threatens our liberty."
-image: "https://www.conservativewoman.co.uk/wp-content/uploads/2021/07/Conservative-Woman-Logo-Update-July-2021_Site-Title.png"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/life/pakistan-seeks-climate-compensation-in-egypt-cop27-summit-62368"
+title: "Pakistan seeks climate compensation in Egypt COP27 summit"
+excerpt: "'The current financing gap is too high to sustain any real recovery needs of those on the front lines of climate catastrophe,' says PM Shehbaz Sharif at Sharm el Sheikh conference."
+image: "https://cdni0.trtworld.com/w480/h270/q75/143682_EGY20221108_1667947043820.jpg"
 group: con
 rank: 6
 ---

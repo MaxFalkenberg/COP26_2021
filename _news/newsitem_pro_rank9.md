@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1693788/COP27-britain-carbon-dioxide-emissions-reparations-ed-miliband-Rishi-sunak"
-title: "'COP27 is a joke, world’s filthiest polluters don’t even turn up'"
-excerpt: "Ed Miliband was one of the weakest, worst leaders the Labour Party has ever had. He led his party to a crushing defeat in 2015 when Labour lost 48 seats and he had to resign in utter humiliation."
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4389644.jpg?r=1667989374060"
+publication: "inews.co.uk"
+link: "https://inews.co.uk/news/environment/cop27-summit-oil-giants-shell-bp-climate-debt-1958778"
+title: "Oil giants like Shell and BP could be responsible for over £7tn in climate debt"
+excerpt: "Reaseach by Global Justice Now, shared with i, shows potential cost of 'loss and damage' as climate reparations go on agenda for the first time at COP27 summit"
+image: "https://wp.inews.co.uk/wp-content/uploads/2022/11/SEI_132237930-1200x630-pl-exclusive.jpg"
 group: pro
 rank: 9
 ---

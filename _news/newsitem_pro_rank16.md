@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/uk-scotland-63484112.amp"
-title: "Swinney reveals further £615m of spending cuts - BBC News"
-excerpt: "The 'reductions and reprioritisations' of this year's Scottish budget is on top of £560m cuts already announced."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/69D9/production/_127479072_642951edb2ebf8535084155edad9c27cf67b3767.jpg"
+publication: "cbsnews.com"
+link: "https://www.cbsnews.com/sanfrancisco/news/children-unicef-heat-waves-warning/"
+title: "UNICEF warns billions of children at risk from increased heat waves"
+excerpt: "With increased exposure to heat waves, children are at greater risk of chronic respiratory conditions like asthma and cardiovascular diseases, according to the U.N. children's agency."
+image: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/25/8c9aeeb4-c4d1-4733-b050-11713de911a7/thumbnail/1200x630g2/3bd71ec4004e0b07a33a7b17b9e6008b/gettyimages-1241093370.jpg"
 group: pro
 rank: 16
 ---

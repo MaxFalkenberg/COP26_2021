@@ -1,9 +1,9 @@
 ---
-publication: "theglobeandmail.com"
-link: "https://www.theglobeandmail.com/world/article-recognize-genocide-in-ethiopias-tigray-region-experts-urge-canadian/"
-title: "Recognize genocide in Ethiopia’s Tigray region, experts urge Canadian committee"
-excerpt: "MPs say they will push ahead with their Tigray report as urgently as they can, spurred on by witnesses who described mass rapes and starvation"
-image: "https://www.theglobeandmail.com/resizer/yrL4t86GZNRC9nMBMJ6zE-TlptM=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/JKTAMNUNSJPDJCOC5O35QSFGW4.jpg"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/columnists/2022/11/08/cop27-dont-owe-developing-countries-climate-reparations-owe/"
+title: "We don’t owe developing countries ‘climate reparations’ – they owe us"
+excerpt: "We are on the hook for untold billions to countries experiencing adverse weather conditions, because we invented factories – and cars"
+image: "https://www.telegraph.co.uk/content/dam/columnists/2022/11/08/TELEMMGLPICT000315446064_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 1
 ---
