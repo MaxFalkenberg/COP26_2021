@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/07/cop27-climate-change-report-us/"
-title: "Climate change threatening ‘things Americans value most,’ U.S. report says"
-excerpt: "The latest National Climate Assessment also finds that the United States has warmed 68 percent faster than the planet as a whole. "
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NQHX5Q66MAN3KISGVD6H6Y652A.jpg&w=1440"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/environment/2022/11/07/china-pumps-pollution-eight-years-uk-since-industrial-revolution/"
+title: "China pumps out more pollution in eight years than UK since Industrial Revolution"
+excerpt: "CO2 emissions of 80bn tonnes from 2013 to 2020 is higher than Britain’s 78bn over 220 years"
+image: "https://www.telegraph.co.uk/content/dam/environment/2022/11/07/TELEMMGLPICT000283920967_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 2
 ---

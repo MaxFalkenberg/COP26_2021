@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-09/China-calls-on-developed-countries-to-fulfill-climate-finance-promise-1eOsEokQ5u8/index.html"
-title: "China calls on developed countries to fulfill climate finance promise"
-excerpt: "The developed countries should fulfill their promise of providing $100 billion in climate finance as soon as possible and draw a road map for doubling the adaptation fund, China's Special Envoy for Cl"
-image: "https://news.cgtn.com/news/2022-11-09/China-calls-on-developed-countries-to-fulfill-climate-finance-promise-1eOsEokQ5u8/img/1ff9d15bc0044811a9bf6dab05220e6a/1ff9d15bc0044811a9bf6dab05220e6a-750.png"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/09/gday-cop27-australias-global-climate-reset-cop27-tellthetruth-highwaytohell-auspol-demand-climateaction-sdg13-juststopoil/"
+title: "G’Day COP27: Australia’s global climate reset #COP27 #TellTheTruth #HighwayToHell #auspol demand #ClimateAction #SDG13 #JustStopOil"
+excerpt: "Australia will once again be in the spotlight at this year’s United Nations (UN) climate talks in Egypt. After almost a decade of stalled climate policy, the federal government has legislated a new…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1969.jpg"
 group: con
 rank: 12
 ---

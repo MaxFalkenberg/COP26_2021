@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop27-small-island-nations-want-big-oil-pay-up-climate-damage-2022-11-08/"
-title: "COP27: Polluters must pay for climate change, poor nations tell rich"
-excerpt: "Leaders from poor countries criticized wealthy governments and oil companies for driving global warming, using their speeches on Tuesday at the COP27 climate summit in Egypt to demand that they pay up"
-image: "https://www.reuters.com/resizer/e5GspTsT9weBfX4RVbc0hxt2pVo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K74WF6EQ7FLRHBKFWYOKOO4DGE.jpg"
+publication: "publicsenat.fr"
+link: "https://www.publicsenat.fr/article/parlementaire/l-obligation-de-pose-de-panneaux-photovoltaiques-sur-les-grands-parkings"
+title: "L’obligation de pose de panneaux photovoltaïques sur les grands parkings extérieurs adoptée au Sénat"
+excerpt: "Les sénateurs ont adopté ce 4 novembre l’article 11 du projet de loi sur l’accélération des énergies renouvelables, qui impose un équipement en ombrières photovoltaïques pour les parkings extérieurs d"
+image: "https://www.publicsenat.fr/sites/default/files/styles/pse_accueil_entete/public/thumbnails/image/sipa_00591366_000004.jpg?itok=4AtbO22x"
 group: pro
 rank: 8
 ---
