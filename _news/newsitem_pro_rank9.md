@@ -1,9 +1,9 @@
 ---
-publication: "inews.co.uk"
-link: "https://inews.co.uk/news/environment/cop27-summit-oil-giants-shell-bp-climate-debt-1958778"
-title: "Oil giants like Shell and BP could be responsible for over £7tn in climate debt"
-excerpt: "Reaseach by Global Justice Now, shared with i, shows potential cost of 'loss and damage' as climate reparations go on agenda for the first time at COP27 summit"
-image: "https://wp.inews.co.uk/wp-content/uploads/2022/11/SEI_132237930-1200x630-pl-exclusive.jpg"
+publication: "thenational.scot"
+link: "https://www.thenational.scot/news/23111630.cop27-activist-confronts-nicola-sturgeon-oil-gas/"
+title: "Activist confronts Nicola Sturgeon over UK-controlled oil and gas licensing"
+excerpt: "A CLIMATE campaigner confronted Nicola Sturgeon at COP27 over new oil and gas licenses – even though it’s a reserved matter."
+image: "https://www.thenational.scot/resources/images/16136629/?type=og-image"
 group: pro
 rank: 9
 ---

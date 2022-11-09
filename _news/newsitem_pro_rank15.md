@@ -1,9 +1,9 @@
 ---
-publication: "cbsnews.com"
-link: "https://www.cbsnews.com/sanfrancisco/news/children-unicef-heat-waves-warning/"
-title: "UNICEF warns billions of children at risk from increased heat waves"
-excerpt: "With increased exposure to heat waves, children are at greater risk of chronic respiratory conditions like asthma and cardiovascular diseases, according to the U.N. children's agency."
-image: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/25/8c9aeeb4-c4d1-4733-b050-11713de911a7/thumbnail/1200x630g2/3bd71ec4004e0b07a33a7b17b9e6008b/gettyimages-1241093370.jpg"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/un-experts-cop27-corporate-climate-pledges-rife-with-greenwashing-2022-11-08/"
+title: "COP27 - Corporate climate pledges rife with greenwashing - U.N. expert group"
+excerpt: "Promises by companies, banks and cities to achieve net-zero emissions often amount to little more than greenwashing, U.N. experts said in a report on Tuesday as they set out proposed new standards to "
+image: "https://www.reuters.com/resizer/sQ-pRYzc6-1wjsz7EMMQujRi-Tw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IK7SRGQVJ5OSZM57HKMTGNT6TE.jpg"
 group: pro
 rank: 15
 ---

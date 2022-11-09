@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-08/International-Drought-Resilience-Alliance-launched-at-COP27-1eN2qpMyU3m/index.html"
-title: "International Drought Resilience Alliance launched at COP27"
-excerpt: "Leaders from nearly 50 countries and organizations on Monday launched the International Drought Resilience Alliance at the ongoing COP27 to help countries to be better prepared for future droughts.Ini"
-image: "https://news.cgtn.com/news/2022-11-08/International-Drought-Resilience-Alliance-launched-at-COP27-1eN2qpMyU3m/img/e4962d0ee6c84a108c61f67f31af29c2/e4962d0ee6c84a108c61f67f31af29c2-750.png"
+publication: "takvera.blogspot.com"
+link: "https://takvera.blogspot.com/2022/11/addressing-greenwashing-and-net-zero.html"
+title: "Addressing Greenwashing and net-zero pledges at non-state levels: New report by UN Expert group at COP27"
+excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgUzeaFlYWol6TIN7pW12OuqKp_QExoQACuqSPLoXoeDbwRDV74UcFhl90S70HOkn9f4H6LFZ-dIuoiJym3VKYPvypKa4m7UAm-zDNoa8pgb7hpI18UDrFRIcUWjBkf5en2UAtsJv9PB2M4n3-2FRDg6XHI_hpFI1mU2RLX0FukI-r3NU92A0nbMbR/w1200-h630-p-k-no-nu/2022-11-08-UN-McKenna-Greenwashing-report.jpeg"
 group: con
 rank: 13
 ---

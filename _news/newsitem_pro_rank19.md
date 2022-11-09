@@ -1,9 +1,9 @@
 ---
-publication: "hrw.org"
-link: "https://www.hrw.org/news/2022/11/07/leave-no-one-behind"
-title: "Leave No One Behind"
-excerpt: "Between March 2021 and October 2022, Human Rights Watch interviewed more than 100 people, including people with disabilities, their families, disability and climate change activists and experts, repre"
-image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211drd_asia_bangladesh_Fatema.jpeg?h=c673cd1c&itok=pobKRIYv"
+publication: "independent.co.uk"
+link: "https://www.independent.co.uk/climate-change/news/tuvalu-fossil-fuel-treaty-cop27-b2220224.html"
+title: "Tuvalu leads calls at Cop27 for treaty to phase out fossil fuels"
+excerpt: "The proposal follows in the footsteps of other similar initiatives to manage threats including nuclear weapons and landmines"
+image: "https://static.independent.co.uk/2021/09/25/22/UN_General_Assembly_Tuvalu_51286.jpg?quality=75&width=1200&auto=webp"
 group: pro
 rank: 19
 ---
