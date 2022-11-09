@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/08/WS6369b6bda3105ca1f2274a96.html"
-title: "UN chief warns world on path to 'climate hell'"
-excerpt: "The world is on a 'highway to climate hell', United Nations Secretary-General Antonio Guterres told delegates during the opening ceremony of the COP27 World Leaders Summit in Egypt on Monday."
-image: "http://img2.chinadaily.com.cn/images/202211/08/6369ef96a3105ca157c0bdce.jpeg"
+publication: "esgadvocate.substack.com"
+link: "https://esgadvocate.substack.com/p/cop27-finance-is-the-litmus-test"
+title: "COP27: Finance is the litmus test"
+excerpt: "Emerging markets need protection and low cost capital. Who will step up?"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c94d645-3d6c-4cec-a9e6-4c3c1c1d0efe_1125x750.jpeg"
 group: con
 rank: 12
 ---
