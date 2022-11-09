@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/middle-east/cop27-uae-and-egypt-ink-deal-to-build-one-of-world-s-largest-wind-farms-62352"
-title: "COP27: UAE and Egypt ink deal to build one of world's largest wind farms"
-excerpt: "The deal was signed on the sidelines of the COP27 climate conference in Sharm El Sheikh."
-image: "https://cdni0.trtworld.com/w480/h270/q75/143629_20221108T104712Z_1367868053_RC2MHX9L9J71_RTRMADP_3_CLIMATEUN_1667907695743.JPG"
+publication: "breitbart.com"
+link: "https://www.breitbart.com/environment/2022/11/09/cop27-hears-demand-for-end-to-coal-oil-and-natural-gas-likened-to-nuclear-weapons/"
+title: "COP27 Hears Demand for End to Coal, Oil and Natural Gas Use"
+excerpt: "The world should confront 'climate change' the way it does nuclear weapons, by agreeing a non-proliferation treaty, the COP27 conference heard."
+image: "https://media.breitbart.com/media/2022/11/climate-protests-640x335.jpg"
 group: con
 rank: 1
 ---

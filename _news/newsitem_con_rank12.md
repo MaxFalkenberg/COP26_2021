@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/world/2022/11/09/Climate-change-a-ticking-time-bomb-for-people-in-conflict-zones-ICRC-director"
-title: "Climate change a 'ticking time bomb' for people in conflict zones: ICRC director"
-excerpt: "Climate change is devastating vulnerable populations across the globe with those living in conflict situations across the Middle East and wider world"
-image: "https://vid.alarabiya.net/images/2022/11/09/0eb0a10a-a9e8-498b-bdf2-9a4412314418/0eb0a10a-a9e8-498b-bdf2-9a4412314418_16x9_600x338.jpg"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1279057.shtml"
+title: "China willing to work with intl community to promote global climate governance: Chinese delegate at COP27"
+excerpt: "China attaches great importance to addressing climate change and is willing to work with the international community to promote global climate governance, the Chinese delegation said on Tuesday at the"
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/8f25207c-64e3-4e1d-bfd1-ba3da6750b77_s.jpeg"
 group: con
 rank: 12
 ---

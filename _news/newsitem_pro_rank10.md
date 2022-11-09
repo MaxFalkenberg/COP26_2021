@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1693788/COP27-britain-carbon-dioxide-emissions-reparations-ed-miliband-Rishi-sunak"
-title: "'COP27 is a joke, world’s filthiest polluters don’t even turn up'"
-excerpt: "Ed Miliband was one of the weakest, worst leaders the Labour Party has ever had. He led his party to a crushing defeat in 2015 when Labour lost 48 seats and he had to resign in utter humiliation."
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4389644.jpg?r=1667989374060"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/08/egypt-cop27-alaa-hunger-strike/"
+title: "Climate talks in Egypt overshadowed by shouting matches over human rights"
+excerpt: "Egypt's efforts to suppress political dissent has distracted from the broader climate debate at the annual U.N. climate negotiations in Sharm el-Sheikh."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZUN5NXC7PEI63IJR5EAOJJRTNM.jpg&w=1440"
 group: pro
 rank: 10
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/environment/2022/11/07/china-pumps-pollution-eight-years-uk-since-industrial-revolution/"
-title: "China pumps out more pollution in eight years than UK since Industrial Revolution"
-excerpt: "CO2 emissions of 80bn tonnes from 2013 to 2020 is higher than Britain’s 78bn over 220 years"
-image: "https://www.telegraph.co.uk/content/dam/environment/2022/11/07/TELEMMGLPICT000283920967_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
+publication: "express.co.uk"
+link: "https://www.express.co.uk/comment/expresscomment/1693788/COP27-britain-carbon-dioxide-emissions-reparations-ed-miliband-Rishi-sunak"
+title: "'COP27 is a joke, world’s filthiest polluters don’t even turn up'"
+excerpt: "Ed Miliband was one of the weakest, worst leaders the Labour Party has ever had. He led his party to a crushing defeat in 2015 when Labour lost 48 seats and he had to resign in utter humiliation."
+image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4389644.jpg?r=1667989374060"
 group: pro
 rank: 9
 ---
