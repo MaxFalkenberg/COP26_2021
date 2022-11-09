@@ -1,9 +1,9 @@
 ---
-publication: "globaltimes.cn"
-link: "https://www.globaltimes.cn/page/202211/1278933.shtml"
-title: "Unity, action urged to tackle global climate crisis as experts warn against COP27 entangled in politics"
-excerpt: "This year's COP27, convened after a year under the shadow of climate disasters and an energy crisis, appeared to have made some breakthrough to include loss and damage compensation into talks, in resp"
-image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-07/c99e0caa-73fc-492e-8064-c29376dbde28_s.jpeg"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/09/Climate-change-a-ticking-time-bomb-for-people-in-conflict-zones-ICRC-director"
+title: "Climate change a 'ticking time bomb' for people in conflict zones: ICRC director"
+excerpt: "Climate change is devastating vulnerable populations across the globe with those living in conflict situations across the Middle East and wider world"
+image: "https://vid.alarabiya.net/images/2022/11/09/0eb0a10a-a9e8-498b-bdf2-9a4412314418/0eb0a10a-a9e8-498b-bdf2-9a4412314418_16x9_600x338.jpg"
 group: con
 rank: 12
 ---

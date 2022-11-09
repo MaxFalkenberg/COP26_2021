@@ -1,9 +1,9 @@
 ---
-publication: "technocracy.news"
-link: "https://www.technocracy.news/greta-thunberg-shuns-cop27-calls-for-overthrow-of-the-whole-capitalist-system/"
-title: "Greta Thunberg Shuns COP27, Calls For 'Overthrow Of The Whole Capitalist System'"
-excerpt: "Greta Thunberg has moved past global warming and onto the main event: overthrowing capitalism altogether in favor of Sustainable Development, aka Technocracy. This has been the goal of global warming "
-image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-08-at-8.08.36-AM.png"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/09/gday-cop27-australias-global-climate-reset-cop27-tellthetruth-highwaytohell-auspol-demand-climateaction-sdg13-juststopoil/"
+title: "G’Day COP27: Australia’s global climate reset #COP27 #TellTheTruth #HighwayToHell #auspol demand #ClimateAction #SDG13 #JustStopOil"
+excerpt: "Australia will once again be in the spotlight at this year’s United Nations (UN) climate talks in Egypt. After almost a decade of stalled climate policy, the federal government has legislated a new…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1969.jpg"
 group: con
 rank: 10
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/08/egypt-cop27-alaa-hunger-strike/"
-title: "Climate talks in Egypt overshadowed by shouting matches over human rights"
-excerpt: "Egypt's efforts to suppress political dissent has distracted from the broader climate debate at the annual U.N. climate negotiations in Sharm el-Sheikh."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZUN5NXC7PEI63IJR5EAOJJRTNM.jpg&w=1440"
+publication: "thenational.scot"
+link: "https://www.thenational.scot/news/23111630.cop27-activist-confronts-nicola-sturgeon-oil-gas/"
+title: "Activist confronts Nicola Sturgeon over UK-controlled oil and gas licensing"
+excerpt: "A CLIMATE campaigner confronted Nicola Sturgeon at COP27 over new oil and gas licenses – even though it’s a reserved matter."
+image: "https://www.thenational.scot/resources/images/16136629/?type=og-image"
 group: pro
 rank: 18
 ---

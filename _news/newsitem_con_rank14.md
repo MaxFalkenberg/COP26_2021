@@ -1,9 +1,9 @@
 ---
-publication: "esgadvocate.substack.com"
-link: "https://esgadvocate.substack.com/p/cop27-finance-is-the-litmus-test"
-title: "COP27: Finance is the litmus test"
-excerpt: "Emerging markets need protection and low cost capital. Who will step up?"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c94d645-3d6c-4cec-a9e6-4c3c1c1d0efe_1125x750.jpeg"
+publication: "news.cgtn.com"
+link: "https://news.cgtn.com/news/2022-11-08/International-Drought-Resilience-Alliance-launched-at-COP27-1eN2qpMyU3m/index.html"
+title: "International Drought Resilience Alliance launched at COP27"
+excerpt: "Leaders from nearly 50 countries and organizations on Monday launched the International Drought Resilience Alliance at the ongoing COP27 to help countries to be better prepared for future droughts.Ini"
+image: "https://news.cgtn.com/news/2022-11-08/International-Drought-Resilience-Alliance-launched-at-COP27-1eN2qpMyU3m/img/e4962d0ee6c84a108c61f67f31af29c2/e4962d0ee6c84a108c61f67f31af29c2-750.png"
 group: con
 rank: 14
 ---

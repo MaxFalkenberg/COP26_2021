@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/mea/cop27-austria-becomes-latest-country-to-pledge-climate-reparation-funds-62356"
-title: "COP27: Austria becomes latest country to pledge climate reparation funds"
-excerpt: "Austria has announced it will commit $50 million for climate 'loss and damage', joining a few other European countries in pledging small amounts as campaigners say more is needed to address climate wr"
-image: "https://cdni0.trtworld.com/w480/h270/q75/143630_20221108T104711Z_1705540449_RC2ZGX9UZF5D_RTRMADP_3_CLIMATEUNQUOTES_1667913845131.JPG"
+publication: "breitbart.com"
+link: "https://www.breitbart.com/environment/2022/11/09/cop27-hears-demand-for-end-to-coal-oil-and-natural-gas-likened-to-nuclear-weapons/"
+title: "COP27 Hears Demand for End to Coal, Oil and Natural Gas Use"
+excerpt: "The world should confront 'climate change' the way it does nuclear weapons, by agreeing a non-proliferation treaty, the COP27 conference heard."
+image: "https://media.breitbart.com/media/2022/11/climate-protests-640x335.jpg"
 group: con
 rank: 3
 ---
