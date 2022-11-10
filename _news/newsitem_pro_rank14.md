@@ -1,9 +1,9 @@
 ---
-publication: "hrw.org"
-link: "https://www.hrw.org/news/2022/11/07/leave-no-one-behind"
-title: "Leave No One Behind"
-excerpt: "Between March 2021 and October 2022, Human Rights Watch interviewed more than 100 people, including people with disabilities, their families, disability and climate change activists and experts, repre"
-image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211drd_asia_bangladesh_Fatema.jpeg?h=c673cd1c&itok=pobKRIYv"
+publication: "who.int"
+link: "https://www.who.int/news-room/events/detail/2022/11/06/default-calendar/cop27-health-pavilion"
+title: "COP27 Health Pavilion"
+excerpt: "WHO in collaboration with the Wellcome Trust and partners will host  the Health Pavilion at the COP27 UN Climate Conference, taking place in Sharm El-Sheikh, Egypt from 6 to 18 November, 2022."
+image: "https://cdn.who.int/media/images/default-source/health-and-climate-change/pfin0814-thumb.tmb-1200v.jpg?sfvrsn=70e6d701_1"
 group: pro
 rank: 14
 ---

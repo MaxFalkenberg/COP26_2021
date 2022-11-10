@@ -1,9 +1,9 @@
 ---
-publication: "thenational.scot"
-link: "https://www.thenational.scot/news/23111630.cop27-activist-confronts-nicola-sturgeon-oil-gas/"
-title: "Activist confronts Nicola Sturgeon over UK-controlled oil and gas licensing"
-excerpt: "A CLIMATE campaigner confronted Nicola Sturgeon at COP27 over new oil and gas licenses – even though it’s a reserved matter."
-image: "https://www.thenational.scot/resources/images/16136629/?type=og-image"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/opinions/2022/11/09/nigerian-president-cop27-africa-climate-change/"
+title: "Opinion | Muhammadu Buhari: How not to talk with Africa about climate change"
+excerpt: "Africa didn’t cause the mess, yet it pays the price."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AP4LAIA73OM4NZ6CU2XNMC7LNE.JPG&w=1440"
 group: pro
 rank: 6
 ---

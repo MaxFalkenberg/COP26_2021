@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/opinions/2022/11/09/nigerian-president-cop27-africa-climate-change/"
-title: "Opinion | Muhammadu Buhari: How not to talk with Africa about climate change"
-excerpt: "Africa didn’t cause the mess, yet it pays the price."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AP4LAIA73OM4NZ6CU2XNMC7LNE.JPG&w=1440"
+publication: "foreignpolicy.com"
+link: "https://foreignpolicy.com/2022/11/08/cop27-egypt-dirty-energy-fossil-fuels-environment-dissent/"
+title: "How Egypt Doubled Down on Fossil Fuels by Stifling Dissent"
+excerpt: "The host of the climate conference is an authoritarian state that depends on dirty energy and forcibly silences its domestic environmentalist movement."
+image: "https://foreignpolicy.com/wp-content/uploads/2022/11/egypt-coal-pollution.jpg?w=1000"
 group: pro
 rank: 9
 ---
