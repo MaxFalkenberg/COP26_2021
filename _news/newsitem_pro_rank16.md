@@ -1,9 +1,9 @@
 ---
-publication: "hrw.org"
-link: "https://www.hrw.org/news/2022/11/07/leave-no-one-behind"
-title: "Leave No One Behind"
-excerpt: "Between March 2021 and October 2022, Human Rights Watch interviewed more than 100 people, including people with disabilities, their families, disability and climate change activists and experts, repre"
-image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211drd_asia_bangladesh_Fatema.jpeg?h=c673cd1c&itok=pobKRIYv"
+publication: "climate-events.nytimes.com"
+link: "https://climate-events.nytimes.com/climate-forward/events/sharm-el-sheikh"
+title: "The New York Times Climate Forward Sharm el Sheikh"
+excerpt: "As world leaders assemble at COP27 to demonstrate how they’ve measured up against last year’s goals, come together with people from all over the world to demand sustained progress."
+image: "https://images.prismic.io/climateforward/171840aa-54b6-4f37-9704-75327d2cbedf_sharm.jpg?auto=compress,format"
 group: pro
 rank: 16
 ---

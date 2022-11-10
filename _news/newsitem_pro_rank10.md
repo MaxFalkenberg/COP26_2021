@@ -1,9 +1,9 @@
 ---
-publication: "rte.ie"
-link: "https://www.rte.ie/news/2022/1109/1335140-dublin-airport-largest-polluter-in-ireland-cop27-data/"
-title: "Dublin Airport largest Irish polluter last year - data"
-excerpt: "According to the data unveiled at COP27, Dublin Airport was the specific source for just over one million tonnes of Ireland's greenhouse gas emissions in 2021."
-image: "https://img.rasset.ie/001c07d1-1600.jpg"
+publication: "inews.co.uk"
+link: "https://inews.co.uk/news/environment/cop27-summit-oil-giants-shell-bp-climate-debt-1958778"
+title: "Oil giants like Shell and BP could be responsible for over £7tn in climate debt"
+excerpt: "Reaseach by Global Justice Now, shared with i, shows potential cost of 'loss and damage' as climate reparations go on agenda for the first time at COP27 summit"
+image: "https://wp.inews.co.uk/wp-content/uploads/2022/11/SEI_132237930-1200x630-pl-exclusive.jpg"
 group: pro
 rank: 10
 ---
