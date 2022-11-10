@@ -1,9 +1,9 @@
 ---
 publication: "breitbart.com"
-link: "https://www.breitbart.com/europe/2022/11/10/energy-rationing-for-plebs-only-cop27-bigwigs-blast-air-conditioning-in-80-degree-egypt/"
-title: "COP27 Participants Blasted with Air Conditioning in 80 Degree Egypt"
-excerpt: "The COP27 conference is reportedly blasting its elite attendees with air conditioning in 80-degree Egyptian heat."
-image: "https://media.breitbart.com/media/2022/11/GettyImages-1244633242-e1668008179227-640x335.jpg"
+link: "https://www.breitbart.com/europe/2022/11/09/cop27-hypocrisy-globalists-munch-down-on-meat-as-they-push-bug-diet-for-the-proles/"
+title: "COP27: Globalist Leaders Munch on Meat as They Push Bugs for 'Proles'"
+excerpt: "Globalist elites will be dining on a gourmet selection of meats, fish, and dairy at the UN's COP27 climate change conference in Egypt."
+image: "https://media.breitbart.com/media/2022/11/GettyImages-1244545810-2-640x335.jpg"
 group: con
 rank: 5
 ---

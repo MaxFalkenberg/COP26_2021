@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/10/dirty-fossil-fuel-investments-and-a-new-ai-inventory-of-global-emissions-in-the-spotlight-during-finance-day-at-cop27/"
-title: "Dirty fossil fuel investments and a new AI inventory of global emissions in the spotlight during ‘Finance Day’ at COP27"
-excerpt: "Over 50 activists of all ages and backgrounds took over the so-called ‘Blue Zone’ – the main area of the conference centre in Sharm el-Sheikh overseen by the UN – to chant “Stop funding fossil fuel…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1976.jpg?w=1200"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/10/WS636bc4a9a3105ca1f22750f9.html"
+title: "China supports redress for climate change damage"
+excerpt: "China supports the proposal that developed countries compensate developing countries, especially those most vulnerable to the impact of climate change, for the loss and damage they suffer because of g"
+image: "http://img2.chinadaily.com.cn/images/202211/10/636c4d6ea3105ca157c11ffc.jpeg"
 group: con
 rank: 8
 ---

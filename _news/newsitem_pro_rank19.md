@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/science-mexico-climate-and-environment-government-politics-543dafba41cd5da908d47195ec5255a2"
-title: "Fed up young climate activists: 'Adults aren't listening'"
-excerpt: "WASHINGTON (AP) — The climate change  generation is saying officials are talking too much, listening too little and acting even less. And they are fed up. "
-image: "https://storage.googleapis.com/afs-prod/media/0f0ad8e1f42f46c782d122c839181ebe/3000.jpeg"
+publication: "rte.ie"
+link: "https://www.rte.ie/news/2022/1109/1335140-dublin-airport-largest-polluter-in-ireland-cop27-data/"
+title: "Dublin Airport largest Irish polluter last year - data"
+excerpt: "According to the data unveiled at COP27, Dublin Airport was the specific source for just over one million tonnes of Ireland's greenhouse gas emissions in 2021."
+image: "https://img.rasset.ie/001c07d1-1600.jpg"
 group: pro
 rank: 19
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1694648/Brexit-remain-analysis-EU-latest-news-rishi-sunak-cop27-climate-change"
-title: "Betraying our country isn’t treason anymore - it’s policy"
-excerpt: "We live in the era of revelation. In earlier times, politicians hid their scorn from us, the people, behind smiles, heartfelt assurances and thick curtains."
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4393551.jpg?r=1668072133426"
+publication: "theguardian.com"
+link: "https://www.theguardian.com/environment/2022/nov/10/oil-and-gas-firms-planning-cop27-climate-crisis-frightening-fossil-fuels-growth-report-finds"
+title: "Oil and gas firms planning ‘frightening’ fossil fuels growth, report finds"
+excerpt: "Analysis released at Cop27 climate summit shows plans would thwart chances of keeping global heating to 1.5C"
+image: "https://i.guim.co.uk/img/media/ea0496808281d61905f2832dcd91259ca8ca4809/0_80_2400_1440/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=db2fea51d30d97a1c810b21fdeca96da"
 group: pro
 rank: 8
 ---

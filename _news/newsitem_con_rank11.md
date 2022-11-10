@@ -1,9 +1,9 @@
 ---
-publication: "globaltimes.cn"
-link: "https://www.globaltimes.cn/page/202211/1279147.shtml"
-title: "China supports loss and damage talks at COP27, calling for joint efforts"
-excerpt: "While including climate compensation into the formal agenda of COP27 for the first time at global climate talks is considered a breakthrough, China's special envoy for climate change said Wednesday th"
-image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-09/9ce5b553-84a5-454f-8270-f7a1020eacd4_s.jpeg"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/spending-your-money-its-finance-day-at-cop27/"
+title: "Spending Your Money: It's 'Finance Day' At COP27"
+excerpt: "Al Gore is the ultimate huckster when pumping the UN delegates to climate action. In bunko terms, this is the practice of 'shaking the money tree' to loose money that is easy to grab. Gore's climate c"
+image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-10-at-8.00.48-AM.png"
 group: con
 rank: 11
 ---
