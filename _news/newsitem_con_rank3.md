@@ -1,9 +1,9 @@
 ---
-publication: "breitbart.com"
-link: "https://www.breitbart.com/europe/2022/11/10/energy-rationing-for-plebs-only-cop27-bigwigs-blast-air-conditioning-in-80-degree-egypt/"
-title: "COP27 Participants Blasted with Air Conditioning in 80 Degree Egypt"
-excerpt: "The COP27 conference is reportedly blasting its elite attendees with air conditioning in 80-degree Egyptian heat."
-image: "https://media.breitbart.com/media/2022/11/GettyImages-1244633242-e1668008179227-640x335.jpg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/11/ross-garnaut-thinks-australia-can-become-a-low-carbon-superpower-clive-hamilton-is-not-convinced-climatecrisis-cop27-brightgreenlies-limitstogrowth/"
+title: "Ross Garnaut thinks Australia can become a low-carbon superpower; Clive Hamilton is not convinced #ClimateCrisis #COP27 #BrightGreenLies #LimitsToGrowth"
+excerpt: "By Clive Hamilton Ross Garnaut is a big beast in the Australian climate policy world, and a Labor favourite since his days as economic adviser to Bob Hawke. His 2008 Climate Change Review shifted t…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1969.jpg"
 group: con
 rank: 3
 ---

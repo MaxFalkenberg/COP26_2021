@@ -1,9 +1,9 @@
 ---
-publication: "technocracy.news"
-link: "https://www.technocracy.news/global-stink-un-cop27-attendees-in-egypt-greeted-with-sewage/"
-title: "Global Stink: UN COP27 Attendees In Egypt Greeted With Sewage"
-excerpt: "COP27 in Sharm El Sheikh, Egypt drew over 30,000 global meddlers by jet to plan how to railroad the world into Sustainable Development, aka Technocracy. Appropriately, a sewage spill let them meditate"
-image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-10-at-7.27.32-AM.png"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/10/WS636bc4a9a3105ca1f22750f9.html"
+title: "China supports redress for climate change damage"
+excerpt: "China supports the proposal that developed countries compensate developing countries, especially those most vulnerable to the impact of climate change, for the loss and damage they suffer because of g"
+image: "http://img2.chinadaily.com.cn/images/202211/10/636c4d6ea3105ca157c11ffc.jpeg"
 group: con
 rank: 11
 ---

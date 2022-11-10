@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/10/dirty-fossil-fuel-investments-and-a-new-ai-inventory-of-global-emissions-in-the-spotlight-during-finance-day-at-cop27/"
-title: "Dirty fossil fuel investments and a new AI inventory of global emissions in the spotlight during ‘Finance Day’ at COP27"
-excerpt: "Over 50 activists of all ages and backgrounds took over the so-called ‘Blue Zone’ – the main area of the conference centre in Sharm el-Sheikh overseen by the UN – to chant “Stop funding fossil fuel…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1976.jpg?w=1200"
+publication: "theorchard.substack.com"
+link: "https://theorchard.substack.com/p/will-canada-make-firm-on-its-climate"
+title: "Will Canada make firm on its climate commitments at COP27?"
+excerpt: "“You cannot claim to be net zero by continuing to build or invest in new fossil fuel supply.”"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F84f1538e-4232-4e74-814e-a3783991315d_800x450.jpeg"
 group: con
 rank: 9
 ---

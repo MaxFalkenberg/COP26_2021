@@ -1,9 +1,9 @@
 ---
-publication: "rebelnews.com"
-link: "https://www.rebelnews.com/the_gunn_show"
-title: "The Gunn Show"
-excerpt: "Wed @ 9pm ET | 7pm MT — Sheila Gunn Reid brings a western sensibility to Canadian news. With one foot in the oil patch and one foot in agriculture, Sheila challenges mainstream media narratives and st"
-image: "https://assets.nationbuilder.com/therebel/pages/45206/meta_images/original/TGS.jpg?1599166006"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/global-stink-un-cop27-attendees-in-egypt-greeted-with-sewage/"
+title: "Global Stink: UN COP27 Attendees In Egypt Greeted With Sewage"
+excerpt: "COP27 in Sharm El Sheikh, Egypt drew over 30,000 global meddlers by jet to plan how to railroad the world into Sustainable Development, aka Technocracy. Appropriately, a sewage spill let them meditate"
+image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-10-at-7.27.32-AM.png"
 group: con
 rank: 12
 ---

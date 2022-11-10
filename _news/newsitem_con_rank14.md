@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/10/WS636c55eea3105ca1f2275264.html"
-title: "$2.5b pledge firms up Mideast green quest"
-excerpt: "Leaders from the Middle East and North Africa have reaffirmed their commitment to taking climate action, which involves doubling down on the reduction of emissions and a $2.5 billion pledge from Saudi"
-image: "http://img2.chinadaily.com.cn/images/202211/10/636c55eea3105ca157c12bbc.jpeg"
+publication: "rebelnews.com"
+link: "https://www.rebelnews.com/the_gunn_show"
+title: "The Gunn Show"
+excerpt: "Wed @ 9pm ET | 7pm MT — Sheila Gunn Reid brings a western sensibility to Canadian news. With one foot in the oil patch and one foot in agriculture, Sheila challenges mainstream media narratives and st"
+image: "https://assets.nationbuilder.com/therebel/pages/45206/meta_images/original/TGS.jpg?1599166006"
 group: con
 rank: 14
 ---
