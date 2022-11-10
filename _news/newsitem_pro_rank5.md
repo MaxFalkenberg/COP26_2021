@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/independentpremium/editors-letters/alaa-abd-el-fattah-cop27-egypt-rishi-sunak-b2220516.html"
-title: "Editor’s Letter: Alaa Abd el-Fattah can only live a few more days – the UK must act"
-excerpt: "If a British citizen is allowed to die of hunger and thirst in a squalid cell while our PM is in the country cosying up to Egyptian officials, what does that mean for the safety of any British citizen"
-image: "https://static.independent.co.uk/2022/11/08/15/2022-11-08T150024Z_2135781367_RC2RHX9KW9L0_RTRMADP_3_CLIMATE-UN-EGYPT-RIGHTS.JPG?quality=75&width=1200&auto=webp"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/environment/2022/11/09/rishi-sunak-rules-climate-reparations-amid-ongoing-cop27-row/"
+title: "Rishi Sunak rules out climate reparations amid ongoing Cop27 row"
+excerpt: "PM claims UK is ‘fulfilling our obligations’ and said he would instead prioritise green investment that supports British jobs"
+image: "https://www.telegraph.co.uk/content/dam/environment/2022/11/09/TELEMMGLPICT000315456667_trans_NvBQzQNjv4Bqw6UWCo-0x5_BRsTZlm-GxMf-s3fZmT3Wu4SFGBFhbrU.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 5
 ---
