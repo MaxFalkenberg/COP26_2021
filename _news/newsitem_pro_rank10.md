@@ -1,9 +1,9 @@
 ---
-publication: "forbes.com"
-link: "https://www.forbes.com/sites/bjornlomborg/2022/11/10/cop27-a-parade-of-climate-hypocrisy/"
-title: "COP27: A Parade Of Climate Hypocrisy"
-excerpt: "The current UN climate summit in Egypt offers more breathtaking hypocrisy than usual, because the world’s rich are zealously lecturing poor countries about the dangers of fossil fuels—after devouring "
-image: "https://imageio.forbes.com/specials-images/imageserve/636d27c19f35776bf97fde53/0x0.jpg?format=jpg&crop=2851,1603,x0,y104,safe&width=1200"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/columnists/2022/11/08/cop27-dont-owe-developing-countries-climate-reparations-owe/"
+title: "We don’t owe developing countries ‘climate reparations’ – they owe us"
+excerpt: "We are on the hook for untold billions to countries experiencing adverse weather conditions, because we invented factories – and cars"
+image: "https://www.telegraph.co.uk/content/dam/columnists/2022/11/08/TELEMMGLPICT000315446064_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 10
 ---
