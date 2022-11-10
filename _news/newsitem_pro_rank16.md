@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1694471/Nicola-Sturgeon-analysis-Sturgeon-followed-world-leaders-at-COP27-for-selfies-1694471"
-title: "'Sturgeon followed world leaders at COP27 for selfies to boost her PR'"
-excerpt: "At least in theory, an international climate conference is supposed to be a place where leaders of nations meet to discuss important issues. But for politicians who are not as powerful as they would l"
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4392778.jpg?r=1668071748477"
+publication: "who.int"
+link: "https://www.who.int/news-room/events/detail/2022/11/06/default-calendar/cop27-health-pavilion"
+title: "COP27 Health Pavilion"
+excerpt: "WHO in collaboration with the Wellcome Trust and partners will host  the Health Pavilion at the COP27 UN Climate Conference, taking place in Sharm El-Sheikh, Egypt from 6 to 18 November, 2022."
+image: "https://cdn.who.int/media/images/default-source/health-and-climate-change/pfin0814-thumb.tmb-1200v.jpg?sfvrsn=70e6d701_1"
 group: pro
 rank: 16
 ---
