@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/life/cop27-nuclear-power-industry-vies-for-role-in-cutting-emissions-62395"
-title: "COP27: Nuclear power industry vies for role in cutting emissions"
-excerpt: "Rising concerns about the swift pace of climate crisis and tight power supplies around the globe have softened some policymakers' views of nuclear energy."
-image: "https://cdni0.trtworld.com/w480/h270/q75/143736_egycop27summitap_1668007944129.jpeg"
+publication: "gulfnews.com"
+link: "https://gulfnews.com/opinion/op-eds/cop27-climate-crisis-threatens-global-health-1.91797058"
+title: "COP27: Climate crisis threatens global health"
+excerpt: "Climate change impacts social causes that promote good health, like sustainable livelihood"
+image: "https://imagevars.gulfnews.com/2022/11/07/OPN-COP27-climate_18451c67296_medium.jpg"
 group: con
 rank: 8
 ---

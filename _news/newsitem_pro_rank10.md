@@ -1,9 +1,9 @@
 ---
-publication: "inews.co.uk"
-link: "https://inews.co.uk/news/environment/cop27-summit-oil-giants-shell-bp-climate-debt-1958778"
-title: "Oil giants like Shell and BP could be responsible for over £7tn in climate debt"
-excerpt: "Reaseach by Global Justice Now, shared with i, shows potential cost of 'loss and damage' as climate reparations go on agenda for the first time at COP27 summit"
-image: "https://wp.inews.co.uk/wp-content/uploads/2022/11/SEI_132237930-1200x630-pl-exclusive.jpg"
+publication: "foreignpolicy.com"
+link: "https://foreignpolicy.com/2022/11/08/cop27-egypt-dirty-energy-fossil-fuels-environment-dissent/"
+title: "How Egypt Doubled Down on Fossil Fuels by Stifling Dissent"
+excerpt: "The host of the climate conference is an authoritarian state that depends on dirty energy and forcibly silences its domestic environmentalist movement."
+image: "https://foreignpolicy.com/wp-content/uploads/2022/11/egypt-coal-pollution.jpg?w=1000"
 group: pro
 rank: 10
 ---

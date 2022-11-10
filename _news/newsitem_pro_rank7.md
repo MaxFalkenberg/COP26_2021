@@ -1,9 +1,9 @@
 ---
-publication: "thenational.scot"
-link: "https://www.thenational.scot/news/23111630.cop27-activist-confronts-nicola-sturgeon-oil-gas/"
-title: "Activist confronts Nicola Sturgeon over UK-controlled oil and gas licensing"
-excerpt: "A CLIMATE campaigner confronted Nicola Sturgeon at COP27 over new oil and gas licenses – even though it’s a reserved matter."
-image: "https://www.thenational.scot/resources/images/16136629/?type=og-image"
+publication: "rte.ie"
+link: "https://www.rte.ie/news/2022/1109/1335140-dublin-airport-largest-polluter-in-ireland-cop27-data/"
+title: "Dublin Airport largest Irish polluter last year - data"
+excerpt: "According to the data unveiled at COP27, Dublin Airport was the specific source for just over one million tonnes of Ireland's greenhouse gas emissions in 2021."
+image: "https://img.rasset.ie/001c07d1-1600.jpg"
 group: pro
 rank: 7
 ---
