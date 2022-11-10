@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/10/WS636bc4a9a3105ca1f22750f9.html"
-title: "China supports redress for climate change damage"
-excerpt: "China supports the proposal that developed countries compensate developing countries, especially those most vulnerable to the impact of climate change, for the loss and damage they suffer because of g"
-image: "http://img2.chinadaily.com.cn/images/202211/10/636c4d6ea3105ca157c11ffc.jpeg"
+publication: "breitbart.com"
+link: "https://www.breitbart.com/europe/2022/11/10/energy-rationing-for-plebs-only-cop27-bigwigs-blast-air-conditioning-in-80-degree-egypt/"
+title: "COP27 Participants Blasted with Air Conditioning in 80 Degree Egypt"
+excerpt: "The COP27 conference is reportedly blasting its elite attendees with air conditioning in 80-degree Egyptian heat."
+image: "https://media.breitbart.com/media/2022/11/GettyImages-1244633242-e1668008179227-640x335.jpg"
 group: con
 rank: 9
 ---

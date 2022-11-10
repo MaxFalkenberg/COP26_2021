@@ -1,10 +1,9 @@
 ---
-publication: "zerohedge.com"
-link: "https://www.zerohedge.com/political/michael-shellenberger-elites-cheer-climate-narcissists"
-title: "Shellenberger: Climate Fanatics Are Weaponizing Mental Illlness"
-excerpt: "'Climate protesters are triggering widespread anger and signs of violence,'
-"
-image: "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-11/climateprotester.png?h=2cf47024&itok=nqEP9Vfa"
+publication: "theepochtimes.com"
+link: "https://www.theepochtimes.com/climate-change-lockdown_4065344.html"
+title: "Climate Change Lockdown"
+excerpt: "Commentary Climate change is at risk of being morphed into a major health pandemic. The World Health Organization ..."
+image: "https://img.theepochtimes.com/assets/uploads/2021/10/04/delta-airline-1200x800.jpg"
 group: con
 rank: 11
 ---

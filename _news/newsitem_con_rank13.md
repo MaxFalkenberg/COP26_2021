@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/world/2022/11/09/Climate-change-a-ticking-time-bomb-for-people-in-conflict-zones-ICRC-director"
-title: "Climate change a 'ticking time bomb' for people in conflict zones: ICRC director"
-excerpt: "Climate change is devastating vulnerable populations across the globe with those living in conflict situations across the Middle East and wider world"
-image: "https://vid.alarabiya.net/images/2022/11/09/0eb0a10a-a9e8-498b-bdf2-9a4412314418/0eb0a10a-a9e8-498b-bdf2-9a4412314418_16x9_600x338.jpg"
+publication: "rebelnews.com"
+link: "https://www.rebelnews.com/the_gunn_show"
+title: "The Gunn Show"
+excerpt: "Wed @ 9pm ET | 7pm MT — Sheila Gunn Reid brings a western sensibility to Canadian news. With one foot in the oil patch and one foot in agriculture, Sheila challenges mainstream media narratives and st"
+image: "https://assets.nationbuilder.com/therebel/pages/45206/meta_images/original/TGS.jpg?1599166006"
 group: con
 rank: 13
 ---
