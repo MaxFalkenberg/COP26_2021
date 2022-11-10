@@ -1,9 +1,9 @@
 ---
-publication: "foreignpolicy.com"
-link: "https://foreignpolicy.com/2022/11/08/cop27-egypt-dirty-energy-fossil-fuels-environment-dissent/"
-title: "How Egypt Doubled Down on Fossil Fuels by Stifling Dissent"
-excerpt: "The host of the climate conference is an authoritarian state that depends on dirty energy and forcibly silences its domestic environmentalist movement."
-image: "https://foreignpolicy.com/wp-content/uploads/2022/11/egypt-coal-pollution.jpg?w=1000"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/un-experts-cop27-corporate-climate-pledges-rife-with-greenwashing-2022-11-08/"
+title: "COP27 - Corporate climate pledges rife with greenwashing - U.N. expert group"
+excerpt: "Promises by companies, banks and cities to achieve net-zero emissions often amount to little more than greenwashing, U.N. experts said in a report on Tuesday as they set out proposed new standards to "
+image: "https://www.reuters.com/resizer/sQ-pRYzc6-1wjsz7EMMQujRi-Tw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IK7SRGQVJ5OSZM57HKMTGNT6TE.jpg"
 group: pro
 rank: 13
 ---

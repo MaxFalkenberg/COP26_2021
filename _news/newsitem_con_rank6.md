@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/09/WS636bc4a9a3105ca1f22750f9.html"
-title: "China supports redress for climate change damage"
-excerpt: "China supports the proposal that developed countries compensate developing countries, especially those most vulnerable to the impact of climate change, for the loss and damage they suffer because of g"
-image: "http://img2.chinadaily.com.cn/images/202211/10/636c4d6ea3105ca157c11ffc.jpeg"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/09/Climate-change-a-ticking-time-bomb-for-people-in-conflict-zones-ICRC-director"
+title: "Climate change a 'ticking time bomb' for people in conflict zones: ICRC director"
+excerpt: "Climate change is devastating vulnerable populations across the globe with those living in conflict situations across the Middle East and wider world"
+image: "https://vid.alarabiya.net/images/2022/11/09/0eb0a10a-a9e8-498b-bdf2-9a4412314418/0eb0a10a-a9e8-498b-bdf2-9a4412314418_16x9_600x338.jpg"
 group: con
 rank: 6
 ---
