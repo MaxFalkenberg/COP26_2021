@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/opinions/2022/11/09/nigerian-president-cop27-africa-climate-change/"
-title: "Opinion | Muhammadu Buhari: How not to talk with Africa about climate change"
-excerpt: "Africa didn’t cause the mess, yet it pays the price."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AP4LAIA73OM4NZ6CU2XNMC7LNE.JPG&w=1440"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/columnists/2022/11/08/cop27-dont-owe-developing-countries-climate-reparations-owe/"
+title: "We don’t owe developing countries ‘climate reparations’ – they owe us"
+excerpt: "We are on the hook for untold billions to countries experiencing adverse weather conditions, because we invented factories – and cars"
+image: "https://www.telegraph.co.uk/content/dam/columnists/2022/11/08/TELEMMGLPICT000315446064_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 4
 ---

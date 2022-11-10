@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63571610"
-title: "COP27: Sharp rise in fossil fuel industry delegates at climate summit"
-excerpt: "Data shared exclusively with the BBC show large numbers of oil and gas lobbyists attending COP27."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/152D1/production/_127573768_gettyimages-1235290994.jpg"
+publication: "rte.ie"
+link: "https://www.rte.ie/news/2022/1109/1335140-dublin-airport-largest-polluter-in-ireland-cop27-data/"
+title: "Dublin Airport largest Irish polluter last year - data"
+excerpt: "According to the data unveiled at COP27, Dublin Airport was the specific source for just over one million tonnes of Ireland's greenhouse gas emissions in 2021."
+image: "https://img.rasset.ie/001c07d1-1600.jpg"
 group: pro
 rank: 7
 ---

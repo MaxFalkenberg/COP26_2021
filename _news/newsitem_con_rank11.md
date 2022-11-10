@@ -1,9 +1,9 @@
 ---
-publication: "londongreenleft.blogspot.com"
-link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
-title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
-excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/10/dirty-fossil-fuel-investments-and-a-new-ai-inventory-of-global-emissions-in-the-spotlight-during-finance-day-at-cop27/"
+title: "Dirty fossil fuel investments and a new AI inventory of global emissions in the spotlight during ‘Finance Day’ at COP27"
+excerpt: "Over 50 activists of all ages and backgrounds took over the so-called ‘Blue Zone’ – the main area of the conference centre in Sharm el-Sheikh overseen by the UN – to chant “Stop funding fossil fuel…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1976.jpg?w=1200"
 group: con
 rank: 11
 ---

@@ -8,5 +8,5 @@ rebuild after climate change-driven disasters, the prime
 minister of island "
 image: "https://www.reuters.com/resizer/27JpbDupXnzLLgW3eKNVZpUCNTg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YK3FZNHYOZOIFKJQ2JQDW6OGFQ.jpg"
 group: pro
-rank: 19
+rank: 18
 ---
