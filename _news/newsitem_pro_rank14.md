@@ -1,9 +1,9 @@
 ---
-publication: "hrw.org"
-link: "https://www.hrw.org/news/2022/11/07/leave-no-one-behind"
-title: "Leave No One Behind"
-excerpt: "Between March 2021 and October 2022, Human Rights Watch interviewed more than 100 people, including people with disabilities, their families, disability and climate change activists and experts, repre"
-image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211drd_asia_bangladesh_Fatema.jpeg?h=c673cd1c&itok=pobKRIYv"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/un-experts-cop27-corporate-climate-pledges-rife-with-greenwashing-2022-11-08/"
+title: "COP27 - Corporate climate pledges rife with greenwashing - U.N. expert group"
+excerpt: "Promises by companies, banks and cities to achieve net-zero emissions often amount to little more than greenwashing, U.N. experts said in a report on Tuesday as they set out proposed new standards to "
+image: "https://www.reuters.com/resizer/sQ-pRYzc6-1wjsz7EMMQujRi-Tw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IK7SRGQVJ5OSZM57HKMTGNT6TE.jpg"
 group: pro
 rank: 14
 ---

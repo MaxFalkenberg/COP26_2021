@@ -1,9 +1,9 @@
 ---
-publication: "rte.ie"
-link: "https://www.rte.ie/news/2022/1109/1335140-dublin-airport-largest-polluter-in-ireland-cop27-data/"
-title: "Dublin Airport largest Irish polluter last year - data"
-excerpt: "According to the data unveiled at COP27, Dublin Airport was the specific source for just over one million tonnes of Ireland's greenhouse gas emissions in 2021."
-image: "https://img.rasset.ie/001c07d1-1600.jpg"
+publication: "scotsman.com"
+link: "https://www.scotsman.com/news/opinion/columnists/nicola-sturgeons-grandstanding-at-cop27-in-egypt-is-pointless-she-should-be-focussed-on-problems-at-home-murdo-fraser-3909689"
+title: "Sturgeon's grandstanding at COP27 is a Mr Benn-style fantasy for the benefit of no one but herself – Murdo Fraser"
+excerpt: "Should Nicola Sturgeon ever be described as a ‘Bennite’ you can be sure it is nothing to do with the political beliefs of the legendary Labour left-winger, Tony Benn."
+image: "https://www.scotsman.com/webimg/b25lY21zOjM3YTQ4NmY2LWRhNGYtNDI2ZC1iMTBkLWM5OTRlNmY2MjI2NDphYjJmYjE5NS04NTM0LTRkNjQtYjJiOC0xY2YyZjVhOTQyYzM=.jpg?width=1200&enable=upscale"
 group: pro
 rank: 11
 ---

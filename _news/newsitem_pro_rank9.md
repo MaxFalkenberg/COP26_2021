@@ -1,9 +1,9 @@
 ---
-publication: "inews.co.uk"
-link: "https://inews.co.uk/news/environment/cop27-summit-oil-giants-shell-bp-climate-debt-1958778"
-title: "Oil giants like Shell and BP could be responsible for over £7tn in climate debt"
-excerpt: "Reaseach by Global Justice Now, shared with i, shows potential cost of 'loss and damage' as climate reparations go on agenda for the first time at COP27 summit"
-image: "https://wp.inews.co.uk/wp-content/uploads/2022/11/SEI_132237930-1200x630-pl-exclusive.jpg"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/uk-scotland-63484112.amp"
+title: "Swinney reveals further £615m of spending cuts - BBC News"
+excerpt: "The 'reductions and reprioritisations' of this year's Scottish budget is on top of £560m cuts already announced."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/69D9/production/_127479072_642951edb2ebf8535084155edad9c27cf67b3767.jpg"
 group: pro
 rank: 9
 ---

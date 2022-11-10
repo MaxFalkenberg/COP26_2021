@@ -1,9 +1,9 @@
 ---
-publication: "scotsman.com"
-link: "https://www.scotsman.com/news/opinion/columnists/nicola-sturgeons-grandstanding-at-cop27-in-egypt-is-pointless-she-should-be-focussed-on-problems-at-home-murdo-fraser-3909689"
-title: "Sturgeon's grandstanding at COP27 is a Mr Benn-style fantasy for the benefit of no one but herself – Murdo Fraser"
-excerpt: "Should Nicola Sturgeon ever be described as a ‘Bennite’ you can be sure it is nothing to do with the political beliefs of the legendary Labour left-winger, Tony Benn."
-image: "https://www.scotsman.com/webimg/b25lY21zOjM3YTQ4NmY2LWRhNGYtNDI2ZC1iMTBkLWM5OTRlNmY2MjI2NDphYjJmYjE5NS04NTM0LTRkNjQtYjJiOC0xY2YyZjVhOTQyYzM=.jpg?width=1200&enable=upscale"
+publication: "inews.co.uk"
+link: "https://inews.co.uk/news/environment/cop27-summit-oil-giants-shell-bp-climate-debt-1958778"
+title: "Oil giants like Shell and BP could be responsible for over £7tn in climate debt"
+excerpt: "Reaseach by Global Justice Now, shared with i, shows potential cost of 'loss and damage' as climate reparations go on agenda for the first time at COP27 summit"
+image: "https://wp.inews.co.uk/wp-content/uploads/2022/11/SEI_132237930-1200x630-pl-exclusive.jpg"
 group: pro
 rank: 10
 ---
