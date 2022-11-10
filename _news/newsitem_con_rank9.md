@@ -1,9 +1,9 @@
 ---
-publication: "millerthe6ix.substack.com"
-link: "https://millerthe6ix.substack.com/p/natural-gas-is-as-dirty-as-coal"
-title: "'Natural” gas is as dirty as coal"
-excerpt: "That’s the stark conclusion of a new C40 Cities report, launched ten days ago at the C40 Summit in Buenos Aires. From a carbon emissions perspective, the continued use of ‘natural’ gas is incompatible"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F60b05e31-52fc-4152-a75d-eeaf0e7f7ea3_511x502.png"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/10/WS636bc4a9a3105ca1f22750f9.html"
+title: "China supports redress for climate change damage"
+excerpt: "China supports the proposal that developed countries compensate developing countries, especially those most vulnerable to the impact of climate change, for the loss and damage they suffer because of g"
+image: "http://img2.chinadaily.com.cn/images/202211/10/636c4d6ea3105ca157c11ffc.jpeg"
 group: con
 rank: 9
 ---

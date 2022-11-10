@@ -1,9 +1,9 @@
 ---
-publication: "globaltimes.cn"
-link: "https://www.globaltimes.cn/page/202211/1279147.shtml"
-title: "China supports loss and damage talks at COP27, calling for joint efforts"
-excerpt: "While including climate compensation into the formal agenda of COP27 for the first time at global climate talks is considered a breakthrough, China's special envoy for climate change said Wednesday th"
-image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-09/9ce5b553-84a5-454f-8270-f7a1020eacd4_s.jpeg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/10/dirty-fossil-fuel-investments-and-a-new-ai-inventory-of-global-emissions-in-the-spotlight-during-finance-day-at-cop27/"
+title: "Dirty fossil fuel investments and a new AI inventory of global emissions in the spotlight during ‘Finance Day’ at COP27"
+excerpt: "Over 50 activists of all ages and backgrounds took over the so-called ‘Blue Zone’ – the main area of the conference centre in Sharm el-Sheikh overseen by the UN – to chant “Stop funding fossil fuel…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1976.jpg?w=1200"
 group: con
 rank: 8
 ---

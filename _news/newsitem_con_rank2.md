@@ -1,9 +1,9 @@
 ---
-publication: "breitbart.com"
-link: "https://www.breitbart.com/environment/2022/11/09/cop27-hears-demand-for-end-to-coal-oil-and-natural-gas-likened-to-nuclear-weapons/"
-title: "COP27 Hears Demand for End to Coal, Oil and Natural Gas Use"
-excerpt: "The world should confront 'climate change' the way it does nuclear weapons, by agreeing a non-proliferation treaty, the COP27 conference heard."
-image: "https://media.breitbart.com/media/2022/11/climate-protests-640x335.jpg"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/life/cop27-nuclear-power-industry-vies-for-role-in-cutting-emissions-62395"
+title: "COP27: Nuclear power industry vies for role in cutting emissions"
+excerpt: "Rising concerns about the swift pace of climate crisis and tight power supplies around the globe have softened some policymakers' views of nuclear energy."
+image: "https://cdni0.trtworld.com/w480/h270/q75/143736_egycop27summitap_1668007944129.jpeg"
 group: con
 rank: 2
 ---
