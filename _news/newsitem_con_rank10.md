@@ -1,9 +1,9 @@
 ---
-publication: "theepochtimes.com"
-link: "https://www.theepochtimes.com/climate-change-lockdown_4065344.html"
-title: "Climate Change Lockdown"
-excerpt: "Commentary Climate change is at risk of being morphed into a major health pandemic. The World Health Organization ..."
-image: "https://img.theepochtimes.com/assets/uploads/2021/10/04/delta-airline-1200x800.jpg"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/10/WS636bc4a9a3105ca1f22750f9.html"
+title: "China supports redress for climate change damage"
+excerpt: "China supports the proposal that developed countries compensate developing countries, especially those most vulnerable to the impact of climate change, for the loss and damage they suffer because of g"
+image: "http://img2.chinadaily.com.cn/images/202211/10/636c4d6ea3105ca157c11ffc.jpeg"
 group: con
 rank: 10
 ---
