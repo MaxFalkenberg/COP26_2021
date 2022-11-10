@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/environment/2022/11/09/rishi-sunak-rules-climate-reparations-amid-ongoing-cop27-row/"
-title: "Rishi Sunak rules out climate reparations amid ongoing Cop27 row"
-excerpt: "PM claims UK is ‘fulfilling our obligations’ and said he would instead prioritise green investment that supports British jobs"
-image: "https://www.telegraph.co.uk/content/dam/environment/2022/11/09/TELEMMGLPICT000315456667_trans_NvBQzQNjv4Bqw6UWCo-0x5_BRsTZlm-GxMf-s3fZmT3Wu4SFGBFhbrU.jpeg?impolicy=logo-overlay"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/08/egypt-cop27-alaa-hunger-strike/"
+title: "Climate talks in Egypt overshadowed by shouting matches over human rights"
+excerpt: "Egypt's efforts to suppress political dissent has distracted from the broader climate debate at the annual U.N. climate negotiations in Sharm el-Sheikh."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZUN5NXC7PEI63IJR5EAOJJRTNM.jpg&w=1440"
 group: pro
 rank: 6
 ---

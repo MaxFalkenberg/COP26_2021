@@ -1,9 +1,9 @@
 ---
-publication: "foreignpolicy.com"
-link: "https://foreignpolicy.com/2022/11/06/climate-cop27-emissions-adaptation-development-energy-africa-developing-countries-global-south/"
-title: "The Obvious Climate Strategy Nobody Will Talk About"
-excerpt: "Economic development is the only proven path to climate resilience."
-image: "https://foreignpolicy.com/wp-content/uploads/2022/11/Central-Africa-Flood-GettyImages-1178775661.jpg?w=1000"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/07/leave-no-one-behind"
+title: "Leave No One Behind"
+excerpt: "Between March 2021 and October 2022, Human Rights Watch interviewed more than 100 people, including people with disabilities, their families, disability and climate change activists and experts, repre"
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211drd_asia_bangladesh_Fatema.jpeg?h=c673cd1c&itok=pobKRIYv"
 group: pro
 rank: 16
 ---
