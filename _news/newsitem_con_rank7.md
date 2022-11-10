@@ -1,9 +1,9 @@
 ---
-publication: "gulfnews.com"
-link: "https://gulfnews.com/opinion/op-eds/cop27-climate-crisis-threatens-global-health-1.91797058"
-title: "COP27: Climate crisis threatens global health"
-excerpt: "Climate change impacts social causes that promote good health, like sustainable livelihood"
-image: "https://imagevars.gulfnews.com/2022/11/07/OPN-COP27-climate_18451c67296_medium.jpg"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/09/Climate-change-a-ticking-time-bomb-for-people-in-conflict-zones-ICRC-director"
+title: "Climate change a 'ticking time bomb' for people in conflict zones: ICRC director"
+excerpt: "Climate change is devastating vulnerable populations across the globe with those living in conflict situations across the Middle East and wider world"
+image: "https://vid.alarabiya.net/images/2022/11/09/0eb0a10a-a9e8-498b-bdf2-9a4412314418/0eb0a10a-a9e8-498b-bdf2-9a4412314418_16x9_600x338.jpg"
 group: con
 rank: 7
 ---

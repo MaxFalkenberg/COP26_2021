@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-09/China-calls-on-developed-countries-to-fulfill-climate-finance-promise-1eOsEokQ5u8/index.html"
-title: "China calls on developed countries to fulfill climate finance promise"
-excerpt: "The developed countries should fulfill their promise of providing $100 billion in climate finance as soon as possible and draw a road map for doubling the adaptation fund, China's Special Envoy for Cl"
-image: "https://news.cgtn.com/news/2022-11-09/China-calls-on-developed-countries-to-fulfill-climate-finance-promise-1eOsEokQ5u8/img/1ff9d15bc0044811a9bf6dab05220e6a/1ff9d15bc0044811a9bf6dab05220e6a-750.png"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/09/WS636bc4a9a3105ca1f22750f9.html"
+title: "China supports redress for climate change damage"
+excerpt: "China supports the proposal that developed countries compensate developing countries, especially those most vulnerable to the impact of climate change, for the loss and damage they suffer because of g"
+image: "http://img2.chinadaily.com.cn/images/202211/10/636c4d6ea3105ca157c11ffc.jpeg"
 group: con
 rank: 6
 ---
