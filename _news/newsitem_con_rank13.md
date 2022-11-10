@@ -1,9 +1,9 @@
 ---
-publication: "rebelnews.com"
-link: "https://www.rebelnews.com/the_gunn_show"
-title: "The Gunn Show"
-excerpt: "Wed @ 9pm ET | 7pm MT — Sheila Gunn Reid brings a western sensibility to Canadian news. With one foot in the oil patch and one foot in agriculture, Sheila challenges mainstream media narratives and st"
-image: "https://assets.nationbuilder.com/therebel/pages/45206/meta_images/original/TGS.jpg?1599166006"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/10/WS636bc4a9a3105ca1f22750f9.html"
+title: "China supports redress for climate change damage"
+excerpt: "China supports the proposal that developed countries compensate developing countries, especially those most vulnerable to the impact of climate change, for the loss and damage they suffer because of g"
+image: "http://img2.chinadaily.com.cn/images/202211/10/636c4d6ea3105ca157c11ffc.jpeg"
 group: con
 rank: 13
 ---

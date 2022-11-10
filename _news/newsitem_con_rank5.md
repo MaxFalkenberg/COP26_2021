@@ -1,9 +1,9 @@
 ---
-publication: "globaltimes.cn"
-link: "https://www.globaltimes.cn/page/202211/1279147.shtml"
-title: "China supports loss and damage talks at COP27, calling for joint efforts"
-excerpt: "While including climate compensation into the formal agenda of COP27 for the first time at global climate talks is considered a breakthrough, China's special envoy for climate change said Wednesday th"
-image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-09/9ce5b553-84a5-454f-8270-f7a1020eacd4_s.jpeg"
+publication: "breitbart.com"
+link: "https://www.breitbart.com/europe/2022/11/10/energy-rationing-for-plebs-only-cop27-bigwigs-blast-air-conditioning-in-80-degree-egypt/"
+title: "COP27 Participants Blasted with Air Conditioning in 80 Degree Egypt"
+excerpt: "The COP27 conference is reportedly blasting its elite attendees with air conditioning in 80-degree Egyptian heat."
+image: "https://media.breitbart.com/media/2022/11/GettyImages-1244633242-e1668008179227-640x335.jpg"
 group: con
 rank: 5
 ---

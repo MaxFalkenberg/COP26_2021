@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/columnists/2022/11/08/cop27-dont-owe-developing-countries-climate-reparations-owe/"
-title: "We don’t owe developing countries ‘climate reparations’ – they owe us"
-excerpt: "We are on the hook for untold billions to countries experiencing adverse weather conditions, because we invented factories – and cars"
-image: "https://www.telegraph.co.uk/content/dam/columnists/2022/11/08/TELEMMGLPICT000315446064_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63571610"
+title: "COP27: Sharp rise in fossil fuel industry delegates at climate summit"
+excerpt: "Data shared exclusively with the BBC show large numbers of oil and gas lobbyists attending COP27."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/DC09/production/_127592365_mediaitem127591827.jpg"
 group: pro
 rank: 5
 ---

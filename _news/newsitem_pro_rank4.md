@@ -1,9 +1,9 @@
 ---
-publication: "hollywoodreporter.com"
-link: "https://www.hollywoodreporter.com/tv/tv-news/rainn-wilson-changes-name-arctic-cop27-1235259244/"
-title: "Rainn Wilson Changes Name to Rainnfall Heat Wave Extreme Winter Wilson to Highlight Melting Arctic"
-excerpt: "Ahead of the COP27 summit, the star of ‘The Office’ has changed his name to bring attention to the climate crisis, 'which amplifies global risks, including extreme weather events around the globe.'"
-image: "https://www.hollywoodreporter.com/wp-content/uploads/2020/10/GettyImages-1172811664-H-2020-1603208646.jpg?w=1024"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/09/cop27-coalition-aims-tap-private-funds-energy-transition/"
+title: "As wealthy nations take heat for warming planet, coalition unveils lofty plan "
+excerpt: "White House climate envoy John F. Kerry has teamed with partners to secure private money to help in the energy transition of developing countries."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2FFZASRWFYX36GYUSTKMDWC7HU.jpg&w=1440"
 group: pro
 rank: 4
 ---
