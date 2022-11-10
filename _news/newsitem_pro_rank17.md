@@ -1,9 +1,9 @@
 ---
-publication: "who.int"
-link: "https://www.who.int/news-room/events/detail/2022/11/06/default-calendar/cop27-health-pavilion"
-title: "COP27 Health Pavilion"
-excerpt: "WHO in collaboration with the Wellcome Trust and partners will host  the Health Pavilion at the COP27 UN Climate Conference, taking place in Sharm El-Sheikh, Egypt from 6 to 18 November, 2022."
-image: "https://cdn.who.int/media/images/default-source/health-and-climate-change/pfin0814-thumb.tmb-1200v.jpg?sfvrsn=70e6d701_1"
+publication: "climate-events.nytimes.com"
+link: "https://climate-events.nytimes.com/climate-forward/events/sharm-el-sheikh"
+title: "The New York Times Climate Forward Sharm el Sheikh"
+excerpt: "As world leaders assemble at COP27 to demonstrate how they’ve measured up against last year’s goals, come together with people from all over the world to demand sustained progress."
+image: "https://images.prismic.io/climateforward/171840aa-54b6-4f37-9704-75327d2cbedf_sharm.jpg?auto=compress,format"
 group: pro
 rank: 17
 ---
