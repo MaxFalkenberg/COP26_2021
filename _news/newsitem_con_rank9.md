@@ -1,9 +1,9 @@
 ---
-publication: "globaltimes.cn"
-link: "https://www.globaltimes.cn/page/202211/1279147.shtml"
-title: "China supports loss and damage talks at COP27, calling for joint efforts"
-excerpt: "While including climate compensation into the formal agenda of COP27 for the first time at global climate talks is considered a breakthrough, China's special envoy for climate change said Wednesday th"
-image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-09/9ce5b553-84a5-454f-8270-f7a1020eacd4_s.jpeg"
+publication: "millerthe6ix.substack.com"
+link: "https://millerthe6ix.substack.com/p/natural-gas-is-as-dirty-as-coal"
+title: "'Natural” gas is as dirty as coal"
+excerpt: "That’s the stark conclusion of a new C40 Cities report, launched ten days ago at the C40 Summit in Buenos Aires. From a carbon emissions perspective, the continued use of ‘natural’ gas is incompatible"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F60b05e31-52fc-4152-a75d-eeaf0e7f7ea3_511x502.png"
 group: con
 rank: 9
 ---

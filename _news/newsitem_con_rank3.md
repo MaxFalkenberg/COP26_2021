@@ -1,9 +1,9 @@
 ---
-publication: "wikileaks.org"
-link: "https://wikileaks.org/COP-26.html"
-title: "WikiLeaks - Julian Assange and COP26"
-excerpt: None
-image: "cop-logo.png"
+publication: "conservativewoman.co.uk"
+link: "https://www.conservativewoman.co.uk/message-to-cop27-there-is-no-climate-emergency/"
+title: "Message to COP27: There is no climate emergency - The Conservative Woman"
+excerpt: "Message to COP27: There is no climate emergency"
+image: "https://www.conservativewoman.co.uk/wp-content/uploads/2022/10/cop22.jpg"
 group: con
 rank: 3
 ---

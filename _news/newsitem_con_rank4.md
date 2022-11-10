@@ -1,9 +1,9 @@
 ---
-publication: "conservativewoman.co.uk"
-link: "https://www.conservativewoman.co.uk/message-to-cop27-there-is-no-climate-emergency/"
-title: "Message to COP27: There is no climate emergency - The Conservative Woman"
-excerpt: "Message to COP27: There is no climate emergency"
-image: "https://www.conservativewoman.co.uk/wp-content/uploads/2022/10/cop22.jpg"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/life/cop27-nuclear-power-industry-vies-for-role-in-cutting-emissions-62395"
+title: "COP27: Nuclear power industry vies for role in cutting emissions"
+excerpt: "Rising concerns about the swift pace of climate crisis and tight power supplies around the globe have softened some policymakers' views of nuclear energy."
+image: "https://cdni0.trtworld.com/w480/h270/q75/143736_egycop27summitap_1668007944129.jpeg"
 group: con
 rank: 4
 ---

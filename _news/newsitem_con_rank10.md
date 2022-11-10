@@ -1,9 +1,9 @@
 ---
-publication: "millerthe6ix.substack.com"
-link: "https://millerthe6ix.substack.com/p/natural-gas-is-as-dirty-as-coal"
-title: "'Natural” gas is as dirty as coal"
-excerpt: "That’s the stark conclusion of a new C40 Cities report, launched ten days ago at the C40 Summit in Buenos Aires. From a carbon emissions perspective, the continued use of ‘natural’ gas is incompatible"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F60b05e31-52fc-4152-a75d-eeaf0e7f7ea3_511x502.png"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/10/dirty-fossil-fuel-investments-and-a-new-ai-inventory-of-global-emissions-in-the-spotlight-during-finance-day-at-cop27/"
+title: "Dirty fossil fuel investments and a new AI inventory of global emissions in the spotlight during ‘Finance Day’ at COP27"
+excerpt: "Over 50 activists of all ages and backgrounds took over the so-called ‘Blue Zone’ – the main area of the conference centre in Sharm el-Sheikh overseen by the UN – to chant “Stop funding fossil fuel…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1976.jpg?w=1200"
 group: con
 rank: 10
 ---

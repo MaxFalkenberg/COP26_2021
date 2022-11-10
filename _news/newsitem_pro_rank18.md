@@ -1,12 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop27-island-nations-want-china-india-pay-climate-damage-2022-11-08/"
-title: "COP27: Island nations want China, India to pay for climate damage"
-excerpt: "Highly polluting emerging economies including China and India
-should pay into a climate compensation fund to help countries
-rebuild after climate change-driven disasters, the prime
-minister of island "
-image: "https://www.reuters.com/resizer/27JpbDupXnzLLgW3eKNVZpUCNTg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YK3FZNHYOZOIFKJQ2JQDW6OGFQ.jpg"
+publication: "who.int"
+link: "https://www.who.int/news-room/events/detail/2022/11/06/default-calendar/cop27-health-pavilion"
+title: "COP27 Health Pavilion"
+excerpt: "WHO in collaboration with the Wellcome Trust and partners will host  the Health Pavilion at the COP27 UN Climate Conference, taking place in Sharm El-Sheikh, Egypt from 6 to 18 November, 2022."
+image: "https://cdn.who.int/media/images/default-source/health-and-climate-change/pfin0814-thumb.tmb-1200v.jpg?sfvrsn=70e6d701_1"
 group: pro
 rank: 18
 ---
