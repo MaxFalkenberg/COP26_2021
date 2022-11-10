@@ -1,9 +1,9 @@
 ---
-publication: "hollywoodreporter.com"
-link: "https://www.hollywoodreporter.com/tv/tv-news/rainn-wilson-changes-name-arctic-cop27-1235259244/"
-title: "Rainn Wilson Changes Name to Rainnfall Heat Wave Extreme Winter Wilson to Highlight Melting Arctic"
-excerpt: "Ahead of the COP27 summit, the star of ‘The Office’ has changed his name to bring attention to the climate crisis, 'which amplifies global risks, including extreme weather events around the globe.'"
-image: "https://www.hollywoodreporter.com/wp-content/uploads/2020/10/GettyImages-1172811664-H-2020-1603208646.jpg?w=1024"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/opinions/2022/11/09/nigerian-president-cop27-africa-climate-change/"
+title: "Opinion | Muhammadu Buhari: How not to talk with Africa about climate change"
+excerpt: "Africa didn’t cause the mess, yet it pays the price."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AP4LAIA73OM4NZ6CU2XNMC7LNE.JPG&w=1440"
 group: pro
 rank: 1
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/10/WS636bc4a9a3105ca1f22750f9.html"
-title: "China supports redress for climate change damage"
-excerpt: "China supports the proposal that developed countries compensate developing countries, especially those most vulnerable to the impact of climate change, for the loss and damage they suffer because of g"
-image: "http://img2.chinadaily.com.cn/images/202211/10/636c4d6ea3105ca157c11ffc.jpeg"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/spending-your-money-its-finance-day-at-cop27/"
+title: "Spending Your Money: It's 'Finance Day' At COP27"
+excerpt: "Al Gore is the ultimate huckster when pumping the UN delegates to climate action. In bunko terms, this is the practice of 'shaking the money tree' to loose money that is easy to grab. Gore's climate c"
+image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-10-at-8.00.48-AM.png"
 group: con
 rank: 8
 ---

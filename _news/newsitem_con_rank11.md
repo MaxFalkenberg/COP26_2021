@@ -1,9 +1,9 @@
 ---
-publication: "technocracy.news"
-link: "https://www.technocracy.news/spending-your-money-its-finance-day-at-cop27/"
-title: "Spending Your Money: It's 'Finance Day' At COP27"
-excerpt: "Al Gore is the ultimate huckster when pumping the UN delegates to climate action. In bunko terms, this is the practice of 'shaking the money tree' to loose money that is easy to grab. Gore's climate c"
-image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-10-at-8.00.48-AM.png"
+publication: "gulfnews.com"
+link: "https://gulfnews.com/opinion/op-eds/cop27-climate-crisis-threatens-global-health-1.91797058#"
+title: "COP27: Climate crisis threatens global health"
+excerpt: "Climate change impacts social causes that promote good health, like sustainable livelihood"
+image: "https://imagevars.gulfnews.com/2022/11/07/OPN-COP27-climate_18451c67296_medium.jpg"
 group: con
 rank: 11
 ---
