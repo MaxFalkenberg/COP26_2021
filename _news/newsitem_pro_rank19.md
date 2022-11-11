@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63584993"
-title: "COP27: BP chief listed as delegate for Mauritania"
-excerpt: "Chief executive of leading oil company is registered for COP27 as a delegate from poor African nation."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/9DE3/production/_127591404_8b02a6d3109de19484839f21a08d34e1284f7485.jpg"
+publication: "who.int"
+link: "https://www.who.int/news-room/events/detail/2022/11/06/default-calendar/cop27-health-pavilion"
+title: "COP27 Health Pavilion"
+excerpt: "WHO in collaboration with the Wellcome Trust and partners will host  the Health Pavilion at the COP27 UN Climate Conference, taking place in Sharm El-Sheikh, Egypt from 6 to 18 November, 2022."
+image: "https://cdn.who.int/media/images/default-source/health-and-climate-change/pfin0814-thumb.tmb-1200v.jpg?sfvrsn=70e6d701_1"
 group: pro
 rank: 19
 ---

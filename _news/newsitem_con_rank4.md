@@ -1,9 +1,9 @@
 ---
-publication: "amoskeppler.substack.com"
-link: "https://amoskeppler.substack.com/p/one-sentence"
-title: "One sentence"
-excerpt: "The following sentence tells all. The establishment will never do anything worthwhile to improve human woes, or solve our major problems. On the contrary. Matters are going from bad to worse to horrib"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9a0ab62-4ca6-4331-b43b-ec3134507b15_1200x800.jpeg"
+publication: "breitbart.com"
+link: "https://www.breitbart.com/europe/2022/11/09/cop27-hypocrisy-globalists-munch-down-on-meat-as-they-push-bug-diet-for-the-proles/"
+title: "COP27: Globalist Leaders Munch on Meat as They Push Bugs for 'Proles'"
+excerpt: "Globalist elites will be dining on a gourmet selection of meats, fish, and dairy at the UN's COP27 climate change conference in Egypt."
+image: "https://media.breitbart.com/media/2022/11/GettyImages-1244545810-2-640x335.jpg"
 group: con
 rank: 4
 ---
