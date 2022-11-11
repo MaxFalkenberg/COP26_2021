@@ -1,9 +1,9 @@
 ---
-publication: "action4equalityscotland.blogspot.com"
-link: "https://action4equalityscotland.blogspot.com/2022/11/self-id-gone-mad.html"
-title: "Self-ID Gone Mad?"
-excerpt: "Campaigning and organising on equality issues - and around the politics of standing up for the little guy against the big guy"
-image: "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0_zpGonPb_X05HGYklV3XbJK3n3DsqCn2I_wJCUGa9fKAhzS0RLHU3oyrWAtXYQyJW-PaNztVRzu9wyHrZSVzOnTCS5iV1ohh58Y-1gqkTre9gPXp1pIuGpC1LPnEfWaEQLfw=w1200-h630-p-k-no-nu"
+publication: "theconservativetreehouse.com"
+link: "https://theconservativetreehouse.com/blog/2022/11/11/john-kerry-introduces-cop27-to-carbon-trading-4-0-the-newest-wef-multinational-scheme-using-climate-change-income-for-elite-affluence/"
+title: "John Kerry Introduces COP27 to Carbon Trading 4.0 - The Newest WEF Multinational Scheme Using Climate Change Income for Elite Affluence - The Last Refuge"
+excerpt: "They have proposed and refined so many of the carbon trading schemes, it becomes difficult to remember which iteration each new formula replaces.  Heck, I’ve lost track of how many of the individual c"
+image: "https://theconservativetreehouse.com/wp-content/uploads/2022/11/COP-27-Joe-Green.jpg"
 group: con
 rank: 4
 ---

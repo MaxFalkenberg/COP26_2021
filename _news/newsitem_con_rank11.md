@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/11/WS636db22da3104917543291f1.html"
-title: "Africans tire of excuses on climate"
-excerpt: "African leaders have called on developed countries to help more in the fight against climate change, noting that Africa suffers some of the worst effects even though it is responsible for just 3.8 per"
-image: "http://img2.chinadaily.com.cn/images/202211/11/636db22da31049178c900909.jpeg"
+publication: "rebelnews.com"
+link: "https://www.rebelnews.com/turbo_charge_the_murg_biden_struggles_with_teleprompter_at_cop27"
+title: "'Turbo charge the murg,' Biden struggles with teleprompter at COP27"
+excerpt: "In remarks to the audience in Egypt, Biden pledged to do everything in his power to prevent the world from experiencing what he called 'climate hell'"
+image: "https://assets.nationbuilder.com/therebel/pages/63827/meta_images/original/cop27biden.png?1668201765"
 group: con
 rank: 11
 ---
