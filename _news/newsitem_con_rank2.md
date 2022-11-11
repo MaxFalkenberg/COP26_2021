@@ -1,9 +1,9 @@
 ---
-publication: "breitbart.com"
-link: "https://www.breitbart.com/europe/2022/11/10/energy-rationing-for-plebs-only-cop27-bigwigs-blast-air-conditioning-in-80-degree-egypt/"
-title: "COP27 Participants Blasted with Air Conditioning in 80 Degree Egypt"
-excerpt: "The COP27 conference is reportedly blasting its elite attendees with air conditioning in 80-degree Egyptian heat."
-image: "https://media.breitbart.com/media/2022/11/GettyImages-1244633242-e1668008179227-640x335.jpg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/11/the-mangrove-breakthrough-a-call-to-action-for-a-critical-ecosystem-climate-champions-regeneration-cop27-climatecrisis-ecologicalcrisis-demand-climateaction-sdg13/"
+title: "The Mangrove Breakthrough: a call to action for a critical ecosystem – Climate Champions #Regeneration #COP27 #ClimateCrisis #EcologicalCrisis demand #ClimateAction #SDG13"
+excerpt: "By Climate Champions The Global Mangrove Alliance (GMA) in collaboration with the UN Climate Change High-level Champions have identified the need for a unified global approach toward…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_0489.jpg?w=900"
 group: con
 rank: 2
 ---

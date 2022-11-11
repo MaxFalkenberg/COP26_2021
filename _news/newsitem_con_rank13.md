@@ -1,9 +1,9 @@
 ---
-publication: "wembleymatters.blogspot.com"
-link: "https://wembleymatters.blogspot.com/2022/11/join-global-day-of-action-for-climate.html"
-title: "Join the Global Day of Action for Climate Justice on Saturday. Assemble 12 noon at Shell Building on the South Bank"
-excerpt: "Wembley Matters: a news and information blog about environmental and social justice in the London Borough of Brent & beyond edited by Martin Francis"
-image: "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1JgnjyPD9NZ0i33fA1AiKfYeWHK2bcYCiUD-QbmkRtFyAINm8Z3ZrgvhVQqlpCE_L2JQXTHi_UTrKzWt_f12hr8QyTXjq9OC69KFI4bbBKG9LR1A=w1200-h630-n-k-no-nu"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/global-stink-un-cop27-attendees-in-egypt-greeted-with-sewage/"
+title: "Global Stink: UN COP27 Attendees In Egypt Greeted With Sewage"
+excerpt: "COP27 in Sharm El Sheikh, Egypt drew over 30,000 global meddlers by jet to plan how to railroad the world into Sustainable Development, aka Technocracy. Appropriately, a sewage spill let them meditate"
+image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-10-at-7.27.32-AM.png"
 group: con
 rank: 13
 ---

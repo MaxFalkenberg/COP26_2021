@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/exclusive-cop27-imf-chief-says-75ton-carbon-price-needed-by-2030-2022-11-07/"
-title: "EXCLUSIVE COP27: IMF chief says $75/ton carbon price needed by 2030"
-excerpt: "The price of carbon needs to average at least $75 a ton globally by the end of the decade for global climate goals to succeed, the head of the International Monetary Fund told Reuters."
-image: "https://www.reuters.com/resizer/WZEBd4VDcOWH0zJSlwAr6zblax0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PAOZYTK7CZODXNIKXEEF2USHG4.jpg"
+publication: "theglobeandmail.com"
+link: "https://www.theglobeandmail.com/world/article-recognize-genocide-in-ethiopias-tigray-region-experts-urge-canadian/"
+title: "Recognize genocide in Ethiopia’s Tigray region, experts urge Canadian committee"
+excerpt: "MPs say they will push ahead with their Tigray report as urgently as they can, spurred on by witnesses who described mass rapes and starvation"
+image: "https://www.theglobeandmail.com/resizer/yrL4t86GZNRC9nMBMJ6zE-TlptM=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/JKTAMNUNSJPDJCOC5O35QSFGW4.jpg"
 group: pro
 rank: 9
 ---
