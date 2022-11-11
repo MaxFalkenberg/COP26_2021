@@ -1,9 +1,9 @@
 ---
-publication: "who.int"
-link: "https://www.who.int/news-room/events/detail/2022/11/06/default-calendar/cop27-health-pavilion"
-title: "COP27 Health Pavilion"
-excerpt: "WHO in collaboration with the Wellcome Trust and partners will host  the Health Pavilion at the COP27 UN Climate Conference, taking place in Sharm El-Sheikh, Egypt from 6 to 18 November, 2022."
-image: "https://cdn.who.int/media/images/default-source/health-and-climate-change/pfin0814-thumb.tmb-1200v.jpg?sfvrsn=70e6d701_1"
+publication: "apnews.com"
+link: "https://apnews.com/article/science-mexico-climate-and-environment-government-politics-543dafba41cd5da908d47195ec5255a2"
+title: "Fed up young climate activists: 'Adults aren't listening'"
+excerpt: "WASHINGTON (AP) — The climate change  generation is saying officials are talking too much, listening too little and acting even less. And they are fed up. "
+image: "https://storage.googleapis.com/afs-prod/media/0f0ad8e1f42f46c782d122c839181ebe/3000.jpeg"
 group: pro
 rank: 18
 ---
