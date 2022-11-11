@@ -1,9 +1,9 @@
 ---
-publication: "economist.com"
-link: "https://www.economist.com/middle-east-and-africa/2022/11/09/egypt-host-of-the-un-climate-summit-persecutes-its-own-greens"
-title: "Egypt, host of the UN climate summit, persecutes its own greens"
-excerpt: "Locals are free to criticise any government except their own"
-image: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221112_MAP501.jpg"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63591796"
+title: "COP27: Key climate goal of 1.5C rise faces new challenge"
+excerpt: "There is a 50% chance dangerous warming limit will be breached in nine years, experts say."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/F991/production/_127598836_gettyimages-1243186759.jpg"
 group: pro
 rank: 15
 ---

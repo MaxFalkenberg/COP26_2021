@@ -1,9 +1,9 @@
 ---
-publication: "action4equalityscotland.blogspot.com"
-link: "https://action4equalityscotland.blogspot.com/2022/11/self-id-gone-mad.html"
-title: "Self-ID Gone Mad?"
-excerpt: "Campaigning and organising on equality issues - and around the politics of standing up for the little guy against the big guy"
-image: "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0mXqweK2MM4ZDjviZWtSmw248B4sK_paG-uGwx7VJ2v4xJ_YAd2W0jq6b_3AV0hgeD6abXUEmUX_NC1CKpRyISmnVPZ904gLyEfocLlJ6sCsalQPKkYqwOL9JaR2MGjh5BT98=w1200-h630-p-k-no-nu"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/magazine/why-climate-change-is-also-a-disability-rights-issue-62451"
+title: "Why climate change is also a disability rights issue"
+excerpt: "Disabled people are less able to migrate and are more exposed to natural disasters and other adverse impacts."
+image: "https://cdni0.trtworld.com/w480/h270/q75/143584_egyclimatesummitaa_1668151341204.jpg"
 group: con
 rank: 5
 ---

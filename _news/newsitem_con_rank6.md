@@ -1,9 +1,9 @@
 ---
-publication: "aleph-2020.blogspot.com"
-link: "https://aleph-2020.blogspot.com/p/sustainable-diets.html"
-title: "Planet"
-excerpt: "Are red meat, dairy, fish, poultry & eggs ethical, healthy & sustainable - or should dietary guidelines become 'plant-based'?"
-image: "https://1.bp.blogspot.com/-j_b0LVHCnkA/X2JuL0omWvI/AAAAAAAABWc/Vh_SMIlkKWMnTPo6GtLN0lJ1gej2sU60wCNcBGAsYHQ/w1200-h630-p-k-no-nu/P.jpg"
+publication: "action4equalityscotland.blogspot.com"
+link: "https://action4equalityscotland.blogspot.com/2022/11/self-id-gone-mad.html"
+title: "Self-ID Gone Mad?"
+excerpt: "Campaigning and organising on equality issues - and around the politics of standing up for the little guy against the big guy"
+image: "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2Q5b0CHickmYeAWqIi3WNWQxAFOtl4BOounqpadWsg0EgGeCQ2T9RZGuTcHrRFBPPzhfef1wuBRqw0SjN5kGJ9Y_-bidFu9LLTiTNH5lv3IPRJ85P-gbnYNzRU00dKsDgJTpY=w1200-h630-p-k-no-nu"
 group: con
 rank: 6
 ---
