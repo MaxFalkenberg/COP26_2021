@@ -1,9 +1,9 @@
 ---
-publication: "zimbabweland.wordpress.com"
-link: "https://zimbabweland.wordpress.com/2022/11/07/why-cop27-needs-a-more-sophisticated-debate-about-livestock-and-climate-change/"
-title: "Why COP27 needs a more sophisticated debate about livestock and climate change"
-excerpt: "As the climate conference, COP27, kicks of in Sharm el Sheik in Egypt debates about agriculture and land use will be centre stage. And amongst these discussions the role of livestock in the future …"
-image: "https://zimbabweland.files.wordpress.com/2022/11/sheep.jpg"
+publication: "breitbart.com"
+link: "https://www.breitbart.com/europe/2022/11/11/record-number-of-fossil-fuel-lobbyists-attend-cop27-climate-conference/"
+title: "Record Number of Fossil Fuel Lobbyists Attend COP27 Climate Summit"
+excerpt: "The number of lobbyists from fossil fuel companies attending the COP27 climate change conference has increased by 25 per cent over last year."
+image: "https://media.breitbart.com/media/2022/11/GettyImages-1244638257-2-640x335.jpg"
 group: con
 rank: 13
 ---

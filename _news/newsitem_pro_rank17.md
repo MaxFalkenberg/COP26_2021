@@ -1,9 +1,9 @@
 ---
-publication: "mol.im"
-link: "https://mol.im/a/11416209"
-title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
-excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
-image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
+publication: "weforum.org"
+link: "https://www.weforum.org/events/united-nations-climate-change-conference-cop27-2022"
+title: "United Nations Climate Change Conference COP27"
+excerpt: "Egypt is hosting the UN Climate Change Conference COP27 in Sharm el-Sheikh (6-18 November 2022) and will convene governments, businesses, civil society, and the public to focus on multilateral, collec"
+image: "https://assets.weforum.org/event/image/responsive_medium_oWcYfXSywk9W85rXvKhcs88w6Y0R2n9KZo9wA5pb6qs.jpg"
 group: pro
 rank: 17
 ---

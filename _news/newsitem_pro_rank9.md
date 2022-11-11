@@ -1,9 +1,9 @@
 ---
-publication: "hrw.org"
-link: "https://www.hrw.org/news/2022/11/10/egypt-denies-entry-activist-climate-talks"
-title: "Egypt Denies Entry to Activist at Climate Talks"
-excerpt: "Governments and civil society at the COP27 climate summit in Egypt are working around the clock to negotiate solutions to the climate crisis that threatens human rights around the world."
-image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211afr_egypt_cop27_climate_protest.jpg?h=a130fd67&itok=PMtqChhx"
+publication: "mol.im"
+link: "https://mol.im/a/11416209"
+title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
+excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
+image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
 group: pro
 rank: 9
 ---
