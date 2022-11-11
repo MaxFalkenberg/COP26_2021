@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/11/ross-garnaut-thinks-australia-can-become-a-low-carbon-superpower-clive-hamilton-is-not-convinced-climatecrisis-cop27-brightgreenlies-limitstogrowth/"
-title: "Ross Garnaut thinks Australia can become a low-carbon superpower; Clive Hamilton is not convinced #ClimateCrisis #COP27 #BrightGreenLies #LimitsToGrowth"
-excerpt: "By Clive Hamilton Ross Garnaut is a big beast in the Australian climate policy world, and a Labor favourite since his days as economic adviser to Bob Hawke. His 2008 Climate Change Review shifted t…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1969.jpg"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/11/WS636d2feaa310491754329058.html"
+title: "China leads in emissions reduction, IEA head says"
+excerpt: "Growth of global greenhouse gas emissions will reduce significantly this year due to the increase in renewable energy worldwide, with China leading in this phenomenon, the executive director of the In"
+image: "http://img2.chinadaily.com.cn/images/202211/11/636daf3ca31049178c9007cc.jpeg"
 group: con
 rank: 12
 ---

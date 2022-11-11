@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/exclusive-cop27-imf-chief-says-75ton-carbon-price-needed-by-2030-2022-11-07/"
-title: "EXCLUSIVE COP27: IMF chief says $75/ton carbon price needed by 2030"
-excerpt: "The price of carbon needs to average at least $75 a ton globally by the end of the decade for global climate goals to succeed, the head of the International Monetary Fund told Reuters."
-image: "https://www.reuters.com/resizer/WZEBd4VDcOWH0zJSlwAr6zblax0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PAOZYTK7CZODXNIKXEEF2USHG4.jpg"
+publication: "theguardian.com"
+link: "https://www.theguardian.com/environment/2022/nov/10/54-poor-countries-in-danger-of-bankruptcy-amid-economic-climate-cop27"
+title: "‘More than 50 poor countries in danger of bankruptcy’ says UN official"
+excerpt: "Developing countries falling into default would be catastrophic and delay climate action, UN development chief warns"
+image: "https://i.guim.co.uk/img/media/1d23de5f6fcf55c6c45c05dcd5c8ab369527a3b3/1_233_3499_2100/master/3499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e2c5b1e1543d17e17b4fb180a727239"
 group: pro
 rank: 6
 ---

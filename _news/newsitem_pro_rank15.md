@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/science-mexico-climate-and-environment-government-politics-543dafba41cd5da908d47195ec5255a2"
-title: "Fed up young climate activists: 'Adults aren't listening'"
-excerpt: "WASHINGTON (AP) — The climate change  generation is saying officials are talking too much, listening too little and acting even less. And they are fed up. "
-image: "https://storage.googleapis.com/afs-prod/media/0f0ad8e1f42f46c782d122c839181ebe/3000.jpeg"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/09/how-egypt-doubled-down-fossil-fuels-stifling-dissent"
+title: "How Egypt Doubled Down on Fossil Fuels by Stifling Dissent"
+excerpt: "The host of the climate conference is an authoritarian state that depends on dirty energy and forcibly silences its domestic environmentalist movement."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211ehr_egypt_cop27_fossilfuels.jpg?h=e74c7395&itok=FU7O_l9W"
 group: pro
 rank: 15
 ---

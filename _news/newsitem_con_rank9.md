@@ -1,9 +1,9 @@
 ---
-publication: "action4equalityscotland.blogspot.com"
-link: "https://action4equalityscotland.blogspot.com/2022/11/self-id-gone-mad.html"
-title: "Self-ID Gone Mad?"
-excerpt: "Campaigning and organising on equality issues - and around the politics of standing up for the little guy against the big guy"
-image: "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1VzIf_s9kz8oCmP8964Yfy4AqLLaNUsf4rlyOxEl7ii0xnes1tbtwjU0WYKAfkiCp_38sywzoBe0zkpsXW_G12PsEbcbVmJTLQyCPrXqYmkzp2x5FXtsrzbvHPO4R7NgwAsJA=w1200-h630-p-k-no-nu"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/rogerpielkejr/p/pielkes-weekly-memo-17"
+title: "Pielke's Weekly Memo #17"
+excerpt: "COP27 Special: What to Read, Misinformation of the Week and U.S. Hurricane Update"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F929c7657-59b1-4d75-a62a-af0668c1acda_524x720.png"
 group: con
 rank: 9
 ---

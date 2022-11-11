@@ -1,9 +1,9 @@
 ---
-publication: "theguardian.com"
-link: "https://www.theguardian.com/us-news/2022/nov/10/nancy-pelosi-cop27-republicans-climate-crisis-hoax"
-title: "Pelosi accuses Republicans of treating climate crisis like ‘it’s all a hoax’ at Cop27"
-excerpt: "Democrat makes surprise appearance at climate summit as midterms forecasts predict Republicans will take the House"
-image: "https://i.guim.co.uk/img/media/53aafefaf7341251a2b96d86ddc3603123fbf3b5/0_57_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d6f11d2b596bd8e891b2c8c2c9728e5"
+publication: "theglobeandmail.com"
+link: "https://www.theglobeandmail.com/world/article-recognize-genocide-in-ethiopias-tigray-region-experts-urge-canadian/"
+title: "Recognize genocide in Ethiopia’s Tigray region, experts urge Canadian committee"
+excerpt: "MPs say they will push ahead with their Tigray report as urgently as they can, spurred on by witnesses who described mass rapes and starvation"
+image: "https://www.theglobeandmail.com/resizer/yrL4t86GZNRC9nMBMJ6zE-TlptM=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/JKTAMNUNSJPDJCOC5O35QSFGW4.jpg"
 group: pro
 rank: 8
 ---

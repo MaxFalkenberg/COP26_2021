@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-solutions/2022/11/10/biden-climate-federal-suppliers-cop27/"
-title: "Biden pushes to require big federal contractors to cut climate pollution"
-excerpt: "Federal suppliers would also have to disclose their greenhouse gas emissions and the climate change risks they face under the proposed rule."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7CQ6CZ7DUGJRM6HF6A2UROTPUA.jpg&w=1440"
+publication: "forbes.com"
+link: "https://www.forbes.com/sites/bjornlomborg/2022/11/10/cop27-a-parade-of-climate-hypocrisy/"
+title: "COP27: A Parade Of Climate Hypocrisy"
+excerpt: "The current UN climate summit in Egypt offers more breathtaking hypocrisy than usual, because the world’s rich are zealously lecturing poor countries about the dangers of fossil fuels—after devouring "
+image: "https://imageio.forbes.com/specials-images/imageserve/636d27c19f35776bf97fde53/0x0.jpg?format=jpg&crop=2851,1603,x0,y104,safe&width=1200"
 group: pro
 rank: 2
 ---

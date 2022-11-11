@@ -1,9 +1,9 @@
 ---
-publication: "breitbart.com"
-link: "https://www.breitbart.com/europe/2022/11/10/energy-rationing-for-plebs-only-cop27-bigwigs-blast-air-conditioning-in-80-degree-egypt/"
-title: "COP27 Participants Blasted with Air Conditioning in 80 Degree Egypt"
-excerpt: "The COP27 conference is reportedly blasting its elite attendees with air conditioning in 80-degree Egyptian heat."
-image: "https://media.breitbart.com/media/2022/11/GettyImages-1244633242-e1668008179227-640x335.jpg"
+publication: "action4equalityscotland.blogspot.com"
+link: "https://action4equalityscotland.blogspot.com/2022/11/self-id-gone-mad.html"
+title: "Self-ID Gone Mad?"
+excerpt: "Campaigning and organising on equality issues - and around the politics of standing up for the little guy against the big guy"
+image: "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0mXqweK2MM4ZDjviZWtSmw248B4sK_paG-uGwx7VJ2v4xJ_YAd2W0jq6b_3AV0hgeD6abXUEmUX_NC1CKpRyISmnVPZ904gLyEfocLlJ6sCsalQPKkYqwOL9JaR2MGjh5BT98=w1200-h630-p-k-no-nu"
 group: con
 rank: 5
 ---

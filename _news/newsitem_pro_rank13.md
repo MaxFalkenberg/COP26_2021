@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63584993"
-title: "COP27: BP chief listed as delegate for Mauritania"
-excerpt: "Chief executive of leading oil company is registered for COP27 as a delegate from poor African nation."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/9DE3/production/_127591404_8b02a6d3109de19484839f21a08d34e1284f7485.jpg"
+publication: "apnews.com"
+link: "https://apnews.com/article/science-mexico-climate-and-environment-government-politics-543dafba41cd5da908d47195ec5255a2"
+title: "Fed up young climate activists: 'Adults aren't listening'"
+excerpt: "WASHINGTON (AP) — The climate change  generation is saying officials are talking too much, listening too little and acting even less. And they are fed up. "
+image: "https://storage.googleapis.com/afs-prod/media/0f0ad8e1f42f46c782d122c839181ebe/3000.jpeg"
 group: pro
 rank: 13
 ---

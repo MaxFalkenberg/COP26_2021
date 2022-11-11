@@ -1,9 +1,9 @@
 ---
 publication: "theguardian.com"
-link: "https://www.theguardian.com/environment/2022/nov/10/54-poor-countries-in-danger-of-bankruptcy-amid-economic-climate-cop27"
-title: "‘More than 50 poor countries in danger of bankruptcy’ says UN official"
-excerpt: "Developing countries falling into default would be catastrophic and delay climate action, UN development chief warns"
-image: "https://i.guim.co.uk/img/media/1d23de5f6fcf55c6c45c05dcd5c8ab369527a3b3/1_233_3499_2100/master/3499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e2c5b1e1543d17e17b4fb180a727239"
+link: "https://www.theguardian.com/environment/2022/nov/08/mexico-will-try-to-deceive-the-world-at-cop27-experts-warn"
+title: "Mexico will try to ‘deceive the world’ at Cop27, experts warn"
+excerpt: "President not expected to attend summit but critics cast doubt on veracity of pledges the country could make"
+image: "https://i.guim.co.uk/img/media/4589469167e7917aa22b38265e4d765ed84070d6/0_0_5276_3166/master/5276.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bac38db0ffc43a2608a87fe13d526521"
 group: pro
 rank: 7
 ---
