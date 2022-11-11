@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/environment/2022/11/09/rishi-sunak-rules-climate-reparations-amid-ongoing-cop27-row/"
-title: "Rishi Sunak rules out climate reparations amid ongoing Cop27 row"
-excerpt: "PM claims UK is ‘fulfilling our obligations’ and said he would instead prioritise green investment that supports British jobs"
-image: "https://www.telegraph.co.uk/content/dam/environment/2022/11/09/TELEMMGLPICT000315456667_trans_NvBQzQNjv4Bqw6UWCo-0x5_BRsTZlm-GxMf-s3fZmT3Wu4SFGBFhbrU.jpeg?impolicy=logo-overlay"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/10/egypt-denies-entry-activist-climate-talks"
+title: "Egypt Denies Entry to Activist at Climate Talks"
+excerpt: "Governments and civil society at the COP27 climate summit in Egypt are working around the clock to negotiate solutions to the climate crisis that threatens human rights around the world."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211afr_egypt_cop27_climate_protest.jpg?h=a130fd67&itok=PMtqChhx"
 group: pro
 rank: 16
 ---

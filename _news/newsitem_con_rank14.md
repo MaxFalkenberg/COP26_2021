@@ -1,9 +1,9 @@
 ---
-publication: "wembleymatters.blogspot.com"
-link: "https://wembleymatters.blogspot.com/2022/11/join-global-day-of-action-for-climate.html"
-title: "Join the Global Day of Action for Climate Justice on Saturday. Assemble 12 noon at Shell Building on the South Bank"
-excerpt: "Wembley Matters: a news and information blog about environmental and social justice in the London Borough of Brent & beyond edited by Martin Francis"
-image: "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2rSjq0UjPP3o-NOSdN5oVRdA2FCNwzjMzQCfQVbMC-yGrdjNJ_8ZosZXV34I3x0bwHz-xpmdKUOSusewjlLEda2my1WjEbVznxxp9NNbRiC9aGLQ=w1200-h630-n-k-no-nu"
+publication: "breitbart.com"
+link: "https://www.breitbart.com/europe/2022/11/09/cop27-hypocrisy-globalists-munch-down-on-meat-as-they-push-bug-diet-for-the-proles/"
+title: "COP27: Globalist Leaders Munch on Meat as They Push Bugs for 'Proles'"
+excerpt: "Globalist elites will be dining on a gourmet selection of meats, fish, and dairy at the UN's COP27 climate change conference in Egypt."
+image: "https://media.breitbart.com/media/2022/11/GettyImages-1244545810-2-640x335.jpg"
 group: con
 rank: 14
 ---
