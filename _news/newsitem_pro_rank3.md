@@ -1,9 +1,9 @@
 ---
 publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/09/cop27-coalition-aims-tap-private-funds-energy-transition/"
-title: "As wealthy nations take heat for warming planet, coalition unveils lofty plan "
-excerpt: "White House climate envoy John F. Kerry has teamed with partners to secure private money to help in the energy transition of developing countries."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2FFZASRWFYX36GYUSTKMDWC7HU.jpg&w=1440"
+link: "https://www.washingtonpost.com/climate-solutions/2022/11/10/biden-climate-federal-suppliers-cop27/"
+title: "Biden pushes to require big federal contractors to cut climate pollution"
+excerpt: "Federal suppliers would also have to disclose their greenhouse gas emissions and the climate change risks they face under the proposed rule."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7CQ6CZ7DUGJRM6HF6A2UROTPUA.jpg&w=1440"
 group: pro
 rank: 3
 ---

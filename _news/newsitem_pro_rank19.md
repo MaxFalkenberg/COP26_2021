@@ -1,9 +1,9 @@
 ---
-publication: "who.int"
-link: "https://www.who.int/news-room/events/detail/2022/11/06/default-calendar/cop27-health-pavilion"
-title: "COP27 Health Pavilion"
-excerpt: "WHO in collaboration with the Wellcome Trust and partners will host  the Health Pavilion at the COP27 UN Climate Conference, taking place in Sharm El-Sheikh, Egypt from 6 to 18 November, 2022."
-image: "https://cdn.who.int/media/images/default-source/health-and-climate-change/pfin0814-thumb.tmb-1200v.jpg?sfvrsn=70e6d701_1"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/10/egypt-denies-entry-activist-climate-talks"
+title: "Egypt Denies Entry to Activist at Climate Talks"
+excerpt: "Governments and civil society at the COP27 climate summit in Egypt are working around the clock to negotiate solutions to the climate crisis that threatens human rights around the world."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211afr_egypt_cop27_climate_protest.jpg?h=a130fd67&itok=PMtqChhx"
 group: pro
 rank: 19
 ---

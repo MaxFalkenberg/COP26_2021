@@ -1,9 +1,9 @@
 ---
-publication: "chinaresearchgroup.substack.com"
-link: "https://chinaresearchgroup.substack.com/p/china-news-10-november-2022"
-title: "China News - 10 November 2022"
-excerpt: "International Biden aims to avoid concessions to Xi at G20. US President Joe Biden vowed to make no “fundamental concessions” as he prepares for an in-person summit with China’s Xi Jinping, reinforcin"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhL8uq-VEAAWZ11.jpg"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/features/2022/11/10/COP27-Israeli-scientists-harnessing-DNA-of-bygone-wild-crops-to-enhance-food-supply"
+title: "COP27: Israeli scientists harnessing DNA of bygone wild crops to enhance food supply"
+excerpt: "Could the key to securing the world’s food supply for the future be hidden in the DNA of crops from the distant past?Scientists in Israel are creating a"
+image: "https://vid.alarabiya.net/images/2022/11/10/8041483e-0c8e-4dfa-bf51-e0f1bcc05792/8041483e-0c8e-4dfa-bf51-e0f1bcc05792_16x9_600x338.JPG"
 group: con
 rank: 14
 ---

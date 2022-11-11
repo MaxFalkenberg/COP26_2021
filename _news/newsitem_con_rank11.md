@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "https://www.chinadaily.com.cn/a/202211/10/WS636cf4bba310491754329035.html"
-title: "Carbon mechanisms should serve emissions fight: China Daily editorial"
-excerpt: "In 2009, in the Copenhagen Accord, the developed countries made a commitment to allocate $100 billion annually by 2020 to help developing countries address the impacts of climate change."
-image: "http://img2.chinadaily.com.cn/images/202211/11/636db11da31049178c9008ef.jpeg"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/global-stink-un-cop27-attendees-in-egypt-greeted-with-sewage/"
+title: "Global Stink: UN COP27 Attendees In Egypt Greeted With Sewage"
+excerpt: "COP27 in Sharm El Sheikh, Egypt drew over 30,000 global meddlers by jet to plan how to railroad the world into Sustainable Development, aka Technocracy. Appropriately, a sewage spill let them meditate"
+image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-10-at-7.27.32-AM.png"
 group: con
 rank: 11
 ---
