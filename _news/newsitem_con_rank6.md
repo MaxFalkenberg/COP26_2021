@@ -1,9 +1,9 @@
 ---
-publication: "londongreenleft.blogspot.com"
-link: "https://londongreenleft.blogspot.com/2022/11/extract-from-ecosocialism-not-extinction.html"
-title: "Extract From: Ecosocialism Not Extinction  "
-excerpt: "Written by Allan Todd (2022)     “The central preomise of ecosocialism, already suggested by the term itself, is that non-ecological sociali..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOnGFu2WFN8j2gycS06HZ75nEWFUt9D1NBDq-lEWGmFZc0ehRT64ddPVWfVUqWM0wlx6h9catM047Q3HlFivr_j7zniynnGXzXUkbNwsYs89KkQDEdsv803SwGwXV7sU8ubdbFNIo7LZwYyldmPBXiisfqqouBt4GcVM1rQMbf-gWB1F7iYKac9jVB/w1200-h630-p-k-no-nu/ECOSOCIALISM.NOTEXTINCTION%20(1).jpg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/11/the-mangrove-breakthrough-a-call-to-action-for-a-critical-ecosystem-climate-champions-regeneration-cop27-climatecrisis-ecologicalcrisis-demand-climateaction-sdg13/"
+title: "The Mangrove Breakthrough: a call to action for a critical ecosystem – Climate Champions #Regeneration #COP27 #ClimateCrisis #EcologicalCrisis demand #ClimateAction #SDG13"
+excerpt: "By Climate Champions The Global Mangrove Alliance (GMA) in collaboration with the UN Climate Change High-level Champions have identified the need for a unified global approach toward…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_0489.jpg?w=900"
 group: con
 rank: 6
 ---

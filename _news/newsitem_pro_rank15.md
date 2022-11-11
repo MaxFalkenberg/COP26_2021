@@ -1,9 +1,9 @@
 ---
-publication: "hrw.org"
-link: "https://www.hrw.org/news/2022/11/09/how-egypt-doubled-down-fossil-fuels-stifling-dissent"
-title: "How Egypt Doubled Down on Fossil Fuels by Stifling Dissent"
-excerpt: "The host of the climate conference is an authoritarian state that depends on dirty energy and forcibly silences its domestic environmentalist movement."
-image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211ehr_egypt_cop27_fossilfuels.jpg?h=e74c7395&itok=FU7O_l9W"
+publication: "independent.co.uk"
+link: "https://www.independent.co.uk/climate-change/opinion/climate-crisis-boris-johnson-ivan-duque-cop27-amazon-b2222941.html"
+title: "This could be the answer to the climate crisis | Boris Johnson and Iván Duque  "
+excerpt: "In sawing down our ancient forests we are cutting our own throats. It is time to review our legislation so that these crimes face proper sanctions, write Boris Johnson and Iván Duque  "
+image: "https://static.independent.co.uk/2022/11/11/10/AFP_32ML4X7.jpg?quality=75&width=1200&auto=webp"
 group: pro
 rank: 15
 ---

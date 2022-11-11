@@ -1,9 +1,9 @@
 ---
-publication: "npr.org"
-link: "https://www.npr.org/2022/11/10/1133090748/here-are-3-dangerous-climate-tipping-points-the-world-is-on-track-for"
-title: "Here are 3 dangerous climate tipping points the world is on track for"
-excerpt: "Global leaders are negotiating about how to cut greenhouse gas emissions as quickly as possible. Scientists say every passing day, and every tenth of a degree, makes a big difference."
-image: "https://media.npr.org/assets/img/2022/11/03/0b6a6290_wide-ec78e7d56f4cc3b554addfcf98e3f19cfb273d85-s1400-c100.jpg"
+publication: "apnews.com"
+link: "https://apnews.com/article/science-mexico-climate-and-environment-government-politics-543dafba41cd5da908d47195ec5255a2"
+title: "Fed up young climate activists: 'Adults aren't listening'"
+excerpt: "WASHINGTON (AP) — The climate change  generation is saying officials are talking too much, listening too little and acting even less. And they are fed up. "
+image: "https://storage.googleapis.com/afs-prod/media/0f0ad8e1f42f46c782d122c839181ebe/3000.jpeg"
 group: pro
 rank: 16
 ---

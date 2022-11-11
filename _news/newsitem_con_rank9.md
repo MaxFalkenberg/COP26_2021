@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/rogerpielkejr/p/pielkes-weekly-memo-17"
-title: "Pielke's Weekly Memo #17"
-excerpt: "COP27 Special: What to Read, Misinformation of the Week and U.S. Hurricane Update"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F929c7657-59b1-4d75-a62a-af0668c1acda_524x720.png"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/11/WS636db22da3104917543291f1.html"
+title: "Africans tire of excuses on climate"
+excerpt: "African leaders have called on developed countries to help more in the fight against climate change, noting that Africa suffers some of the worst effects even though it is responsible for just 3.8 per"
+image: "http://img2.chinadaily.com.cn/images/202211/11/636db22da31049178c900909.jpeg"
 group: con
 rank: 9
 ---
