@@ -1,9 +1,9 @@
 ---
-publication: "breitbart.com"
-link: "https://www.breitbart.com/europe/2022/11/09/cop27-hypocrisy-globalists-munch-down-on-meat-as-they-push-bug-diet-for-the-proles/"
-title: "COP27: Globalist Leaders Munch on Meat as They Push Bugs for 'Proles'"
-excerpt: "Globalist elites will be dining on a gourmet selection of meats, fish, and dairy at the UN's COP27 climate change conference in Egypt."
-image: "https://media.breitbart.com/media/2022/11/GettyImages-1244545810-2-640x335.jpg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/11/ross-garnaut-thinks-australia-can-become-a-low-carbon-superpower-clive-hamilton-is-not-convinced-climatecrisis-cop27-brightgreenlies-limitstogrowth/"
+title: "Ross Garnaut thinks Australia can become a low-carbon superpower; Clive Hamilton is not convinced #ClimateCrisis #COP27 #BrightGreenLies #LimitsToGrowth"
+excerpt: "By Clive Hamilton Ross Garnaut is a big beast in the Australian climate policy world, and a Labor favourite since his days as economic adviser to Bob Hawke. His 2008 Climate Change Review shifted t…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1969.jpg"
 group: con
 rank: 4
 ---

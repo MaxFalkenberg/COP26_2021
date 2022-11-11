@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/11/the-mangrove-breakthrough-a-call-to-action-for-a-critical-ecosystem-climate-champions-regeneration-cop27-climatecrisis-ecologicalcrisis-demand-climateaction-sdg13/"
-title: "The Mangrove Breakthrough: a call to action for a critical ecosystem – Climate Champions #Regeneration #COP27 #ClimateCrisis #EcologicalCrisis demand #ClimateAction #SDG13"
-excerpt: "By Climate Champions The Global Mangrove Alliance (GMA) in collaboration with the UN Climate Change High-level Champions have identified the need for a unified global approach toward…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_0489.jpg?w=900"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/spending-your-money-its-finance-day-at-cop27/"
+title: "Spending Your Money: It's 'Finance Day' At COP27"
+excerpt: "Al Gore is the ultimate huckster when pumping the UN delegates to climate action. In bunko terms, this is the practice of 'shaking the money tree' to loose money that is easy to grab. Gore's climate c"
+image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-10-at-8.00.48-AM.png"
 group: con
 rank: 7
 ---

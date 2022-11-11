@@ -1,9 +1,9 @@
 ---
-publication: "breitbart.com"
-link: "https://www.breitbart.com/europe/2022/11/10/energy-rationing-for-plebs-only-cop27-bigwigs-blast-air-conditioning-in-80-degree-egypt/"
-title: "COP27 Participants Blasted with Air Conditioning in 80 Degree Egypt"
-excerpt: "The COP27 conference is reportedly blasting its elite attendees with air conditioning in 80-degree Egyptian heat."
-image: "https://media.breitbart.com/media/2022/11/GettyImages-1244633242-e1668008179227-640x335.jpg"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/life/scientists-co2-pollution-on-track-to-hit-all-time-high-in-2022-62445"
+title: "Scientists: CO2 pollution on track to hit all-time high in 2022"
+excerpt: "Despite wild cards of pandemic recovery and an energy crisis provoked by conflict in Ukraine, uptick in carbon pollution from burning oil, gas and coal is consistent with underlying trends, data sugge"
+image: "https://cdni0.trtworld.com/w480/h270/q75/143834_USA20210918_1668127594087.jpg"
 group: con
 rank: 1
 ---
