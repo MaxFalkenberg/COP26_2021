@@ -1,9 +1,9 @@
 ---
-publication: "npr.org"
-link: "https://www.npr.org/2022/11/10/1133090748/here-are-3-dangerous-climate-tipping-points-the-world-is-on-track-for"
-title: "Here are 3 dangerous climate tipping points the world is on track for"
-excerpt: "Global leaders are negotiating about how to cut greenhouse gas emissions as quickly as possible. Scientists say every passing day, and every tenth of a degree, makes a big difference."
-image: "https://media.npr.org/assets/img/2022/11/03/0b6a6290_wide-ec78e7d56f4cc3b554addfcf98e3f19cfb273d85-s1400-c100.jpg"
+publication: "independent.co.uk"
+link: "https://www.independent.co.uk/climate-change/opinion/climate-crisis-boris-johnson-ivan-duque-cop27-amazon-b2222941.html"
+title: "This could be the answer to the climate crisis | Boris Johnson and Iván Duque  "
+excerpt: "In sawing down our ancient forests we are cutting our own throats. It is time to review our legislation so that these crimes face proper sanctions, write Boris Johnson and Iván Duque  "
+image: "https://static.independent.co.uk/2022/11/11/10/AFP_32ML4X7.jpg?quality=75&width=1200&auto=webp"
 group: pro
 rank: 13
 ---

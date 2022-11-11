@@ -1,9 +1,9 @@
 ---
-publication: "europa.eu"
-link: "https://europa.eu/!kxPcQq"
-title: "COP27 UN Climate Change Conference: EU side events"
-excerpt: "Join REA and 21 of our funded projects in a defining moment in the fight against climate change."
-image: "https://rea.ec.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2022-10/cop27_social_media.jpg?itok=MU0dTpUp"
+publication: "u.afp.com"
+link: "http://u.afp.com/iT9X"
+title: "Biden urges world to 'step up' climate fight at COP27"
+excerpt: "President Joe Biden vowed at UN climate talks on Friday that the United States was on track to slash its carbon emissions, urging all nations to ramp up their own efforts to avert catastrophic global "
+image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA140DVK.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
 group: pro
 rank: 19
 ---
