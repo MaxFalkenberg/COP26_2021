@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/life/scientists-co2-pollution-on-track-to-hit-all-time-high-in-2022-62445"
-title: "Scientists: CO2 pollution on track to hit all-time high in 2022"
-excerpt: "Despite wild cards of pandemic recovery and an energy crisis provoked by conflict in Ukraine, uptick in carbon pollution from burning oil, gas and coal is consistent with underlying trends, data sugge"
-image: "https://cdni0.trtworld.com/w480/h270/q75/143834_USA20210918_1668127594087.jpg"
+publication: "oann.com"
+link: "https://www.oann.com/newsroom/scalise-slams-democrat-for-cop27-hypocrisy/"
+title: "Scalise slams Democrat for COP27 hypocrisy"
+excerpt: "House Minority Whip, Steve Scalise, is calling out Democrats for not abiding by their green agenda."
+image: "https://c3.oann.com/wp-content/uploads/2022/11/GettyImages-1409725883-e1668194033882.jpg"
 group: con
 rank: 3
 ---

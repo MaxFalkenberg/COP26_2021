@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/article/factcheck-nasa-climate-idUSL1N2YO23I"
-title: "Fact Check-NASA did not announce that climate change is only driven by variations to Earth’s orbital position relative to the sun"
-excerpt: "The National Aeronautical and Space Agency (NASA) did not announce that climate change is only driven by the Earth’s orbital position around the sun, despite viral posts claiming this that have been s"
-image: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/opinions/2022/11/09/nigerian-president-cop27-africa-climate-change/"
+title: "Opinion | Muhammadu Buhari: How not to talk with Africa about climate change"
+excerpt: "Africa didn’t cause the mess, yet it pays the price."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AP4LAIA73OM4NZ6CU2XNMC7LNE.JPG&w=1440"
 group: pro
 rank: 3
 ---

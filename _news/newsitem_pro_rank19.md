@@ -1,9 +1,9 @@
 ---
-publication: "politico.eu"
-link: "https://www.politico.eu/article/egypts-cop27-pr-disaster-alaa-abd-el-fattah/"
-title: "Egypt’s COP27 PR disaster"
-excerpt: "A hunger striker, a stream of sewage and filthy hotel rooms. Organizers are under pressure over climate summit failings."
-image: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/11/10/GettyImages-1439551398.jpg"
+publication: "europa.eu"
+link: "https://europa.eu/!kxPcQq"
+title: "COP27 UN Climate Change Conference: EU side events"
+excerpt: "Join REA and 21 of our funded projects in a defining moment in the fight against climate change."
+image: "https://rea.ec.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2022-10/cop27_social_media.jpg?itok=MU0dTpUp"
 group: pro
 rank: 19
 ---

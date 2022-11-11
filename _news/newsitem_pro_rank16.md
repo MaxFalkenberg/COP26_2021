@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63571610"
-title: "COP27: Sharp rise in fossil fuel industry delegates at climate summit"
-excerpt: "Data shared exclusively with the BBC show large numbers of oil and gas lobbyists attending COP27."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/DC09/production/_127592365_mediaitem127591827.jpg"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63591796"
+title: "COP27: Key climate goal of 1.5C rise faces new challenge"
+excerpt: "There is a 50% chance dangerous warming limit will be breached in nine years, experts say."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/F991/production/_127598836_gettyimages-1243186759.jpg"
 group: pro
 rank: 16
 ---
