@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1694648/Brexit-remain-analysis-EU-latest-news-rishi-sunak-cop27-climate-change"
-title: "Betraying our country isn’t treason anymore - it’s policy"
-excerpt: "We live in the era of revelation. In earlier times, politicians hid their scorn from us, the people, behind smiles, heartfelt assurances and thick curtains."
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4393551.jpg?r=1668072133426"
+publication: "forbes.com"
+link: "https://www.forbes.com/sites/bjornlomborg/2022/11/10/cop27-a-parade-of-climate-hypocrisy/"
+title: "COP27: A Parade Of Climate Hypocrisy"
+excerpt: "The current UN climate summit in Egypt offers more breathtaking hypocrisy than usual, because the world’s rich are zealously lecturing poor countries about the dangers of fossil fuels—after devouring "
+image: "https://imageio.forbes.com/specials-images/imageserve/636d27c19f35776bf97fde53/0x0.jpg?format=jpg&crop=2851,1603,x0,y104,safe&width=1200"
 group: pro
 rank: 5
 ---

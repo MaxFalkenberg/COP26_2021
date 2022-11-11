@@ -1,9 +1,9 @@
 ---
 publication: "theguardian.com"
-link: "https://www.theguardian.com/environment/2022/nov/10/big-rise-in-number-of-fossil-fuel-lobbyists-at-cop27-climate-summit"
-title: "‘Explosion’ in number of fossil fuel lobbyists at Cop27 climate summit"
-excerpt: "Oil and gas industries have 636 representatives at Egypt conference – a rise of more than 25% on previous year"
-image: "https://i.guim.co.uk/img/media/de6405c567073804e49dba14c3c46bc6e1c9d0e7/0_132_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7290d0c27d271af57490f148faddef7"
+link: "https://www.theguardian.com/environment/2022/nov/10/54-poor-countries-in-danger-of-bankruptcy-amid-economic-climate-cop27"
+title: "‘More than 50 poor countries in danger of bankruptcy’ says UN official"
+excerpt: "Developing countries falling into default would be catastrophic and delay climate action, UN development chief warns"
+image: "https://i.guim.co.uk/img/media/1d23de5f6fcf55c6c45c05dcd5c8ab369527a3b3/1_233_3499_2100/master/3499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e2c5b1e1543d17e17b4fb180a727239"
 group: pro
 rank: 8
 ---
