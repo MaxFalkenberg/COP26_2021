@@ -1,9 +1,9 @@
 ---
-publication: "weforum.org"
-link: "https://www.weforum.org/events/united-nations-climate-change-conference-cop27-2022"
-title: "United Nations Climate Change Conference COP27"
-excerpt: "Egypt is hosting the UN Climate Change Conference COP27 in Sharm el-Sheikh (6-18 November 2022) and will convene governments, businesses, civil society, and the public to focus on multilateral, collec"
-image: "https://assets.weforum.org/event/image/responsive_medium_oWcYfXSywk9W85rXvKhcs88w6Y0R2n9KZo9wA5pb6qs.jpg"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/09/how-egypt-doubled-down-fossil-fuels-stifling-dissent"
+title: "How Egypt Doubled Down on Fossil Fuels by Stifling Dissent"
+excerpt: "The host of the climate conference is an authoritarian state that depends on dirty energy and forcibly silences its domestic environmentalist movement."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211ehr_egypt_cop27_fossilfuels.jpg?h=e74c7395&itok=FU7O_l9W"
 group: pro
 rank: 17
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "hrw.org"
-link: "https://www.hrw.org/news/2022/11/09/how-egypt-doubled-down-fossil-fuels-stifling-dissent"
-title: "How Egypt Doubled Down on Fossil Fuels by Stifling Dissent"
-excerpt: "The host of the climate conference is an authoritarian state that depends on dirty energy and forcibly silences its domestic environmentalist movement."
-image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211ehr_egypt_cop27_fossilfuels.jpg?h=e74c7395&itok=FU7O_l9W"
+publication: "bbc.com"
+link: "https://www.bbc.com/news/science-environment-63571610"
+title: "COP27: Sharp rise in fossil fuel industry delegates at climate summit"
+excerpt: "Data shared exclusively with the BBC show large numbers of oil and gas lobbyists attending COP27."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/DC09/production/_127592365_mediaitem127591827.jpg"
 group: pro
 rank: 19
 ---
