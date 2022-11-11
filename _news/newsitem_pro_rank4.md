@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/article/factcheck-nasa-climate-idUSL1N2YO23I"
-title: "Fact Check-NASA did not announce that climate change is only driven by variations to Earth’s orbital position relative to the sun"
-excerpt: "The National Aeronautical and Space Agency (NASA) did not announce that climate change is only driven by the Earth’s orbital position around the sun, despite viral posts claiming this that have been s"
-image: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+publication: "forbes.com"
+link: "https://www.forbes.com/sites/bjornlomborg/2022/11/10/cop27-a-parade-of-climate-hypocrisy/"
+title: "COP27: A Parade Of Climate Hypocrisy"
+excerpt: "The current UN climate summit in Egypt offers more breathtaking hypocrisy than usual, because the world’s rich are zealously lecturing poor countries about the dangers of fossil fuels—after devouring "
+image: "https://imageio.forbes.com/specials-images/imageserve/636d27c19f35776bf97fde53/0x0.jpg?format=jpg&crop=2851,1603,x0,y104,safe&width=1200"
 group: pro
 rank: 4
 ---

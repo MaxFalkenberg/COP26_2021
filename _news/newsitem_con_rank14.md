@@ -1,9 +1,9 @@
 ---
-publication: "zimbabweland.wordpress.com"
-link: "https://zimbabweland.wordpress.com/2022/11/07/why-cop27-needs-a-more-sophisticated-debate-about-livestock-and-climate-change/"
-title: "Why COP27 needs a more sophisticated debate about livestock and climate change"
-excerpt: "As the climate conference, COP27, kicks of in Sharm el Sheik in Egypt debates about agriculture and land use will be centre stage. And amongst these discussions the role of livestock in the future …"
-image: "https://zimbabweland.files.wordpress.com/2022/11/sheep.jpg"
+publication: "theorchard.substack.com"
+link: "https://theorchard.substack.com/p/will-canada-make-firm-on-its-climate"
+title: "Will Canada make firm on its climate commitments at COP27?"
+excerpt: "“You cannot claim to be net zero by continuing to build or invest in new fossil fuel supply.”"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F84f1538e-4232-4e74-814e-a3783991315d_800x450.jpeg"
 group: con
 rank: 14
 ---

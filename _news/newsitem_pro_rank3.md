@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-solutions/2022/11/10/biden-climate-federal-suppliers-cop27/"
-title: "Biden pushes to require big federal contractors to cut climate pollution"
-excerpt: "Federal suppliers would also have to disclose their greenhouse gas emissions and the climate change risks they face under the proposed rule."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7CQ6CZ7DUGJRM6HF6A2UROTPUA.jpg&w=1440"
+publication: "reuters.com"
+link: "https://www.reuters.com/article/factcheck-nasa-climate-idUSL1N2YO23I"
+title: "Fact Check-NASA did not announce that climate change is only driven by variations to Earth’s orbital position relative to the sun"
+excerpt: "The National Aeronautical and Space Agency (NASA) did not announce that climate change is only driven by the Earth’s orbital position around the sun, despite viral posts claiming this that have been s"
+image: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
 group: pro
 rank: 3
 ---

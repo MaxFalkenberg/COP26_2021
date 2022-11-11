@@ -1,9 +1,9 @@
 ---
-publication: "breitbart.com"
-link: "https://www.breitbart.com/europe/2022/11/10/energy-rationing-for-plebs-only-cop27-bigwigs-blast-air-conditioning-in-80-degree-egypt/"
-title: "COP27 Participants Blasted with Air Conditioning in 80 Degree Egypt"
-excerpt: "The COP27 conference is reportedly blasting its elite attendees with air conditioning in 80-degree Egyptian heat."
-image: "https://media.breitbart.com/media/2022/11/GettyImages-1244633242-e1668008179227-640x335.jpg"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/11/WS636db22da3104917543291f1.html"
+title: "Africans tire of excuses on climate"
+excerpt: "African leaders have called on developed countries to help more in the fight against climate change, noting that Africa suffers some of the worst effects even though it is responsible for just 3.8 per"
+image: "http://img2.chinadaily.com.cn/images/202211/11/636db22da31049178c900909.jpeg"
 group: con
 rank: 4
 ---
