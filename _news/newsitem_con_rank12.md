@@ -1,9 +1,9 @@
 ---
-publication: "technocracy.news"
-link: "https://www.technocracy.news/global-stink-un-cop27-attendees-in-egypt-greeted-with-sewage/"
-title: "Global Stink: UN COP27 Attendees In Egypt Greeted With Sewage"
-excerpt: "COP27 in Sharm El Sheikh, Egypt drew over 30,000 global meddlers by jet to plan how to railroad the world into Sustainable Development, aka Technocracy. Appropriately, a sewage spill let them meditate"
-image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-10-at-7.27.32-AM.png"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/10/WS636c55eea3105ca1f2275264.html"
+title: "$2.5b pledge firms up Mideast green quest"
+excerpt: "Leaders from the Middle East and North Africa have reaffirmed their commitment to taking climate action, which involves doubling down on the reduction of emissions and a $2.5 billion pledge from Saudi"
+image: "http://img2.chinadaily.com.cn/images/202211/10/636c55eea3105ca157c12bbc.jpeg"
 group: con
 rank: 12
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "newspunch.com"
-link: "https://newspunch.com/evil-wef-leader-caught-planning-mass-extinction-event-to-inner-circle/"
-title: "Evil WEF Leader Caught Planning ‘Mass Extinction Event’ to Inner Circle - News Punch"
-excerpt: "Another week, another leaked video from the World Economic Forum featuring Klaus Schwab's advisors casually discussing their plans to depopulate the planet."
-image: "https://cdn.newspunch.com/wp-content/uploads/2022/10/WEF-eliminate-population.jpg.optimal.jpg"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/10/WS636bc4a9a3105ca1f22750f9.html"
+title: "China supports redress for climate change damage"
+excerpt: "China supports the proposal that developed countries compensate developing countries, especially those most vulnerable to the impact of climate change, for the loss and damage they suffer because of g"
+image: "http://img2.chinadaily.com.cn/images/202211/10/636c4d6ea3105ca157c11ffc.jpeg"
 group: con
 rank: 10
 ---
