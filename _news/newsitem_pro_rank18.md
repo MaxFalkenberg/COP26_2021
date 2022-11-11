@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63571610"
-title: "COP27: Sharp rise in fossil fuel industry delegates at climate summit"
-excerpt: "Data shared exclusively with the BBC show large numbers of oil and gas lobbyists attending COP27."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/DC09/production/_127592365_mediaitem127591827.jpg"
+publication: "europa.eu"
+link: "https://europa.eu/!kxPcQq"
+title: "COP27 UN Climate Change Conference: EU side events"
+excerpt: "Join REA and 21 of our funded projects in a defining moment in the fight against climate change."
+image: "https://rea.ec.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2022-10/cop27_social_media.jpg?itok=MU0dTpUp"
 group: pro
 rank: 18
 ---

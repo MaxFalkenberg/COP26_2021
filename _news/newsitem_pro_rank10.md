@@ -1,9 +1,9 @@
 ---
-publication: "hrw.org"
-link: "https://www.hrw.org/news/2022/11/10/egypt-denies-entry-activist-climate-talks"
-title: "Egypt Denies Entry to Activist at Climate Talks"
-excerpt: "Governments and civil society at the COP27 climate summit in Egypt are working around the clock to negotiate solutions to the climate crisis that threatens human rights around the world."
-image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211afr_egypt_cop27_climate_protest.jpg?h=a130fd67&itok=PMtqChhx"
+publication: "forbes.com"
+link: "https://www.forbes.com/sites/bjornlomborg/2022/11/10/cop27-a-parade-of-climate-hypocrisy/"
+title: "COP27: A Parade Of Climate Hypocrisy"
+excerpt: "The current UN climate summit in Egypt offers more breathtaking hypocrisy than usual, because the world’s rich are zealously lecturing poor countries about the dangers of fossil fuels—after devouring "
+image: "https://imageio.forbes.com/specials-images/imageserve/636d27c19f35776bf97fde53/0x0.jpg?format=jpg&crop=2851,1603,x0,y104,safe&width=1200"
 group: pro
 rank: 10
 ---

@@ -1,9 +1,9 @@
 ---
 publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/11/the-mangrove-breakthrough-a-call-to-action-for-a-critical-ecosystem-climate-champions-regeneration-cop27-climatecrisis-ecologicalcrisis-demand-climateaction-sdg13/"
-title: "The Mangrove Breakthrough: a call to action for a critical ecosystem – Climate Champions #Regeneration #COP27 #ClimateCrisis #EcologicalCrisis demand #ClimateAction #SDG13"
-excerpt: "By Climate Champions The Global Mangrove Alliance (GMA) in collaboration with the UN Climate Change High-level Champions have identified the need for a unified global approach toward…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_0489.jpg?w=900"
+link: "https://climateactionaustralia.wordpress.com/2022/11/11/ross-garnaut-thinks-australia-can-become-a-low-carbon-superpower-clive-hamilton-is-not-convinced-climatecrisis-cop27-brightgreenlies-limitstogrowth/"
+title: "Ross Garnaut thinks Australia can become a low-carbon superpower; Clive Hamilton is not convinced #ClimateCrisis #COP27 #BrightGreenLies #LimitsToGrowth"
+excerpt: "By Clive Hamilton Ross Garnaut is a big beast in the Australian climate policy world, and a Labor favourite since his days as economic adviser to Bob Hawke. His 2008 Climate Change Review shifted t…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1969.jpg"
 group: con
 rank: 14
 ---
