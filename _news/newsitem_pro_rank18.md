@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63584993"
-title: "COP27: BP chief listed as delegate for Mauritania"
-excerpt: "Chief executive of leading oil company is registered for COP27 as a delegate from poor African nation."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/9DE3/production/_127591404_8b02a6d3109de19484839f21a08d34e1284f7485.jpg"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/10/egypt-denies-entry-activist-climate-talks"
+title: "Egypt Denies Entry to Activist at Climate Talks"
+excerpt: "Governments and civil society at the COP27 climate summit in Egypt are working around the clock to negotiate solutions to the climate crisis that threatens human rights around the world."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211afr_egypt_cop27_climate_protest.jpg?h=a130fd67&itok=PMtqChhx"
 group: pro
 rank: 18
 ---

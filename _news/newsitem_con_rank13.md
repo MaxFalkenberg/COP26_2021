@@ -1,9 +1,9 @@
 ---
-publication: "chinaresearchgroup.substack.com"
-link: "https://chinaresearchgroup.substack.com/p/china-news-10-november-2022"
-title: "China News - 10 November 2022"
-excerpt: "International Biden aims to avoid concessions to Xi at G20. US President Joe Biden vowed to make no “fundamental concessions” as he prepares for an in-person summit with China’s Xi Jinping, reinforcin"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhL8uq-VEAAWZ11.jpg"
+publication: "breitbart.com"
+link: "https://www.breitbart.com/europe/2022/11/09/cop27-hypocrisy-globalists-munch-down-on-meat-as-they-push-bug-diet-for-the-proles/"
+title: "COP27: Globalist Leaders Munch on Meat as They Push Bugs for 'Proles'"
+excerpt: "Globalist elites will be dining on a gourmet selection of meats, fish, and dairy at the UN's COP27 climate change conference in Egypt."
+image: "https://media.breitbart.com/media/2022/11/GettyImages-1244545810-2-640x335.jpg"
 group: con
 rank: 13
 ---

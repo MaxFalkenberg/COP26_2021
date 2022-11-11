@@ -1,9 +1,9 @@
 ---
-publication: "technocracy.news"
-link: "https://www.technocracy.news/global-stink-un-cop27-attendees-in-egypt-greeted-with-sewage/"
-title: "Global Stink: UN COP27 Attendees In Egypt Greeted With Sewage"
-excerpt: "COP27 in Sharm El Sheikh, Egypt drew over 30,000 global meddlers by jet to plan how to railroad the world into Sustainable Development, aka Technocracy. Appropriately, a sewage spill let them meditate"
-image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-10-at-7.27.32-AM.png"
+publication: "theorchard.substack.com"
+link: "https://theorchard.substack.com/p/will-canada-make-firm-on-its-climate"
+title: "Will Canada make firm on its climate commitments at COP27?"
+excerpt: "“You cannot claim to be net zero by continuing to build or invest in new fossil fuel supply.”"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F84f1538e-4232-4e74-814e-a3783991315d_800x450.jpeg"
 group: con
 rank: 11
 ---
