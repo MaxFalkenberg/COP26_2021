@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/climate-change/opinion/climate-crisis-boris-johnson-ivan-duque-cop27-amazon-b2222941.html"
-title: "This could be the answer to the climate crisis | Boris Johnson and Iván Duque  "
-excerpt: "In sawing down our ancient forests we are cutting our own throats. It is time to review our legislation so that these crimes face proper sanctions, write Boris Johnson and Iván Duque  "
-image: "https://static.independent.co.uk/2022/11/11/10/AFP_32ML4X7.jpg?quality=75&width=1200&auto=webp"
+publication: "economist.com"
+link: "https://www.economist.com/middle-east-and-africa/2022/11/09/egypt-host-of-the-un-climate-summit-persecutes-its-own-greens"
+title: "Egypt, host of the UN climate summit, persecutes its own greens"
+excerpt: "Locals are free to criticise any government except their own"
+image: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221112_MAP501.jpg"
 group: pro
 rank: 15
 ---

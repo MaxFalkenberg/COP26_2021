@@ -1,13 +1,9 @@
 ---
-publication: "opendemocracy.net"
-link: "https://www.opendemocracy.net/en/climate-change-cop27-loss-damage-victims/"
-title: "
-        Climate change survivors confront world leaders at COP27
-    "
-excerpt: "
-        Climate chaos is destroying these people’s communities. They travelled to COP27 to demand justice for loss and damage
-    "
-image: "https://cdn2.opendemocracy.net/media/images/Collage_Maker-10-Nov-2022-05.33-P.2e16d0ba.fill-1200x630.jpg"
+publication: "europa.eu"
+link: "https://europa.eu/!kxPcQq"
+title: "COP27 UN Climate Change Conference: EU side events"
+excerpt: "Join REA and 21 of our funded projects in a defining moment in the fight against climate change."
+image: "https://rea.ec.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2022-10/cop27_social_media.jpg?itok=MU0dTpUp"
 group: pro
 rank: 19
 ---
