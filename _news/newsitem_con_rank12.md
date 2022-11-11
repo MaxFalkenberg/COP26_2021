@@ -1,9 +1,9 @@
 ---
-publication: "action4equalityscotland.blogspot.com"
-link: "https://action4equalityscotland.blogspot.com/2022/11/self-id-gone-mad.html"
-title: "Self-ID Gone Mad?"
-excerpt: "Campaigning and organising on equality issues - and around the politics of standing up for the little guy against the big guy"
-image: "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1VzIf_s9kz8oCmP8964Yfy4AqLLaNUsf4rlyOxEl7ii0xnes1tbtwjU0WYKAfkiCp_38sywzoBe0zkpsXW_G12PsEbcbVmJTLQyCPrXqYmkzp2x5FXtsrzbvHPO4R7NgwAsJA=w1200-h630-p-k-no-nu"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/11/ross-garnaut-thinks-australia-can-become-a-low-carbon-superpower-clive-hamilton-is-not-convinced-climatecrisis-cop27-brightgreenlies-limitstogrowth/"
+title: "Ross Garnaut thinks Australia can become a low-carbon superpower; Clive Hamilton is not convinced #ClimateCrisis #COP27 #BrightGreenLies #LimitsToGrowth"
+excerpt: "By Clive Hamilton Ross Garnaut is a big beast in the Australian climate policy world, and a Labor favourite since his days as economic adviser to Bob Hawke. His 2008 Climate Change Review shifted t…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1969.jpg"
 group: con
 rank: 12
 ---

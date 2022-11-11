@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/life/scientists-co2-pollution-on-track-to-hit-all-time-high-in-2022-62445"
-title: "Scientists: CO2 pollution on track to hit all-time high in 2022"
-excerpt: "Despite wild cards of pandemic recovery and an energy crisis provoked by conflict in Ukraine, uptick in carbon pollution from burning oil, gas and coal is consistent with underlying trends, data sugge"
-image: "https://cdni0.trtworld.com/w480/h270/q75/143834_USA20210918_1668127594087.jpg"
+publication: "breitbart.com"
+link: "https://www.breitbart.com/europe/2022/11/11/record-number-of-fossil-fuel-lobbyists-attend-cop27-climate-conference/"
+title: "Record Number of Fossil Fuel Lobbyists Attend COP27 Climate Summit"
+excerpt: "The number of lobbyists from fossil fuel companies attending the COP27 climate change conference has increased by 25 per cent over last year."
+image: "https://media.breitbart.com/media/2022/11/GettyImages-1244638257-2-640x335.jpg"
 group: con
 rank: 2
 ---

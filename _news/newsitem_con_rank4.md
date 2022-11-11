@@ -1,9 +1,9 @@
 ---
-publication: "breitbart.com"
-link: "https://www.breitbart.com/europe/2022/11/11/record-number-of-fossil-fuel-lobbyists-attend-cop27-climate-conference/"
-title: "Record Number of Fossil Fuel Lobbyists Attend COP27 Climate Summit"
-excerpt: "The number of lobbyists from fossil fuel companies attending the COP27 climate change conference has increased by 25 per cent over last year."
-image: "https://media.breitbart.com/media/2022/11/GettyImages-1244638257-2-640x335.jpg"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/magazine/why-climate-change-is-also-a-disability-rights-issue-62451"
+title: "Why climate change is also a disability rights issue"
+excerpt: "Disabled people are less able to migrate and are more exposed to natural disasters and other adverse impacts."
+image: "https://cdni0.trtworld.com/w480/h270/q75/143584_egyclimatesummitaa_1668151341204.jpg"
 group: con
 rank: 4
 ---

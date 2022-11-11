@@ -1,9 +1,9 @@
 ---
-publication: "amoskeppler.substack.com"
-link: "https://amoskeppler.substack.com/p/one-sentence"
-title: "One sentence"
-excerpt: "The following sentence tells all. The establishment will never do anything worthwhile to improve human woes, or solve our major problems. On the contrary. Matters are going from bad to worse to horrib"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9a0ab62-4ca6-4331-b43b-ec3134507b15_1200x800.jpeg"
+publication: "action4equalityscotland.blogspot.com"
+link: "https://action4equalityscotland.blogspot.com/2022/11/self-id-gone-mad.html"
+title: "Self-ID Gone Mad?"
+excerpt: "Campaigning and organising on equality issues - and around the politics of standing up for the little guy against the big guy"
+image: "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1VzIf_s9kz8oCmP8964Yfy4AqLLaNUsf4rlyOxEl7ii0xnes1tbtwjU0WYKAfkiCp_38sywzoBe0zkpsXW_G12PsEbcbVmJTLQyCPrXqYmkzp2x5FXtsrzbvHPO4R7NgwAsJA=w1200-h630-p-k-no-nu"
 group: con
 rank: 9
 ---
