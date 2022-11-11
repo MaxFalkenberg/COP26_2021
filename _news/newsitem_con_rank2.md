@@ -1,9 +1,9 @@
 ---
-publication: "conservativewoman.co.uk"
-link: "https://www.conservativewoman.co.uk/message-to-cop27-there-is-no-climate-emergency/"
-title: "Message to COP27: There is no climate emergency - The Conservative Woman"
-excerpt: "Message to COP27: There is no climate emergency"
-image: "https://www.conservativewoman.co.uk/wp-content/uploads/2022/10/cop22.jpg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/11/ross-garnaut-thinks-australia-can-become-a-low-carbon-superpower-clive-hamilton-is-not-convinced-climatecrisis-cop27-brightgreenlies-limitstogrowth/"
+title: "Ross Garnaut thinks Australia can become a low-carbon superpower; Clive Hamilton is not convinced #ClimateCrisis #COP27 #BrightGreenLies #LimitsToGrowth"
+excerpt: "By Clive Hamilton Ross Garnaut is a big beast in the Australian climate policy world, and a Labor favourite since his days as economic adviser to Bob Hawke. His 2008 Climate Change Review shifted t…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1969.jpg"
 group: con
 rank: 2
 ---
