@@ -1,9 +1,9 @@
 ---
-publication: "economist.com"
-link: "https://www.economist.com/middle-east-and-africa/2022/11/09/egypt-host-of-the-un-climate-summit-persecutes-its-own-greens"
-title: "Egypt, host of the UN climate summit, persecutes its own greens"
-excerpt: "Locals are free to criticise any government except their own"
-image: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221112_MAP501.jpg"
+publication: "bbc.com"
+link: "https://www.bbc.com/news/science-environment-63571610"
+title: "COP27: Sharp rise in fossil fuel industry delegates at climate summit"
+excerpt: "Data shared exclusively with the BBC show large numbers of oil and gas lobbyists attending COP27."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/DC09/production/_127592365_mediaitem127591827.jpg"
 group: pro
 rank: 16
 ---

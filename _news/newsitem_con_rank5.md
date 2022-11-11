@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/magazine/why-climate-change-is-also-a-disability-rights-issue-62451"
-title: "Why climate change is also a disability rights issue"
-excerpt: "Disabled people are less able to migrate and are more exposed to natural disasters and other adverse impacts."
-image: "https://cdni0.trtworld.com/w480/h270/q75/143584_egyclimatesummitaa_1668151341204.jpg"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/rogerpielkejr/p/pielkes-weekly-memo-17"
+title: "Pielke's Weekly Memo #17"
+excerpt: "COP27 Special: What to Read, Misinformation of the Week and U.S. Hurricane Update"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F929c7657-59b1-4d75-a62a-af0668c1acda_524x720.png"
 group: con
 rank: 5
 ---
