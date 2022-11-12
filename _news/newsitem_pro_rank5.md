@@ -1,9 +1,9 @@
 ---
 publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-solutions/2022/11/10/biden-climate-federal-suppliers-cop27/"
-title: "Biden pushes to require big federal contractors to cut climate pollution"
-excerpt: "Federal suppliers would also have to disclose their greenhouse gas emissions and the climate change risks they face under the proposed rule."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7CQ6CZ7DUGJRM6HF6A2UROTPUA.jpg&w=1440"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/11/cop27-egypt-carbon-budget-gas-projects/"
+title: "World has nine years to avert catastrophic warming, study shows"
+excerpt: "As nations meet at COP27 in Egypt, studies show the world on track exhaust its carbon budget in nine years -- and new gas projects could accelerate that trend."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KCCZ5GPM7U5YY5DHUSREF63MPM.jpg&w=1440"
 group: pro
 rank: 5
 ---

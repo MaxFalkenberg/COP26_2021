@@ -1,9 +1,9 @@
 ---
-publication: "forbes.com"
-link: "https://www.forbes.com/sites/bjornlomborg/2022/11/10/cop27-a-parade-of-climate-hypocrisy/"
-title: "COP27: A Parade Of Climate Hypocrisy"
-excerpt: "The current UN climate summit in Egypt offers more breathtaking hypocrisy than usual, because the world’s rich are zealously lecturing poor countries about the dangers of fossil fuels—after devouring "
-image: "https://imageio.forbes.com/specials-images/imageserve/636d27c19f35776bf97fde53/0x0.jpg?format=jpg&crop=2851,1603,x0,y104,safe&width=1200"
+publication: "independent.co.uk"
+link: "https://www.independent.co.uk/climate-change/opinion/climate-crisis-boris-johnson-ivan-duque-cop27-amazon-b2222941.html"
+title: "This could be the answer to the climate crisis | Boris Johnson and Iván Duque  "
+excerpt: "In sawing down our ancient forests we are cutting our own throats. It is time to review our legislation so that these crimes face proper sanctions, write Boris Johnson and Iván Duque  "
+image: "https://static.independent.co.uk/2022/11/11/10/AFP_32ML4X7.jpg?quality=75&width=1200&auto=webp"
 group: pro
 rank: 11
 ---

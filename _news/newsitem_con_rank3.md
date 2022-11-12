@@ -1,9 +1,9 @@
 ---
-publication: "oann.com"
-link: "https://www.oann.com/newsroom/scalise-slams-democrat-for-cop27-hypocrisy/"
-title: "Scalise slams Democrat for COP27 hypocrisy"
-excerpt: "House Minority Whip, Steve Scalise, is calling out Democrats for not abiding by their green agenda."
-image: "https://c3.oann.com/wp-content/uploads/2022/11/GettyImages-1409725883-e1668194033882.jpg"
+publication: "theconservativetreehouse.com"
+link: "https://theconservativetreehouse.com/blog/2022/11/11/john-kerry-introduces-cop27-to-carbon-trading-4-0-the-newest-wef-multinational-scheme-using-climate-change-income-for-elite-affluence/"
+title: "John Kerry Introduces COP27 to Carbon Trading 4.0 - The Newest WEF Multinational Scheme Using Climate Change Income for Elite Affluence - The Last Refuge"
+excerpt: "They have proposed and refined so many of the carbon trading schemes, it becomes difficult to remember which iteration each new formula replaces.  Heck, I’ve lost track of how many of the individual c"
+image: "https://theconservativetreehouse.com/wp-content/uploads/2022/11/COP-27-Joe-Green.jpg"
 group: con
 rank: 3
 ---

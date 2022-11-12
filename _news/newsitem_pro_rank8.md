@@ -1,9 +1,9 @@
 ---
-publication: "theguardian.com"
-link: "https://www.theguardian.com/environment/2022/nov/10/54-poor-countries-in-danger-of-bankruptcy-amid-economic-climate-cop27"
-title: "‘More than 50 poor countries in danger of bankruptcy’ says UN official"
-excerpt: "Developing countries falling into default would be catastrophic and delay climate action, UN development chief warns"
-image: "https://i.guim.co.uk/img/media/1d23de5f6fcf55c6c45c05dcd5c8ab369527a3b3/1_233_3499_2100/master/3499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e2c5b1e1543d17e17b4fb180a727239"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/african-hosted-climate-talks-give-fossil-fuel-voice-2022-11-10/"
+title: "African nations tell COP27 fossil fuels will tackle poverty"
+excerpt: "African nations must be allowed to develop fossil fuel resources to help lift their people out of poverty, governments said at the COP27 climate talks in Egypt, which welcomed leaders of oil and gas c"
+image: "https://www.reuters.com/resizer/nFwOk3e8uvbrPaDaYa21FMo8P1k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7SQC45SC3NPNNILNF4MFXFFJGA.jpg"
 group: pro
 rank: 8
 ---
