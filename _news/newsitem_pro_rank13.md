@@ -1,9 +1,9 @@
 ---
-publication: "dailymail.co.uk"
-link: "https://www.dailymail.co.uk/news/article-11418155/Owners-emission-free-vehicles-pay-tax-time-bid-plug-7-billion-shortfall.html"
-title: "Owners of emission-free vehicles to pay tax for the first time"
-excerpt: "Electric car owners will have to pay road tax for the first time, as part of 'eye-watering' Budget plans designed to fill a £54 billion hole in the public finances."
-image: "https://i.dailymail.co.uk/1s/2022/11/11/23/64463323-0-image-a-11_1668208887468.jpg"
+publication: "thescottishsun.co.uk"
+link: "https://www.thescottishsun.co.uk/news/9751674/claims-nicola-sturgeon-used-disabled-seats-airport/"
+title: "Claims Sturgeon used disabled seats at airport shot down by Scottish Government"
+excerpt: "THE Scottish Government have rubbished a claim that Nicola Sturgeon and her advisers used disabled seats at an airport during her trip to COP27 this week. An image widely circulated on social media…"
+image: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/10/GETTY_First-Minister-Nicola-Sturgeon-Attends-Care-Experienced-Week_NEW_GYI1244192380jpg-JS770402220.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
 group: pro
 rank: 13
 ---

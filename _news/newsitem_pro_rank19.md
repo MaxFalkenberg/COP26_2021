@@ -1,9 +1,9 @@
 ---
-publication: "thescottishsun.co.uk"
-link: "https://www.thescottishsun.co.uk/news/9751674/claims-nicola-sturgeon-used-disabled-seats-airport/"
-title: "Claims Sturgeon used disabled seats at airport shot down by Scottish Government"
-excerpt: "THE Scottish Government have rubbished a claim that Nicola Sturgeon and her advisers used disabled seats at an airport during her trip to COP27 this week. An image widely circulated on social media…"
-image: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/10/GETTY_First-Minister-Nicola-Sturgeon-Attends-Care-Experienced-Week_NEW_GYI1244192380jpg-JS770402220.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+publication: "gbnews.uk"
+link: "https://www.gbnews.uk/news/painful-to-watch-joe-biden-stutters-through-humiliating-cop27-speech/386905"
+title: "'PAINFUL to watch' - Joe Biden stutters through 'humiliating' Cop27 speech"
+excerpt: "The US President took to the stage in Egypt pledging to 'turbocharge' the clean energy economy"
+image: "https://image.gbnews.uk/386938.jpg?imageId=386938&panow=100&panoh=100&panox=0&panoy=0&heightw=100&heighth=100&heightx=0&heighty=0&width=1200&height=630"
 group: pro
 rank: 19
 ---

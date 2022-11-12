@@ -1,9 +1,9 @@
 ---
-publication: "aleph-2020.blogspot.com"
-link: "https://aleph-2020.blogspot.com/p/sustainable-diets.html"
-title: "Planet"
-excerpt: "Are red meat, dairy, fish, poultry & eggs ethical, healthy & sustainable - or should dietary guidelines become 'plant-based'?"
-image: "https://1.bp.blogspot.com/-j_b0LVHCnkA/X2JuL0omWvI/AAAAAAAABWc/Vh_SMIlkKWMnTPo6GtLN0lJ1gej2sU60wCNcBGAsYHQ/w1200-h630-p-k-no-nu/P.jpg"
+publication: "rebelnews.com"
+link: "https://www.rebelnews.com/turbo_charge_the_murg_biden_struggles_with_teleprompter_at_cop27"
+title: "'Turbo charge the murg,' Biden struggles with teleprompter at COP27"
+excerpt: "In remarks to the audience in Egypt, Biden pledged to do everything in his power to prevent the world from experiencing what he called 'climate hell'"
+image: "https://assets.nationbuilder.com/therebel/pages/63827/meta_images/original/cop27biden.png?1668201765"
 group: con
 rank: 7
 ---
