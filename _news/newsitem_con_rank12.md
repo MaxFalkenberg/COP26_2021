@@ -1,9 +1,9 @@
 ---
-publication: "takvera.blogspot.com"
-link: "https://takvera.blogspot.com/2022/11/flood-cop-pay-up-for-loss-and-damage-at.html"
-title: "Flood the COP - Pay up for Loss and Damage at COP27"
-excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBG2aUg4cqYqCwq9rzrawxguT8l-jLiYr-fzRp6n0EgE7cdQ05qOE-3q3YAyRzZkLLtXxlpaAHP1MRjWozD32Oo7jgkxpKpBaH9HQ-3Ty-iInsA2MJ6csxxdPVGzs5f84fjXVlsvEIJLNKRXlKtNQ3zTo5shrsDyuR3u1bqoaS22X6-Kht4Y9azlw8/w1200-h630-p-k-no-nu/0C1A0482.jpg"
+publication: "action4equalityscotland.blogspot.com"
+link: "https://action4equalityscotland.blogspot.com/2022/11/self-id-gone-mad.html"
+title: "Self-ID Gone Mad?"
+excerpt: "Campaigning and organising on equality issues - and around the politics of standing up for the little guy against the big guy"
+image: "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0xlwQC2TVF4OwigUUA7K6gEh7iJtDA5PJbm6no7hu0nYLUphWuvTS0rbQlRcmirKBlwAwTmdAFueCNxKSeiSy8PBWHYcSjYbRu0uUbp62Ur07xuPhXZobcdSTeramk6oGroEU=w1200-h630-p-k-no-nu"
 group: con
 rank: 12
 ---

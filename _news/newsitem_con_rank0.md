@@ -1,9 +1,9 @@
 ---
-publication: "thegatewaypundit.com"
-link: "https://www.thegatewaypundit.com/2022/11/john-kerry-spills-beans-u-n-s-cop27-meeting-want-replace-capitalism-new-economic-system/"
-title: "John Kerry Spills the Beans at U.N.’s COP27 Meeting: They Want to Replace Capitalism with a New Economic System"
-excerpt: "Guest post by Leo Hohmann The World Economic Forum’s climate change agenda was “modeled” off the effort to roll out vaccines during the Covid pandemic, John Kerry said during a COP27 panel discussion "
-image: "https://www.thegatewaypundit.com/wp-content/uploads/IMG_7767-1.jpg"
+publication: "theconservativetreehouse.com"
+link: "https://theconservativetreehouse.com/blog/2022/11/11/john-kerry-introduces-cop27-to-carbon-trading-4-0-the-newest-wef-multinational-scheme-using-climate-change-income-for-elite-affluence/"
+title: "John Kerry Introduces COP27 to Carbon Trading 4.0 - The Newest WEF Multinational Scheme Using Climate Change Income for Elite Affluence - The Last Refuge"
+excerpt: "They have proposed and refined so many of the carbon trading schemes, it becomes difficult to remember which iteration each new formula replaces.  Heck, I’ve lost track of how many of the individual c"
+image: "https://theconservativetreehouse.com/wp-content/uploads/2022/11/COP-27-Joe-Green.jpg"
 group: con
 rank: 0
 ---
