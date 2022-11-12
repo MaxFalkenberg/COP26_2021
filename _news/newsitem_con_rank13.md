@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/11/WS636db22da3104917543291f1.html"
-title: "Africans tire of excuses on climate"
-excerpt: "African leaders have called on developed countries to help more in the fight against climate change, noting that Africa suffers some of the worst effects even though it is responsible for just 3.8 per"
-image: "http://img2.chinadaily.com.cn/images/202211/11/636db22da31049178c900909.jpeg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/12/michael-pascoe-memo-g20-there-is-a-greater-enemy-than-china-to-fight-metacrisis-tellthetruth-cop27-we-are-in-the-fight-of-our-lives/"
+title: "Michael Pascoe: Memo G20 – there is a greater enemy than China to fight #MetaCrisis #TellTheTruth #COP27 we are in the fight of our lives!"
+excerpt: "By Michael Pascoe When Earth faces an existential threat in the movies – aliens, rogue asteroids, that sort of thing – human beings unite to fight Armageddon. Turns out real life isn’t like that. R…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1970.jpg"
 group: con
 rank: 13
 ---

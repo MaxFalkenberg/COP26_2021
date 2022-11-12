@@ -1,9 +1,9 @@
 ---
-publication: "dailymail.co.uk"
-link: "https://www.dailymail.co.uk/news/article-11418155/Owners-emission-free-vehicles-pay-tax-time-bid-plug-7-billion-shortfall.html"
-title: "Owners of emission-free vehicles to pay tax for the first time"
-excerpt: "Electric car owners will have to pay road tax for the first time, as part of 'eye-watering' Budget plans designed to fill a £54 billion hole in the public finances."
-image: "https://i.dailymail.co.uk/1s/2022/11/11/23/64463323-0-image-a-11_1668208887468.jpg"
+publication: "freebeacon.com"
+link: "https://freebeacon.com/biden-administration/biden-renews-american-apology-tour-in-egypt/"
+title: "Biden Renews American Apology Tour in Egypt - Washington Free Beacon"
+excerpt: "President Joe Biden on Friday followed former president Barack Obama's lead and apologized to other countries for the United States's actions."
+image: "https://freebeacon.com/wp-content/uploads/2022/11/unfccc-cop27-climate-conference-day-six-e1668193825722.jpg"
 group: pro
 rank: 17
 ---
