@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/magazine/why-climate-change-is-also-a-disability-rights-issue-62451"
-title: "Why climate change is also a disability rights issue"
-excerpt: "Disabled people are less able to migrate and are more exposed to natural disasters and other adverse impacts."
-image: "https://cdni0.trtworld.com/w480/h270/q75/143584_egyclimatesummitaa_1668151341204.jpg"
+publication: "oann.com"
+link: "https://www.oann.com/newsroom/cop27-climate-crusaders-express-worry-of-gop-house-senate/"
+title: "COP27 climate crusaders express worry of GOP House, Senate"
+excerpt: "Globalist purveyors of green energy are troubled by slight gains made by America First candidates."
+image: "https://c3.oann.com/wp-content/uploads/2022/11/GettyImages-1440781734-e1668191466993.jpg"
 group: con
 rank: 10
 ---

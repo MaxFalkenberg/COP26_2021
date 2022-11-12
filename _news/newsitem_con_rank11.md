@@ -1,9 +1,9 @@
 ---
-publication: "aleph-2020.blogspot.com"
-link: "https://aleph-2020.blogspot.com/p/sustainable-diets.html"
-title: "Planet"
-excerpt: "Are red meat, dairy, fish, poultry & eggs ethical, healthy & sustainable - or should dietary guidelines become 'plant-based'?"
-image: "https://1.bp.blogspot.com/-j_b0LVHCnkA/X2JuL0omWvI/AAAAAAAABWc/Vh_SMIlkKWMnTPo6GtLN0lJ1gej2sU60wCNcBGAsYHQ/w1200-h630-p-k-no-nu/P.jpg"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/magazine/why-climate-change-is-also-a-disability-rights-issue-62451"
+title: "Why climate change is also a disability rights issue"
+excerpt: "Disabled people are less able to migrate and are more exposed to natural disasters and other adverse impacts."
+image: "https://cdni0.trtworld.com/w480/h270/q75/143584_egyclimatesummitaa_1668151341204.jpg"
 group: con
 rank: 11
 ---
