@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/cop27-rich-countries-must-make-climate-change-reparations-right-now-895fzm3q6"
-title: "Cop27: Rich countries ‘must make climate change reparations right now’"
-excerpt: "Compensation from wealthy nations for countries affected by the ravages of global warming will be “unavoidable”, a Ugandan activist has said"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa43d00f0-61cd-11ed-8adc-caffed0685f5.jpg?crop=3887%2C2186%2C226%2C67&resize=1200"
+publication: "nationalpost.com"
+link: "https://nationalpost.com/opinion/rex-murphy-cop27s-great-pyramid-scheme"
+title: "Rex Murphy: COP27's great pyramid scheme"
+excerpt: "As always, anti-oil missionaries are consuming copious amounts of jet fuel to fly to a summit dedicated to eliminating oil and gas"
+image: "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2022/11/Khafre-Pyramid.jpg"
 group: pro
 rank: 12
 ---
