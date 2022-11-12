@@ -1,9 +1,9 @@
 ---
-publication: "breitbart.com"
-link: "https://www.breitbart.com/europe/2022/11/12/hypocrisy-and-elitism-400-private-jets-land-in-egypt-for-cop27-climate-conference/"
-title: "400 Private Jets Land in Egypt for COP27 UN Climate Conference"
-excerpt: "With thousands of elites descending upon Sharm El Sheikh for COP27 climate summit, 400 private jets have been seen landing in the Egypt."
-image: "https://media.breitbart.com/media/2022/11/GettyImages-1244638206-2-640x335.jpg"
+publication: "theorchard.substack.com"
+link: "https://theorchard.substack.com/p/will-canada-make-firm-on-its-climate"
+title: "Will Canada make firm on its climate commitments at COP27?"
+excerpt: "“You cannot claim to be net zero by continuing to build or invest in new fossil fuel supply.”"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F84f1538e-4232-4e74-814e-a3783991315d_800x450.jpeg"
 group: con
 rank: 14
 ---

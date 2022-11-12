@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop27-farm-climate-innovation-commitments-double-8-billion-2022-11-11/"
-title: "COP27: Farm climate innovation commitments double to $8 billion"
-excerpt: "An initiative led by the United States and the United Arab Emirates to help agriculture adapt to climate change and reduce emissions through innovation has doubled investment commitments to $8 billion"
-image: "https://www.reuters.com/resizer/GhaG7zijqvJ8Z66bJDcEvW0SCnU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6NBYZYIQYFKNZEDEJQ7TYJV4ZQ.jpg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/11/cop27-egypt-carbon-budget-gas-projects/"
+title: "World has nine years to avert catastrophic warming, study shows"
+excerpt: "As nations meet at COP27 in Egypt, studies show the world on track exhaust its carbon budget in nine years -- and new gas projects could accelerate that trend."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KCCZ5GPM7U5YY5DHUSREF63MPM.jpg&w=1440"
 group: pro
 rank: 16
 ---
