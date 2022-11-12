@@ -1,9 +1,9 @@
 ---
-publication: "billmckibben.substack.com"
-link: "https://billmckibben.substack.com/p/activists-are-the-engine"
-title: "Activists are the Engine"
-excerpt: "Egypt Dispatch 3--Finally some noise at the COP"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F54528871-33ef-4b88-b465-a072174000b3_4032x3024.jpeg"
+publication: "oann.com"
+link: "https://www.oann.com/newsroom/scalise-slams-democrat-for-cop27-hypocrisy/"
+title: "Scalise slams Democrat for COP27 hypocrisy"
+excerpt: "House Minority Whip, Steve Scalise, is calling out Democrats for not abiding by their green agenda."
+image: "https://c3.oann.com/wp-content/uploads/2022/11/GettyImages-1409725883-e1668194033882.jpg"
 group: con
 rank: 3
 ---

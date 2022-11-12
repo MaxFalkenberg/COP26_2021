@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1694471/Nicola-Sturgeon-analysis-Sturgeon-followed-world-leaders-at-COP27-for-selfies"
-title: "'Sturgeon followed world leaders at COP27 for selfies to boost her PR'"
-excerpt: "At least in theory, an international climate conference is supposed to be a place where leaders of nations meet to discuss important issues. But for politicians who are not as powerful as they would l"
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4392778.jpg?r=1668071748477"
+publication: "gbnews.uk"
+link: "https://www.gbnews.uk/news/painful-to-watch-joe-biden-stutters-through-humiliating-cop27-speech/386905"
+title: "'PAINFUL to watch' - Joe Biden stutters through 'humiliating' Cop27 speech"
+excerpt: "The US President took to the stage in Egypt pledging to 'turbocharge' the clean energy economy"
+image: "https://image.gbnews.uk/386938.jpg?imageId=386938&panow=100&panoh=100&panox=0&panoy=0&heightw=100&heighth=100&heightx=0&heighty=0&width=1200&height=630"
 group: pro
 rank: 12
 ---
