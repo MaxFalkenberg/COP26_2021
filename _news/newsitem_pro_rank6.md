@@ -1,9 +1,9 @@
 ---
-publication: "theguardian.com"
-link: "https://www.theguardian.com/environment/2022/nov/11/india-warrior-moms-cop27-egypt-climate"
-title: "‘Put kids first’: India’s Warrior Moms fight for clean air at Cop27"
-excerpt: "Indian campaigners join global delegation representing one billion children affected by climate crisis"
-image: "https://i.guim.co.uk/img/media/493b083b9f9927c84dcc8ad042a2e30369bed3b3/523_267_853_512/master/853.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8bca6f06d12f8ceffbb997711bdb68d"
+publication: "thetimes.co.uk"
+link: "https://www.thetimes.co.uk/article/cop27-rich-countries-must-make-climate-change-reparations-right-now-895fzm3q6"
+title: "Cop27: Rich countries ‘must make climate change reparations right now’"
+excerpt: "Compensation from wealthy nations for countries affected by the ravages of global warming will be “unavoidable”, a Ugandan activist has said"
+image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa43d00f0-61cd-11ed-8adc-caffed0685f5.jpg?crop=3887%2C2186%2C226%2C67&resize=1200"
 group: pro
 rank: 6
 ---

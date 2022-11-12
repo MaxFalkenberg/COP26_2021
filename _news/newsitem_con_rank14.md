@@ -1,9 +1,9 @@
 ---
-publication: "theorchard.substack.com"
-link: "https://theorchard.substack.com/p/will-canada-make-firm-on-its-climate"
-title: "Will Canada make firm on its climate commitments at COP27?"
-excerpt: "“You cannot claim to be net zero by continuing to build or invest in new fossil fuel supply.”"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F84f1538e-4232-4e74-814e-a3783991315d_800x450.jpeg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/12/fossil-fuels-are-a-dead-end-says-top-un-climate-adviser-on-decarbonization-day-at-cop27-metacrisis-demand-climateaction-sdg13-tellthetruth-insiders-2/"
+title: "‘Fossil fuels are a dead end’, says top UN climate adviser on ‘Decarbonization Day’ at COP27 #MetaCrisis demand #ClimateAction #SDG13 #TellTheTruth #insiders"
+excerpt: "To meet the goals of the Paris Agreement and prevent the worst impacts of the climate crisis, the world must abandon fossil fuels as quickly as possible, Selwin Hart, Special Adviser to t…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1984.jpg?w=1200"
 group: con
 rank: 14
 ---

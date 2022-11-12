@@ -1,9 +1,9 @@
 ---
-publication: "rebelnews.com"
-link: "https://www.rebelnews.com/turbo_charge_the_murg_biden_struggles_with_teleprompter_at_cop27"
-title: "'Turbo charge the murg,' Biden struggles with teleprompter at COP27"
-excerpt: "In remarks to the audience in Egypt, Biden pledged to do everything in his power to prevent the world from experiencing what he called 'climate hell'"
-image: "https://assets.nationbuilder.com/therebel/pages/63827/meta_images/original/cop27biden.png?1668201765"
+publication: "billmckibben.substack.com"
+link: "https://billmckibben.substack.com/p/activists-are-the-engine"
+title: "Activists are the Engine"
+excerpt: "Egypt Dispatch 3--Finally some noise at the COP"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F54528871-33ef-4b88-b465-a072174000b3_4032x3024.jpeg"
 group: con
 rank: 4
 ---
