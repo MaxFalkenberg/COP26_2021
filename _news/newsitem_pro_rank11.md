@@ -1,9 +1,9 @@
 ---
-publication: "gbnews.uk"
-link: "https://www.gbnews.uk/news/painful-to-watch-joe-biden-stutters-through-humiliating-cop27-speech/386905"
-title: "'PAINFUL to watch' - Joe Biden stutters through 'humiliating' Cop27 speech"
-excerpt: "The US President took to the stage in Egypt pledging to 'turbocharge' the clean energy economy"
-image: "https://image.gbnews.uk/386938.jpg?imageId=386938&panow=100&panoh=100&panox=0&panoy=0&heightw=100&heighth=100&heightx=0&heighty=0&width=1200&height=630"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/opinions/2022/11/09/nigerian-president-cop27-africa-climate-change/"
+title: "Opinion | Muhammadu Buhari: How not to talk with Africa about climate change"
+excerpt: "Africa didn’t cause the mess, yet it pays the price."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AP4LAIA73OM4NZ6CU2XNMC7LNE.JPG&w=1440"
 group: pro
 rank: 11
 ---

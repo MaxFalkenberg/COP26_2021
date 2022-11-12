@@ -1,9 +1,9 @@
 ---
-publication: "thegatewaypundit.com"
-link: "https://www.thegatewaypundit.com/2022/11/john-kerry-spills-beans-u-n-s-cop27-meeting-want-replace-capitalism-new-economic-system/"
-title: "John Kerry Spills the Beans at U.N.’s COP27 Meeting: They Want to Replace Capitalism with a New Economic System"
-excerpt: "Guest post by Leo Hohmann The World Economic Forum’s climate change agenda was “modeled” off the effort to roll out vaccines during the Covid pandemic, John Kerry said during a COP27 panel discussion "
-image: "https://www.thegatewaypundit.com/wp-content/uploads/IMG_7767-1.jpg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/12/fossil-fuels-are-a-dead-end-says-top-un-climate-adviser-on-decarbonization-day-at-cop27-metacrisis-demand-climateaction-sdg13-tellthetruth-insiders/"
+title: "‘Fossil fuels are a dead end’, says top UN climate adviser on ‘Decarbonization Day’ at COP27 #MetaCrisis demand #ClimateAction #SDG13 #TellTheTruth #insiders"
+excerpt: "To meet the goals of the Paris Agreement and prevent the worst impacts of the climate crisis, the world must abandon fossil fuels as quickly as possible, Selwin Hart, Special Adviser to t…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1984.jpg?w=1200"
 group: con
 rank: 9
 ---

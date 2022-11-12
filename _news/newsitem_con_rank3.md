@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/petersweden/p/climate-hypocrisy"
-title: "The insane CLIMATE HYPOCRISY of the elite "
-excerpt: "This should come as a surprise to nobody that has been paying attention."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3cf0d44d-7dbb-429b-91e4-d73f29b295b8_705x420.png"
+publication: "breitbart.com"
+link: "https://www.breitbart.com/europe/2022/11/12/hypocrisy-and-elitism-400-private-jets-land-in-egypt-for-cop27-climate-conference/"
+title: "400 Private Jets Land in Egypt for COP27 UN Climate Conference"
+excerpt: "With thousands of elites descending upon Sharm El Sheikh for COP27 climate summit, 400 private jets have been seen landing in the Egypt."
+image: "https://media.breitbart.com/media/2022/11/GettyImages-1244638206-2-640x335.jpg"
 group: con
 rank: 3
 ---

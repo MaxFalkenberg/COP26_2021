@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/12/michael-pascoe-memo-g20-there-is-a-greater-enemy-than-china-to-fight-metacrisis-tellthetruth-cop27-we-are-in-the-fight-of-our-lives/"
-title: "Michael Pascoe: Memo G20 – there is a greater enemy than China to fight #MetaCrisis #TellTheTruth #COP27 we are in the fight of our lives!"
-excerpt: "By Michael Pascoe When Earth faces an existential threat in the movies – aliens, rogue asteroids, that sort of thing – human beings unite to fight Armageddon. Turns out real life isn’t like that. R…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1970.jpg"
+publication: "thegatewaypundit.com"
+link: "https://www.thegatewaypundit.com/2022/11/john-kerry-spills-beans-u-n-s-cop27-meeting-want-replace-capitalism-new-economic-system/"
+title: "John Kerry Spills the Beans at U.N.’s COP27 Meeting: They Want to Replace Capitalism with a New Economic System"
+excerpt: "Guest post by Leo Hohmann The World Economic Forum’s climate change agenda was “modeled” off the effort to roll out vaccines during the Covid pandemic, John Kerry said during a COP27 panel discussion "
+image: "https://www.thegatewaypundit.com/wp-content/uploads/IMG_7767-1.jpg"
 group: con
 rank: 8
 ---
