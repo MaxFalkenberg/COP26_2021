@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/cop27-rich-countries-must-make-climate-change-reparations-right-now-895fzm3q6"
-title: "Cop27: Rich countries ‘must make climate change reparations right now’"
-excerpt: "Compensation from wealthy nations for countries affected by the ravages of global warming will be “unavoidable”, a Ugandan activist has said"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa43d00f0-61cd-11ed-8adc-caffed0685f5.jpg?crop=3887%2C2186%2C226%2C67&resize=1200"
+publication: "theguardian.com"
+link: "https://www.theguardian.com/environment/2022/nov/12/replace-animal-farms-micro-organism-rewilding-food-precision-fermentation-emissions"
+title: "Replace animal farms with micro-organism tanks, say campaigners"
+excerpt: "Advocates of plant-based protein say 75% of world’s farmland should be rewilded to reduce emissions"
+image: "https://i.guim.co.uk/img/media/757ca0d3583be7992c6eed12ba4a00801e9b34a2/0_300_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e6adce232edf7d1b80cafaded080f435"
 group: pro
 rank: 4
 ---
