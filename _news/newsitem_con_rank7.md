@@ -1,9 +1,9 @@
 ---
-publication: "rebelnews.com"
-link: "https://www.rebelnews.com/turbo_charge_the_murg_biden_struggles_with_teleprompter_at_cop27"
-title: "'Turbo charge the murg,' Biden struggles with teleprompter at COP27"
-excerpt: "In remarks to the audience in Egypt, Biden pledged to do everything in his power to prevent the world from experiencing what he called 'climate hell'"
-image: "https://assets.nationbuilder.com/therebel/pages/63827/meta_images/original/cop27biden.png?1668201765"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/rogerpielkejr/p/pielkes-weekly-memo-17"
+title: "Pielke's Weekly Memo #17"
+excerpt: "COP27 Special: What to Read, Misinformation of the Week and U.S. Hurricane Update"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F929c7657-59b1-4d75-a62a-af0668c1acda_524x720.png"
 group: con
 rank: 7
 ---

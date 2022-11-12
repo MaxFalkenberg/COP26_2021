@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/life/scientists-co2-pollution-on-track-to-hit-all-time-high-in-2022-62445"
-title: "Scientists: CO2 pollution on track to hit all-time high in 2022"
-excerpt: "Despite wild cards of pandemic recovery and an energy crisis provoked by conflict in Ukraine, uptick in carbon pollution from burning oil, gas and coal is consistent with underlying trends, data sugge"
-image: "https://cdni0.trtworld.com/w480/h270/q75/143834_USA20210918_1668127594087.jpg"
+publication: "rebelnews.com"
+link: "https://www.rebelnews.com/turbo_charge_the_murg_biden_struggles_with_teleprompter_at_cop27"
+title: "'Turbo charge the murg,' Biden struggles with teleprompter at COP27"
+excerpt: "In remarks to the audience in Egypt, Biden pledged to do everything in his power to prevent the world from experiencing what he called 'climate hell'"
+image: "https://assets.nationbuilder.com/therebel/pages/63827/meta_images/original/cop27biden.png?1668201765"
 group: con
 rank: 6
 ---
