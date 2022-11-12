@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop27-farm-climate-innovation-commitments-double-8-billion-2022-11-11/"
-title: "COP27: Farm climate innovation commitments double to $8 billion"
-excerpt: "An initiative led by the United States and the United Arab Emirates to help agriculture adapt to climate change and reduce emissions through innovation has doubled investment commitments to $8 billion"
-image: "https://www.reuters.com/resizer/GhaG7zijqvJ8Z66bJDcEvW0SCnU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6NBYZYIQYFKNZEDEJQ7TYJV4ZQ.jpg"
+publication: "express.co.uk"
+link: "https://www.express.co.uk/news/world/1693564/china-britain-pollution-co2-environment-cop27-emissions-latest-world-news-ont"
+title: "China caused more pollution in eight years than Britain has in 220 "
+excerpt: "Britain has caused 78 billion tonnes of CO2 emissions in a 270-year gap between 1750 and 2020, while China has caused 80 billion tonnes from 2013 to 2020. "
+image: "https://cdn.images.express.co.uk/img/dynamic/78/1200x712/4388694.jpg?r=1667899279559"
 group: pro
 rank: 19
 ---
