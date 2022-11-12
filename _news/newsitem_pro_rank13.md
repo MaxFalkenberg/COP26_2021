@@ -1,9 +1,9 @@
 ---
-publication: "thescottishsun.co.uk"
-link: "https://www.thescottishsun.co.uk/news/9751674/claims-nicola-sturgeon-used-disabled-seats-airport/"
-title: "Claims Sturgeon used disabled seats at airport shot down by Scottish Government"
-excerpt: "THE Scottish Government have rubbished a claim that Nicola Sturgeon and her advisers used disabled seats at an airport during her trip to COP27 this week. An image widely circulated on social media…"
-image: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/10/GETTY_First-Minister-Nicola-Sturgeon-Attends-Care-Experienced-Week_NEW_GYI1244192380jpg-JS770402220.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+publication: "independent.co.uk"
+link: "https://www.independent.co.uk/climate-change/opinion/climate-crisis-boris-johnson-ivan-duque-cop27-amazon-b2222941.html"
+title: "This could be the answer to the climate crisis | Boris Johnson and Iván Duque  "
+excerpt: "In sawing down our ancient forests we are cutting our own throats. It is time to review our legislation so that these crimes face proper sanctions, write Boris Johnson and Iván Duque  "
+image: "https://static.independent.co.uk/2022/11/11/10/AFP_32ML4X7.jpg?quality=75&width=1200&auto=webp"
 group: pro
 rank: 13
 ---
