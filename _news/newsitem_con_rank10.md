@@ -1,9 +1,9 @@
 ---
-publication: "rebelnews.com"
-link: "https://www.rebelnews.com/turbo_charge_the_murg_biden_struggles_with_teleprompter_at_cop27"
-title: "'Turbo charge the murg,' Biden struggles with teleprompter at COP27"
-excerpt: "In remarks to the audience in Egypt, Biden pledged to do everything in his power to prevent the world from experiencing what he called 'climate hell'"
-image: "https://assets.nationbuilder.com/therebel/pages/63827/meta_images/original/cop27biden.png?1668201765"
+publication: "oann.com"
+link: "https://www.oann.com/newsroom/cop27-climate-crusaders-express-worry-of-gop-house-senate/"
+title: "COP27 climate crusaders express worry of GOP House, Senate"
+excerpt: "Globalist purveyors of green energy are troubled by slight gains made by America First candidates."
+image: "https://c3.oann.com/wp-content/uploads/2022/11/GettyImages-1440781734-e1668191466993.jpg"
 group: con
 rank: 10
 ---
