@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/african-hosted-climate-talks-give-fossil-fuel-voice-2022-11-10/"
-title: "African nations tell COP27 fossil fuels will tackle poverty"
-excerpt: "African nations must be allowed to develop fossil fuel resources to help lift their people out of poverty, governments said at the COP27 climate talks in Egypt, which welcomed leaders of oil and gas c"
-image: "https://www.reuters.com/resizer/nFwOk3e8uvbrPaDaYa21FMo8P1k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7SQC45SC3NPNNILNF4MFXFFJGA.jpg"
+publication: "dailymail.co.uk"
+link: "https://www.dailymail.co.uk/news/article-11418155/Owners-emission-free-vehicles-pay-tax-time-bid-plug-7-billion-shortfall.html"
+title: "Owners of emission-free vehicles to pay tax for the first time"
+excerpt: "Electric car owners will have to pay road tax for the first time, as part of 'eye-watering' Budget plans designed to fill a £54 billion hole in the public finances."
+image: "https://i.dailymail.co.uk/1s/2022/11/11/23/64463323-0-image-a-11_1668208887468.jpg"
 group: pro
 rank: 9
 ---

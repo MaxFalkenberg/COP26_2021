@@ -1,9 +1,9 @@
 ---
-publication: "breitbart.com"
-link: "https://www.breitbart.com/europe/2022/11/11/record-number-of-fossil-fuel-lobbyists-attend-cop27-climate-conference/"
-title: "Record Number of Fossil Fuel Lobbyists Attend COP27 Climate Summit"
-excerpt: "The number of lobbyists from fossil fuel companies attending the COP27 climate change conference has increased by 25 per cent over last year."
-image: "https://media.breitbart.com/media/2022/11/GettyImages-1244638257-2-640x335.jpg"
+publication: "theconservativetreehouse.com"
+link: "https://theconservativetreehouse.com/blog/2022/11/11/john-kerry-introduces-cop27-to-carbon-trading-4-0-the-newest-wef-multinational-scheme-using-climate-change-income-for-elite-affluence/"
+title: "John Kerry Introduces COP27 to Carbon Trading 4.0 - The Newest WEF Multinational Scheme Using Climate Change Income for Elite Affluence - The Last Refuge"
+excerpt: "They have proposed and refined so many of the carbon trading schemes, it becomes difficult to remember which iteration each new formula replaces.  Heck, I’ve lost track of how many of the individual c"
+image: "https://theconservativetreehouse.com/wp-content/uploads/2022/11/COP-27-Joe-Green.jpg"
 group: con
 rank: 1
 ---

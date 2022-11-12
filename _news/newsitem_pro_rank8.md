@@ -1,9 +1,9 @@
 ---
-publication: "forbes.com"
-link: "https://www.forbes.com/sites/bjornlomborg/2022/11/10/cop27-a-parade-of-climate-hypocrisy/"
-title: "COP27: A Parade Of Climate Hypocrisy"
-excerpt: "The current UN climate summit in Egypt offers more breathtaking hypocrisy than usual, because the world’s rich are zealously lecturing poor countries about the dangers of fossil fuels—after devouring "
-image: "https://imageio.forbes.com/specials-images/imageserve/636d27c19f35776bf97fde53/0x0.jpg?format=jpg&crop=2851,1603,x0,y104,safe&width=1200"
+publication: "thescottishsun.co.uk"
+link: "https://www.thescottishsun.co.uk/news/9751674/claims-nicola-sturgeon-used-disabled-seats-airport/"
+title: "Claims Sturgeon used disabled seats at airport shot down by Scottish Government"
+excerpt: "THE Scottish Government have rubbished a claim that Nicola Sturgeon and her advisers used disabled seats at an airport during her trip to COP27 this week. An image widely circulated on social media…"
+image: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/10/GETTY_First-Minister-Nicola-Sturgeon-Attends-Care-Experienced-Week_NEW_GYI1244192380jpg-JS770402220.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
 group: pro
 rank: 8
 ---

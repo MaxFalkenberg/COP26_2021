@@ -1,9 +1,9 @@
 ---
-publication: "oann.com"
-link: "https://www.oann.com/newsroom/scalise-slams-democrat-for-cop27-hypocrisy/"
-title: "Scalise slams Democrat for COP27 hypocrisy"
-excerpt: "House Minority Whip, Steve Scalise, is calling out Democrats for not abiding by their green agenda."
-image: "https://c3.oann.com/wp-content/uploads/2022/11/GettyImages-1409725883-e1668194033882.jpg"
+publication: "rebelnews.com"
+link: "https://www.rebelnews.com/turbo_charge_the_murg_biden_struggles_with_teleprompter_at_cop27"
+title: "'Turbo charge the murg,' Biden struggles with teleprompter at COP27"
+excerpt: "In remarks to the audience in Egypt, Biden pledged to do everything in his power to prevent the world from experiencing what he called 'climate hell'"
+image: "https://assets.nationbuilder.com/therebel/pages/63827/meta_images/original/cop27biden.png?1668201765"
 group: con
 rank: 4
 ---
