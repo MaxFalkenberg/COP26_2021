@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/environment/cop27-biden-says-climate-crisis-is-about-human-security-economic-security-2022-11-11/"
-title: "COP27: Biden says the climate crisis is about 'very life of the planet'"
-excerpt: "U.S. President Joe Biden told the COP27 climate conference in Egypt on Friday that global warming posed an existential threat to the planet and promised the United States would meet its targets for fi"
-image: "https://www.reuters.com/resizer/NsC153f23E_F1KUaGEsfTIU9rYo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OE7WFZ5W5VN4ZOEOIXX3EC6ENY.jpg"
+publication: "thetimes.co.uk"
+link: "https://www.thetimes.co.uk/article/cop27-rich-countries-must-make-climate-change-reparations-right-now-895fzm3q6"
+title: "Cop27: Rich countries ‘must make climate change reparations right now’"
+excerpt: "Compensation from wealthy nations for countries affected by the ravages of global warming will be “unavoidable”, a Ugandan activist has said"
+image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa43d00f0-61cd-11ed-8adc-caffed0685f5.jpg?crop=3887%2C2186%2C226%2C67&resize=1200"
 group: pro
 rank: 12
 ---

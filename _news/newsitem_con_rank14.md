@@ -1,9 +1,9 @@
 ---
-publication: "globaltimes.cn"
-link: "https://www.globaltimes.cn/page/202211/1279313.shtml"
-title: "Bitter US partisan strife proliferates to global stage, hampers COP27 climate response "
-excerpt: "When US President Joe Biden speaks at the COP27 in Egypt hoping to show the world the image of a global leader on climate action, he will face an international audience with the majority having seen t"
-image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-03/c9e9a7d4-37d6-4608-9b5f-68071e1d4721_s.jpeg"
+publication: "theorchard.substack.com"
+link: "https://theorchard.substack.com/p/will-canada-make-firm-on-its-climate"
+title: "Will Canada make firm on its climate commitments at COP27?"
+excerpt: "“You cannot claim to be net zero by continuing to build or invest in new fossil fuel supply.”"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F84f1538e-4232-4e74-814e-a3783991315d_800x450.jpeg"
 group: con
 rank: 14
 ---
