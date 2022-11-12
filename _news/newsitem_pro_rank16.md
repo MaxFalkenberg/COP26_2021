@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63571610"
-title: "COP27: Sharp rise in fossil fuel industry delegates at climate summit"
-excerpt: "Data shared exclusively with the BBC show large numbers of oil and gas lobbyists attending COP27."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/DC09/production/_127592365_mediaitem127591827.jpg"
+publication: "freebeacon.com"
+link: "https://freebeacon.com/biden-administration/biden-renews-american-apology-tour-in-egypt/"
+title: "Biden Renews American Apology Tour in Egypt - Washington Free Beacon"
+excerpt: "President Joe Biden on Friday followed former president Barack Obama's lead and apologized to other countries for the United States's actions."
+image: "https://freebeacon.com/wp-content/uploads/2022/11/unfccc-cop27-climate-conference-day-six-e1668193825722.jpg"
 group: pro
 rank: 16
 ---
