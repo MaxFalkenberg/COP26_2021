@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/americas/cop27-biden-urges-world-leaders-to-ramp-up-climate-fight-62475"
-title: "COP27: Biden urges world leaders to ramp up climate fight"
-excerpt: "US President Joe Biden says the 'very life of the planet' is at stake in the climate crisis as he gave an assurance that the US is on track to slash carbon emissions."
-image: "https://cdni0.trtworld.com/w480/h270/q75/143887_000_32NC6KR_1668185445332.jpg"
+publication: "aleph-2020.blogspot.com"
+link: "https://aleph-2020.blogspot.com/p/sustainable-diets.html"
+title: "Planet"
+excerpt: "Are red meat, dairy, fish, poultry & eggs ethical, healthy & sustainable - or should dietary guidelines become 'plant-based'?"
+image: "https://1.bp.blogspot.com/-j_b0LVHCnkA/X2JuL0omWvI/AAAAAAAABWc/Vh_SMIlkKWMnTPo6GtLN0lJ1gej2sU60wCNcBGAsYHQ/w1200-h630-p-k-no-nu/P.jpg"
 group: con
 rank: 8
 ---

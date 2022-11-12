@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/rogerpielkejr/p/pielkes-weekly-memo-17"
-title: "Pielke's Weekly Memo #17"
-excerpt: "COP27 Special: What to Read, Misinformation of the Week and U.S. Hurricane Update"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F929c7657-59b1-4d75-a62a-af0668c1acda_524x720.png"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/americas/cop27-biden-urges-world-leaders-to-ramp-up-climate-fight-62475"
+title: "COP27: Biden urges world leaders to ramp up climate fight"
+excerpt: "US President Joe Biden says the 'very life of the planet' is at stake in the climate crisis as he gave an assurance that the US is on track to slash carbon emissions."
+image: "https://cdni0.trtworld.com/w480/h270/q75/143887_000_32NC6KR_1668185445332.jpg"
 group: con
 rank: 7
 ---
