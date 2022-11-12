@@ -1,9 +1,9 @@
 ---
-publication: "aleph-2020.blogspot.com"
-link: "https://aleph-2020.blogspot.com/p/sustainable-diets.html"
-title: "Planet"
-excerpt: "Are red meat, dairy, fish, poultry & eggs ethical, healthy & sustainable - or should dietary guidelines become 'plant-based'?"
-image: "https://1.bp.blogspot.com/-j_b0LVHCnkA/X2JuL0omWvI/AAAAAAAABWc/Vh_SMIlkKWMnTPo6GtLN0lJ1gej2sU60wCNcBGAsYHQ/w1200-h630-p-k-no-nu/P.jpg"
+publication: "oann.com"
+link: "https://www.oann.com/newsroom/cop27-climate-crusaders-express-worry-of-gop-house-senate/"
+title: "COP27 climate crusaders express worry of GOP House, Senate"
+excerpt: "Globalist purveyors of green energy are troubled by slight gains made by America First candidates."
+image: "https://c3.oann.com/wp-content/uploads/2022/11/GettyImages-1440781734-e1668191466993.jpg"
 group: con
 rank: 6
 ---

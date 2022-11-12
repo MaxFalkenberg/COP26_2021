@@ -1,9 +1,9 @@
 ---
 publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/12/michael-pascoe-memo-g20-there-is-a-greater-enemy-than-china-to-fight-metacrisis-tellthetruth-cop27-we-are-in-the-fight-of-our-lives/"
-title: "Michael Pascoe: Memo G20 – there is a greater enemy than China to fight #MetaCrisis #TellTheTruth #COP27 we are in the fight of our lives!"
-excerpt: "By Michael Pascoe When Earth faces an existential threat in the movies – aliens, rogue asteroids, that sort of thing – human beings unite to fight Armageddon. Turns out real life isn’t like that. R…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1970.jpg"
+link: "https://climateactionaustralia.wordpress.com/2022/11/12/fossil-fuels-are-a-dead-end-says-top-un-climate-adviser-on-decarbonization-day-at-cop27-metacrisis-demand-climateaction-sdg13-tellthetruth-insiders-2/"
+title: "‘Fossil fuels are a dead end’, says top UN climate adviser on ‘Decarbonization Day’ at COP27 #MetaCrisis demand #ClimateAction #SDG13 #TellTheTruth #insiders"
+excerpt: "To meet the goals of the Paris Agreement and prevent the worst impacts of the climate crisis, the world must abandon fossil fuels as quickly as possible, Selwin Hart, Special Adviser to t…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1984.jpg?w=1200"
 group: con
 rank: 12
 ---
