@@ -1,9 +1,9 @@
 ---
-publication: "europa.eu"
-link: "https://europa.eu/!kxPcQq"
-title: "COP27 UN Climate Change Conference: EU side events"
-excerpt: "Join REA and 21 of our funded projects in a defining moment in the fight against climate change."
-image: "https://rea.ec.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2022-10/cop27_social_media.jpg?itok=MU0dTpUp"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63591796"
+title: "COP27: Key climate goal of 1.5C rise faces new challenge"
+excerpt: "There is a 50% chance dangerous warming limit will be breached in nine years, experts say."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/F991/production/_127598836_gettyimages-1243186759.jpg"
 group: pro
 rank: 18
 ---

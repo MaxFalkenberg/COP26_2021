@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63571610"
-title: "COP27: Sharp rise in fossil fuel industry delegates at climate summit"
-excerpt: "Data shared exclusively with the BBC show large numbers of oil and gas lobbyists attending COP27."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/DC09/production/_127592365_mediaitem127591827.jpg"
+publication: "nationalpost.com"
+link: "https://nationalpost.com/opinion/rex-murphy-cop27s-great-pyramid-scheme"
+title: "Rex Murphy: COP27's great pyramid scheme"
+excerpt: "As always, anti-oil missionaries are consuming copious amounts of jet fuel to fly to a summit dedicated to eliminating oil and gas"
+image: "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2022/11/Khafre-Pyramid.jpg"
 group: pro
 rank: 17
 ---
