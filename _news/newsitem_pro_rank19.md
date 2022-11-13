@@ -1,9 +1,9 @@
 ---
-publication: "cbc.ca"
-link: "https://www.cbc.ca/news/cop27-ask-faq-1.6648293"
-title: "Why can't COP27 just be a virtual meeting? Your questions answered | CBC News"
-excerpt: "What's at stake at COP27? Has any progress been made since COP26? Why can’t it be a virtual event? Here's what you wanted to know about the climate change conference."
-image: "https://i.cbc.ca/1.6648367.1668119208!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cop27-climate-summit.jpg"
+publication: "mol.im"
+link: "https://mol.im/a/11398493"
+title: "Fury over Cop27 'VIP' menu with £90 beef dish and bottomless booze"
+excerpt: "Officials who land a spot at the conference's exclusive VIP restaurant will be able to dine out on an array of pricey meat and fish dishes at the climate conference in Sharm el-Sheikh this week."
+image: "https://i.dailymail.co.uk/1s/2022/11/07/13/64272299-0-image-a-15_1667826104402.jpg"
 group: pro
 rank: 19
 ---

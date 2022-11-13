@@ -1,9 +1,9 @@
 ---
-publication: "billmckibben.substack.com"
-link: "https://billmckibben.substack.com/p/ed-markey-ill-organize-senate-dems"
-title: "Ed Markey: I'll Organize Senate Dems to Demand World Bank Chief be Fired!"
-excerpt: "Egypt Dispatch #2, an honest-to-God scoop"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F973444ed-a54e-460f-985b-b5b683100e85_4000x2700.jpeg"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/billmckibben/p/activists-are-the-engine"
+title: "Activists are the Engine"
+excerpt: "Egypt Dispatch 3--Finally some noise at the COP"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F54528871-33ef-4b88-b465-a072174000b3_4032x3024.jpeg"
 group: con
 rank: 13
 ---

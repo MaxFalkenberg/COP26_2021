@@ -1,9 +1,9 @@
 ---
-publication: "financialpost.com"
-link: "https://financialpost.com/commodities/energy/ruffing-some-feathers-at-cop27-canada-includes-oil-and-gas-companies-in-its-delegation"
-title: "Canada ruffles some feathers at COP27 by including oil and gas representatives in its delegation"
-excerpt: "'There really is no solution without the industry': oil and gas executives from Canada are attending the COP27 climate conference. Read on."
-image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/11/COP27-climate-gs1108.png"
+publication: "newscientist.com"
+link: "http://www.newscientist.com/podcasts/148-climate-action-from-cop27-world-population-reaches-8-billion/"
+title: "#148 Climate action from COP27; world population reaches 8 billion"
+excerpt: "Warnings over the world’s mad dash to create new supplies of fossil fuels, discussions about climate loss and damage, and talk about nature-based solutions. COP27 in Egypt is in full swing. Our report"
+image: "https://assets.pippa.io/shows/61850ae845b6e300132557e2/show-cover.jpg"
 group: pro
 rank: 18
 ---

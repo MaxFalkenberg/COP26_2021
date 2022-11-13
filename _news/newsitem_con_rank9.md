@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/12/fossil-fuels-are-a-dead-end-says-top-un-climate-adviser-on-decarbonization-day-at-cop27-metacrisis-demand-climateaction-sdg13-tellthetruth-insiders/"
-title: "‘Fossil fuels are a dead end’, says top UN climate adviser on ‘Decarbonization Day’ at COP27 #MetaCrisis demand #ClimateAction #SDG13 #TellTheTruth #insiders"
-excerpt: "To meet the goals of the Paris Agreement and prevent the worst impacts of the climate crisis, the world must abandon fossil fuels as quickly as possible, Selwin Hart, Special Adviser to t…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1984.jpg?w=1200"
+publication: "climatechangeconversation.blogspot.com"
+link: "https://climatechangeconversation.blogspot.com/2022/11/fate-of-annual-united-nations-climate.html"
+title: "Fate Of Annual United Nations Climate Change Conferences (COPs)"
+excerpt: "            'We are in a situation where the emission reductions that should have happened haven't. It's important to remember that COPs don..."
+image: "https://lh3.googleusercontent.com/-B-GmI83Sn3A/Y24kJPpjnbI/AAAAAAAAACM/O3iIQ5g-YcQm96eb8EKTQxNJczouPfTrQCNcBGAsYHQ/w1200-h630-p-k-no-nu/1668162595273868-0.png"
 group: con
 rank: 9
 ---
