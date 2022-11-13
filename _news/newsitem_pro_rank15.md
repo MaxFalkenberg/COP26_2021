@@ -1,9 +1,9 @@
 ---
-publication: "nature.com"
-link: "https://www.nature.com/articles/d41586-022-03657-w"
-title: "Carbon emissions hit new high: warning from COP27"
-excerpt: "Fresh data released at the climate summit show global carbon dioxide emissions from fossil fuels are soaring despite energy crisis."
-image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03657-w/d41586-022-03657-w_23688624.jpg"
+publication: "qz.com"
+link: "https://qz.com/1069298/the-3-of-scientific-papers-that-deny-climate-change-are-all-flawed/amp"
+title: "The 3% of scientific papers that deny climate change are all flawed"
+excerpt: "Scientists who deny climate change are not modern-day Galileos."
+image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,fl_progressive,g_center,h_180,q_80,w_320/7a31e54b02f1479b23273b33588ebe6b.png"
 group: pro
 rank: 15
 ---
