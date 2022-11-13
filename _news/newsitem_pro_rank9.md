@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/floods-science-africa-asia-climate-and-environment-66e55322884b19ca48577f7541418188"
-title: "Loss and damage: Fight over human harm, huge climate costs"
-excerpt: "SHARM EL-SHEIKH, Egypt (AP) — It was a total loss — the type that is usually glossed over in big impersonal statistics like $40 billion in damage  from this summer's Pakistan floods that put one-third"
-image: "https://storage.googleapis.com/afs-prod/media/a8be846c9e2645dba254b40da60cc3c3/3000.jpeg"
+publication: "politico.eu"
+link: "https://www.politico.eu/article/germany-to-leave-energy-charter-treaty/"
+title: "Germany to leave Energy Charter Treaty"
+excerpt: "Germany’s decision deals a major blow to the embattled deal."
+image: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/11/12/10413703-1-scaled.jpg"
 group: pro
 rank: 9
 ---

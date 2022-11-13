@@ -1,9 +1,9 @@
 ---
-publication: "substack.com"
-link: "https://substack.com/redirect/8f50a0b0-b5d0-4ffc-bd65-77677ca8e382"
-title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
-excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
-image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/13/India-seeks-COP27-deal-to-phase-down-all-fossil-fuels-Sources"
+title: "India seeks COP27 deal to ‘phase down’ all fossil fuels: Sources"
+excerpt: "India wants countries to agree to phase down all fossil fuels at the COP27 climate summit in Egypt, rather than a narrower deal to phase down coal as was"
+image: "https://vid.alarabiya.net/images/2022/11/02/ce097661-639d-4649-878a-108c0542e383/ce097661-639d-4649-878a-108c0542e383_16x9_600x338.JPG"
 group: con
 rank: 7
 ---

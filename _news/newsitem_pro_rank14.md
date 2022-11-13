@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/india-seeks-cop27-deal-phase-down-all-fossil-fuels-sources-2022-11-12/"
-title: "India seeks COP27 deal to 'phase down' all fossil fuels"
-excerpt: "India wants countries to agree to phase down all fossil fuels at the COP27 climate summit in Egypt, rather than a narrower deal to phase down coal as was agreed last year, two sources familiar with th"
-image: "https://www.reuters.com/resizer/Sg2ygwSdooAQnPRhGvuw87PmLD0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DVOMZUQANJPDPP5NGYZBVRTGWE.jpg"
+publication: "thetimes.co.uk"
+link: "https://www.thetimes.co.uk/article/doom-mongers-risk-climate-fatigue-with-their-dire-warnings-2txvxcf9q"
+title: "Doom-mongers risk climate fatigue with their dire warnings"
+excerpt: "As activists and world leaders were gathering in the Egyptian resort of Sharm el-Sheikh last week for the UN-organised climate conference Cop27, Ryanair boss"
+image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fefe28730-62c4-11ed-8611-a128c33d7159.png?crop=1500%2C844%2C0%2C78&resize=1200"
 group: pro
 rank: 14
 ---
