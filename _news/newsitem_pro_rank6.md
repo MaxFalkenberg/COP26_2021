@@ -1,9 +1,9 @@
 ---
-publication: "publicsenat.fr"
-link: "https://www.publicsenat.fr/article/parlementaire/l-obligation-de-pose-de-panneaux-photovoltaiques-sur-les-grands-parkings"
-title: "L’obligation de pose de panneaux photovoltaïques sur les grands parkings extérieurs adoptée au Sénat"
-excerpt: "Les sénateurs ont adopté ce 4 novembre l’article 11 du projet de loi sur l’accélération des énergies renouvelables, qui impose un équipement en ombrières photovoltaïques pour les parkings extérieurs d"
-image: "https://www.publicsenat.fr/sites/default/files/styles/pse_accueil_entete/public/thumbnails/image/sipa_00591366_000004.jpg?itok=4AtbO22x"
+publication: "dailymail.co.uk"
+link: "https://www.dailymail.co.uk/news/article-11398493/amp/Cop27-Egypt-Activists-hit-VIP-menu-featuring-beef-chicken-fish-dairy-products.html"
+title: "Fury over Cop27 'VIP' menu with £90 beef dish and bottomless booze"
+excerpt: "Officials who land a spot at the conference's exclusive VIP restaurant will be able to dine out on an array of pricey meat and fish dishes at the climate conference in Sharm el-Sheikh this week."
+image: "https://i.dailymail.co.uk/1s/2022/11/07/13/64272299-0-image-a-15_1667826104402.jpg"
 group: pro
 rank: 6
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/news/world/1693564/china-britain-pollution-co2-environment-cop27-emissions-latest-world-news-ont"
-title: "China caused more pollution in eight years than Britain has in 220 "
-excerpt: "Britain has caused 78 billion tonnes of CO2 emissions in a 270-year gap between 1750 and 2020, while China has caused 80 billion tonnes from 2013 to 2020.  "
-image: "https://cdn.images.express.co.uk/img/dynamic/78/1200x712/4388694.jpg?r=1667899279559"
+publication: "publicsenat.fr"
+link: "https://www.publicsenat.fr/article/parlementaire/l-obligation-de-pose-de-panneaux-photovoltaiques-sur-les-grands-parkings"
+title: "L’obligation de pose de panneaux photovoltaïques sur les grands parkings extérieurs adoptée au Sénat"
+excerpt: "Les sénateurs ont adopté ce 4 novembre l’article 11 du projet de loi sur l’accélération des énergies renouvelables, qui impose un équipement en ombrières photovoltaïques pour les parkings extérieurs d"
+image: "https://www.publicsenat.fr/sites/default/files/styles/pse_accueil_entete/public/thumbnails/image/sipa_00591366_000004.jpg?itok=4AtbO22x"
 group: pro
 rank: 4
 ---

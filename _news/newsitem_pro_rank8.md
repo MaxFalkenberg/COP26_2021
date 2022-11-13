@@ -1,9 +1,9 @@
 ---
-publication: "dailymail.co.uk"
-link: "https://www.dailymail.co.uk/news/article-11398493/amp/Cop27-Egypt-Activists-hit-VIP-menu-featuring-beef-chicken-fish-dairy-products.html"
-title: "Fury over Cop27 'VIP' menu with £90 beef dish and bottomless booze"
-excerpt: "Officials who land a spot at the conference's exclusive VIP restaurant will be able to dine out on an array of pricey meat and fish dishes at the climate conference in Sharm el-Sheikh this week."
-image: "https://i.dailymail.co.uk/1s/2022/11/07/13/64272299-0-image-a-15_1667826104402.jpg"
+publication: "qz.com"
+link: "https://qz.com/1069298/the-3-of-scientific-papers-that-deny-climate-change-are-all-flawed/amp"
+title: "The 3% of scientific papers that deny climate change are all flawed"
+excerpt: "Scientists who deny climate change are not modern-day Galileos."
+image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,fl_progressive,g_center,h_180,q_80,w_320/7a31e54b02f1479b23273b33588ebe6b.png"
 group: pro
 rank: 8
 ---
