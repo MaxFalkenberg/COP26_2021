@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/13/challenges-to-making-sense-of-the-21st-century-hyperobject-hyperthreat-cop27-metacrisis-the-consilience-project/"
-title: "Challenges to Making Sense of the 21st Century #HyperObject #HyperThreat #COP27 #MetaCrisis The Consilience Project"
-excerpt: "Open societies face unparalleled learning crises from accelerating change in technology and science. Conditions in the 21st century require individuals and societies to find a new sense of commitme…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1969.jpg"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/middle-east/2022/11/13/Climate-disasters-put-plight-of-migrants-in-COP27-focus-"
+title: "Climate disasters put plight of migrants in COP27 focus "
+excerpt: "Issack Hassan lives in a migrant camp in Baidoa city in Somalia - one of more than a million people displaced since January after five successive failed"
+image: "https://vid.alarabiya.net/images/2022/11/13/290612d3-fdda-4449-a6ec-bf579f12a17e/290612d3-fdda-4449-a6ec-bf579f12a17e_16x9_600x338.JPG"
 group: con
 rank: 12
 ---
