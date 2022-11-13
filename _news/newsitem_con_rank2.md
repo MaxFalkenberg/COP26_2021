@@ -1,9 +1,9 @@
 ---
-publication: "billmckibben.substack.com"
-link: "https://billmckibben.substack.com/p/activists-are-the-engine"
-title: "Activists are the Engine"
-excerpt: "Egypt Dispatch 3--Finally some noise at the COP"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F54528871-33ef-4b88-b465-a072174000b3_4032x3024.jpeg"
+publication: "wnd.com"
+link: "https://www.wnd.com/2022/11/john-kerry-spills-beans-u-n-s-cop17-meeting/"
+title: "John Kerry spills the beans at U.N.'s COP17 meeting"
+excerpt: "The World Economic Forum’s climate change agenda was “modeled” after the effort to roll out vaccines during the COVID pandemic, revealed U.S. Special Presidential Envoy for Climate John Kerry during a"
+image: "https://www.wnd.com/wp-content/uploads/2018/09/john-kerry-defenseimagery-PD-600.jpg"
 group: con
 rank: 2
 ---
