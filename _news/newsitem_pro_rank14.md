@@ -1,9 +1,9 @@
 ---
-publication: "huffpost.com"
-link: "https://www.huffpost.com/entry/ap-cop27-brazil-climate-engagement_n_636fbdf8e4b0290136429a0c"
-title: "Brazil Is Back As A Climate Leader, Former Environmental Minister Says"
-excerpt: "“Brazil will return to the protagonist role it previously had when it comes to climate, to biodiversity.'"
-image: "https://img.huffingtonpost.com/asset/636fbdf92200005c00b7c816.jpeg?cache=PloIW9W5U3&ops=1200_630"
+publication: "politico.eu"
+link: "https://www.politico.eu/article/germany-to-leave-energy-charter-treaty/"
+title: "Germany to leave Energy Charter Treaty"
+excerpt: "Germany’s decision deals a major blow to the embattled deal."
+image: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/11/12/10413703-1-scaled.jpg"
 group: pro
 rank: 14
 ---
