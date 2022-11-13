@@ -1,9 +1,9 @@
 ---
-publication: "mol.im"
-link: "https://mol.im/a/11398493"
-title: "Fury over Cop27 'VIP' menu with £90 beef dish and bottomless booze"
-excerpt: "Officials who land a spot at the conference's exclusive VIP restaurant will be able to dine out on an array of pricey meat and fish dishes at the climate conference in Sharm el-Sheikh this week."
-image: "https://i.dailymail.co.uk/1s/2022/11/07/13/64272299-0-image-a-15_1667826104402.jpg"
+publication: "nature.com"
+link: "https://www.nature.com/articles/d41586-022-03657-w"
+title: "Carbon emissions hit new high: warning from COP27"
+excerpt: "Fresh data released at the climate summit show global carbon dioxide emissions from fossil fuels are soaring despite energy crisis."
+image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03657-w/d41586-022-03657-w_23688624.jpg"
 group: pro
 rank: 17
 ---

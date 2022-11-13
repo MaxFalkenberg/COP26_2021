@@ -1,9 +1,9 @@
 ---
 publication: "theguardian.com"
-link: "https://www.theguardian.com/environment/live/2022/nov/12/cop27-latest-news-protests-sharm-el-sheikh-egpyt-climate"
-title: "Cop27: US ‘totally supportive’ of moves to address loss and damage, says Kerry – as it happened"
-excerpt: "US climate envoy John Kerry has said his country is ready to discuss the loss and damage at Cop27"
-image: "https://i.guim.co.uk/img/media/593b41169f1648d530c1d38265b1ce3b087e43d9/0_135_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b96163b36850f10427cfee2f53f3d513"
+link: "https://www.theguardian.com/commentisfree/2022/nov/12/climate-target-cop27-breakdown-fossil-fuel"
+title: "The 1.5C climate target is dead – to prevent total catastrophe, Cop27 must admit it | Bill McGuire"
+excerpt: "Acknowledging that climate breakdown is unavoidable is key to making fossil-fuel companies and governments take action, says Bill McGuire, professor emeritus of geophysical and climate hazards at UCL"
+image: "https://i.guim.co.uk/img/media/85c1d460fd848f49e3d3f565c54a40c6df0cb4ab/0_39_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=017bdc364d59bbc45167bef36aa44946"
 group: pro
 rank: 7
 ---

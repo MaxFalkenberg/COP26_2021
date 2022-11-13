@@ -1,9 +1,5 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/billmckibben/p/activists-are-the-engine"
-title: "Activists are the Engine"
-excerpt: "Egypt Dispatch 3--Finally some noise at the COP"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F54528871-33ef-4b88-b465-a072174000b3_4032x3024.jpeg"
-group: con
-rank: 9
----
+publication: "arabnews.com"
+link: "https://www.arabnews.com/node/2198506/amp"
+title: "‘We hope to take the Saudi crown prince’s green vision forward,’ Pakistan FM Bilawal Bhutto Zardari tells Arab News"
+excerpt: "Get the latest breaking news and headlines from the largest Arab News website. Get world news, sport news, business news, entertainment, lifestyle, video and photos."

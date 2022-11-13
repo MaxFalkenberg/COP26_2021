@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/cop27-rich-countries-must-make-climate-change-reparations-right-now-895fzm3q6"
-title: "Cop27: Rich countries ‘must make climate change reparations right now’"
-excerpt: "Compensation from wealthy nations for countries affected by the ravages of global warming will be “unavoidable”, a Ugandan activist has said"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa43d00f0-61cd-11ed-8adc-caffed0685f5.jpg?crop=3887%2C2186%2C226%2C67&resize=1200"
+publication: "newstatesman.com"
+link: "https://newstatesman.com/environment/2022/11/greta-thunberg-cop27-is-a-scam"
+title: "Greta Thunberg on why Cop27 is a 'scam'"
+excerpt: "The activist calls out politicians who use the UN climate process for their own ends."
+image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1169833108.jpg"
 group: pro
 rank: 3
 ---
