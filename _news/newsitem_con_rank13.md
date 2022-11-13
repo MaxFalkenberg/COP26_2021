@@ -1,9 +1,9 @@
 ---
-publication: "truth4freedom.wordpress.com"
-link: "https://truth4freedom.wordpress.com/2022/11/12/spending-your-money-its-finance-day-at-cop27/"
-title: "Spending Your Money: It’s ‘Finance Day’ At COP27"
-excerpt: "11-11-2022 • Technocracy.NewsAl Gore is the ultimate huckster when pumping the UN delegates to climate action. In bunko terms, this is the practice of “shaking the money tree” to loose …"
-image: "http://img.youtube.com/vi/vWsmFbztKBs/0.jpg"
+publication: "independentsentinel.com"
+link: "https://www.independentsentinel.com/biden-doubles-down-on-ending-our-way-of-life-at-cop27/"
+title: "Biden Doubles Down on Ending Our Way of Life at COP27"
+excerpt: "Biden unveiled a domestic plan to crack down on the U.S. oil and gas industry’s emissions of methane...Drillers begged him not to..."
+image: "https://i0.wp.com/www.independentsentinel.com/wp-content/uploads/2022/09/iStock-1358601331.jpg?fit=600%2C383&ssl=1"
 group: con
 rank: 13
 ---

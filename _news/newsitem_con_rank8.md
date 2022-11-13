@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/climateintl/p/cop27-week-1-brief-taking-stock-and"
-title: "COP27 Week 1 Brief: Taking Stock, Discovering New Tools & Defining Ambition"
-excerpt: "This is an implementation COP, an African COP, a vulnerability COP. It is the COP where food systems have come to the mainstream conversation about how to properly and comprehensively combat climate c"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8eeccdf-54e2-4396-b099-449e5fa6cc44_3500x2262.jpeg"
+publication: "substack.com"
+link: "https://substack.com/redirect/8f50a0b0-b5d0-4ffc-bd65-77677ca8e382"
+title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
+excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
+image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
 group: con
 rank: 8
 ---

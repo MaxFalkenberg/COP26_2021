@@ -1,9 +1,9 @@
 ---
-publication: "petersweden.substack.com"
-link: "https://petersweden.substack.com/p/climate-hypocrisy"
-title: "The insane CLIMATE HYPOCRISY of the elite "
-excerpt: "This should come as a surprise to nobody that has been paying attention."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3cf0d44d-7dbb-429b-91e4-d73f29b295b8_705x420.png"
+publication: "ntd.com"
+link: "https://www.ntd.com/biden-launches-climate-change-fund-proposing-to-address-gender-inequities_881076.html"
+title: "Biden Launches Climate Change Fund Proposing to Address Gender Inequities"
+excerpt: "<p>President Joe Biden announced a multimillion-dollar “Climate Gender Equity Fund” at the U.N. COP27 climate conference in Egypt on Nov. 11 with the stated aim of boosting women’s participation in cl"
+image: "https://i.ntd.com/assets/uploads/2022/11/Biden_Egypt_GettyImages-1244689207-352x220.jpg"
 group: con
 rank: 12
 ---

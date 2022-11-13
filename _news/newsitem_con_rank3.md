@@ -1,9 +1,9 @@
 ---
-publication: "off-guardian.org"
-link: "https://off-guardian.org/2022/11/13/lab-grown-meat-nuclear-yeast-vats-cop27-reignites-the-war-on-food/"
-title: "Lab-grown meat & nuclear yeast vats: COP27 reignites the war on food"
-excerpt: "Kit Knightly We’re a week into this year’s UN climate summit, COP27, and the various agenda planned to roll out on the back of it are coming into focus. None more so than the autumn off…"
-image: "https://off-guardian.org/wp-content/medialibrary/lab-grown-meat-large.jpg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/13/professor-terry-hughes-sea-surface-temperature-1-5-to-2c-above-normal-on-greatbarrierreef-cop27-ecologicalcrisis/"
+title: "Professor Terry Hughes Sea Surface Temperature 1.5 to 2C above normal on #GreatBarrierReef #COP27 #EcologicalCrisis"
+excerpt: "From Professor Terry Hughes @ProfTerryHughes Twitter Sea Surface temperatures in the northern 2/3 of the #GreatBarrierReef were 1.5-2C above normal in late October. We were horrified to see some co…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1999.jpg?w=1200"
 group: con
 rank: 3
 ---
