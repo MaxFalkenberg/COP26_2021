@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/india-seeks-cop27-deal-phase-down-all-fossil-fuels-sources-2022-11-12/"
-title: "India seeks COP27 deal to 'phase down' all fossil fuels"
-excerpt: "India wants countries to agree to phase down all fossil fuels at the COP27 climate summit in Egypt, rather than a narrower deal to phase down coal as was agreed last year, two sources familiar with th"
-image: "https://www.reuters.com/resizer/Sg2ygwSdooAQnPRhGvuw87PmLD0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DVOMZUQANJPDPP5NGYZBVRTGWE.jpg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/opinions/2022/11/09/nigerian-president-cop27-africa-climate-change/"
+title: "Opinion | Muhammadu Buhari: How not to talk with Africa about climate change"
+excerpt: "Africa didn’t cause the mess, yet it pays the price."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AP4LAIA73OM4NZ6CU2XNMC7LNE.JPG&w=1440"
 group: pro
 rank: 18
 ---

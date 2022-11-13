@@ -1,9 +1,9 @@
 ---
-publication: "michaelshellenberger.substack.com"
-link: "https://michaelshellenberger.substack.com/p/imperialism-of-the-apocalypse"
-title: "Imperialism Of The Apocalypse"
-excerpt: "Rich people are depriving poor people of cheap energy in the name of climate change. Why?"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9316f938-1f84-423a-8141-7fc1307b9808_3024x1700.png"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/13/professor-terry-hughes-sea-surface-temperature-1-5-to-2c-above-normal-on-greatbarrierreef-cop27-ecologicalcrisis/"
+title: "Professor Terry Hughes Sea Surface Temperature 1.5 to 2C above normal on #GreatBarrierReef #COP27 #EcologicalCrisis"
+excerpt: "From Professor Terry Hughes @ProfTerryHughes Twitter Sea Surface temperatures in the northern 2/3 of the #GreatBarrierReef were 1.5-2C above normal in late October. We were horrified to see some co…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1999.jpg?w=1200"
 group: con
 rank: 4
 ---
