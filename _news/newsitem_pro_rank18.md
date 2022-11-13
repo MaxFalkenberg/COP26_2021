@@ -1,9 +1,9 @@
 ---
-publication: "cbc.ca"
-link: "https://www.cbc.ca/news/cop27-ask-faq-1.6648293"
-title: "Why can't COP27 just be a virtual meeting? Your questions answered | CBC News"
-excerpt: "What's at stake at COP27? Has any progress been made since COP26? Why can’t it be a virtual event? Here's what you wanted to know about the climate change conference."
-image: "https://i.cbc.ca/1.6648367.1668119208!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cop27-climate-summit.jpg"
+publication: "financialpost.com"
+link: "https://financialpost.com/commodities/energy/ruffing-some-feathers-at-cop27-canada-includes-oil-and-gas-companies-in-its-delegation"
+title: "Canada ruffles some feathers at COP27 by including oil and gas representatives in its delegation"
+excerpt: "'There really is no solution without the industry': oil and gas executives from Canada are attending the COP27 climate conference. Read on."
+image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/11/COP27-climate-gs1108.png"
 group: pro
 rank: 18
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "takvera.blogspot.com"
-link: "https://takvera.blogspot.com/2022/11/flood-cop-pay-up-for-loss-and-damage-at.html"
-title: "Flood the COP - Pay up for Loss and Damage at COP27"
-excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBG2aUg4cqYqCwq9rzrawxguT8l-jLiYr-fzRp6n0EgE7cdQ05qOE-3q3YAyRzZkLLtXxlpaAHP1MRjWozD32Oo7jgkxpKpBaH9HQ-3Ty-iInsA2MJ6csxxdPVGzs5f84fjXVlsvEIJLNKRXlKtNQ3zTo5shrsDyuR3u1bqoaS22X6-Kht4Y9azlw8/w1200-h630-p-k-no-nu/0C1A0482.jpg"
+publication: "substack.com"
+link: "https://substack.com/redirect/8f50a0b0-b5d0-4ffc-bd65-77677ca8e382"
+title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
+excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
+image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
 group: con
 rank: 11
 ---
