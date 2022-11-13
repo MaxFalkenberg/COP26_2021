@@ -1,5 +1,5 @@
 ---
-publication: "bloomberg.com"
-link: "https://www.bloomberg.com/news/articles/2022-11-12/india-wants-phase-down-to-apply-to-all-fossil-fuels-at-cop27"
+publication: "Bloomberg.com"
+link: "http://Bloomberg.com"
 title: None
 excerpt: None

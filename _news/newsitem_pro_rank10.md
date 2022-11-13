@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/opinions/2022/11/09/nigerian-president-cop27-africa-climate-change/"
-title: "Opinion | Muhammadu Buhari: How not to talk with Africa about climate change"
-excerpt: "Africa didn’t cause the mess, yet it pays the price."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AP4LAIA73OM4NZ6CU2XNMC7LNE.JPG&w=1440"
+publication: "financialpost.com"
+link: "https://financialpost.com/commodities/energy/ruffing-some-feathers-at-cop27-canada-includes-oil-and-gas-companies-in-its-delegation"
+title: "Canada ruffles some feathers at COP27 by including oil and gas representatives in its delegation"
+excerpt: "'There really is no solution without the industry': oil and gas executives from Canada are attending the COP27 climate conference. Read on."
+image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/11/COP27-climate-gs1108.png"
 group: pro
 rank: 10
 ---
