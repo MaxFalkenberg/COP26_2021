@@ -1,9 +1,9 @@
 ---
-publication: "cbc.ca"
-link: "https://www.cbc.ca/news/cop27-ask-faq-1.6648293"
-title: "Why can't COP27 just be a virtual meeting? Your questions answered | CBC News"
-excerpt: "What's at stake at COP27? Has any progress been made since COP26? Why can’t it be a virtual event? Here's what you wanted to know about the climate change conference."
-image: "https://i.cbc.ca/1.6648367.1668119208!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cop27-climate-summit.jpg"
+publication: "newstatesman.com"
+link: "https://newstatesman.com/environment/2022/11/greta-thunberg-cop27-is-a-scam"
+title: "Greta Thunberg on why Cop27 is a 'scam'"
+excerpt: "The activist calls out politicians who use the UN climate process for their own ends."
+image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1169833108.jpg"
 group: pro
 rank: 15
 ---

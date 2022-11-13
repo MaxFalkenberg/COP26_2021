@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/12/fossil-fuels-are-a-dead-end-says-top-un-climate-adviser-on-decarbonization-day-at-cop27-metacrisis-demand-climateaction-sdg13-tellthetruth-insiders-2/"
-title: "‘Fossil fuels are a dead end’, says top UN climate adviser on ‘Decarbonization Day’ at COP27 #MetaCrisis demand #ClimateAction #SDG13 #TellTheTruth #insiders"
-excerpt: "To meet the goals of the Paris Agreement and prevent the worst impacts of the climate crisis, the world must abandon fossil fuels as quickly as possible, Selwin Hart, Special Adviser to t…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1984.jpg?w=1200"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/13/India-seeks-COP27-deal-to-phase-down-all-fossil-fuels-Sources"
+title: "India seeks COP27 deal to ‘phase down’ all fossil fuels: Sources"
+excerpt: "India wants countries to agree to phase down all fossil fuels at the COP27 climate summit in Egypt, rather than a narrower deal to phase down coal as was"
+image: "https://vid.alarabiya.net/images/2022/11/02/ce097661-639d-4649-878a-108c0542e383/ce097661-639d-4649-878a-108c0542e383_16x9_600x338.JPG"
 group: con
 rank: 6
 ---
