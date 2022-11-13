@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1694471/Nicola-Sturgeon-analysis-Sturgeon-followed-world-leaders-at-COP27-for-selfies"
-title: "'Sturgeon followed world leaders at COP27 for selfies to boost her PR'"
-excerpt: "At least in theory, an international climate conference is supposed to be a place where leaders of nations meet to discuss important issues. But for politicians who are not as powerful as they would l"
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4392778.jpg?r=1668071748477"
+publication: "thetimes.co.uk"
+link: "https://www.thetimes.co.uk/article/cop27-rich-countries-must-make-climate-change-reparations-right-now-895fzm3q6"
+title: "Cop27: Rich countries ‘must make climate change reparations right now’"
+excerpt: "Compensation from wealthy nations for countries affected by the ravages of global warming will be “unavoidable”, a Ugandan activist has said"
+image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa43d00f0-61cd-11ed-8adc-caffed0685f5.jpg?crop=3887%2C2186%2C226%2C67&resize=1200"
 group: pro
 rank: 3
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "gbnews.uk"
-link: "https://www.gbnews.uk/news/painful-to-watch-joe-biden-stutters-through-humiliating-cop27-speech/386905"
-title: "'PAINFUL to watch' - Joe Biden stutters through 'humiliating' Cop27 speech"
-excerpt: "The US President took to the stage in Egypt pledging to 'turbocharge' the clean energy economy"
-image: "https://image.gbnews.uk/386938.jpg?imageId=386938&panow=100&panoh=100&panox=0&panoy=0&heightw=100&heighth=100&heightx=0&heighty=0&width=1200&height=630"
+publication: "express.co.uk"
+link: "https://www.express.co.uk/news/world/1693564/china-britain-pollution-co2-environment-cop27-emissions-latest-world-news-ont"
+title: "China caused more pollution in eight years than Britain has in 220 "
+excerpt: "Britain has caused 78 billion tonnes of CO2 emissions in a 270-year gap between 1750 and 2020, while China has caused 80 billion tonnes from 2013 to 2020.  "
+image: "https://cdn.images.express.co.uk/img/dynamic/78/1200x712/4388694.jpg?r=1667899279559"
 group: pro
 rank: 8
 ---
