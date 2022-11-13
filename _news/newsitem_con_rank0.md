@@ -1,9 +1,9 @@
 ---
-publication: "wnd.com"
-link: "https://www.wnd.com/2022/11/john-kerry-spills-beans-u-n-s-cop17-meeting/"
-title: "John Kerry spills the beans at U.N.'s COP17 meeting"
-excerpt: "The World Economic Forum’s climate change agenda was “modeled” after the effort to roll out vaccines during the COVID pandemic, revealed U.S. Special Presidential Envoy for Climate John Kerry during a"
-image: "https://www.wnd.com/wp-content/uploads/2018/09/john-kerry-defenseimagery-PD-600.jpg"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/petersweden/p/climate-hypocrisy"
+title: "The insane CLIMATE HYPOCRISY of the elite "
+excerpt: "This should come as a surprise to nobody that has been paying attention."
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3cf0d44d-7dbb-429b-91e4-d73f29b295b8_705x420.png"
 group: con
 rank: 0
 ---

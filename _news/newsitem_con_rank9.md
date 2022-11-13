@@ -1,9 +1,9 @@
 ---
-publication: "substack.com"
-link: "https://substack.com/redirect/8f50a0b0-b5d0-4ffc-bd65-77677ca8e382"
-title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
-excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
-image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
+publication: "billmckibben.substack.com"
+link: "https://billmckibben.substack.com/p/ed-markey-ill-organize-senate-dems"
+title: "Ed Markey: I'll Organize Senate Dems to Demand World Bank Chief be Fired!"
+excerpt: "Egypt Dispatch #2, an honest-to-God scoop"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F973444ed-a54e-460f-985b-b5b683100e85_4000x2700.jpeg"
 group: con
 rank: 9
 ---

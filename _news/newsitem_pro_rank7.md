@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/cop27-rich-countries-must-make-climate-change-reparations-right-now-895fzm3q6"
-title: "Cop27: Rich countries ‘must make climate change reparations right now’"
-excerpt: "Compensation from wealthy nations for countries affected by the ravages of global warming will be “unavoidable”, a Ugandan activist has said"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa43d00f0-61cd-11ed-8adc-caffed0685f5.jpg?crop=3887%2C2186%2C226%2C67&resize=1200"
+publication: "thescottishsun.co.uk"
+link: "https://www.thescottishsun.co.uk/news/9751674/claims-nicola-sturgeon-used-disabled-seats-airport/"
+title: "Claims Sturgeon used disabled seats at airport shot down by Scottish Government"
+excerpt: "THE Scottish Government have rubbished a claim that Nicola Sturgeon and her advisers used disabled seats at an airport during her trip to COP27 this week. An image widely circulated on social media…"
+image: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/10/GETTY_First-Minister-Nicola-Sturgeon-Attends-Care-Experienced-Week_NEW_GYI1244192380jpg-JS770402220.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
 group: pro
 rank: 7
 ---
