@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/billmckibben/p/activists-are-the-engine"
-title: "Activists are the Engine"
-excerpt: "Egypt Dispatch 3--Finally some noise at the COP"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F54528871-33ef-4b88-b465-a072174000b3_4032x3024.jpeg"
+publication: "substack.com"
+link: "https://substack.com/redirect/8f50a0b0-b5d0-4ffc-bd65-77677ca8e382"
+title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
+excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
+image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
 group: con
 rank: 8
 ---

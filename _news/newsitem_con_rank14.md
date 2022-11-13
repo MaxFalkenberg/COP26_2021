@@ -1,9 +1,9 @@
 ---
-publication: "truth4freedom.wordpress.com"
-link: "https://truth4freedom.wordpress.com/2022/11/12/spending-your-money-its-finance-day-at-cop27/"
-title: "Spending Your Money: It’s ‘Finance Day’ At COP27"
-excerpt: "11-11-2022 • Technocracy.NewsAl Gore is the ultimate huckster when pumping the UN delegates to climate action. In bunko terms, this is the practice of “shaking the money tree” to loose …"
-image: "http://img.youtube.com/vi/vWsmFbztKBs/0.jpg"
+publication: "climateawarenessreport.wordpress.com"
+link: "https://climateawarenessreport.wordpress.com/2022/11/12/decarbonization-day-at-cop27/"
+title: "Decarbonization Day at COP27"
+excerpt: "The thematic day dedicated to Decarbonization called for urgent action to reduce emissions across industry with a specific focus on the most carbon intensive sectors including steel, oil, gas, and …"
+image: "https://climateawarenessreport.files.wordpress.com/2022/11/20221111_154009.jpg?w=1200"
 group: con
 rank: 14
 ---

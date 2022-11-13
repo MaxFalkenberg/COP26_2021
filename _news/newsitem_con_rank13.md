@@ -1,9 +1,9 @@
 ---
-publication: "climateawarenessreport.wordpress.com"
-link: "https://climateawarenessreport.wordpress.com/2022/11/12/decarbonization-day-at-cop27/"
-title: "Decarbonization Day at COP27"
-excerpt: "The thematic day dedicated to Decarbonization called for urgent action to reduce emissions across industry with a specific focus on the most carbon intensive sectors including steel, oil, gas, and …"
-image: "https://climateawarenessreport.files.wordpress.com/2022/11/20221111_154009.jpg?w=1200"
+publication: "independentsentinel.com"
+link: "https://www.independentsentinel.com/biden-doubles-down-on-ending-our-way-of-life-at-cop27/"
+title: "Biden Doubles Down on Ending Our Way of Life at COP27"
+excerpt: "Biden unveiled a domestic plan to crack down on the U.S. oil and gas industry’s emissions of methane...Drillers begged him not to..."
+image: "https://i0.wp.com/www.independentsentinel.com/wp-content/uploads/2022/09/iStock-1358601331.jpg?fit=600%2C383&ssl=1"
 group: con
 rank: 13
 ---

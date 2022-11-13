@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/news/world/1693564/china-britain-pollution-co2-environment-cop27-emissions-latest-world-news-ont"
-title: "China caused more pollution in eight years than Britain has in 220 "
-excerpt: "Britain has caused 78 billion tonnes of CO2 emissions in a 270-year gap between 1750 and 2020, while China has caused 80 billion tonnes from 2013 to 2020.  "
-image: "https://cdn.images.express.co.uk/img/dynamic/78/1200x712/4388694.jpg?r=1667899279559"
+publication: "financialpost.com"
+link: "https://financialpost.com/commodities/energy/ruffing-some-feathers-at-cop27-canada-includes-oil-and-gas-companies-in-its-delegation"
+title: "Canada ruffles some feathers at COP27 by including oil and gas representatives in its delegation"
+excerpt: "'There really is no solution without the industry': oil and gas executives from Canada are attending the COP27 climate conference. Read on."
+image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/11/COP27-climate-gs1108.png"
 group: pro
 rank: 12
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "thescottishsun.co.uk"
-link: "https://www.thescottishsun.co.uk/news/9751674/claims-nicola-sturgeon-used-disabled-seats-airport/"
-title: "Claims Sturgeon used disabled seats at airport shot down by Scottish Government"
-excerpt: "THE Scottish Government have rubbished a claim that Nicola Sturgeon and her advisers used disabled seats at an airport during her trip to COP27 this week. An image widely circulated on social media…"
-image: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/10/GETTY_First-Minister-Nicola-Sturgeon-Attends-Care-Experienced-Week_NEW_GYI1244192380jpg-JS770402220.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+publication: "newstatesman.com"
+link: "https://newstatesman.com/environment/2022/11/greta-thunberg-cop27-is-a-scam"
+title: "Greta Thunberg on why Cop27 is a 'scam'"
+excerpt: "The activist calls out politicians who use the UN climate process for their own ends."
+image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1169833108.jpg"
 group: pro
 rank: 7
 ---

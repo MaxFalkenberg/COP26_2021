@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/world/2022/11/13/India-seeks-COP27-deal-to-phase-down-all-fossil-fuels-Sources"
-title: "India seeks COP27 deal to ‘phase down’ all fossil fuels: Sources"
-excerpt: "India wants countries to agree to phase down all fossil fuels at the COP27 climate summit in Egypt, rather than a narrower deal to phase down coal as was"
-image: "https://vid.alarabiya.net/images/2022/11/02/ce097661-639d-4649-878a-108c0542e383/ce097661-639d-4649-878a-108c0542e383_16x9_600x338.JPG"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/13/professor-terry-hughes-sea-surface-temperature-1-5-to-2c-above-normal-on-greatbarrierreef-cop27-ecologicalcrisis/"
+title: "Professor Terry Hughes Sea Surface Temperature 1.5 to 2C above normal on #GreatBarrierReef #COP27 #EcologicalCrisis"
+excerpt: "From Professor Terry Hughes @ProfTerryHughes Twitter Sea Surface temperatures in the northern 2/3 of the #GreatBarrierReef were 1.5-2C above normal in late October. We were horrified to see some co…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1999.jpg?w=1200"
 group: con
 rank: 6
 ---
