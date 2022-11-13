@@ -1,9 +1,9 @@
 ---
-publication: "thescottishsun.co.uk"
-link: "https://www.thescottishsun.co.uk/news/9751674/claims-nicola-sturgeon-used-disabled-seats-airport/"
-title: "Claims Sturgeon used disabled seats at airport shot down by Scottish Government"
-excerpt: "THE Scottish Government have rubbished a claim that Nicola Sturgeon and her advisers used disabled seats at an airport during her trip to COP27 this week. An image widely circulated on social media…"
-image: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/10/GETTY_First-Minister-Nicola-Sturgeon-Attends-Care-Experienced-Week_NEW_GYI1244192380jpg-JS770402220.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+publication: "theguardian.com"
+link: "https://www.theguardian.com/commentisfree/2022/nov/12/climate-target-cop27-breakdown-fossil-fuel"
+title: "The 1.5C climate target is dead – to prevent total catastrophe, Cop27 must admit it | Bill McGuire"
+excerpt: "Acknowledging that climate breakdown is unavoidable is key to making fossil-fuel companies and governments take action, says Bill McGuire, professor emeritus of geophysical and climate hazards at UCL"
+image: "https://i.guim.co.uk/img/media/85c1d460fd848f49e3d3f565c54a40c6df0cb4ab/0_39_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=017bdc364d59bbc45167bef36aa44946"
 group: pro
 rank: 6
 ---

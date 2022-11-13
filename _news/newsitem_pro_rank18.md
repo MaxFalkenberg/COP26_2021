@@ -1,9 +1,9 @@
 ---
-publication: "newscientist.com"
-link: "http://www.newscientist.com/podcasts/148-climate-action-from-cop27-world-population-reaches-8-billion/"
-title: "#148 Climate action from COP27; world population reaches 8 billion"
-excerpt: "Warnings over the world’s mad dash to create new supplies of fossil fuels, discussions about climate loss and damage, and talk about nature-based solutions. COP27 in Egypt is in full swing. Our report"
-image: "https://assets.pippa.io/shows/61850ae845b6e300132557e2/show-cover.jpg"
+publication: "cbc.ca"
+link: "https://www.cbc.ca/news/cop27-ask-faq-1.6648293"
+title: "Why can't COP27 just be a virtual meeting? Your questions answered | CBC News"
+excerpt: "What's at stake at COP27? Has any progress been made since COP26? Why can’t it be a virtual event? Here's what you wanted to know about the climate change conference."
+image: "https://i.cbc.ca/1.6648367.1668119208!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cop27-climate-summit.jpg"
 group: pro
 rank: 18
 ---

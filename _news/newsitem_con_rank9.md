@@ -1,9 +1,9 @@
 ---
-publication: "climatechangeconversation.blogspot.com"
-link: "https://climatechangeconversation.blogspot.com/2022/11/fate-of-annual-united-nations-climate.html"
-title: "Fate Of Annual United Nations Climate Change Conferences (COPs)"
-excerpt: "            'We are in a situation where the emission reductions that should have happened haven't. It's important to remember that COPs don..."
-image: "https://lh3.googleusercontent.com/-B-GmI83Sn3A/Y24kJPpjnbI/AAAAAAAAACM/O3iIQ5g-YcQm96eb8EKTQxNJczouPfTrQCNcBGAsYHQ/w1200-h630-p-k-no-nu/1668162595273868-0.png"
+publication: "substack.com"
+link: "https://substack.com/redirect/8f50a0b0-b5d0-4ffc-bd65-77677ca8e382"
+title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
+excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
+image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
 group: con
 rank: 9
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/billmckibben/p/activists-are-the-engine"
-title: "Activists are the Engine"
-excerpt: "Egypt Dispatch 3--Finally some noise at the COP"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F54528871-33ef-4b88-b465-a072174000b3_4032x3024.jpeg"
+publication: "stuartbramhall.wordpress.com"
+link: "https://stuartbramhall.wordpress.com/2022/11/12/hypocrites-400-private-planes-arrived-in-egypt-for-the-cop27-meaningless-elite-orgy/"
+title: "Hypocrites: 400 Private Planes Arrived in Egypt for the COP27 Meaningless Elite Orgy"
+excerpt: "Via"
+image: "https://s0.wp.com/i/blank.jpg"
 group: con
 rank: 13
 ---
