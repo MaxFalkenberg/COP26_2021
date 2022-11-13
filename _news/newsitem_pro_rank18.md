@@ -1,9 +1,9 @@
 ---
-publication: "newscientist.com"
-link: "http://www.newscientist.com/podcasts/148-climate-action-from-cop27-world-population-reaches-8-billion/"
-title: "#148 Climate action from COP27; world population reaches 8 billion"
-excerpt: "Warnings over the world’s mad dash to create new supplies of fossil fuels, discussions about climate loss and damage, and talk about nature-based solutions. COP27 in Egypt is in full swing. Our report"
-image: "https://assets.pippa.io/shows/61850ae845b6e300132557e2/show-cover.jpg"
+publication: "mol.im"
+link: "https://mol.im/a/11398493"
+title: "Fury over Cop27 'VIP' menu with £90 beef dish and bottomless booze"
+excerpt: "Officials who land a spot at the conference's exclusive VIP restaurant will be able to dine out on an array of pricey meat and fish dishes at the climate conference in Sharm el-Sheikh this week."
+image: "https://i.dailymail.co.uk/1s/2022/11/07/13/64272299-0-image-a-15_1667826104402.jpg"
 group: pro
 rank: 18
 ---
