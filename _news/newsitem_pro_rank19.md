@@ -1,9 +1,9 @@
 ---
-publication: "mol.im"
-link: "https://mol.im/a/11398493"
-title: "Fury over Cop27 'VIP' menu with £90 beef dish and bottomless booze"
-excerpt: "Officials who land a spot at the conference's exclusive VIP restaurant will be able to dine out on an array of pricey meat and fish dishes at the climate conference in Sharm el-Sheikh this week."
-image: "https://i.dailymail.co.uk/1s/2022/11/07/13/64272299-0-image-a-15_1667826104402.jpg"
+publication: "newstatesman.com"
+link: "https://newstatesman.com/environment/2022/11/greta-thunberg-cop27-is-a-scam"
+title: "Greta Thunberg on why Cop27 is a 'scam'"
+excerpt: "The activist calls out politicians who use the UN climate process for their own ends."
+image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1169833108.jpg"
 group: pro
 rank: 19
 ---
