@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/billmckibben/p/activists-are-the-engine"
-title: "Activists are the Engine"
-excerpt: "Egypt Dispatch 3--Finally some noise at the COP"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F54528871-33ef-4b88-b465-a072174000b3_4032x3024.jpeg"
+publication: "truth4freedom.wordpress.com"
+link: "https://truth4freedom.wordpress.com/2022/11/12/spending-your-money-its-finance-day-at-cop27/"
+title: "Spending Your Money: It’s ‘Finance Day’ At COP27"
+excerpt: "11-11-2022 • Technocracy.NewsAl Gore is the ultimate huckster when pumping the UN delegates to climate action. In bunko terms, this is the practice of “shaking the money tree” to loose …"
+image: "http://img.youtube.com/vi/vWsmFbztKBs/0.jpg"
 group: con
 rank: 13
 ---

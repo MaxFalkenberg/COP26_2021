@@ -1,9 +1,9 @@
 ---
-publication: "truth4freedom.wordpress.com"
-link: "https://truth4freedom.wordpress.com/2022/11/12/spending-your-money-its-finance-day-at-cop27/"
-title: "Spending Your Money: It’s ‘Finance Day’ At COP27"
-excerpt: "11-11-2022 • Technocracy.NewsAl Gore is the ultimate huckster when pumping the UN delegates to climate action. In bunko terms, this is the practice of “shaking the money tree” to loose …"
-image: "http://img.youtube.com/vi/vWsmFbztKBs/0.jpg"
+publication: "iliyananedkova.wordpress.com"
+link: "https://iliyananedkova.wordpress.com/2022/10/15/traditional-dance/"
+title: "Traditional Dance"
+excerpt: "I was very pleased to be able to nurture my curatorial interest in contemporary, historical and traditional dance, including screen dance, by serving as the Vice-Convenor on the Board of Trustees o…"
+image: "https://iliyananedkova.files.wordpress.com/2022/10/poster-a2.png?w=848"
 group: con
 rank: 14
 ---

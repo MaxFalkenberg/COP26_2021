@@ -1,9 +1,9 @@
 ---
-publication: "dailymail.co.uk"
-link: "https://www.dailymail.co.uk/news/article-11416209/FOUR-private-jets-arrived-Egypt-COP27-climate-delegates-accused-hypocrisy.html"
-title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
-excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
-image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
+publication: "nationalpost.com"
+link: "https://nationalpost.com/opinion/rex-murphy-cop27s-great-pyramid-scheme"
+title: "Rex Murphy: COP27's great pyramid scheme"
+excerpt: "As always, anti-oil missionaries are consuming copious amounts of jet fuel to fly to a summit dedicated to eliminating oil and gas"
+image: "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2022/11/Khafre-Pyramid.jpg"
 group: pro
 rank: 3
 ---

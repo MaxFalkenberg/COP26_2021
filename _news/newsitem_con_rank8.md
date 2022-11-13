@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/world/2022/11/13/India-seeks-COP27-deal-to-phase-down-all-fossil-fuels-Sources"
-title: "India seeks COP27 deal to ‘phase down’ all fossil fuels: Sources"
-excerpt: "India wants countries to agree to phase down all fossil fuels at the COP27 climate summit in Egypt, rather than a narrower deal to phase down coal as was"
-image: "https://vid.alarabiya.net/images/2022/11/02/ce097661-639d-4649-878a-108c0542e383/ce097661-639d-4649-878a-108c0542e383_16x9_600x338.JPG"
+publication: "independentsentinel.com"
+link: "https://www.independentsentinel.com/biden-doubles-down-on-ending-our-way-of-life-at-cop27/"
+title: "Biden Doubles Down on Ending Our Way of Life at COP27"
+excerpt: "Biden unveiled a domestic plan to crack down on the U.S. oil and gas industry’s emissions of methane...Drillers begged him not to..."
+image: "https://i0.wp.com/www.independentsentinel.com/wp-content/uploads/2022/09/iStock-1358601331.jpg?fit=600%2C383&ssl=1"
 group: con
 rank: 8
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "newstatesman.com"
-link: "https://newstatesman.com/environment/2022/11/greta-thunberg-cop27-is-a-scam"
-title: "Greta Thunberg on why Cop27 is a 'scam'"
-excerpt: "The activist calls out politicians who use the UN climate process for their own ends."
-image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1169833108.jpg"
+publication: "dailymail.co.uk"
+link: "https://www.dailymail.co.uk/news/article-11416209/FOUR-private-jets-arrived-Egypt-COP27-climate-delegates-accused-hypocrisy.html"
+title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
+excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
+image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
 group: pro
 rank: 2
 ---

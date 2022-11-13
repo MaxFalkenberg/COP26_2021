@@ -1,9 +1,9 @@
 ---
-publication: "cbc.ca"
-link: "https://www.cbc.ca/news/cop27-ask-faq-1.6648293"
-title: "Why can't COP27 just be a virtual meeting? Your questions answered | CBC News"
-excerpt: "What's at stake at COP27? Has any progress been made since COP26? Why can’t it be a virtual event? Here's what you wanted to know about the climate change conference."
-image: "https://i.cbc.ca/1.6648367.1668119208!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cop27-climate-summit.jpg"
+publication: "huffpost.com"
+link: "https://www.huffpost.com/entry/ap-cop27-brazil-climate-engagement_n_636fbdf8e4b0290136429a0c"
+title: "Brazil Is Back As A Climate Leader, Former Environmental Minister Says"
+excerpt: "“Brazil will return to the protagonist role it previously had when it comes to climate, to biodiversity.'"
+image: "https://img.huffingtonpost.com/asset/636fbdf92200005c00b7c816.jpeg?cache=PloIW9W5U3&ops=1200_630"
 group: pro
 rank: 14
 ---

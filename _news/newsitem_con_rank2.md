@@ -1,9 +1,9 @@
 ---
-publication: "wnd.com"
-link: "https://www.wnd.com/2022/11/john-kerry-spills-beans-u-n-s-cop17-meeting/"
-title: "John Kerry spills the beans at U.N.'s COP17 meeting"
-excerpt: "The World Economic Forum’s climate change agenda was “modeled” after the effort to roll out vaccines during the COVID pandemic, revealed U.S. Special Presidential Envoy for Climate John Kerry during a"
-image: "https://www.wnd.com/wp-content/uploads/2018/09/john-kerry-defenseimagery-PD-600.jpg"
+publication: "breitbart.com"
+link: "https://www.breitbart.com/europe/2022/11/12/hypocrisy-and-elitism-400-private-jets-land-in-egypt-for-cop27-climate-conference/"
+title: "400 Private Jets Land in Egypt for COP27 UN Climate Conference"
+excerpt: "With thousands of elites descending upon Sharm El Sheikh for COP27 climate summit, 400 private jets have been seen landing in the Egypt."
+image: "https://media.breitbart.com/media/2022/11/GettyImages-1244638206-2-640x335.jpg"
 group: con
 rank: 2
 ---

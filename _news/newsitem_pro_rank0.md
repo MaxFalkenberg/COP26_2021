@@ -1,9 +1,9 @@
 ---
-publication: "nationalpost.com"
-link: "https://nationalpost.com/opinion/rex-murphy-cop27s-great-pyramid-scheme"
-title: "Rex Murphy: COP27's great pyramid scheme"
-excerpt: "As always, anti-oil missionaries are consuming copious amounts of jet fuel to fly to a summit dedicated to eliminating oil and gas"
-image: "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2022/11/Khafre-Pyramid.jpg"
+publication: "newstatesman.com"
+link: "https://newstatesman.com/environment/2022/11/greta-thunberg-cop27-is-a-scam"
+title: "Greta Thunberg on why Cop27 is a 'scam'"
+excerpt: "The activist calls out politicians who use the UN climate process for their own ends."
+image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1169833108.jpg"
 group: pro
 rank: 0
 ---
