@@ -1,9 +1,9 @@
 ---
-publication: "nationalpost.com"
-link: "https://nationalpost.com/opinion/rex-murphy-cop27s-great-pyramid-scheme"
-title: "Rex Murphy: COP27's great pyramid scheme"
-excerpt: "As always, anti-oil missionaries are consuming copious amounts of jet fuel to fly to a summit dedicated to eliminating oil and gas"
-image: "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2022/11/Khafre-Pyramid.jpg"
+publication: "express.co.uk"
+link: "https://www.express.co.uk/comment/expresscomment/1694471/Nicola-Sturgeon-analysis-Sturgeon-followed-world-leaders-at-COP27-for-selfies"
+title: "'Sturgeon followed world leaders at COP27 for selfies to boost her PR'"
+excerpt: "At least in theory, an international climate conference is supposed to be a place where leaders of nations meet to discuss important issues. But for politicians who are not as powerful as they would l"
+image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4392778.jpg?r=1668071748477"
 group: pro
 rank: 1
 ---

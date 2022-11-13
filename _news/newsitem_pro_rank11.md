@@ -1,9 +1,9 @@
 ---
-publication: "financialpost.com"
-link: "https://financialpost.com/commodities/energy/ruffing-some-feathers-at-cop27-canada-includes-oil-and-gas-companies-in-its-delegation"
-title: "Canada ruffles some feathers at COP27 by including oil and gas representatives in its delegation"
-excerpt: "'There really is no solution without the industry': oil and gas executives from Canada are attending the COP27 climate conference. Read on."
-image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/11/COP27-climate-gs1108.png"
+publication: "mol.im"
+link: "https://mol.im/a/11398493"
+title: "Fury over Cop27 'VIP' menu with £90 beef dish and bottomless booze"
+excerpt: "Officials who land a spot at the conference's exclusive VIP restaurant will be able to dine out on an array of pricey meat and fish dishes at the climate conference in Sharm el-Sheikh this week."
+image: "https://i.dailymail.co.uk/1s/2022/11/07/13/64272299-0-image-a-15_1667826104402.jpg"
 group: pro
 rank: 11
 ---

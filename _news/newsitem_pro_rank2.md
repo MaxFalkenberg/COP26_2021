@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1694471/Nicola-Sturgeon-analysis-Sturgeon-followed-world-leaders-at-COP27-for-selfies"
-title: "'Sturgeon followed world leaders at COP27 for selfies to boost her PR'"
-excerpt: "At least in theory, an international climate conference is supposed to be a place where leaders of nations meet to discuss important issues. But for politicians who are not as powerful as they would l"
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4392778.jpg?r=1668071748477"
+publication: "newstatesman.com"
+link: "https://newstatesman.com/environment/2022/11/greta-thunberg-cop27-is-a-scam"
+title: "Greta Thunberg on why Cop27 is a 'scam'"
+excerpt: "The activist calls out politicians who use the UN climate process for their own ends."
+image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1169833108.jpg"
 group: pro
 rank: 2
 ---
