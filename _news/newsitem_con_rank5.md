@@ -1,9 +1,9 @@
 ---
-publication: "technocracy.news"
-link: "https://www.technocracy.news/cop27-where-green-deals-are-signed-in-red-ink/"
-title: "COP27: Where Green Deals Are Signed In Red Ink"
-excerpt: "COP27 is a con of epic proportions, a continuation of the 20th century plundering and pillaging of the third world. Now the first world has been made a target as well, which requires more sophisticati"
-image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-14-at-6.32.07-AM.png"
+publication: "breitbart.com"
+link: "https://www.breitbart.com/europe/2022/11/12/hypocrisy-and-elitism-400-private-jets-land-in-egypt-for-cop27-climate-conference/"
+title: "400 Private Jets Land in Egypt for COP27 UN Climate Conference"
+excerpt: "With thousands of elites descending upon Sharm El Sheikh for COP27 climate summit, 400 private jets have been seen landing in the Egypt."
+image: "https://media.breitbart.com/media/2022/11/GettyImages-1244638206-2-640x335.jpg"
 group: con
 rank: 5
 ---

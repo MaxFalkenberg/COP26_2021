@@ -1,9 +1,9 @@
 ---
-publication: "takvera.blogspot.com"
-link: "https://takvera.blogspot.com/2022/09/australia-at-cop27-diary.html"
-title: "Australia at COP27 Diary"
-excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAygcLbUDglJtUREWLk-xU7Xf-lmwJseD4CB6SZ__ZyRITTI2T6FiYecHkkpiFuvtBLu9Rr1jUMUqe8PyH1IcppkC72gS71PYT_43OpmFhNBz5QZzirs39XEcYpqvQR87LcHAYCZrnopgNEz-hLW7WCQk4NJql3MM1qqfz8E_cWPWz-cEpngg3nokE/w1200-h630-p-k-no-nu/2022-11-11-CAT-gas-expansion.png"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/14/WS6371985da310491754329763.html"
+title: "'Highway to climate hell' alarm sounded"
+excerpt: "United Nations Secretary-General Antonio Guterres has given a stark warning to global leaders at the COP27 conference that humanity is on a 'highway to climate hell' if the fight for a livable planet "
+image: "http://img2.chinadaily.com.cn/images/202211/14/6371985da31049178c905df2.jpeg"
 group: con
 rank: 7
 ---

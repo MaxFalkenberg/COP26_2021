@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1694471/Nicola-Sturgeon-analysis-Sturgeon-followed-world-leaders-at-COP27-for-selfies"
-title: "'Sturgeon followed world leaders at COP27 for selfies to boost her PR'"
-excerpt: "At least in theory, an international climate conference is supposed to be a place where leaders of nations meet to discuss important issues. But for politicians who are not as powerful as they would l"
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4392778.jpg?r=1668071748477"
+publication: "independent.co.uk"
+link: "https://www.independent.co.uk/news/egypt-ap-germany-foreign-ministry-cop27-b2224203.html"
+title: "UN probes Egypt police misconduct claims at climate talks"
+excerpt: "The United Nations says it is investigating allegations of misconduct by Egyptian police officers providing security at this year’s international climate talks"
+image: "https://static.independent.co.uk/2022/11/13/17/COP27_Climate_Summit_59211.jpg?quality=75&width=1200&auto=webp"
 group: pro
 rank: 9
 ---

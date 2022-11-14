@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63584993"
-title: "COP27: BP chief listed as delegate for Mauritania"
-excerpt: "Chief executive of leading oil company is registered for COP27 as a delegate from poor African nation."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/9DE3/production/_127591404_8b02a6d3109de19484839f21a08d34e1284f7485.jpg"
+publication: "euronews.com"
+link: "https://www.euronews.com/green/2022/11/13/this-72-year-old-grandmother-cycled-more-than-8000km-from-sweden-to-egypt-for-cop27"
+title: "Swedish cyclist pedals to Egypt to raise climate awareness"
+excerpt: "Hildebrandt biked from Sweden to Sharm El Sheikh to raise awareness and urge world leaders gathered at the conference to take concrete steps to stop climate change."
+image: "https://static.euronews.com/articles/stories/07/19/14/52/1000x563_cmsv2_0a017614-ec39-50f4-bedc-d860ae70f2c6-7191452.jpg"
 group: pro
 rank: 18
 ---

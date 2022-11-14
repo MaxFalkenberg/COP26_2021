@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/14/climate-honesty-are-we-beyond-catastrophe-on-the-highwaytohell-cop27-tellthetruth-auspol-climatecrisis-metacrisis-time-for-plane/"
-title: "Climate Honesty – are we ‘beyond catastrophe’? On the #HighwayToHell #COP27 #TellTheTruth #auspol #ClimateCrisis #MetaCrisis Time for #PlanE"
-excerpt: "By Professor Jem Bendell Strategist & educator on social change, focused on Deep Adaptation to societal breakdown This is an essay that responds critically to the widely read piece in the New Y…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/09/img_1725.jpg?w=1200"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/cop27-where-green-deals-are-signed-in-red-ink/"
+title: "COP27: Where Green Deals Are Signed In Red Ink"
+excerpt: "COP27 is a con of epic proportions, a continuation of the 20th century plundering and pillaging of the third world. Now the first world has been made a target as well, which requires more sophisticati"
+image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-14-at-6.32.07-AM.png"
 group: con
 rank: 3
 ---
