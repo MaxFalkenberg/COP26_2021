@@ -1,9 +1,9 @@
 ---
-publication: "ft.com"
-link: "https://www.ft.com/content/a29c1204-70cf-46c1-b266-780788bfa048"
-title: "Subscribe to read | Financial Times"
-excerpt: "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
-image: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
+publication: "apnews.com"
+link: "https://apnews.com/article/floods-science-africa-asia-climate-and-environment-66e55322884b19ca48577f7541418188"
+title: "Loss and damage: Fight over human harm, huge climate costs"
+excerpt: "SHARM EL-SHEIKH, Egypt (AP) — It was a total loss — the type that is usually glossed over in big impersonal statistics like $40 billion in damage  from this summer's Pakistan floods that put one-third"
+image: "https://storage.googleapis.com/afs-prod/media/a8be846c9e2645dba254b40da60cc3c3/3000.jpeg"
 group: pro
 rank: 14
 ---

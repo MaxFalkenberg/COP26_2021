@@ -1,9 +1,9 @@
 ---
-publication: "foreignpolicy.com"
-link: "https://foreignpolicy.com/2022/11/09/egypt-human-rights-cop27-activist-hunger-strike/"
-title: "Activist’s Hunger Strike Casts Shadow Over COP27"
-excerpt: "It has become impossible for Cairo to escape scrutiny of its troubling human rights record."
-image: "https://foreignpolicy.com/wp-content/uploads/2022/11/GettyImages-1439968109-2.jpg?w=1000"
+publication: "thetimes.co.uk"
+link: "https://www.thetimes.co.uk/article/doom-mongers-risk-climate-fatigue-with-their-dire-warnings-2txvxcf9q"
+title: "Doom-mongers risk climate fatigue with their dire warnings"
+excerpt: "As activists and world leaders were gathering in the Egyptian resort of Sharm el-Sheikh last week for the UN-organised climate conference Cop27, Ryanair boss"
+image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fefe28730-62c4-11ed-8611-a128c33d7159.png?crop=1500%2C844%2C0%2C78&resize=1200"
 group: pro
 rank: 15
 ---

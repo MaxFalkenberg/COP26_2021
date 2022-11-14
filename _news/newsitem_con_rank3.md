@@ -1,9 +1,9 @@
 ---
 publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/14/climate-honesty-are-we-beyond-catastrophe-on-the-highwaytohell-cop27-tellthetruth-auspol-climatecrisis-metacrisis-time-for-plane/"
-title: "Climate Honesty – are we ‘beyond catastrophe’? On the #HighwayToHell #COP27 #TellTheTruth #auspol #ClimateCrisis #MetaCrisis Time for #PlanE"
-excerpt: "By Professor Jem Bendell Strategist & educator on social change, focused on Deep Adaptation to societal breakdown This is an essay that responds critically to the widely read piece in the New Y…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/09/img_1725.jpg?w=1200"
+link: "https://climateactionaustralia.wordpress.com/2022/11/13/professor-terry-hughes-sea-surface-temperature-1-5-to-2c-above-normal-on-greatbarrierreef-cop27-ecologicalcrisis/"
+title: "Professor Terry Hughes Sea Surface Temperature 1.5 to 2C above normal on #GreatBarrierReef #COP27 #EcologicalCrisis"
+excerpt: "From Professor Terry Hughes @ProfTerryHughes Twitter Sea Surface temperatures in the northern 2/3 of the #GreatBarrierReef were 1.5-2C above normal in late October. We were horrified to see some co…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1999.jpg?w=1200"
 group: con
 rank: 3
 ---
