@@ -1,9 +1,9 @@
 ---
-publication: "takvera.blogspot.com"
-link: "https://takvera.blogspot.com/2022/09/australia-at-cop27-diary.html"
-title: "Australia at COP27 Diary"
-excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAygcLbUDglJtUREWLk-xU7Xf-lmwJseD4CB6SZ__ZyRITTI2T6FiYecHkkpiFuvtBLu9Rr1jUMUqe8PyH1IcppkC72gS71PYT_43OpmFhNBz5QZzirs39XEcYpqvQR87LcHAYCZrnopgNEz-hLW7WCQk4NJql3MM1qqfz8E_cWPWz-cEpngg3nokE/w1200-h630-p-k-no-nu/2022-11-11-CAT-gas-expansion.png"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/billmckibben/p/inconsolable-loss-and-overpowering"
+title: "Inconsolable Loss and Overpowering Damage"
+excerpt: "Egypt Dispatch 4: Reckoning with the Legacy of our Era"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F68d9e079-f140-4849-97e5-9c94b0b55326_1440x1080.jpeg"
 group: con
 rank: 5
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/news/egypt-ap-germany-foreign-ministry-cop27-b2224203.html"
-title: "UN probes Egypt police misconduct claims at climate talks"
-excerpt: "The United Nations says it is investigating allegations of misconduct by Egyptian police officers providing security at this year’s international climate talks"
-image: "https://static.independent.co.uk/2022/11/13/17/COP27_Climate_Summit_59211.jpg?quality=75&width=1200&auto=webp"
+publication: "bbc.com"
+link: "https://www.bbc.com/news/63544995"
+title: "How many private jets were at COP27?"
+excerpt: "Demonstrators in Amsterdam stopped private jets taking off ahead of the UN Climate Change Conference."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/C7E7/production/_127557115_mediaitem127557114.jpg"
 group: pro
 rank: 18
 ---

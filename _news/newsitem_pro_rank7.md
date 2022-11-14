@@ -1,9 +1,9 @@
 ---
 publication: "dailymail.co.uk"
-link: "https://www.dailymail.co.uk/news/article-11398493/amp/Cop27-Egypt-Activists-hit-VIP-menu-featuring-beef-chicken-fish-dairy-products.html"
-title: "Fury over Cop27 'VIP' menu with £90 beef dish and bottomless booze"
-excerpt: "Officials who land a spot at the conference's exclusive VIP restaurant will be able to dine out on an array of pricey meat and fish dishes at the climate conference in Sharm el-Sheikh this week."
-image: "https://i.dailymail.co.uk/1s/2022/11/07/13/64272299-0-image-a-15_1667826104402.jpg"
+link: "https://www.dailymail.co.uk/news/article-11416209/FOUR-private-jets-arrived-Egypt-COP27-climate-delegates-accused-hypocrisy.html"
+title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
+excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
+image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
 group: pro
 rank: 7
 ---
