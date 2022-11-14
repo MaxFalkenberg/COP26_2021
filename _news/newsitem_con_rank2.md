@@ -1,9 +1,9 @@
 ---
-publication: "petersweden.substack.com"
-link: "http://petersweden.substack.com/p/climate-hypocrisy"
-title: "The insane CLIMATE HYPOCRISY of the elite "
-excerpt: "This should come as a surprise to nobody that has been paying attention."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3cf0d44d-7dbb-429b-91e4-d73f29b295b8_705x420.png"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/theplanet/p/a-good-week-in-worrying-times"
+title: "A Good Week in Worrying Times"
+excerpt: "Watching American politics from Ottawa is like having a balcony seat in a theater. Looking down at a stage below us to the south feels like watching a classic drama where good and evil challenge each "
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7af47ccf-6a67-4f0b-b726-e8c89d356545_1080x608.jpeg"
 group: con
 rank: 2
 ---

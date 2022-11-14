@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/63544995"
-title: "How many private jets were at COP27?"
-excerpt: "Demonstrators in Amsterdam stopped private jets taking off ahead of the UN Climate Change Conference."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/C7E7/production/_127557115_mediaitem127557114.jpg"
+publication: "news.stv.tv"
+link: "https://news.stv.tv/scotland/no-more-money-for-scottish-nhs-staff-as-strikes-loom-warns-health-secretary-humza-yousaf"
+title: "No more money for NHS staff as strikes loom, warns Humza Yousaf"
+excerpt: "On Saturday, the GMB union announced staff at the Scottish Ambulance Service will go on strike."
+image: "https://news.stv.tv/wp-content/uploads/2022/01/b5a33753824ce77756dd3c2d84fc1474-social-default.jpg"
 group: pro
 rank: 18
 ---

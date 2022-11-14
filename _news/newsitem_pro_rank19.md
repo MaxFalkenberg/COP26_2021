@@ -1,9 +1,9 @@
 ---
 publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63584993"
-title: "COP27: BP chief listed as delegate for Mauritania"
-excerpt: "Chief executive of leading oil company is registered for COP27 as a delegate from poor African nation."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/9DE3/production/_127591404_8b02a6d3109de19484839f21a08d34e1284f7485.jpg"
+link: "https://www.bbc.com/news/63544995"
+title: "How many private jets were at COP27?"
+excerpt: "Demonstrators in Amsterdam stopped private jets taking off ahead of the UN Climate Change Conference."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/C7E7/production/_127557115_mediaitem127557114.jpg"
 group: pro
 rank: 19
 ---
