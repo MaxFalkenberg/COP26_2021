@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/middle-east/2022/11/13/Climate-disasters-put-plight-of-migrants-in-COP27-focus-"
-title: "Climate disasters put plight of migrants in COP27 focus "
-excerpt: "Issack Hassan lives in a migrant camp in Baidoa city in Somalia - one of more than a million people displaced since January after five successive failed"
-image: "https://vid.alarabiya.net/images/2022/11/13/290612d3-fdda-4449-a6ec-bf579f12a17e/290612d3-fdda-4449-a6ec-bf579f12a17e_16x9_600x338.JPG"
+publication: "wnd.com"
+link: "https://www.wnd.com/2022/11/climate-cult-meeting-depopulation/"
+title: "'Climate cult' meeting is 'all about depopulation'"
+excerpt: "“Let them eat cake,” famously attributed to Marie Antoinette by Jean-Jacques Rousseau, has become universal shorthand for a monarch’s total disregard for her famished citizens stealing and wreaking ha"
+image: "https://www.wnd.com/wp-content/uploads/2022/05/Apocalypse-armageddon-end-civilization-times-of-days-death-skull-heartbroken-anguish-misery-grief-woman-crying-destruction-pain-emotion-despair-pillars-pixabay.jpg"
 group: con
 rank: 13
 ---

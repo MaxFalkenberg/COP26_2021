@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/business/technology/2022/11/13/GE-and-IRENA-sign-collaborative-agreement-at-COP27-to-support-global-climate-change"
-title: "GE and IRENA sign collaborative agreement at COP27 to support global climate change"
-excerpt: "GE signed a framework agreement with the International Renewable Energy Agency (IRENA) to collaborate on a plan which will support both climate change and"
-image: "https://vid.alarabiya.net/images/2022/11/13/79c6811d-8149-4cfe-9dde-eb48f850b45e/79c6811d-8149-4cfe-9dde-eb48f850b45e_16x9_600x338.jpg"
+publication: "mwangocapital.substack.com"
+link: "https://mwangocapital.substack.com/p/14-11-2022-safaricom-hy-23-results"
+title: "Safaricom HY 23 Results"
+excerpt: "Net profit declines 9.6% to KES 33.5B"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0775e2a2-b48e-41ad-87e8-b6167d8077c7_1600x917.png"
 group: con
 rank: 12
 ---
