@@ -1,9 +1,9 @@
 ---
 publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/14/on-the-highwaytohell-earth-surface-temperature-to-be-2c-warmer-by-2059-cop27-demand-climateaction-sdg13-hyperthreat-metacrisis/"
-title: "On the #HighwayToHell Earth surface temperature to be 2C warmer by 2059. #COP27 demand #ClimateAction #SDG13 #HyperThreat #MetaCrisis"
-excerpt: "Though it is interesting to understand the characteristics of individual years, global warming is ultimately about the long-term evolution of Earth’s climate. The following chart shows a ten-year m…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_2002.png?w=1200"
+link: "https://climateactionaustralia.wordpress.com/2022/11/14/climate-honesty-are-we-beyond-catastrophe-on-the-highwaytohell-cop27-tellthetruth-auspol-climatecrisis-metacrisis-time-for-plane/"
+title: "Climate Honesty – are we ‘beyond catastrophe’? On the #HighwayToHell #COP27 #TellTheTruth #auspol #ClimateCrisis #MetaCrisis Time for #PlanE"
+excerpt: "By Professor Jem Bendell Strategist & educator on social change, focused on Deep Adaptation to societal breakdown This is an essay that responds critically to the widely read piece in the New Y…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/09/img_1725.jpg?w=1200"
 group: con
 rank: 5
 ---

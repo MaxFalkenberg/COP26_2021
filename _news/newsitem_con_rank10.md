@@ -1,9 +1,9 @@
 ---
-publication: "ntd.com"
-link: "https://www.ntd.com/biden-launches-climate-change-fund-proposing-to-address-gender-inequities_881076.html"
-title: "Biden Launches Climate Change Fund Proposing to Address Gender Inequities"
-excerpt: "<p>President Joe Biden announced a multimillion-dollar “Climate Gender Equity Fund” at the U.N. COP27 climate conference in Egypt on Nov. 11 with the stated aim of boosting women’s participation in cl"
-image: "https://i.ntd.com/assets/uploads/2022/11/Biden_Egypt_GettyImages-1244689207-352x220.jpg"
+publication: "wnd.com"
+link: "https://www.wnd.com/2022/11/climate-cult-meeting-depopulation/"
+title: "'Climate cult' meeting is 'all about depopulation'"
+excerpt: "“Let them eat cake,” famously attributed to Marie Antoinette by Jean-Jacques Rousseau, has become universal shorthand for a monarch’s total disregard for her famished citizens stealing and wreaking ha"
+image: "https://www.wnd.com/wp-content/uploads/2022/05/Apocalypse-armageddon-end-civilization-times-of-days-death-skull-heartbroken-anguish-misery-grief-woman-crying-destruction-pain-emotion-despair-pillars-pixabay.jpg"
 group: con
 rank: 10
 ---

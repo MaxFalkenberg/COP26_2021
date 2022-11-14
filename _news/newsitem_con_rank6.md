@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/world/2022/11/13/India-seeks-COP27-deal-to-phase-down-all-fossil-fuels-Sources"
-title: "India seeks COP27 deal to ‘phase down’ all fossil fuels: Sources"
-excerpt: "India wants countries to agree to phase down all fossil fuels at the COP27 climate summit in Egypt, rather than a narrower deal to phase down coal as was"
-image: "https://vid.alarabiya.net/images/2022/11/02/ce097661-639d-4649-878a-108c0542e383/ce097661-639d-4649-878a-108c0542e383_16x9_600x338.JPG"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/climateintl/p/cop27-week-1-brief-taking-stock-and"
+title: "COP27 Week 1 Brief: Taking Stock, Discovering New Tools & Defining Ambition"
+excerpt: "This is an implementation COP, an African COP, a vulnerability COP. It is the COP where food systems have come to the mainstream conversation about how to properly and comprehensively combat climate c"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8eeccdf-54e2-4396-b099-449e5fa6cc44_3500x2262.jpeg"
 group: con
 rank: 6
 ---
