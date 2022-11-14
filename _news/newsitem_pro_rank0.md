@@ -1,9 +1,9 @@
 ---
-publication: "publicsenat.fr"
-link: "https://www.publicsenat.fr/article/parlementaire/l-obligation-de-pose-de-panneaux-photovoltaiques-sur-les-grands-parkings"
-title: "L’obligation de pose de panneaux photovoltaïques sur les grands parkings extérieurs adoptée au Sénat"
-excerpt: "Les sénateurs ont adopté ce 4 novembre l’article 11 du projet de loi sur l’accélération des énergies renouvelables, qui impose un équipement en ombrières photovoltaïques pour les parkings extérieurs d"
-image: "https://www.publicsenat.fr/sites/default/files/styles/pse_accueil_entete/public/thumbnails/image/sipa_00591366_000004.jpg?itok=4AtbO22x"
+publication: "forbes.com"
+link: "https://www.forbes.com/sites/louiseschiavone/2022/11/12/cop27s-soil-reckoning-how-agriculture-is-returning-to-its-roots/"
+title: "COP27’s Soil Reckoning: How Agriculture Is Returning To Its Roots"
+excerpt: "While the science, machinery, and now technology of farming have leapt into the 21st century, so have the brutal environmental realities. These are the challenges of planet earth in 2022."
+image: "https://imageio.forbes.com/specials-images/imageserve/636f24b52c24bfbb937fdfb6/0x0.jpg?format=jpg&width=1200"
 group: pro
 rank: 0
 ---
