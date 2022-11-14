@@ -1,9 +1,9 @@
 ---
-publication: "dailymail.co.uk"
-link: "https://www.dailymail.co.uk/news/article-11416209/FOUR-private-jets-arrived-Egypt-COP27-climate-delegates-accused-hypocrisy.html"
-title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
-excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
-image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
+publication: "bbc.com"
+link: "https://www.bbc.com/news/science-environment-63584993"
+title: "COP27: BP chief listed as delegate for Mauritania"
+excerpt: "Chief executive of leading oil company is registered for COP27 as a delegate from poor African nation."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/9DE3/production/_127591404_8b02a6d3109de19484839f21a08d34e1284f7485.jpg"
 group: pro
 rank: 14
 ---

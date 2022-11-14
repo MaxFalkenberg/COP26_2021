@@ -1,9 +1,9 @@
 ---
-publication: "presstv.ir"
-link: "https://www.presstv.ir/Detail/2022/11/14/692700/Europe-seeks-access-to-African-fossil-fuels-raising-alarm-at-COP27"
-title: "Wealthy European nations eye natural gas in poor Africa amid energy crunch "
-excerpt: "Europe"
-image: "https://cdn.presstv.ir/Photo/2022/11/14/61038215-fe6f-4502-b299-b3e85082409c.jfif"
+publication: "thefreethoughtproject.com"
+link: "https://thefreethoughtproject.com/be-the-change/elite-fly-400-private-jets-to-cop27-sponsored-by-largest-plastic-polluter-in-world-to-lecture-you-about-climate"
+title: "Elite Fly 400 Private Jets to COP27, Sponsored by Largest Plastic Polluter in World, To Lecture YOU About Climate"
+excerpt: "'The world is literally burning because of you,' according to the world's elite who produce more pollution in a few hours than most people make all year."
+image: "https://thefreethoughtproject.com/.image/t_share/MTkzNzQyMTkxMzkzMjUyODAz/jets-egypt.jpg"
 group: con
 rank: 4
 ---

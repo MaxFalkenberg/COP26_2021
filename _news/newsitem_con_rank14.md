@@ -1,9 +1,9 @@
 ---
-publication: "breitbart.com"
-link: "https://www.breitbart.com/europe/2022/11/11/record-number-of-fossil-fuel-lobbyists-attend-cop27-climate-conference/"
-title: "Record Number of Fossil Fuel Lobbyists Attend COP27 Climate Summit"
-excerpt: "The number of lobbyists from fossil fuel companies attending the COP27 climate change conference has increased by 25 per cent over last year."
-image: "https://media.breitbart.com/media/2022/11/GettyImages-1244638257-2-640x335.jpg"
+publication: "womenlead.substack.com"
+link: "https://womenlead.substack.com/p/at-cop27-barbados-pm-mia-mottley"
+title: "At COP27, Barbados PM Mia Mottley leads the call for a rethink on climate finance, and other stories"
+excerpt: "#WomenLead (Issue 123): Your weekly round-up on women in politics"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3b283da3-3fae-40e7-9c0b-619abe778e4f_1423x769.png"
 group: con
 rank: 14
 ---

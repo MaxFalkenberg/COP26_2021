@@ -1,9 +1,9 @@
 ---
-publication: "weforum.org"
-link: "https://www.weforum.org/agenda/2022/11/5-principles-we-need-for-the-future-of-blue-carbon/"
-title: "These 5 principles will help us secure the future of blue carbon"
-excerpt: "Up to one billion tons of carbon dioxide is released each year from degraded coastal ecosystems. Here's how blue carbon credits can reduce emissions and protect coastal communities."
-image: "https://assets.weforum.org/editor/DIn1y8LJxRmZ49TptP3ykr7b2yyh-XWx9KXTmgSpnpw.png"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/cop27-climate-marchers-demand-justice-despite-protest-restrictions-2022-11-12/"
+title: "COP27 climate marchers demand justice despite protest restrictions"
+excerpt: "Climate campaign groups marched at the U.N. climate summit in Sharm el-Sheikh on Saturday, calling for reparations for rising 'loss and damage' caused by global warming, under the watchful eye of secu"
+image: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=120"
 group: pro
 rank: 18
 ---
