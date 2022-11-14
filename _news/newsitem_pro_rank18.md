@@ -1,9 +1,9 @@
 ---
-publication: "dw.com"
-link: "https://www.dw.com/en/germany-complains-to-egypt-over-cop27-snooping-report/a-63743183"
-title: "Germany complains to Egypt over COP27 snooping: report – DW – 11/13/2022"
-excerpt: "The German embassy in Cairo accused Egyptian security officials of monitoring and filming events at the German pavilion in the climate conference venue. Berlin has used its presence to highlight human"
-image: "https://static.dw.com/image/63743322_6.jpg"
+publication: "independent.co.uk"
+link: "https://www.independent.co.uk/news/egypt-ap-germany-foreign-ministry-cop27-b2224203.html"
+title: "UN probes Egypt police misconduct claims at climate talks"
+excerpt: "The United Nations says it is investigating allegations of misconduct by Egyptian police officers providing security at this year’s international climate talks"
+image: "https://static.independent.co.uk/2022/11/13/17/COP27_Climate_Summit_59211.jpg?quality=75&width=1200&auto=webp"
 group: pro
 rank: 18
 ---
