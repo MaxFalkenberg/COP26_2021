@@ -1,9 +1,9 @@
 ---
-publication: "off-guardian.org"
-link: "https://off-guardian.org/2022/11/13/lab-grown-meat-nuclear-yeast-vats-cop27-reignites-the-war-on-food/"
-title: "Lab-grown meat & nuclear yeast vats: COP27 reignites the war on food"
-excerpt: "Kit Knightly We’re a week into this year’s UN climate summit, COP27, and the various agenda planned to roll out on the back of it are coming into focus. None more so than the autumn off…"
-image: "https://off-guardian.org/wp-content/medialibrary/lab-grown-meat-large.jpg"
+publication: "wnd.com"
+link: "https://www.wnd.com/2022/11/climate-cult-meeting-depopulation/"
+title: "'Climate cult' meeting is 'all about depopulation'"
+excerpt: "“Let them eat cake,” famously attributed to Marie Antoinette by Jean-Jacques Rousseau, has become universal shorthand for a monarch’s total disregard for her famished citizens stealing and wreaking ha"
+image: "https://www.wnd.com/wp-content/uploads/2022/05/Apocalypse-armageddon-end-civilization-times-of-days-death-skull-heartbroken-anguish-misery-grief-woman-crying-destruction-pain-emotion-despair-pillars-pixabay.jpg"
 group: con
 rank: 10
 ---

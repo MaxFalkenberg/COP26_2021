@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/world/2022/11/13/India-seeks-COP27-deal-to-phase-down-all-fossil-fuels-Sources"
-title: "India seeks COP27 deal to ‘phase down’ all fossil fuels: Sources"
-excerpt: "India wants countries to agree to phase down all fossil fuels at the COP27 climate summit in Egypt, rather than a narrower deal to phase down coal as was"
-image: "https://vid.alarabiya.net/images/2022/11/02/ce097661-639d-4649-878a-108c0542e383/ce097661-639d-4649-878a-108c0542e383_16x9_600x338.JPG"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/14/WS6371985da310491754329763.html"
+title: "'Highway to climate hell' alarm sounded"
+excerpt: "United Nations Secretary-General Antonio Guterres has given a stark warning to global leaders at the COP27 conference that humanity is on a 'highway to climate hell' if the fight for a livable planet "
+image: "http://img2.chinadaily.com.cn/images/202211/14/6371985da31049178c905df2.jpeg"
 group: con
 rank: 8
 ---

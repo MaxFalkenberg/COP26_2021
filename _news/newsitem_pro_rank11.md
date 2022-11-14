@@ -1,9 +1,9 @@
 ---
-publication: "qz.com"
-link: "https://qz.com/1069298/the-3-of-scientific-papers-that-deny-climate-change-are-all-flawed/amp"
-title: "The 3% of scientific papers that deny climate change are all flawed"
-excerpt: "Scientists who deny climate change are not modern-day Galileos."
-image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,fl_progressive,g_center,h_180,q_80,w_320/d60469e5ad759690e8deb03fefaf816d.png"
+publication: "express.co.uk"
+link: "https://www.express.co.uk/comment/expresscomment/1694471/Nicola-Sturgeon-analysis-Sturgeon-followed-world-leaders-at-COP27-for-selfies"
+title: "'Sturgeon followed world leaders at COP27 for selfies to boost her PR'"
+excerpt: "At least in theory, an international climate conference is supposed to be a place where leaders of nations meet to discuss important issues. But for politicians who are not as powerful as they would l"
+image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4392778.jpg?r=1668071748477"
 group: pro
 rank: 11
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/14/WS6371985da310491754329763.html"
-title: "'Highway to climate hell' alarm sounded"
-excerpt: "United Nations Secretary-General Antonio Guterres has given a stark warning to global leaders at the COP27 conference that humanity is on a 'highway to climate hell' if the fight for a livable planet "
-image: "http://img2.chinadaily.com.cn/images/202211/14/6371985da31049178c905df2.jpeg"
+publication: "off-guardian.org"
+link: "https://off-guardian.org/2022/11/13/lab-grown-meat-nuclear-yeast-vats-cop27-reignites-the-war-on-food/"
+title: "Lab-grown meat & nuclear yeast vats: COP27 reignites the war on food"
+excerpt: "Kit Knightly We’re a week into this year’s UN climate summit, COP27, and the various agenda planned to roll out on the back of it are coming into focus. None more so than the autumn off…"
+image: "https://off-guardian.org/wp-content/medialibrary/lab-grown-meat-large.jpg"
 group: con
 rank: 9
 ---

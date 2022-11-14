@@ -1,9 +1,9 @@
 ---
-publication: "iliyananedkova.wordpress.com"
-link: "https://iliyananedkova.wordpress.com/2022/10/15/traditional-dance/"
-title: "Traditional Dance"
-excerpt: "I was very pleased to be able to nurture my curatorial interest in contemporary, historical and traditional dance, including screen dance, by serving as the Vice-Convenor on the Board of Trustees o…"
-image: "https://iliyananedkova.files.wordpress.com/2022/10/poster-a2.png?w=848"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/business/technology/2022/11/13/GE-and-IRENA-sign-collaborative-agreement-at-COP27-to-support-global-climate-change"
+title: "GE and IRENA sign collaborative agreement at COP27 to support global climate change"
+excerpt: "GE signed a framework agreement with the International Renewable Energy Agency (IRENA) to collaborate on a plan which will support both climate change and"
+image: "https://vid.alarabiya.net/images/2022/11/13/79c6811d-8149-4cfe-9dde-eb48f850b45e/79c6811d-8149-4cfe-9dde-eb48f850b45e_16x9_600x338.jpg"
 group: con
 rank: 13
 ---
