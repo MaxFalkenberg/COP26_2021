@@ -1,9 +1,9 @@
 ---
-publication: "financialpost.com"
-link: "https://financialpost.com/commodities/energy/oil-gas/sonya-savage-alberta-cop27-energy-crisis"
-title: "Sonya Savage: Alberta is taking a seat at COP27 to help solve the global energy crisis"
-excerpt: "We need to have an honest conversation about balancing climate policy with energy and food security, writes Alberta's Sonya Savage. Read on."
-image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/11/sonya-savage.jpg"
+publication: "bbc.com"
+link: "https://www.bbc.com/news/science-environment-63584993"
+title: "COP27: BP chief listed as delegate for Mauritania"
+excerpt: "Chief executive of leading oil company is registered for COP27 as a delegate from poor African nation."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/9DE3/production/_127591404_8b02a6d3109de19484839f21a08d34e1284f7485.jpg"
 group: pro
 rank: 18
 ---

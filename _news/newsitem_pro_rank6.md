@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1694471/Nicola-Sturgeon-analysis-Sturgeon-followed-world-leaders-at-COP27-for-selfies#ICID=Android_ExpressNewApp_AppShare"
-title: "'Sturgeon followed world leaders at COP27 for selfies to boost her PR'"
-excerpt: "At least in theory, an international climate conference is supposed to be a place where leaders of nations meet to discuss important issues. But for politicians who are not as powerful as they would l"
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4392778.jpg?r=1668071748477"
+publication: "financialpost.com"
+link: "https://financialpost.com/commodities/energy/oil-gas/sonya-savage-alberta-cop27-energy-crisis"
+title: "Sonya Savage: Alberta is taking a seat at COP27 to help solve the global energy crisis"
+excerpt: "We need to have an honest conversation about balancing climate policy with energy and food security, writes Alberta's Sonya Savage. Read on."
+image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/11/sonya-savage.jpg"
 group: pro
 rank: 6
 ---

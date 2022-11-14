@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/14/the-world-will-likely-miss-1-5-degrees-c-why-isnt-anyone-saying-so-cop27-climatecrisis-metacrisis-hyperthreat-demand-climateaction-sdg13-tellthetruth/"
-title: "The World Will Likely Miss 1.5 Degrees C—Why Isn’t Anyone Saying So? #COP27 #ClimateCrisis #MetaCrisis #HyperThreat demand #ClimateAction #SDG13 #TellTheTruth"
-excerpt: "Though many scientists say it’s inevitable that the world will overshoot 1.5 degrees Celsius of warming, the global climate talks unfolding in Egypt are bound to the target. By Chelsea Harvey, E&am…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1981.jpg?w=1200"
+publication: "tallbloke.wordpress.com"
+link: "https://tallbloke.wordpress.com/2022/11/14/cop27-bulletin-visionless-summit-flails-into-week-two/"
+title: "COP27 bulletin: Visionless summit flails into week two"
+excerpt: "Another waste of time? They need some excuses for the next 27 COPs after all. A downbeat assessment from supporters of climate obsession. – – – As ministers fly in for week two of…"
+image: "https://tallbloke.files.wordpress.com/2022/08/cop27_egypt.jpg?w=150"
 group: con
 rank: 11
 ---
