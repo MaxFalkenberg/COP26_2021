@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/14/the-world-will-likely-miss-1-5-degrees-c-why-isnt-anyone-saying-so-cop27-climatecrisis-metacrisis-hyperthreat-demand-climateaction-sdg13-tellthetruth/"
-title: "The World Will Likely Miss 1.5 Degrees C—Why Isn’t Anyone Saying So? #COP27 #ClimateCrisis #MetaCrisis #HyperThreat demand #ClimateAction #SDG13 #TellTheTruth"
-excerpt: "Though many scientists say it’s inevitable that the world will overshoot 1.5 degrees Celsius of warming, the global climate talks unfolding in Egypt are bound to the target. By Chelsea Harvey, E&am…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1981.jpg?w=1200"
+publication: "womenlead.substack.com"
+link: "https://womenlead.substack.com/p/at-cop27-barbados-pm-mia-mottley"
+title: "At COP27, Barbados PM Mia Mottley leads the call for a rethink on climate finance, and other stories"
+excerpt: "#WomenLead (Issue 123): Your weekly round-up on women in politics"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3b283da3-3fae-40e7-9c0b-619abe778e4f_1423x769.png"
 group: con
 rank: 14
 ---

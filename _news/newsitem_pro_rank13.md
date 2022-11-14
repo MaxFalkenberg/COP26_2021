@@ -1,9 +1,9 @@
 ---
-publication: "dw.com"
-link: "https://www.dw.com/en/germany-complains-to-egypt-over-cop27-snooping-report/a-63743183"
-title: "Germany complains to Egypt over COP27 snooping: report – DW – 11/13/2022"
-excerpt: "The German embassy in Cairo accused Egyptian security officials of monitoring and filming events at the German pavilion in the climate conference venue. Berlin has used its presence to highlight human"
-image: "https://static.dw.com/image/63743322_6.jpg"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63617400"
+title: "COP27: Fears of compromise on key 1.5C global temperature issue"
+excerpt: "There are fears the commitment to a key warming limit may soften as nations seek agreement in Egypt."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/3766/production/_127628141_cop27protest_index_getty.jpg"
 group: pro
 rank: 13
 ---
