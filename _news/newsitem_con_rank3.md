@@ -1,9 +1,9 @@
 ---
-publication: "off-guardian.org"
-link: "https://off-guardian.org/2022/11/13/lab-grown-meat-nuclear-yeast-vats-cop27-reignites-the-war-on-food/"
-title: "Lab-grown meat & nuclear yeast vats: COP27 reignites the war on food"
-excerpt: "Kit Knightly We’re a week into this year’s UN climate summit, COP27, and the various agenda planned to roll out on the back of it are coming into focus. None more so than the autumn off…"
-image: "https://off-guardian.org/wp-content/medialibrary/lab-grown-meat-large.jpg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/14/climate-honesty-are-we-beyond-catastrophe-on-the-highwaytohell-cop27-tellthetruth-auspol-climatecrisis-metacrisis-time-for-plane/"
+title: "Climate Honesty – are we ‘beyond catastrophe’? On the #HighwayToHell #COP27 #TellTheTruth #auspol #ClimateCrisis #MetaCrisis Time for #PlanE"
+excerpt: "By Professor Jem Bendell Strategist & educator on social change, focused on Deep Adaptation to societal breakdown This is an essay that responds critically to the widely read piece in the New Y…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/09/img_1725.jpg?w=1200"
 group: con
 rank: 3
 ---

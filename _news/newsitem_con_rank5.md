@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/13/professor-terry-hughes-sea-surface-temperature-1-5-to-2c-above-normal-on-greatbarrierreef-cop27-ecologicalcrisis/"
-title: "Professor Terry Hughes Sea Surface Temperature 1.5 to 2C above normal on #GreatBarrierReef #COP27 #EcologicalCrisis"
-excerpt: "From Professor Terry Hughes @ProfTerryHughes Twitter Sea Surface temperatures in the northern 2/3 of the #GreatBarrierReef were 1.5-2C above normal in late October. We were horrified to see some co…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1999.jpg?w=1200"
+publication: "takvera.blogspot.com"
+link: "https://takvera.blogspot.com/2022/09/australia-at-cop27-diary.html"
+title: "Australia at COP27 Diary"
+excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAygcLbUDglJtUREWLk-xU7Xf-lmwJseD4CB6SZ__ZyRITTI2T6FiYecHkkpiFuvtBLu9Rr1jUMUqe8PyH1IcppkC72gS71PYT_43OpmFhNBz5QZzirs39XEcYpqvQR87LcHAYCZrnopgNEz-hLW7WCQk4NJql3MM1qqfz8E_cWPWz-cEpngg3nokE/w1200-h630-p-k-no-nu/2022-11-11-CAT-gas-expansion.png"
 group: con
 rank: 5
 ---
