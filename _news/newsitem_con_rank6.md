@@ -1,9 +1,9 @@
 ---
-publication: "wnd.com"
-link: "https://www.wnd.com/2022/11/climate-cult-meeting-depopulation/"
-title: "'Climate cult' meeting is 'all about depopulation'"
-excerpt: "“Let them eat cake,” famously attributed to Marie Antoinette by Jean-Jacques Rousseau, has become universal shorthand for a monarch’s total disregard for her famished citizens stealing and wreaking ha"
-image: "https://www.wnd.com/wp-content/uploads/2022/05/Apocalypse-armageddon-end-civilization-times-of-days-death-skull-heartbroken-anguish-misery-grief-woman-crying-destruction-pain-emotion-despair-pillars-pixabay.jpg"
+publication: "breitbart.com"
+link: "https://www.breitbart.com/europe/2022/11/12/hypocrisy-and-elitism-400-private-jets-land-in-egypt-for-cop27-climate-conference/"
+title: "400 Private Jets Land in Egypt for COP27 UN Climate Conference"
+excerpt: "With thousands of elites descending upon Sharm El Sheikh for COP27 climate summit, 400 private jets have been seen landing in the Egypt."
+image: "https://media.breitbart.com/media/2022/11/GettyImages-1244638206-2-640x335.jpg"
 group: con
 rank: 6
 ---

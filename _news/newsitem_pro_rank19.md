@@ -1,9 +1,9 @@
 ---
-publication: "weforum.org"
-link: "https://www.weforum.org/agenda/2022/11/5-principles-we-need-for-the-future-of-blue-carbon/"
-title: "These 5 principles will help us secure the future of blue carbon"
-excerpt: "Up to one billion tons of carbon dioxide is released each year from degraded coastal ecosystems. Here's how blue carbon credits can reduce emissions and protect coastal communities."
-image: "https://assets.weforum.org/editor/DIn1y8LJxRmZ49TptP3ykr7b2yyh-XWx9KXTmgSpnpw.png"
+publication: "insideclimatenews.org"
+link: "https://insideclimatenews.org/news/11112022/cop27-protests-sharm-el-sheikh-egypt/"
+title: "Frustration Simmers Around the Edges of COP27, and May Boil Over Far From the Summit - Inside Climate News"
+excerpt: "Even at their remote resort, walled off from climate protesters by an authoritarian government, the 40,000 delegates gathered at the COP27 climate conference in Sharm El-Sheikh, Egypt, can’t ignore th"
+image: "https://insideclimatenews.org/wp-content/uploads/2022/11/sharm-el-sheikh_sean-gallup-getty-1024x683.jpg"
 group: pro
 rank: 19
 ---

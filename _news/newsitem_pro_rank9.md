@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/news/egypt-ap-germany-foreign-ministry-cop27-b2224203.html"
-title: "UN probes Egypt police misconduct claims at climate talks"
-excerpt: "The United Nations says it is investigating allegations of misconduct by Egyptian police officers providing security at this year’s international climate talks"
-image: "https://static.independent.co.uk/2022/11/13/17/COP27_Climate_Summit_59211.jpg?quality=75&width=1200&auto=webp"
+publication: "news.stv.tv"
+link: "https://news.stv.tv/scotland/no-more-money-for-scottish-nhs-staff-as-strikes-loom-warns-health-secretary-humza-yousaf"
+title: "No more money for NHS staff as strikes loom, warns Humza Yousaf"
+excerpt: "On Saturday, the GMB union announced staff at the Scottish Ambulance Service will go on strike."
+image: "https://news.stv.tv/wp-content/uploads/2022/01/b5a33753824ce77756dd3c2d84fc1474-social-default.jpg"
 group: pro
 rank: 9
 ---

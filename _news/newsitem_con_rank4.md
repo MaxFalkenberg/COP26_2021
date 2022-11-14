@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/14/climate-honesty-are-we-beyond-catastrophe-on-the-highwaytohell-cop27-tellthetruth-auspol-climatecrisis-metacrisis-time-for-plane/"
-title: "Climate Honesty – are we ‘beyond catastrophe’? On the #HighwayToHell #COP27 #TellTheTruth #auspol #ClimateCrisis #MetaCrisis Time for #PlanE"
-excerpt: "By Professor Jem Bendell Strategist & educator on social change, focused on Deep Adaptation to societal breakdown This is an essay that responds critically to the widely read piece in the New Y…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/09/img_1725.jpg?w=1200"
+publication: "wnd.com"
+link: "https://www.wnd.com/2022/11/climate-cult-meeting-depopulation/"
+title: "'Climate cult' meeting is 'all about depopulation'"
+excerpt: "“Let them eat cake,” famously attributed to Marie Antoinette by Jean-Jacques Rousseau, has become universal shorthand for a monarch’s total disregard for her famished citizens stealing and wreaking ha"
+image: "https://www.wnd.com/wp-content/uploads/2022/05/Apocalypse-armageddon-end-civilization-times-of-days-death-skull-heartbroken-anguish-misery-grief-woman-crying-destruction-pain-emotion-despair-pillars-pixabay.jpg"
 group: con
 rank: 4
 ---

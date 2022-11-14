@@ -1,9 +1,9 @@
 ---
-publication: "technocracy.news"
-link: "https://www.technocracy.news/cop27-where-green-deals-are-signed-in-red-ink/"
-title: "COP27: Where Green Deals Are Signed In Red Ink"
-excerpt: "COP27 is a con of epic proportions, a continuation of the 20th century plundering and pillaging of the third world. Now the first world has been made a target as well, which requires more sophisticati"
-image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-14-at-6.32.07-AM.png"
+publication: "thefreethoughtproject.com"
+link: "https://thefreethoughtproject.com/be-the-change/elite-fly-400-private-jets-to-cop27-sponsored-by-largest-plastic-polluter-in-world-to-lecture-you-about-climate"
+title: "Elite Fly 400 Private Jets to COP27, Sponsored by Largest Plastic Polluter in World, To Lecture YOU About Climate"
+excerpt: "'The world is literally burning because of you,' according to the world's elite who produce more pollution in a few hours than most people make all year."
+image: "https://thefreethoughtproject.com/.image/t_share/MTkzNzQyMTkxMzkzMjUyODAz/jets-egypt.jpg"
 group: con
 rank: 3
 ---
