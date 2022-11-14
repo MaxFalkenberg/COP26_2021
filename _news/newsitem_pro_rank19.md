@@ -1,9 +1,9 @@
 ---
-publication: "weforum.org"
-link: "https://www.weforum.org/agenda/2022/11/5-principles-we-need-for-the-future-of-blue-carbon/"
-title: "These 5 principles will help us secure the future of blue carbon"
-excerpt: "Up to one billion tons of carbon dioxide is released each year from degraded coastal ecosystems. Here's how blue carbon credits can reduce emissions and protect coastal communities."
-image: "https://assets.weforum.org/editor/DIn1y8LJxRmZ49TptP3ykr7b2yyh-XWx9KXTmgSpnpw.png"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/cop27-un-food-agency-plan-farming-emissions-launch-by-next-year-after-investor-2022-11-10/"
+title: "COP27: UN food agency plan on farming emissions to launch by next year after investor push"
+excerpt: "The U.N. food agency aims to launch a plan within the year to make the world's food system more sustainable, a senior executive told Reuters on the sidelines of the COP27 climate talks in Egypt."
+image: "https://www.reuters.com/resizer/VcvWdJRv2AyuHlmfj-Ev6VvwwVM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WARSVZRTBVLGTNT52N6W4YQIXQ.jpg"
 group: pro
 rank: 19
 ---

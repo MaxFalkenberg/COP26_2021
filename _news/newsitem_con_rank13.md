@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/14/WS6371985da310491754329763.html"
-title: "'Highway to climate hell' alarm sounded"
-excerpt: "United Nations Secretary-General Antonio Guterres has given a stark warning to global leaders at the COP27 conference that humanity is on a 'highway to climate hell' if the fight for a livable planet "
-image: "http://img2.chinadaily.com.cn/images/202211/14/6371985da31049178c905df2.jpeg"
+publication: "tallbloke.wordpress.com"
+link: "https://tallbloke.wordpress.com/2022/11/14/cop27-bulletin-visionless-summit-flails-into-week-two/"
+title: "COP27 bulletin: Visionless summit flails into week two"
+excerpt: "Another waste of time? They need some excuses for the next 27 COPs after all. A downbeat assessment from supporters of climate obsession. – – – As ministers fly in for week two of…"
+image: "https://tallbloke.files.wordpress.com/2022/08/cop27_egypt.jpg?w=150"
 group: con
 rank: 13
 ---
