@@ -1,9 +1,9 @@
 ---
-publication: "politico.eu"
-link: "https://www.politico.eu/article/germany-to-leave-energy-charter-treaty/"
-title: "Germany to leave Energy Charter Treaty"
-excerpt: "Germany’s decision deals a major blow to the embattled deal."
-image: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/11/12/10413703-1-scaled.jpg"
+publication: "qz.com"
+link: "https://qz.com/1069298/the-3-of-scientific-papers-that-deny-climate-change-are-all-flawed/amp"
+title: "The 3% of scientific papers that deny climate change are all flawed"
+excerpt: "Scientists who deny climate change are not modern-day Galileos."
+image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,fl_progressive,g_center,h_180,q_80,w_320/7a31e54b02f1479b23273b33588ebe6b.png"
 group: pro
 rank: 9
 ---
