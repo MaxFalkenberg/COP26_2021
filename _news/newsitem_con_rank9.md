@@ -1,9 +1,9 @@
 ---
-publication: "breitbart.com"
-link: "https://www.breitbart.com/europe/2022/11/12/hypocrisy-and-elitism-400-private-jets-land-in-egypt-for-cop27-climate-conference/"
-title: "400 Private Jets Land in Egypt for COP27 UN Climate Conference"
-excerpt: "With thousands of elites descending upon Sharm El Sheikh for COP27 climate summit, 400 private jets have been seen landing in the Egypt."
-image: "https://media.breitbart.com/media/2022/11/GettyImages-1244638206-2-640x335.jpg"
+publication: "tallbloke.wordpress.com"
+link: "https://tallbloke.wordpress.com/2022/11/14/cop27-bulletin-visionless-summit-flails-into-week-two/"
+title: "COP27 bulletin: Visionless summit flails into week two"
+excerpt: "Another waste of time? They need some excuses for the next 27 COPs after all. A downbeat assessment from supporters of climate obsession. – – – As ministers fly in for week two of…"
+image: "https://tallbloke.files.wordpress.com/2022/08/cop27_egypt.jpg?w=150"
 group: con
 rank: 9
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "foreignpolicy.com"
-link: "https://foreignpolicy.com/2022/11/09/egypt-human-rights-cop27-activist-hunger-strike/"
-title: "Activist’s Hunger Strike Casts Shadow Over COP27"
-excerpt: "It has become impossible for Cairo to escape scrutiny of its troubling human rights record."
-image: "https://foreignpolicy.com/wp-content/uploads/2022/11/GettyImages-1439968109-2.jpg?w=1000"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63617400"
+title: "COP27: Fears of compromise on key 1.5C global temperature issue"
+excerpt: "There are fears the commitment to a key warming limit may soften as nations seek agreement in Egypt."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/3766/production/_127628141_cop27protest_index_getty.jpg"
 group: pro
 rank: 11
 ---
