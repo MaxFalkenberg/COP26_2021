@@ -1,9 +1,9 @@
 ---
-publication: "qz.com"
-link: "https://qz.com/1069298/the-3-of-scientific-papers-that-deny-climate-change-are-all-flawed/amp"
-title: "The 3% of scientific papers that deny climate change are all flawed"
-excerpt: "Scientists who deny climate change are not modern-day Galileos."
-image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,fl_progressive,g_center,h_180,q_80,w_320/d60469e5ad759690e8deb03fefaf816d.png"
+publication: "euronews.com"
+link: "https://www.euronews.com/green/2022/11/13/this-72-year-old-grandmother-cycled-more-than-8000km-from-sweden-to-egypt-for-cop27"
+title: "Swedish cyclist pedals to Egypt to raise climate awareness"
+excerpt: "Hildebrandt biked from Sweden to Sharm El Sheikh to raise awareness and urge world leaders gathered at the conference to take concrete steps to stop climate change."
+image: "https://static.euronews.com/articles/stories/07/19/14/52/1000x563_cmsv2_0a017614-ec39-50f4-bedc-d860ae70f2c6-7191452.jpg"
 group: pro
 rank: 11
 ---

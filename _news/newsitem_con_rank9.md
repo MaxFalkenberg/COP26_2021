@@ -1,9 +1,9 @@
 ---
-publication: "wnd.com"
-link: "https://www.wnd.com/2022/11/climate-cult-meeting-depopulation/"
-title: "'Climate cult' meeting is 'all about depopulation'"
-excerpt: "“Let them eat cake,” famously attributed to Marie Antoinette by Jean-Jacques Rousseau, has become universal shorthand for a monarch’s total disregard for her famished citizens stealing and wreaking ha"
-image: "https://www.wnd.com/wp-content/uploads/2022/05/Apocalypse-armageddon-end-civilization-times-of-days-death-skull-heartbroken-anguish-misery-grief-woman-crying-destruction-pain-emotion-despair-pillars-pixabay.jpg"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/14/WS6371985da310491754329763.html"
+title: "'Highway to climate hell' alarm sounded"
+excerpt: "United Nations Secretary-General Antonio Guterres has given a stark warning to global leaders at the COP27 conference that humanity is on a 'highway to climate hell' if the fight for a livable planet "
+image: "http://img2.chinadaily.com.cn/images/202211/14/6371985da31049178c905df2.jpeg"
 group: con
 rank: 9
 ---

@@ -1,5 +1,9 @@
 ---
-publication: "arabnews.com"
-link: "https://www.arabnews.com/node/2198506/amp"
-title: "‘We hope to take the Saudi crown prince’s green vision forward,’ Pakistan FM Bilawal Bhutto Zardari tells Arab News"
-excerpt: "Get the latest breaking news and headlines from the largest Arab News website. Get world news, sport news, business news, entertainment, lifestyle, video and photos."
+publication: "en.people.cn"
+link: "http://en.people.cn/n3/2022/1114/c90000-10170889.html"
+title: "China's strategy on climate adaptation lauded at UN climate conference - People's Daily Online"
+excerpt: "SHARM EL-SHEIKH, Egypt, Nov. 13 (Xinhua) -- At the ongoing UN climate conference, China's latest s"
+image: "/NMediaFile/2022/1114/FOREIGN202211141527039523486457912.gif"
+group: con
+rank: 7
+---
