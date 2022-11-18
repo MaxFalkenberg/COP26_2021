@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/climate-change/news/india-cop27-coal-draft-deal-b2223915.html"
-title: "Coal-dependent India asks world to avoid ‘singling out’ the fossil fuel in Cop27 pact"
-excerpt: "Negotiators are discussing the draft text of the final ‘Sharm’ agreement  "
-image: "https://static.independent.co.uk/2021/11/13/19/1236291590.jpg?quality=75&width=1200&auto=webp"
+publication: "apnews.com"
+link: "https://apnews.com/article/world-population-8-billion-acc94296d8aeb06e64daff9e597e0214"
+title: "World Population hits 8 billion, creating many challenges"
+excerpt: "LAGOS, Nigeria (AP) — The world's population will likely hit an estimated 8 billion people  on Tuesday, according to a United Nations projection, with much of the growth coming from developing nations"
+image: "https://storage.googleapis.com/afs-prod/media/ceb97167d0694dc686d6a78968a09d92/3000.jpeg"
 group: pro
 rank: 17
 ---

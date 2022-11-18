@@ -1,9 +1,9 @@
 ---
-publication: "esgadvocate.substack.com"
-link: "https://esgadvocate.substack.com/p/cop27-on-the-money"
-title: "COP27: On the Money?"
-excerpt: "COP27's Finance Day brought the focus to the Private Sector, but what was missing?"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7355c920-4466-448c-bc3b-60aa31b71a5b_420x300.jpeg"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/15/WS63739409a310491754329e2c.html"
+title: "Zambian expert urges Africa-China renewable energy cooperation to tackle climate change"
+excerpt: " Africa and other developing countries should focus their attention on tackling climate change by partnering with China in developing renewable energy sources, a Zambian expert has said."
+image: "http://img2.chinadaily.com.cn/images/202211/15/63739409a31049178c90e8f8.jpeg"
 group: con
 rank: 9
 ---
