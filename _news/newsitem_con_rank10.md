@@ -1,9 +1,9 @@
 ---
-publication: "tallbloke.wordpress.com"
-link: "https://tallbloke.wordpress.com/2022/11/14/cop27-bulletin-visionless-summit-flails-into-week-two/"
-title: "COP27 bulletin: Visionless summit flails into week two"
-excerpt: "Another waste of time? They need some excuses for the next 27 COPs after all. A downbeat assessment from supporters of climate obsession. – – – As ministers fly in for week two of…"
-image: "https://tallbloke.files.wordpress.com/2022/08/cop27_egypt.jpg?w=150"
+publication: "womenlead.substack.com"
+link: "https://womenlead.substack.com/p/at-cop27-barbados-pm-mia-mottley"
+title: "At COP27, Barbados PM Mia Mottley leads the call for a rethink on climate finance, and other stories"
+excerpt: "#WomenLead (Issue 123): Your weekly round-up on women in politics"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3b283da3-3fae-40e7-9c0b-619abe778e4f_1423x769.png"
 group: con
 rank: 10
 ---
