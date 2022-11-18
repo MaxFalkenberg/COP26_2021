@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/brazil-rainforest-nations-join-forces-save-jungle-2022-11-14/"
-title: "Biggest rainforest nations form triple alliance to save jungle"
-excerpt: "The world's three largest rainforest nations Brazil, Democratic Republic of Congo and Indonesia on Monday formally launched a partnership to cooperate on forest preservation after a decade of on-off t"
-image: "https://www.reuters.com/resizer/nfiAlFvwOAKfcULQv4hQmxaCYk4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SFPTL667QZMAHLFHN7NK2UWBX4.jpg"
+publication: "apnews.com"
+link: "https://apnews.com/article/science-business-climate-and-environment-ed3f0bde2e382ea2e30baaecfdf5c0bc"
+title: "Climate activists slam fossil fuels, protest restrictions"
+excerpt: "SHARM EL-SHEIKH, Egypt (AP) — Ugandan climate activist Vanessa Nakate slammed world leaders Tuesday who persist in backing new fossil fuel projects as other activists held a symbolic human and environ"
+image: "https://storage.googleapis.com/afs-prod/media/60c33a01cf214ba18d8679fcafdf51d1/3000.jpeg"
 group: pro
 rank: 10
 ---

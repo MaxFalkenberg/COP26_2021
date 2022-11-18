@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/15/degrowth-a-dangerous-idea-or-the-answer-to-the-worlds-biggest-crisis-cop27-ecologicalcrisis-climatecrisis-economiccrisis-auspol/"
-title: "Degrowth: A dangerous idea or the answer to the world’s biggest crisis? #COP27 #EcologicalCrisis + #ClimateCrisis = #EconomicCrisis #auspol"
-excerpt: "London(CNN Business) — Conventional economic logic hinges on a core assumption: Bigger economies are better, and finding ways to maintain or boost growth is paramount to improving society. By Julia…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/05/img_0907.jpg"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/14/WS637262cda310491754329a57.html"
+title: "'Loss and damage' funding a justified demand: China Daily editorial"
+excerpt: "The low-income nations, which have done the least to cause climate change, often bear the brunt of the disastrous consequences of global warming ranging from floods, hurricanes to sea-level rises. The"
+image: "http://img2.chinadaily.com.cn/images/202211/15/6372e10da31049178c90aadd.jpeg"
 group: con
 rank: 6
 ---

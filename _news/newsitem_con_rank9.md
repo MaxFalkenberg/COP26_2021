@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/14/WS637262cda310491754329a57.html"
-title: "'Loss and damage' funding a justified demand: China Daily editorial"
-excerpt: "The low-income nations, which have done the least to cause climate change, often bear the brunt of the disastrous consequences of global warming ranging from floods, hurricanes to sea-level rises. The"
-image: "http://img2.chinadaily.com.cn/images/202211/15/6372e10da31049178c90aadd.jpeg"
+publication: "gulfnews.com"
+link: "https://gulfnews.com/"
+title: "Gulf News: Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema"
+excerpt: "Get the latest update on UAE, business, life style, UAE jobs, gold rate, Exchange rate, UAE holidays, Dubai police, RTA and prayer times from UAE’s largest news portal."
+image: "https://assets.gulfnews.com/images/gn-logo-1200x630.png"
 group: con
 rank: 9
 ---

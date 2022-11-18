@@ -1,9 +1,9 @@
 ---
-publication: "thegatewaypundit.com"
-link: "https://www.thegatewaypundit.com/2022/11/john-kerry-spills-beans-u-n-s-cop27-meeting-want-replace-capitalism-new-economic-system/"
-title: "John Kerry Spills the Beans at U.N.’s COP27 Meeting: They Want to Replace Capitalism with a New Economic System"
-excerpt: "Guest post by Leo Hohmann The World Economic Forum’s climate change agenda was “modeled” off the effort to roll out vaccines during the Covid pandemic, John Kerry said during a COP27 panel discussion "
-image: "https://www.thegatewaypundit.com/wp-content/uploads/IMG_7767-1.jpg"
+publication: "londongreenleft.blogspot.com"
+link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
+title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
+excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
 group: con
 rank: 10
 ---

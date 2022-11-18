@@ -1,9 +1,9 @@
 ---
-publication: "londongreenleft.blogspot.com"
-link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
-title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
-excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
+publication: "asiaundercovered.substack.com"
+link: "https://asiaundercovered.substack.com/p/asia-undercovered-round-up-1-nov"
+title: "Asia Undercovered Round-up: 1 Nov 2022"
+excerpt: "This week: More violence against ethnic minorities in Myanmar, Malaysia's upcoming elections, and China's Party Congress cements dictatorial rule."
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFgFSfasakAQnBZ-.jpg"
 group: con
 rank: 13
 ---
