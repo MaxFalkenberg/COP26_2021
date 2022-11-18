@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/us-aims-zero-emissions-heavy-duty-vehicles-by-2040-2022-11-17/"
-title: "U.S. aims for zero-emissions heavy-duty vehicles by 2040"
-excerpt: "The United States aims to only sell and produce zero-emissions medium- and heavy-duty vehicles like school buses and tractor trailers by 2040, the U.S. energy secretary agreed at the COP27 climate sum"
-image: "https://www.reuters.com/resizer/Ae7xg44mm-ZKSaDJ4QPbD5vlP4w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QBIHSDCLSZMDDNGMC7JULIEHCI.jpg"
+publication: "spiegel.de"
+link: "https://www.spiegel.de/ausland/uno-klimakonferenz-cop27-eu-stellt-rund-eine-milliarde-euro-fuer-klima-resilienz-in-afrika-bereit-a-02955dd2-d1f4-44b3-87e7-26d2e07d4066"
+title: "Uno-Klimakonferenz COP27: EU stellt rund eine Milliarde Euro für Klima-Resilienz in Afrika bereit"
+excerpt: "Dürre, Überschwemmung, Hitze: Die EU will dem afrikanischen Kontinent helfen, besser mit den Folgen der Klimakrise umzugehen. 60 Millionen Euro soll es zum Ausgleich für bereits eingetretene Schäden u"
+image: "https://cdn.prod.www.spiegel.de/images/60a9cf4f-7073-43cb-ba9b-107ff803ce44_w1280_r1.77_fpx53_fpy53.jpg"
 group: pro
 rank: 5
 ---

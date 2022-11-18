@@ -1,9 +1,9 @@
 ---
 publication: "theguardian.com"
-link: "https://www.theguardian.com/environment/2022/nov/17/uk-pay-climate-action-poor-countries-cop27-poll"
-title: "Majority of Britons say UK should pay for climate action in poor countries"
-excerpt: "Exclusive: Funding from rich countries is critical issue at Cop27 and poll shows many think UK has duty to provide it"
-image: "https://i.guim.co.uk/img/media/31d7f8bc623ea67849fd10d2740e59eff659c717/0_272_5203_3122/master/5203.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87b8678561c573c2ef35470593a4ef26"
+link: "https://www.theguardian.com/environment/live/2022/nov/17/cop27-draft-cover-text-published-fears-lack-ambition-live"
+title: "Cop27 president bemoans slow negotiations saying some countries failing to address urgency of climate crisis – as it happened"
+excerpt: "Egypt foreign minister Sameh Shoukry says delegates are shying away from taking ‘difficult political decisions’"
+image: "https://i.guim.co.uk/img/media/3e1d2df52ce858d593ac68d24653e03fbae12647/0_180_6720_4032/master/6720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=109325f4900712bcf2a6782fb1287bfe"
 group: pro
 rank: 0
 ---

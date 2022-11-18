@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/science-china-deserts-climate-and-environment-d8c5c4657abea010d7b1d02719b9ca9d"
-title: "EU shakes up climate talks with surprise disaster fund offer"
-excerpt: "SHARM EL-SHEIKH, Egypt (AP) — Climate talks appeared stalled late night Thursday on major issues going into the final day, but possibilities for a deal were buoyed by an unexpected proposal by the Eur"
-image: "https://storage.googleapis.com/afs-prod/media/78db90507d2e457fb0a35175d4674722/3000.jpeg"
+publication: "vox.com"
+link: "https://www.vox.com/down-to-earth/2022/11/17/23460525/nature-based-solutions-climate-change-cop27"
+title: "No one knows what 'nature-based solutions' are"
+excerpt: "The environmental movement has a buzzword problem."
+image: "https://cdn.vox-cdn.com/thumbor/2g1iseVJsA5Oa3eZcdZqHEB6F_4=/0x217:2000x1264/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24205256/adler_9724.jpg"
 group: pro
 rank: 10
 ---

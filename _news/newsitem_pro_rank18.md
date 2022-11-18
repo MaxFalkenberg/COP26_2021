@@ -1,9 +1,9 @@
 ---
-publication: "cbc.ca"
-link: "https://www.cbc.ca/news/opinion/opinion-cop27-oil-and-gas-emissions-cuts-1.6652662"
-title: "OPINION | If oil and gas companies aren't cutting emissions at peak profits, when will they get in the game? | CBC News"
-excerpt: "While waiting for government to put more public money on the table, oil and gas companies continue to increase their emissions, writes policy analyst Laura Cameron."
-image: "https://i.cbc.ca/1.6652759.1668553566!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/fort-hills-oilsands-plant.jpg"
+publication: "independent.co.uk"
+link: "https://www.independent.co.uk/climate-change/news/cop27-egypt-climate-sharm-el-sheikh-b2227355.html"
+title: "Trust breaks down at Cop27 as UN chief urges agreement in final 24 hours"
+excerpt: "‘This is no time for finger-pointing. The blame game is a recipe for mutually assured destruction,’ UN secretary-general Antonio Guterres warns "
+image: "https://static.independent.co.uk/2022/11/17/16/SEI134027592.jpg?quality=75&width=1200&auto=webp"
 group: pro
 rank: 18
 ---

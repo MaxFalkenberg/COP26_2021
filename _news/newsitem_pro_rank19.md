@@ -1,9 +1,9 @@
 ---
-publication: "dw.com"
-link: "https://www.dw.com/en/pakistan-lawmaker-at-cop27-international-response-favorable-after-flood-disaster/video-63793821"
-title: "COP27: Global response 'favorable' after Pakistan floods – DW – 11/17/2022"
-excerpt: "Pakistan's Federal Minister for Planning, Development and Special Measures Ahsan Iqbal told DW at the climate summit in Sharm el-Sheikh that his country can recover from the floods and has internation"
-image: "https://static.dw.com/image/63148910_6.jpg"
+publication: "cbc.ca"
+link: "https://www.cbc.ca/news/science/biodiversity-montreal-cop27-1.6654447"
+title: "Biodiversity needs same protection as climate, say scientists, activists at COP27 | CBC News"
+excerpt: "Civil society groups, Indigenous activists and scientists are standing together at the COP27 climate conference in Sharm el-Sheikh, Egypt, and demanding firm action be taken next month at the UN Biodi"
+image: "https://i.cbc.ca/1.4583528.1668691821!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/alberta-caribou.jpg"
 group: pro
 rank: 19
 ---
