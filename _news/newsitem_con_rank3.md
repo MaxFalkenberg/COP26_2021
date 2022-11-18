@@ -1,9 +1,9 @@
 ---
-publication: "thegatewaypundit.com"
-link: "https://www.thegatewaypundit.com/2022/11/exclusive-donations-democrats-ftx-related-foreign-entities-like-ukraine-go-executive-order-13848-signed-trump-biden/"
-title: "EXCLUSIVE: FTX Donations to Democrats from Foreign Entities Like Ukraine Are in Violation of Executive Order 13848 Signed by President Trump and Biden"
-excerpt: "Sam Bankman-Fried (SBF) donated tens of millions to the Democrats over the past few years.  It’s questionable how legal this was since FTX is a Bahamas-based entity. We reported this weekend how FTX h"
-image: "https://www.thegatewaypundit.com/wp-content/uploads/FTX-Circle-of-Fraud-2.jpg"
+publication: "dailykos.com"
+link: "https://www.dailykos.com/story/2022/11/17/2134235/-Caribbean-Matters-At-COP27-Barbados-PM-Mia-Mottley-is-a-powerful-voice-addressing-climate-change"
+title: "Caribbean Matters: At COP27, Barbados PM Mia Mottley is a powerful voice addressing climate change"
+excerpt: "While many people here in the U.S. have been focused on the midterm elections�and results, which are still coming in, nations around the world have been participating in COP27 .�More formally known .."
+image: "https://images.dailykos.com/images/1134333/story_image/GettyImages-1244608437.jpg?1668523498"
 group: con
 rank: 3
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "environmentaljusticetv.wordpress.com"
-link: "https://environmentaljusticetv.wordpress.com/2022/11/16/brazils-president-elect-injects-optimism-into-cop27/"
-title: "Brazil’s president-elect injects optimism into COP27"
-excerpt: "Nov 16, 2022 Brazil’s president-elect injected a sense of hope and optimism into COP27 with his appearance. Luiz Inácio Lula da Silva’s promise to put climate change issues at the top of his …"
-image: "http://img.youtube.com/vi/sZh9UdBUkFk/0.jpg"
+publication: "stuartbramhall.wordpress.com"
+link: "https://stuartbramhall.wordpress.com/2022/11/16/elite-fly-400-private-jets-to-cop27-sponsored-by-largest-plastic-polluter-in-world-to-lecture-you-about-climate/"
+title: "Elite Fly 400 Private Jets to COP27, Sponsored by Largest Plastic Polluter in World, To Lecture YOU About Climate"
+excerpt: "By Matt Agorist Free Thought Project “The world is literally burning because of you,” according to the world’s elite who produce more pollution in a few hours than most people make all year. Curren…"
+image: "https://www.naturalblaze.com/wp-content/uploads/2022/11/cop27-ftp.jpg"
 group: con
 rank: 13
 ---
