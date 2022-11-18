@@ -1,9 +1,9 @@
 ---
-publication: "asiaundercovered.substack.com"
-link: "https://asiaundercovered.substack.com/p/asia-undercovered-round-up-1-nov"
-title: "Asia Undercovered Round-up: 1 Nov 2022"
-excerpt: "This week: More violence against ethnic minorities in Myanmar, Malaysia's upcoming elections, and China's Party Congress cements dictatorial rule."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFgFSfasakAQnBZ-.jpg"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/regeneration/p/cop27-climate-change-and-global-meat"
+title: "COP27, Climate Change, & Global Meat-Phobia"
+excerpt: "I agree with George Monbiot - governments aren’t discussing livestock enough - but his calls to eliminate livestock are short-sighted and will cause more harm than good."
+image: "https://images.unsplash.com/photo-1581976684536-eb40b61ee175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwxNzh8fGNvd3N8ZW58MHx8fHwxNjY4MzAzNTQ5&ixlib=rb-4.0.3&q=80&w=1080"
 group: con
 rank: 12
 ---

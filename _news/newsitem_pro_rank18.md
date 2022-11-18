@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/world-population-8-billion-acc94296d8aeb06e64daff9e597e0214"
-title: "World Population hits 8 billion, creating many challenges"
-excerpt: "LAGOS, Nigeria (AP) — The world's population will likely hit an estimated 8 billion people  on Tuesday, according to a United Nations projection, with much of the growth coming from developing nations"
-image: "https://storage.googleapis.com/afs-prod/media/ceb97167d0694dc686d6a78968a09d92/3000.jpeg"
+publication: "insideclimatenews.org"
+link: "https://insideclimatenews.org/news/15112022/cop27-deforestation-united-states-logging/"
+title: "At COP27, the US Said It Will Lead Efforts to Halt Deforestation. But at Home, the Biden Administration Is Considering Massive Old Growth Logging Projects - Inside Climate News"
+excerpt: "SHARM EL-SHEIKH, Egypt—The U.S. Center at the COP27 climate talks in Sharm El-Sheikh hosted a panel Monday focused on ending global deforestation by 2030, but the reality on the ground in the nation’s"
+image: "https://insideclimatenews.org/wp-content/uploads/2022/11/forest_andrew-lichtenstein-corbis-getty-scaled.jpg"
 group: pro
 rank: 18
 ---
