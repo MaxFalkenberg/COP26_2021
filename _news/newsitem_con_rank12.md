@@ -1,9 +1,9 @@
 ---
-publication: "maynoothgeography.wordpress.com"
-link: "https://maynoothgeography.wordpress.com/2022/11/14/cop27-the-latest-from-sharm-el-sheikh/"
-title: "COP27: The Latest from Sharm El Sheikh"
-excerpt: "The Annual Conference of the Parties to the United Nations Framework Convention on Climate Change has largely entered the lexicon as the COP. Now in its 27th iteration, the rotation of locations ba…"
-image: "https://s0.wp.com/i/blank.jpg"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/14/WS637262cda310491754329a57.html"
+title: "'Loss and damage' funding a justified demand: China Daily editorial"
+excerpt: "The low-income nations, which have done the least to cause climate change, often bear the brunt of the disastrous consequences of global warming ranging from floods, hurricanes to sea-level rises. The"
+image: "http://img2.chinadaily.com.cn/images/202211/15/6372e10da31049178c90aadd.jpeg"
 group: con
 rank: 12
 ---

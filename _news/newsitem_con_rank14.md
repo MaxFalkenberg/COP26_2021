@@ -1,9 +1,9 @@
 ---
-publication: "mwangocapital.substack.com"
-link: "https://mwangocapital.substack.com/p/14-11-2022-safaricom-hy-23-results"
-title: "Safaricom HY 23 Results"
-excerpt: "Net profit declines 9.6% to KES 33.5B"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0775e2a2-b48e-41ad-87e8-b6167d8077c7_1600x917.png"
+publication: "maynoothgeography.wordpress.com"
+link: "https://maynoothgeography.wordpress.com/2022/11/14/cop27-the-latest-from-sharm-el-sheikh/"
+title: "COP27: The Latest from Sharm El Sheikh"
+excerpt: "The Annual Conference of the Parties to the United Nations Framework Convention on Climate Change has largely entered the lexicon as the COP. Now in its 27th iteration, the rotation of locations ba…"
+image: "https://s0.wp.com/i/blank.jpg"
 group: con
 rank: 14
 ---

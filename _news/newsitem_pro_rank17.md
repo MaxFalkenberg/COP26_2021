@@ -1,9 +1,9 @@
 ---
-publication: "mediamatters.org"
-link: "https://www.mediamatters.org/climate-deniers/fox-news-platforms-climate-denial-and-great-reset-conspiracy-theory-during-cop27"
-title: "Fox News platforms climate denial and the Great Reset conspiracy theory during COP27"
-excerpt: None
-image: "https://cloudfront.mediamatters.org/static/D8Image/2022/11/14/unfiltered_with_dan_bongino_-_fnc-bongino-111222-moranogrclimate_-_09_00_01_pm.jpg?VersionId=NBuPu67ItauswZM_wOLEeitzR4i.lHsS"
+publication: "bbc.com"
+link: "https://www.bbc.com/news/science-environment-63584993"
+title: "COP27: BP chief listed as delegate for Mauritania"
+excerpt: "Chief executive of leading oil company is registered for COP27 as a delegate from poor African nation."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/9DE3/production/_127591404_8b02a6d3109de19484839f21a08d34e1284f7485.jpg"
 group: pro
 rank: 17
 ---
