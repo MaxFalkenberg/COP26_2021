@@ -1,9 +1,9 @@
 ---
-publication: "theconversation.com"
-link: "https://theconversation.com/climate-change-will-clearly-disrupt-el-nino-and-la-nina-this-decade-40-years-earlier-than-we-thought-194529"
-title: "Climate change will clearly disrupt El Niño and La Niña this decade – 40 years earlier than we thought"
-excerpt: "The findings have big implications for how Australians prepare for extreme weather events."
-image: "https://images.theconversation.com/files/495221/original/file-20221115-18-vliqyk.jpeg?ixlib=rb-1.1.0&rect=0%2C345%2C2995%2C1495&q=45&auto=format&w=1356&h=668&fit=crop"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63625698"
+title: "COP27: Brazil is back on the world stage, Lula tells climate summit"
+excerpt: "The Brazilian president-elect attracts huge emotional crowds at COP27 but faces opposition at home."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/15FB3/production/_127653009_tv080346782.jpg"
 group: pro
 rank: 6
 ---
