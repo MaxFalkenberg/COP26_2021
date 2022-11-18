@@ -1,9 +1,9 @@
 ---
-publication: "ft.com"
-link: "https://www.ft.com/content/a29c1204-70cf-46c1-b266-780788bfa048"
-title: "Subscribe to read | Financial Times"
-excerpt: "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
-image: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
+publication: "mediamatters.org"
+link: "https://www.mediamatters.org/climate-deniers/fox-news-platforms-climate-denial-and-great-reset-conspiracy-theory-during-cop27"
+title: "Fox News platforms climate denial and the Great Reset conspiracy theory during COP27"
+excerpt: None
+image: "https://cloudfront.mediamatters.org/static/D8Image/2022/11/14/unfiltered_with_dan_bongino_-_fnc-bongino-111222-moranogrclimate_-_09_00_01_pm.jpg?VersionId=NBuPu67ItauswZM_wOLEeitzR4i.lHsS"
 group: pro
 rank: 19
 ---
