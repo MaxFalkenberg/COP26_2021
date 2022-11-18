@@ -1,9 +1,9 @@
 ---
-publication: "gulfnews.com"
-link: "https://gulfnews.com/uae/indian-expat-student-from-dubai-speaks-at-cop27-1.91886059"
-title: "Indian expat student from Dubai speaks at COP27"
-excerpt: "17 year old from Jumeirah College is out to educate youth on sustainability"
-image: "https://imagevars.gulfnews.com/2022/11/14/Sa_1847492a17d_medium.jpg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/16/cop27-fiddling-as-world-warms-climatecrisis-demand-climateaction-sdg13-hyperthreat-time-for-plane/"
+title: "COP27 Fiddling as World Warms #ClimateCrisis demand #ClimateAction #SDG13 #Hyperthreat time for #PlanE"
+excerpt: "The latest annual climate conference has begun in the face of a worsening climate crisis and further retreats by rich nations following the energy crisis induced by NATO sanctions after the Russian…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1981.jpg?w=1200"
 group: con
 rank: 6
 ---

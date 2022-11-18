@@ -1,9 +1,9 @@
 ---
-publication: "grist.org"
-link: "https://grist.org/cop27/corporations-have-co-opted-the-un-climate-talks-coca-col/"
-title: "It's not just Coke: Corporations have co-opted the UN climate talks"
-excerpt: "COP27 is covered with logos. But that's just the start of companies' influence."
-image: "https://grist.org/wp-content/uploads/2022/11/COP27-sponsors.jpg"
+publication: "nature.com"
+link: "https://www.nature.com/articles/d41586-022-03721-5"
+title: "Record-breaking carbon emissions, and more — this week’s best science graphics"
+excerpt: "Three key charts from the world of research, selected by Nature editors."
+image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03721-5/d41586-022-03721-5_23713704.jpg"
 group: pro
 rank: 8
 ---

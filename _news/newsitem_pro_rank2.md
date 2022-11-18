@@ -1,9 +1,9 @@
 ---
 publication: "theguardian.com"
-link: "https://www.theguardian.com/commentisfree/2022/nov/15/suffragette-grandmothers-heroes-climate-protesters-activists-traffic"
-title: "My suffragette grandmothers are regarded as heroes now – as will climate protesters | Helen Pankhurst"
-excerpt: "Whether or not you agree with their tactics, activists blocking roads and stopping traffic are on the right side of history, says Care International adviser Dr Helen Pankhurst"
-image: "https://i.guim.co.uk/img/media/10dad304e1f19db7e7bb5bd5385248bdd0c57866/0_0_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=393ca7a3be103fd04849dbc08238e24e"
+link: "https://www.theguardian.com/environment/2022/nov/16/chris-bowen-takes-leadership-role-in-cop27-talks-as-john-kerry-praises-australias-climate-u-turn"
+title: "Chris Bowen takes leadership role in Cop27 talks as John Kerry praises Australia’s climate U-turn"
+excerpt: "Australian climate change minister asked to take over struggling summit negotiations over how to fund climate financing for poor countries"
+image: "https://i.guim.co.uk/img/media/5a259a7a8f413c1d2eaf339d1d725d1dd1f06cb1/0_0_6335_3804/master/6335.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2aa667eaf85c055e17dc8370390d2ea0"
 group: pro
 rank: 2
 ---

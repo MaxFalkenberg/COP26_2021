@@ -1,9 +1,9 @@
 ---
-publication: "nature.com"
-link: "https://www.nature.com/articles/d41586-022-03721-5"
-title: "Record-breaking carbon emissions, and more — this week’s best science graphics"
-excerpt: "Three key charts from the world of research, selected by Nature editors."
-image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03721-5/d41586-022-03721-5_23713704.jpg"
+publication: "time.com"
+link: "https://time.com/6233777/egyptian-activist-alaa-abd-el-fattah-cop27/"
+title: "Alaa Abd El-Fattah’s Sister Shares Updates, Memories"
+excerpt: "In a Q&A with TIME, Sanaa Seif details her family's efforts to free jailed Egyptian activist Alaa Abd El-Fattah. "
+image: "https://api.time.com/wp-content/uploads/2022/11/sanaa-seif-cop27-activist.jpg?quality=85&w=1024&h=628&crop=1"
 group: pro
 rank: 6
 ---
