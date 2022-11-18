@@ -1,9 +1,9 @@
 ---
 publication: "apnews.com"
-link: "https://apnews.com/article/science-business-climate-and-environment-ed3f0bde2e382ea2e30baaecfdf5c0bc"
-title: "Climate activists slam fossil fuels, protest restrictions"
-excerpt: "SHARM EL-SHEIKH, Egypt (AP) — Ugandan climate activist Vanessa Nakate slammed world leaders Tuesday who persist in backing new fossil fuel projects as other activists held a symbolic human and environ"
-image: "https://storage.googleapis.com/afs-prod/media/60c33a01cf214ba18d8679fcafdf51d1/3000.jpeg"
+link: "https://apnews.com/article/forests-brazil-deforestation-climate-and-environment-782a100c87cb6cd83c949b2d106cc926"
+title: "At climate summit, Brazil's Lula promises new day for Amazon"
+excerpt: "SHARM el-SHEIKH, Egypt (AP) — Six weeks before taking power, Brazilian President-elect Luiz Inácio Lula da Silva on Wednesday told cheering crowds at the U.N. climate conference that he would crack do"
+image: "https://storage.googleapis.com/afs-prod/media/f8a38eeb3b0c432683e70296d55f5962/3000.jpeg"
 group: pro
 rank: 11
 ---

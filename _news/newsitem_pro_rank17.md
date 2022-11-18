@@ -1,9 +1,9 @@
 ---
-publication: "insideclimatenews.org"
-link: "https://insideclimatenews.org/todaysclimate/climate-disinformation-campaigns-threaten-cop27-progress-a-new-report-concludes/"
-title: "Climate Disinformation Campaigns Threaten COP27 Progress, a New Report Concludes - Inside Climate News"
-excerpt: "SHARM EL-SHEIKH, Egypt—The slow pace of global climate talks is once again on display at COP27 this week and can be partially explained by a renewed blitz of climate disinformation, according to watch"
-image: "https://insideclimatenews.org/wp-content/uploads/2022/11/cop_joseph-eid-getty-scaled.jpg"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/04/brazil-lula-should-urgently-address-amazon-crisis"
+title: "Brazil: Lula Should Urgently Address Amazon Crisis"
+excerpt: "Brazil’s President-Elect, Luiz Inácio Lula da Silva, should commit to concrete measures to back up his promises on the environment as government representatives gather for the COP27 climate summit mee"
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211americas_brazil_deforestation.jpg?h=790be497&itok=8cRsbU6J"
 group: pro
 rank: 17
 ---

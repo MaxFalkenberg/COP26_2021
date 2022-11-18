@@ -1,9 +1,9 @@
 ---
 publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/16/on-the-highway-to-climate-hell-the-climate-crisis-activism-and-broken-politics-cop27-auspol-tellthetruth-demand-climateaction-sdg13-plane/"
-title: "‘On The Highway To Climate Hell’ – The Climate Crisis, Activism And Broken Politics #COP27 #auspol #TellTheTruth demand #ClimateAction #SDG13 #PlanE"
-excerpt: "Last month, the United Nations environment agency issued arguably its starkest warning yet about the climate crisis. The failure by governments around the world to cut carbon emissions means there …"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1970.jpg"
+link: "https://climateactionaustralia.wordpress.com/2022/11/16/cop27-fiddling-as-world-warms-climatecrisis-demand-climateaction-sdg13-hyperthreat-time-for-plane/"
+title: "COP27 Fiddling as World Warms #ClimateCrisis demand #ClimateAction #SDG13 #Hyperthreat time for #PlanE"
+excerpt: "The latest annual climate conference has begun in the face of a worsening climate crisis and further retreats by rich nations following the energy crisis induced by NATO sanctions after the Russian…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1981.jpg?w=1200"
 group: con
 rank: 7
 ---

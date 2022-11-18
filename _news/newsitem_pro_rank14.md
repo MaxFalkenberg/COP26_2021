@@ -1,9 +1,9 @@
 ---
-publication: "19thnews.org"
-link: "https://19thnews.org/2022/11/women-cop27-climate-environment-demands/"
-title: "Representation, protection, restitution: Women lay out key demands at COP27 climate summit"
-excerpt: "Women are disproportionately impacted by climate change, but are also left out of decision-making. This year’s summit attendees are working to change that."
-image: "https://19thnews.org/wp-content/uploads/2022/11/cop27-1.jpg"
+publication: "apnews.com"
+link: "https://apnews.com/article/science-business-climate-and-environment-ed3f0bde2e382ea2e30baaecfdf5c0bc"
+title: "Climate activists slam fossil fuels, protest restrictions"
+excerpt: "SHARM EL-SHEIKH, Egypt (AP) — Ugandan climate activist Vanessa Nakate slammed world leaders Tuesday who persist in backing new fossil fuel projects as other activists held a symbolic human and environ"
+image: "https://storage.googleapis.com/afs-prod/media/60c33a01cf214ba18d8679fcafdf51d1/3000.jpeg"
 group: pro
 rank: 14
 ---

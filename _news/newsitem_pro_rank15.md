@@ -1,9 +1,9 @@
 ---
-publication: "hrw.org"
-link: "https://www.hrw.org/news/2022/11/04/brazil-lula-should-urgently-address-amazon-crisis"
-title: "Brazil: Lula Should Urgently Address Amazon Crisis"
-excerpt: "Brazil’s President-Elect, Luiz Inácio Lula da Silva, should commit to concrete measures to back up his promises on the environment as government representatives gather for the COP27 climate summit mee"
-image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211americas_brazil_deforestation.jpg?h=790be497&itok=8cRsbU6J"
+publication: "19thnews.org"
+link: "https://19thnews.org/2022/11/women-cop27-climate-environment-demands/"
+title: "Representation, protection, restitution: Women lay out key demands at COP27 climate summit"
+excerpt: "Women are disproportionately impacted by climate change, but are also left out of decision-making. This year’s summit attendees are working to change that."
+image: "https://19thnews.org/wp-content/uploads/2022/11/cop27-1.jpg"
 group: pro
 rank: 15
 ---

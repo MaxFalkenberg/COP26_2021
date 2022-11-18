@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/brazil-is-back-climate-helm-lula-arrives-egypt-cop27-2022-11-15/"
-title: "'Brazil is back' at COP27 as Lula meets US, Chinese climate envoys"
-excerpt: "Bringing a message that 'Brazil is back' in the fight against global warming, Luiz Inacio Lula da Silva met with climate envoys from China and the United States on Tuesday in Egypt for the COP27 talks"
-image: "https://www.reuters.com/resizer/KtylUFFvjxqRoXxaAi7aXAvbw5s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OP5MAC6N2JOBVDN5FJL35W3BYI.jpg"
+publication: "globalcitizen.org"
+link: "https://www.globalcitizen.org/en/content/rainn-wilson-name-climate-change-arctic-cop27/"
+title: "Rainn Wilson Has Changed His Name to Protest Climate Change — And You Can Too."
+excerpt: "Against the backdrop of COP27, actor Rainn Wilson has 'changed' his name to raise awareness of the climate crisis — and what the Arctic has to do with it."
+image: "https://media.globalcitizen.org/thumbnails/14/48/1448e702-1e12-404c-b7a5-bbb7f7e29fe8/ap19250088356480.jpg__1500x670_q85_ALIAS-hero_image_crop_subsampling-2.jpg"
 group: pro
 rank: 13
 ---
