@@ -1,9 +1,9 @@
 ---
-publication: "mwangocapital.substack.com"
-link: "https://mwangocapital.substack.com/p/14-11-2022-safaricom-hy-23-results"
-title: "Safaricom HY 23 Results"
-excerpt: "Net profit declines 9.6% to KES 33.5B"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0775e2a2-b48e-41ad-87e8-b6167d8077c7_1600x917.png"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/14/WS637262cda310491754329a57.html"
+title: "'Loss and damage' funding a justified demand: China Daily editorial"
+excerpt: "The low-income nations, which have done the least to cause climate change, often bear the brunt of the disastrous consequences of global warming ranging from floods, hurricanes to sea-level rises. The"
+image: "http://img2.chinadaily.com.cn/images/202211/15/6372e10da31049178c90aadd.jpeg"
 group: con
 rank: 13
 ---

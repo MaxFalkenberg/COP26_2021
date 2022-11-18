@@ -1,9 +1,9 @@
 ---
-publication: "thegatewaypundit.com"
-link: "https://www.thegatewaypundit.com/2022/11/john-kerry-spills-beans-u-n-s-cop27-meeting-want-replace-capitalism-new-economic-system/"
-title: "John Kerry Spills the Beans at U.N.’s COP27 Meeting: They Want to Replace Capitalism with a New Economic System"
-excerpt: "Guest post by Leo Hohmann The World Economic Forum’s climate change agenda was “modeled” off the effort to roll out vaccines during the Covid pandemic, John Kerry said during a COP27 panel discussion "
-image: "https://www.thegatewaypundit.com/wp-content/uploads/IMG_7767-1.jpg"
+publication: "tallbloke.wordpress.com"
+link: "https://tallbloke.wordpress.com/2022/11/14/cop27-bulletin-visionless-summit-flails-into-week-two/"
+title: "COP27 bulletin: Visionless summit flails into week two"
+excerpt: "Another waste of time? They need some excuses for the next 27 COPs after all. A downbeat assessment from supporters of climate obsession. – – – As ministers fly in for week two of…"
+image: "https://tallbloke.files.wordpress.com/2022/08/cop27_egypt.jpg?w=150"
 group: con
 rank: 14
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/11/cop27-egypt-carbon-budget-gas-projects/"
-title: "World has nine years to avert catastrophic warming, study shows"
-excerpt: "As nations meet at COP27 in Egypt, studies show the world on track exhaust its carbon budget in nine years -- and new gas projects could accelerate that trend."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KCCZ5GPM7U5YY5DHUSREF63MPM.jpg&w=1440"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63625693"
+title: "COP27: War causing huge release of climate warming gas, claims Ukraine"
+excerpt: "Ukraine tells UN climate summit it will use evidence of environmental crimes to sue Russia."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/125F5/production/_127635257_tv078429829.jpg"
 group: pro
 rank: 14
 ---

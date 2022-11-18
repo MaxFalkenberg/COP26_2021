@@ -1,9 +1,9 @@
 ---
-publication: "londongreenleft.blogspot.com"
-link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
-title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
-excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/15/new-global-climate-ranking-sees-australia-go-from-dead-last-to-far-from-a-pass-climatecrisis-cop27-auspol-tellthetruth-demand-climateaction-sdg13/"
+title: "New global climate ranking sees Australia go from “dead last to far from a pass” #ClimateCrisis #COP27 #auspol #TellTheTruth demand #ClimateAction #SDG13"
+excerpt: "Australia has climbed just four places to rank 55th out of 63 in this year’s global Climate Change Performance Index 2023, launched at COP27 in Egypt, a slight improvement on last year’s where it c…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_2003.jpg"
 group: con
 rank: 8
 ---
