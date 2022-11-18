@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/turkey/cop27-t%C3%BCrkiye-doubles-its-target-to-reduce-carbon-emissions-62575"
-title: "COP27: Türkiye doubles its target to reduce carbon emissions"
-excerpt: "Türkiye has revised its target of reducing carbon emissions from 21 percent to 41 percent by the year 2030, according to Minister of Environment, Urbanization and Climate Change Murat Kurum."
-image: "https://cdni0.trtworld.com/w480/h270/q75/144083_turMuratKurumaa_1668529534678.jpg"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/climate-negotiations-are-in-disarray-as-uns-cop27-enters-second-week/"
+title: "Climate Negotiations Are In Disarray As UN's COP27 Enters Second Week"
+excerpt: "The 27th Conference of the Parties (COP27) delegates are tripping over themselves to find ways to destroy civilization by using global warming as an excuse to regulate every aspect of society. The 'gl"
+image: "https://www.technocracy.news/wp-content/uploads/2017/03/UN-secreatary-general.jpg"
 group: con
 rank: 1
 ---

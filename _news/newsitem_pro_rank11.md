@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63617400"
-title: "COP27: Fears of compromise on key 1.5C global temperature issue"
-excerpt: "There are fears the commitment to a key warming limit may soften as nations seek agreement in Egypt."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/3766/production/_127628141_cop27protest_index_getty.jpg"
+publication: "grist.org"
+link: "https://grist.org/cop27/corporations-have-co-opted-the-un-climate-talks-coca-col/"
+title: "It's not just Coke: Corporations have co-opted the UN climate talks"
+excerpt: "COP27 is covered with logos. But that's just the start of companies' influence."
+image: "https://grist.org/wp-content/uploads/2022/11/COP27-sponsors.jpg"
 group: pro
 rank: 11
 ---

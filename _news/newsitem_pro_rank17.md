@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/world-population-8-billion-acc94296d8aeb06e64daff9e597e0214"
-title: "World Population hits 8 billion, creating many challenges"
-excerpt: "LAGOS, Nigeria (AP) — The world's population will likely hit an estimated 8 billion people  on Tuesday, according to a United Nations projection, with much of the growth coming from developing nations"
-image: "https://storage.googleapis.com/afs-prod/media/ceb97167d0694dc686d6a78968a09d92/3000.jpeg"
+publication: "mol.im"
+link: "https://mol.im/a/11416209"
+title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
+excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
+image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
 group: pro
 rank: 17
 ---
