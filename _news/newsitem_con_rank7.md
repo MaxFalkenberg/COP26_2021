@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/16/australia-criticised-for-resisting-cop27-push-to-end-international-fossil-fuel-subsidies-cop27-climatecrisis-auspol-on-the-highwaytohell-time-for-plane-2/"
-title: "Australia criticised for resisting Cop27 push to end international fossil fuel subsidies #COP27 #ClimateCrisis #auspol On the #HighwayToHell Time for #PlanE"
-excerpt: "Labor party’s environment wing says it’s ‘disappointing’ Albanese government has not joined partnership which would build consensus across OECD BY Adam Morton The climate change minister Chris Bowe…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1863.jpg?w=1200"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/15/WS63739409a310491754329e2c.html"
+title: "Zambian expert urges Africa-China renewable energy cooperation to tackle climate change"
+excerpt: " Africa and other developing countries should focus their attention on tackling climate change by partnering with China in developing renewable energy sources, a Zambian expert has said."
+image: "http://img2.chinadaily.com.cn/images/202211/15/63739409a31049178c90e8f8.jpeg"
 group: con
 rank: 7
 ---

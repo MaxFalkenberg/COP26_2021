@@ -1,9 +1,9 @@
 ---
-publication: "insideclimatenews.org"
-link: "https://insideclimatenews.org/news/15112022/cop27-deforestation-united-states-logging/"
-title: "At COP27, the US Said It Will Lead Efforts to Halt Deforestation. But at Home, the Biden Administration Is Considering Massive Old Growth Logging Projects - Inside Climate News"
-excerpt: "SHARM EL-SHEIKH, Egypt—The U.S. Center at the COP27 climate talks in Sharm El-Sheikh hosted a panel Monday focused on ending global deforestation by 2030, but the reality on the ground in the nation’s"
-image: "https://insideclimatenews.org/wp-content/uploads/2022/11/forest_andrew-lichtenstein-corbis-getty-scaled.jpg"
+publication: "time.com"
+link: "https://time.com/6233777/egyptian-activist-alaa-abd-el-fattah-cop27/"
+title: "Alaa Abd El-Fattah’s Sister Shares Updates, Memories"
+excerpt: "In a Q&A with TIME, Sanaa Seif details her family's efforts to free jailed Egyptian activist Alaa Abd El-Fattah. "
+image: "https://api.time.com/wp-content/uploads/2022/11/sanaa-seif-cop27-activist.jpg?quality=85&w=1024&h=628&crop=1"
 group: pro
 rank: 5
 ---
