@@ -1,9 +1,9 @@
 ---
-publication: "londongreenleft.blogspot.com"
-link: "https://londongreenleft.blogspot.com/2022/11/extract-from-ecosocialism-not-extinction.html"
-title: "Extract From: Ecosocialism Not Extinction  "
-excerpt: "Written by Allan Todd (2022)     “The central preomise of ecosocialism, already suggested by the term itself, is that non-ecological sociali..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOnGFu2WFN8j2gycS06HZ75nEWFUt9D1NBDq-lEWGmFZc0ehRT64ddPVWfVUqWM0wlx6h9catM047Q3HlFivr_j7zniynnGXzXUkbNwsYs89KkQDEdsv803SwGwXV7sU8ubdbFNIo7LZwYyldmPBXiisfqqouBt4GcVM1rQMbf-gWB1F7iYKac9jVB/w1200-h630-p-k-no-nu/ECOSOCIALISM.NOTEXTINCTION%20(1).jpg"
+publication: "presstv.ir"
+link: "https://www.presstv.ir/Detail/2022/11/14/692700/Europe-seeks-access-to-African-fossil-fuels-raising-alarm-at-COP27"
+title: "Wealthy European nations eye natural gas in poor Africa amid energy crunch "
+excerpt: "Europe"
+image: "https://cdn.presstv.ir/Photo/2022/11/14/61038215-fe6f-4502-b299-b3e85082409c.jfif"
 group: con
 rank: 4
 ---

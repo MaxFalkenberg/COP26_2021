@@ -1,9 +1,9 @@
 ---
-publication: "presstv.ir"
-link: "https://www.presstv.ir/Detail/2022/11/14/692700/Europe-seeks-access-to-African-fossil-fuels-raising-alarm-at-COP27"
-title: "Wealthy European nations eye natural gas in poor Africa amid energy crunch "
-excerpt: "Europe"
-image: "https://cdn.presstv.ir/Photo/2022/11/14/61038215-fe6f-4502-b299-b3e85082409c.jfif"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/14/WS637262cda310491754329a57.html"
+title: "'Loss and damage' funding a justified demand: China Daily editorial"
+excerpt: "The low-income nations, which have done the least to cause climate change, often bear the brunt of the disastrous consequences of global warming ranging from floods, hurricanes to sea-level rises. The"
+image: "http://img2.chinadaily.com.cn/images/202211/15/6372e10da31049178c90aadd.jpeg"
 group: con
 rank: 5
 ---

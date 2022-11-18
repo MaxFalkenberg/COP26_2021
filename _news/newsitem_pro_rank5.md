@@ -1,9 +1,5 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63625693"
-title: "COP27: War causing huge release of climate warming gas, claims Ukraine"
-excerpt: "Ukraine tells UN climate summit it will use evidence of environmental crimes to sue Russia."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/125F5/production/_127635257_tv078429829.jpg"
-group: pro
-rank: 5
----
+publication: "amp.theguardian.com"
+link: "https://amp.theguardian.com/commentisfree/2022/nov/15/nationalism-world-crisis-rishi-sunak-joe-biden-g20"
+title: "Nationalism is the ideology of our age. No wonder the world is in crisis | Globalisation | The Guardian"
+excerpt: "Rishi Sunak and Joe Biden should be pushing for greater cooperation at the G20, says former UK prime minister Gordon Brown"
