@@ -1,9 +1,9 @@
 ---
 publication: "takvera.blogspot.com"
-link: "https://takvera.blogspot.com/2022/11/from-russia-with-love-and-smoke-fossil.html"
-title: "From Russia with Love (and Smoke) Fossil of the day Award at COP27"
+link: "https://takvera.blogspot.com/2022/11/stakeout-antonio-guterres-un-secretary.html"
+title: "Stakeout: António Guterres, UN Secretary-General and Sameh Shoukry, COP27 President demand negotiators step up"
 excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2SxydywQMuVIY2kXkl11El596zis3uL45ip23aTZ0GM6hgdvcqBJmicF4jO1M_Hv3usvNvQmdd9cqaEOxP2WTTeonoHLeoJXii2MRKMxzFx_aiBqjPCtUUo9q2bBGOQmgpEqqhlytq5BgHHuN6vy6hnib72K_sTYDQF9lKf5i6JmLqv_ujpPxs1sd/w1200-h630-p-k-no-nu/2022-11-16-FOTD02-Russia.jpeg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR3hHtvv4BgLn23QjxFdeB3oppqy1Q5SSN9S2C-rqsoEgCCSKYzx2IQZInJGdVXP0enh8TSH5zbgozpJQehoekFb7mfza4Hze7Zf1_OynekuFbnFMAJoUWMZNeRF8E9KpToyXfLf3PxbfUjWPXHpQR-srl4MP-Vm7dTK3qePfgUYVzJmGTsssUy5cm/w1200-h630-p-k-no-nu/2022-11-17-Stakeout-COP-President-and-UNSG.jpeg"
 group: con
 rank: 11
 ---

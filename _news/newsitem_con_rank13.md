@@ -1,9 +1,9 @@
 ---
-publication: "cbcgdf.wordpress.com"
-link: "https://cbcgdf.wordpress.com/2022/11/17/cbcgdf-delegation-accepts-invitation-to-participate-in-the-cop27-side-event-of-the-international-4-per1000-initiative-healthy-earth-healthy-soil/"
-title: "CBCGDF Delegation Accepts Invitation to Participate in the COP27 Side Event of the International “4 per1000” Initiative – Healthy Earth, Healthy Soil"
-excerpt: "The 27th United Nations Climate Change Conference is ta…"
-image: "https://cbcgdf.files.wordpress.com/2022/11/e59bbee78987-2.png"
+publication: "takvera.blogspot.com"
+link: "https://takvera.blogspot.com/2022/11/from-russia-with-love-and-smoke-fossil.html"
+title: "From Russia with Love (and Smoke) Fossil of the day Award at COP27"
+excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2SxydywQMuVIY2kXkl11El596zis3uL45ip23aTZ0GM6hgdvcqBJmicF4jO1M_Hv3usvNvQmdd9cqaEOxP2WTTeonoHLeoJXii2MRKMxzFx_aiBqjPCtUUo9q2bBGOQmgpEqqhlytq5BgHHuN6vy6hnib72K_sTYDQF9lKf5i6JmLqv_ujpPxs1sd/w1200-h630-p-k-no-nu/2022-11-16-FOTD02-Russia.jpeg"
 group: con
 rank: 13
 ---
