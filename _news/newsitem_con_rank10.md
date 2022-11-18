@@ -1,9 +1,9 @@
 ---
-publication: "mattcarr.substack.com"
-link: "https://mattcarr.substack.com/p/chronicles-of-extinction"
-title: "Chronicles of Extinction"
-excerpt: "Why the WWF's latest report is a Wake-up Call that We Need to Heed"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1bca4bd9-87f3-4cc3-8c9d-1229a6e7f06b_800x600.jpeg"
+publication: "d-edufeminist.blogspot.com"
+link: "https://d-edufeminist.blogspot.com/2022/11/breaking-newsas-cop27-enters-final-days.html"
+title: "BREAKING NEWS:AS COP27 ENTERS FINAL DAYS, 70% OF AFGHAN CHILDREN THREATENED BY EXTREME WEATHER EVENTS AS DROUGHT PREDICTED TO STRETCH INTO 2023 – SAVE THE CHILDREN"
+excerpt: "  Skip to main content 17 NOVEMBER 2022  - AFGHANISTAN AS COP27 ENTERS FINAL DAYS, 70% OF AFGHAN CHILDREN THREATENED BY EXTREME WEATHER EVEN..."
+image: "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1yjbMnuhcvd3wnfm-K2Vv4oyVfYqghvl_Rf2ONA4HTgMjc6ryKopxLxqjLlQ9z_XOlDfsPXcOeG92gWZVhBSvdvdyM_NlNpigD6TEIoGqk4DFrj6RCT66GwyRXrHdfhtUjyrklOz3MIkZSbafv0QqW=w1200-h630-p-k-no-nu"
 group: con
 rank: 10
 ---

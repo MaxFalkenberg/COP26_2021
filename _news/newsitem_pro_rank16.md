@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/brazils-lula-put-climate-center-first-post-election-speech-abroad-2022-11-16/"
-title: "COP27: Greeted like a rock star, Brazil's Lula promises to protect Amazon"
-excerpt: "Brazil's Luiz Inacio Lula da Silva received a superstar welcome at the COP27 summit in Egypt on Wednesday as he pledged to recommit the rainforest nation to tackling the climate crisis and offered to "
-image: "https://www.reuters.com/resizer/9FCwB1x34-z_S0QdNjS3TjH7_Fw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZUD2M6R6WBIRFJ4NXDYX5OISQA.jpg"
+publication: "nature.com"
+link: "https://www.nature.com/articles/d41586-022-03657-w"
+title: "Carbon emissions hit new high: warning from COP27"
+excerpt: "Fresh data released at the climate summit show global carbon dioxide emissions from fossil fuels are soaring despite energy crisis."
+image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03657-w/d41586-022-03657-w_23688624.jpg"
 group: pro
 rank: 16
 ---
