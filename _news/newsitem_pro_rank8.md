@@ -1,9 +1,9 @@
 ---
-publication: "nature.com"
-link: "https://www.nature.com/articles/d41586-022-03657-w"
-title: "Carbon emissions hit new high: warning from COP27"
-excerpt: "Fresh data released at the climate summit show global carbon dioxide emissions from fossil fuels are soaring despite energy crisis."
-image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03657-w/d41586-022-03657-w_23688624.jpg"
+publication: "bylinetimes.com"
+link: "https://bylinetimes.com/2022/11/17/sponsor-microsoft-partnering-with-egypts-big-oil-drive-to-increase-fossil-fuel-investments/"
+title: "Sponsor Microsoft Partnering with Egypt's Big Oil Drive to ‘Increase’ Fossil Fuel Investments – Byline Times"
+excerpt: "Documents reveal Microsoft is working with the Egyptian Government to use COP27 to maximise fossil fuel exploitation – and the owners of the Daily Mail are helping them"
+image: "https://bylinetimes.com/wp-content/uploads/2022/11/2K3CW0F-600x314.jpg"
 group: pro
 rank: 8
 ---

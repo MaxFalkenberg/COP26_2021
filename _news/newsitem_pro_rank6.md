@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/16/brazil-lula-climate-amazon-cop27/"
-title: "‘Brazil is back’: At COP27, Lula vows to be a global climate leader"
-excerpt: "Brazil's president-elect vowed to reverse deforestation, raising hopes that Brazil could soon push other wavering nations into more ambitious climate action."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5WJSDQPVDYDNE5LYILBX72WH4.jpg&w=1440"
+publication: "nature.com"
+link: "https://www.nature.com/articles/d41586-022-03657-w"
+title: "Carbon emissions hit new high: warning from COP27"
+excerpt: "Fresh data released at the climate summit show global carbon dioxide emissions from fossil fuels are soaring despite energy crisis."
+image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03657-w/d41586-022-03657-w_23688624.jpg"
 group: pro
 rank: 6
 ---

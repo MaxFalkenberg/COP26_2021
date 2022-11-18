@@ -1,9 +1,9 @@
 ---
-publication: "cbcgdf.wordpress.com"
-link: "https://cbcgdf.wordpress.com/2022/11/17/cbcgdf-delegation-accepts-invitation-to-participate-in-the-cop27-side-event-of-the-international-4-per1000-initiative-healthy-earth-healthy-soil/"
-title: "CBCGDF Delegation Accepts Invitation to Participate in the COP27 Side Event of the International “4 per1000” Initiative – Healthy Earth, Healthy Soil"
-excerpt: "The 27th United Nations Climate Change Conference is ta…"
-image: "https://cbcgdf.files.wordpress.com/2022/11/e59bbee78987-2.png"
+publication: "takvera.blogspot.com"
+link: "https://takvera.blogspot.com/2022/11/stakeout-antonio-guterres-un-secretary.html"
+title: "Stakeout: António Guterres, UN Secretary-General and Sameh Shoukry, COP27 President demand negotiators step up"
+excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR3hHtvv4BgLn23QjxFdeB3oppqy1Q5SSN9S2C-rqsoEgCCSKYzx2IQZInJGdVXP0enh8TSH5zbgozpJQehoekFb7mfza4Hze7Zf1_OynekuFbnFMAJoUWMZNeRF8E9KpToyXfLf3PxbfUjWPXHpQR-srl4MP-Vm7dTK3qePfgUYVzJmGTsssUy5cm/w1200-h630-p-k-no-nu/2022-11-17-Stakeout-COP-President-and-UNSG.jpeg"
 group: con
 rank: 11
 ---
