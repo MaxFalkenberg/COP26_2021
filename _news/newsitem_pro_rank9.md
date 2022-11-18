@@ -1,9 +1,9 @@
 ---
-publication: "reason.com"
-link: "https://reason.com/2022/11/17/at-the-u-n-s-climate-change-conference-nuclear-power-is-finally-getting-some-respect/"
-title: "At the U.N.'s Climate Change Conference, nuclear power is finally getting some respect"
-excerpt: "The bigger problem now is that outmoded regulations stand in the way of deployment."
-image: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2022/11/dreamstime_xl_63832570-scaled.jpg"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/cop27-children-global-south-make-their-presence-felt-climate-summit-2022-11-16/"
+title: "COP27: Children from Global South make their presence felt at climate summit"
+excerpt: "Eleven-year-old Indian climate activist Licypriya Kangujam's dogged questioning of Britain's climate minister Zac Goldsmith about the fate of climate activists detained in his country was one of the m"
+image: "https://www.reuters.com/resizer/Db4Yo7cMQuwWO_kvknbqfEYYqGE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/42J2DWWDHZNX5OOKZINU2FVL64.jpg"
 group: pro
 rank: 9
 ---

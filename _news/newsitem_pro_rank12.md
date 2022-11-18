@@ -1,9 +1,9 @@
 ---
-publication: "newscientist.com"
-link: "https://www.newscientist.com/article/2347429-cop27-brazils-lula-promises-zero-deforestation-in-the-amazon-by-2030/"
-title: "COP27: Brazil's Lula promises zero deforestation in the Amazon by 2030"
-excerpt: "Brazil’s incoming president Luiz Inácio Lula da Silva vowed to reverse the environmentally damaging policies of his predecessor in a speech at the UN climate meeting"
-image: "https://images.newscientist.com/wp-content/uploads/2022/11/16174734/SEI_133878034.jpg"
+publication: "apnews.com"
+link: "https://apnews.com/article/science-china-deserts-climate-and-environment-d8c5c4657abea010d7b1d02719b9ca9d"
+title: "EU shakes up climate talks with surprise disaster fund offer"
+excerpt: "SHARM EL-SHEIKH, Egypt (AP) — Climate talks appeared stalled late night Thursday on major issues going into the final day, but possibilities for a deal were buoyed by an unexpected proposal by the Eur"
+image: "https://storage.googleapis.com/afs-prod/media/78db90507d2e457fb0a35175d4674722/3000.jpeg"
 group: pro
 rank: 12
 ---

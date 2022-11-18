@@ -1,9 +1,9 @@
 ---
-publication: "cbcgdf.wordpress.com"
-link: "https://cbcgdf.wordpress.com/2022/11/17/cbcgdf-delegation-accepts-invitation-to-participate-in-the-cop27-side-event-of-the-international-4-per1000-initiative-healthy-earth-healthy-soil/"
-title: "CBCGDF Delegation Accepts Invitation to Participate in the COP27 Side Event of the International “4 per1000” Initiative – Healthy Earth, Healthy Soil"
-excerpt: "The 27th United Nations Climate Change Conference is ta…"
-image: "https://cbcgdf.files.wordpress.com/2022/11/e59bbee78987-2.png"
+publication: "samuchitenvirotech.blogspot.com"
+link: "https://samuchitenvirotech.blogspot.com/2022/11/firsthand-experience-at-cop27-egypt.html"
+title: "Firsthand experience at the COP27 Egypt "
+excerpt: "Sustainable life blog"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzblpPioU_U4Ia7W4M-TYPhRJg8Nw4WCebftc1dxOqal_8oOzMWW-P6O3uTP8Vka71NAQ6l4OXwEVsvUlK-gM-lZlsCzBKkj10saL7JJaMM8Mfs74XSOC36lxFrrwOKgl82uN-GK050wHVjOdSvzdmAHhGtuLhQ_nIupjRN9ozEQdzewK3qZSJ7qVT/w1200-h630-p-k-no-nu/WhatsApp%20Image%202022-11-17%20at%2011.30.29.jpeg"
 group: con
 rank: 13
 ---

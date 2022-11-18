@@ -1,9 +1,9 @@
 ---
-publication: "woodstockearth.blogspot.com"
-link: "http://woodstockearth.blogspot.com/2015/11/10-false-solutions-to-climate-change.html"
-title: "Woodstock Earth Blog"
-excerpt: "A blog that addresses issues dealing with human health, the safety of our food supply, and the welfare of Mother Earth."
-image: "http://3.bp.blogspot.com/-CluCF7iDUBQ/VlY2R19nHSI/AAAAAAAAAUE/CQQUZnbrqqQ/w1200-h630-p-k-no-nu/woodstockearthbulletin.jpg"
+publication: "radio.cgtn.com"
+link: "https://radio.cgtn.com/podcast/news/5/COP27-Climate-funding-or-more-disappointment-for-Africa/2704806"
+title: "Live Radio, Shows & Podcasts | CGTN Radio"
+excerpt: "Catch the latest radio news with CGTN Radio and listen to our trending podcasts wherever you are!"
+image: "https://radio.cgtn.com/static/img/logo_title.png"
 group: con
 rank: 10
 ---
