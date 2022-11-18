@@ -1,9 +1,9 @@
 ---
-publication: "takvera.blogspot.com"
-link: "https://takvera.blogspot.com/2022/11/stakeout-antonio-guterres-un-secretary.html"
-title: "Stakeout: António Guterres, UN Secretary-General and Sameh Shoukry, COP27 President demand negotiators step up"
-excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR3hHtvv4BgLn23QjxFdeB3oppqy1Q5SSN9S2C-rqsoEgCCSKYzx2IQZInJGdVXP0enh8TSH5zbgozpJQehoekFb7mfza4Hze7Zf1_OynekuFbnFMAJoUWMZNeRF8E9KpToyXfLf3PxbfUjWPXHpQR-srl4MP-Vm7dTK3qePfgUYVzJmGTsssUy5cm/w1200-h630-p-k-no-nu/2022-11-17-Stakeout-COP-President-and-UNSG.jpeg"
+publication: "environmentaljusticetv.wordpress.com"
+link: "https://environmentaljusticetv.wordpress.com/2022/11/16/brazils-president-elect-injects-optimism-into-cop27/"
+title: "Brazil’s president-elect injects optimism into COP27"
+excerpt: "Nov 16, 2022 Brazil’s president-elect injected a sense of hope and optimism into COP27 with his appearance. Luiz Inácio Lula da Silva’s promise to put climate change issues at the top of his …"
+image: "http://img.youtube.com/vi/sZh9UdBUkFk/0.jpg"
 group: con
 rank: 11
 ---

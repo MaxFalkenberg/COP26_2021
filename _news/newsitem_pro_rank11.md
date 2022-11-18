@@ -5,5 +5,5 @@ title: "At the U.N.'s Climate Change Conference, nuclear power is finally gettin
 excerpt: "The bigger problem now is that outmoded regulations stand in the way of deployment."
 image: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2022/11/dreamstime_xl_63832570-scaled.jpg"
 group: pro
-rank: 12
+rank: 11
 ---

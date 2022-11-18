@@ -1,9 +1,9 @@
 ---
-publication: "bylinetimes.com"
-link: "https://bylinetimes.com/2022/11/17/sponsor-microsoft-partnering-with-egypts-big-oil-drive-to-increase-fossil-fuel-investments/"
-title: "Sponsor Microsoft Partnering with Egypt's Big Oil Drive to ‘Increase’ Fossil Fuel Investments – Byline Times"
-excerpt: "Documents reveal Microsoft is working with the Egyptian Government to use COP27 to maximise fossil fuel exploitation – and the owners of the Daily Mail are helping them"
-image: "https://bylinetimes.com/wp-content/uploads/2022/11/2K3CW0F-600x314.jpg"
+publication: "spiegel.de"
+link: "https://www.spiegel.de/ausland/uno-klimakonferenz-cop27-eu-stellt-rund-eine-milliarde-euro-fuer-klima-resilienz-in-afrika-bereit-a-02955dd2-d1f4-44b3-87e7-26d2e07d4066"
+title: "Uno-Klimakonferenz COP27: EU stellt rund eine Milliarde Euro für Klima-Resilienz in Afrika bereit"
+excerpt: "Dürre, Überschwemmung, Hitze: Die EU will dem afrikanischen Kontinent helfen, besser mit den Folgen der Klimakrise umzugehen. 60 Millionen Euro soll es zum Ausgleich für bereits eingetretene Schäden u"
+image: "https://cdn.prod.www.spiegel.de/images/60a9cf4f-7073-43cb-ba9b-107ff803ce44_w1280_r1.77_fpx53_fpy53.jpg"
 group: pro
 rank: 8
 ---

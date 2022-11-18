@@ -1,9 +1,9 @@
 ---
-publication: "environmentaljusticetv.wordpress.com"
-link: "https://environmentaljusticetv.wordpress.com/2022/11/16/brazils-president-elect-injects-optimism-into-cop27/"
-title: "Brazil’s president-elect injects optimism into COP27"
-excerpt: "Nov 16, 2022 Brazil’s president-elect injected a sense of hope and optimism into COP27 with his appearance. Luiz Inácio Lula da Silva’s promise to put climate change issues at the top of his …"
-image: "http://img.youtube.com/vi/sZh9UdBUkFk/0.jpg"
+publication: "takvera.blogspot.com"
+link: "https://takvera.blogspot.com/2022/11/from-russia-with-love-and-smoke-fossil.html"
+title: "From Russia with Love (and Smoke) Fossil of the day Award at COP27"
+excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2SxydywQMuVIY2kXkl11El596zis3uL45ip23aTZ0GM6hgdvcqBJmicF4jO1M_Hv3usvNvQmdd9cqaEOxP2WTTeonoHLeoJXii2MRKMxzFx_aiBqjPCtUUo9q2bBGOQmgpEqqhlytq5BgHHuN6vy6hnib72K_sTYDQF9lKf5i6JmLqv_ujpPxs1sd/w1200-h630-p-k-no-nu/2022-11-16-FOTD02-Russia.jpeg"
 group: con
 rank: 13
 ---

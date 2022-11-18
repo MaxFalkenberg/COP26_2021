@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/life/brazil-s-lula-pledges-to-defeat-all-crimes-in-amazon-forest-62613"
-title: "Brazil's Lula pledges to defeat 'all crimes' in Amazon forest"
-excerpt: "President-elect Lula da Silva receives a superstar welcome at COP27 summit in Egypt as he promises to recommit the rainforest nation to tackling illegal deforestation and mining 'without respite.'"
-image: "https://cdni0.trtworld.com/w480/h270/q75/144171_EGY20221116_1668633700414.jpg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/18/extreme-weather-to-strike-australia-decades-earlier-than-expected-climatecrisis-cop27-demand-climateaction-sdg13-hyperthreat-plane-auspol/"
+title: "Extreme weather to strike Australia decades earlier than expected #ClimateCrisis #COP27 demand #ClimateAction #SDG13 #Hyperthreat #PlanE #auspol"
+excerpt: "Climate change is likely to change eastern Pacific weather patterns within the decade, a new study has found, meaning Australia needs to start preparing for “extreme” flooding and droug…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_2015.jpg"
 group: con
 rank: 7
 ---
