@@ -1,9 +1,9 @@
 ---
-publication: "democracynow.org"
-link: "https://www.democracynow.org/"
-title: "Democracy Now!"
-excerpt: "A daily TV/radio news program, hosted by Amy Goodman and Juan Gonzalez, pioneering the largest community media collaboration in the U.S."
-image: "https://assets.democracynow.org/assets/default_content_image-354f4555cc64afadc730d64243c658dd0af1f330152adcda6c4900cb4a26f082.jpg"
+publication: "correspondent.afp.com"
+link: "https://correspondent.afp.com/watching-world-burn"
+title: "Watching the world burn"
+excerpt: "With climate disasters piling up, global warming is getting worse – fast. We had better learn to embrace our despair, argues AFP’s environmental editor Marlowe Hood"
+image: "https://correspondent.afp.com/sites/default/files/styles/twitter_card/public/medias/aa_new_posts/marlowe_climate_change/000_tb305_1.jpg?itok=8bFHjI7O"
 group: pro
 rank: 19
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "takvera.blogspot.com"
-link: "https://takvera.blogspot.com/2022/11/tracking-australian-ministers-and.html"
-title: "Tracking Australian Ministers and Australian pledges at COP27"
-excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3Ae64kyAxmQH_lQi8kFHiny9EyNk5kscVZWSNUk_SIsp3xWWzK0XURU0z-Tty1wspYtEjeNQbXkfRHeEnGvl0E3Au4KkYyZdVkTHsqorDWQCWUXvAvjK-84_OxIRJ-tyMRakx5vkoUEKcJ5lfS-qvf4PVQ7X2Cbwuh-seOT5cnNtPx3gHMPTj06WT/w1200-h630-p-k-no-nu/2022-11-15-chris-Bowen-statement-cropped.jpeg"
+publication: "uncutnews.ch"
+link: "https://uncutnews.ch/die-vereinten-nationen-erwaegen-den-versuch-alle-fossilen-brennstoffe-auf-dem-planeten-zu-verbieten-was-zu-hunger-und-tod-von-milliarden-fuehren-wuerde/"
+title: "Die Vereinten Nationen erwägen den Versuch, alle fossilen Brennstoffe auf dem Planeten zu verbieten, was zu Hunger und Tod von Milliarden führen würde"
+excerpt: None
+image: "https://www.naturalnews.com/wp-content/uploads/sites/91/2022/11/Pain-at-the-gas-pump-and-economic-challenge-1.jpeg"
 group: con
 rank: 14
 ---

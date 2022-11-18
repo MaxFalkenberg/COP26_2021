@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63599932"
-title: "COP27: Without Greta, activists make waves at climate summit"
-excerpt: "Young campaigners say they are calling out 'greenwashing' at COP27 from the inside."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/1D77/production/_127634570_gettyimages-1440254642.jpg"
+publication: "globalcitizen.org"
+link: "https://www.globalcitizen.org/en/content/rainn-wilson-name-climate-change-arctic-cop27/"
+title: "Rainn Wilson Has Changed His Name to Protest Climate Change — And You Can Too."
+excerpt: "Against the backdrop of COP27, actor Rainn Wilson has 'changed' his name to raise awareness of the climate crisis — and what the Arctic has to do with it."
+image: "https://media.globalcitizen.org/thumbnails/14/48/1448e702-1e12-404c-b7a5-bbb7f7e29fe8/ap19250088356480.jpg__1500x670_q85_ALIAS-hero_image_crop_subsampling-2.jpg"
 group: pro
 rank: 17
 ---

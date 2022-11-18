@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/16/WS6373cc18a310491754329e5a.html"
-title: "UN publishes draft to tackle 'loss and damage' issue in climate debate"
-excerpt: " The United Nations (UN) published on Monday a draft text with an aim to address the 'loss and damage' issue, one of the hottest topics at the ongoing UN climate conference."
-image: "http://img2.chinadaily.com.cn/images/202211/16/6373cd7fa31049178c90f087.jpeg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/16/australia-criticised-for-resisting-cop27-push-to-end-international-fossil-fuel-subsidies-cop27-climatecrisis-auspol-on-the-highwaytohell-time-for-plane-2/"
+title: "Australia criticised for resisting Cop27 push to end international fossil fuel subsidies #COP27 #ClimateCrisis #auspol On the #HighwayToHell Time for #PlanE"
+excerpt: "Labor party’s environment wing says it’s ‘disappointing’ Albanese government has not joined partnership which would build consensus across OECD BY Adam Morton The climate change minister Chris Bowe…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1863.jpg?w=1200"
 group: con
 rank: 9
 ---
