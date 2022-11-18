@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/11/cop27-egypt-carbon-budget-gas-projects/"
-title: "World has nine years to avert catastrophic warming, study shows"
-excerpt: "As nations meet at COP27 in Egypt, studies show the world on track exhaust its carbon budget in nine years -- and new gas projects could accelerate that trend."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KCCZ5GPM7U5YY5DHUSREF63MPM.jpg&w=1440"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/big-gas-chiefs-bill-themselves-climate-leaders-cop27-2022-11-14/"
+title: "Big gas chiefs bill themselves as climate leaders at COP27"
+excerpt: "The heads of two big natural gas companies told Reuters on Monday they were seeking to use the setting of the COP27 international climate summit to bill their industry as a leader in the fight against"
+image: "https://www.reuters.com/resizer/GOJtnR6mltAyt8gRHRosZ01OUwU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WYLTXI4K5VKCLCOSIJLMUTTKAA.jpg"
 group: pro
 rank: 15
 ---

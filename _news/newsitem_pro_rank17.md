@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/big-gas-chiefs-bill-themselves-climate-leaders-cop27-2022-11-14/"
-title: "Big gas chiefs bill themselves as climate leaders at COP27"
-excerpt: "The heads of two big natural gas companies told Reuters on Monday they were seeking to use the setting of the COP27 international climate summit to bill their industry as a leader in the fight against"
-image: "https://www.reuters.com/resizer/GOJtnR6mltAyt8gRHRosZ01OUwU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WYLTXI4K5VKCLCOSIJLMUTTKAA.jpg"
+publication: "dailycaller.com"
+link: "https://dailycaller.com/2022/11/14/private-jets-flown-cop27-egypt/"
+title: "Concerned About The Climate? Take A Private Jet To Egypt To Learn How You Can Help Save The Planet"
+excerpt: "A bunch of billionaires and world leaders flew some 400 private jets to Egypt in November to prevaricate pointlessly about climate change."
+image: "https://cdn01.dailycaller.com/wp-content/uploads/2022/11/2022-11-07T185340Z_567712032_RC24HX92SD7C_RTRMADP_3_CLIMATE-UN-scaled-e1668442052576.jpg"
 group: pro
 rank: 17
 ---
