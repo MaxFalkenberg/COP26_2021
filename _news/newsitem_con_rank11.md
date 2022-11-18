@@ -1,9 +1,9 @@
 ---
-publication: "revkin.substack.com"
-link: "https://revkin.substack.com/p/election-worries-bolsonaro-could-22-09-07"
-title: "Election Worries - Bolsonaro Could Burn Brazil's Democracy Along with Amazon Forests"
-excerpt: "Brazil is celebrating 200 years of independence. Will it celebrate democracy or face a coup in October?"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimport-images%2F05be73bb-cc7b-4bd1-8e4f-bc39a9c4879d%2F26f336642d80939e1658a98ca61f4c01.jpg"
+publication: "takvera.blogspot.com"
+link: "https://takvera.blogspot.com/2022/11/tracking-australian-ministers-and.html"
+title: "Tracking Australian Ministers and Australian pledges at COP27"
+excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3Ae64kyAxmQH_lQi8kFHiny9EyNk5kscVZWSNUk_SIsp3xWWzK0XURU0z-Tty1wspYtEjeNQbXkfRHeEnGvl0E3Au4KkYyZdVkTHsqorDWQCWUXvAvjK-84_OxIRJ-tyMRakx5vkoUEKcJ5lfS-qvf4PVQ7X2Cbwuh-seOT5cnNtPx3gHMPTj06WT/w1200-h630-p-k-no-nu/2022-11-15-chris-Bowen-statement-cropped.jpeg"
 group: con
 rank: 11
 ---

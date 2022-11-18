@@ -1,9 +1,9 @@
 ---
-publication: "londongreenleft.blogspot.com"
-link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
-title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
-excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
+publication: "thegatewaypundit.com"
+link: "https://www.thegatewaypundit.com/2022/11/exclusive-donations-democrats-ftx-related-foreign-entities-like-ukraine-go-executive-order-13848-signed-trump-biden/"
+title: "EXCLUSIVE: FTX Donations to Democrats from Foreign Entities Like Ukraine Are in Violation of Executive Order 13848 Signed by President Trump and Biden"
+excerpt: "Sam Bankman-Fried (SBF) donated tens of millions to the Democrats over the past few years.  It’s questionable how legal this was since FTX is a Bahamas-based entity. We reported this weekend how FTX h"
+image: "https://www.thegatewaypundit.com/wp-content/uploads/FTX-Circle-of-Fraud-2.jpg"
 group: con
 rank: 7
 ---

@@ -1,9 +1,9 @@
 ---
 publication: "theguardian.com"
-link: "https://www.theguardian.com/commentisfree/2022/nov/09/leaders-cop27-livestock-farming-carbon-budget-governments"
-title: "There’s one big subject our leaders at Cop27 won’t touch: livestock farming | George Monbiot"
-excerpt: "It’s on course to guzzle half the world’s carbon budget, so why are governments so afraid to discuss it?, says Guardian columnist George Monbiot"
-image: "https://i.guim.co.uk/img/media/ab6fc4d2a1b190deb4d09484549d2688a55910d3/0_362_5464_3278/master/5464.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=e03bcb962ae515489b6677258e0fb825"
+link: "https://www.theguardian.com/environment/2022/nov/16/uae-cop28-host-lobby-climate-reputation-cop27"
+title: "UAE using role as Cop28 host to lobby on its climate reputation"
+excerpt: "Gulf petrostate hired PR firms to stress its part in next year’s climate summit before this year’s had begun"
+image: "https://i.guim.co.uk/img/media/661584e9acbc1713f2b5875fca0daa8a7865b60c/0_84_7117_4272/master/7117.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5db9141dfa8c730f1240d74e1ca27dd"
 group: pro
 rank: 1
 ---
