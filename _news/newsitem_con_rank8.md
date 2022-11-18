@@ -1,9 +1,9 @@
 ---
-publication: "thegatewaypundit.com"
-link: "https://www.thegatewaypundit.com/2022/11/exclusive-donations-democrats-ftx-related-foreign-entities-like-ukraine-go-executive-order-13848-signed-trump-biden/"
-title: "EXCLUSIVE: FTX Donations to Democrats from Foreign Entities Like Ukraine Are in Violation of Executive Order 13848 Signed by President Trump and Biden"
-excerpt: "Sam Bankman-Fried (SBF) donated tens of millions to the Democrats over the past few years.  It’s questionable how legal this was since FTX is a Bahamas-based entity. We reported this weekend how FTX h"
-image: "https://www.thegatewaypundit.com/wp-content/uploads/FTX-Circle-of-Fraud-2.jpg"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1279705.shtml"
+title: "Resumption of talks between China, US pushes COP27 to yield concrete results"
+excerpt: "Top climate officials from China and the US started talks after the leaders of both countries endorsed the resumption of communications on climate change, which scientists believe is expected to push "
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-11/fec4f3f9-33ca-45d1-a8ad-23ab238090e2_s.jpeg"
 group: con
 rank: 8
 ---
