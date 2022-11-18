@@ -1,9 +1,9 @@
 ---
-publication: "hillheat.substack.com"
-link: "https://hillheat.substack.com/p/atlas-of-disaster"
-title: "Atlas of Disaster"
-excerpt: "Entering Year 77 of the Calamity and Year Two of Hill Heat"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhq3PO2XEAEyRyI.jpg"
+publication: "presstv.ir"
+link: "https://www.presstv.ir/Detail/2022/11/14/692700/Europe-seeks-access-to-African-fossil-fuels-raising-alarm-at-COP27"
+title: "Wealthy European nations eye natural gas in poor Africa amid energy crunch "
+excerpt: "Europe"
+image: "https://cdn.presstv.ir/Photo/2022/11/14/61038215-fe6f-4502-b299-b3e85082409c.jfif"
 group: con
 rank: 12
 ---

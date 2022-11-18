@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/jonathancook/p/cop27-the-dirty-secret-europe-is"
-title: "Cop27: The dirty secret Europe is hiding at the climate summit"
-excerpt: "Grand declarations on tackling the climate emergency are sabotaged by a treaty from the 1990s that holds European states to ransom"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0c13fdf1-27a3-462b-9c20-6b270ef1132a_520x338.png"
+publication: "takvera.blogspot.com"
+link: "https://takvera.blogspot.com/2022/11/from-russia-with-love-and-smoke-fossil.html"
+title: "From Russia with Love (and Smoke) Fossil of the day Award at COP27"
+excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2SxydywQMuVIY2kXkl11El596zis3uL45ip23aTZ0GM6hgdvcqBJmicF4jO1M_Hv3usvNvQmdd9cqaEOxP2WTTeonoHLeoJXii2MRKMxzFx_aiBqjPCtUUo9q2bBGOQmgpEqqhlytq5BgHHuN6vy6hnib72K_sTYDQF9lKf5i6JmLqv_ujpPxs1sd/w1200-h630-p-k-no-nu/2022-11-16-FOTD02-Russia.jpeg"
 group: con
 rank: 11
 ---

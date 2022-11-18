@@ -1,9 +1,9 @@
 ---
-publication: "u.afp.com"
-link: "http://u.afp.com/iqDN"
-title: "Brazil's Lula, world leaders bolster UN climate talks"
-excerpt: "UN climate talks got a boost Wednesday after Brazilian president-elect Luiz Inacio Lula da Silva vowed to fight Amazon deforestation and global leaders reaffirmed key pledges. Lula kicked off COP27 ev"
-image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA14cNC7.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=435&y=232"
+publication: "axios.com"
+link: "https://www.axios.com/2022/11/16/lula-cop27-declares-brazil-back-on-climate-action"
+title: "Lula declares 'Brazil is back' on climate action, seeks climate damage funding"
+excerpt: "Lula was treated to a rock star welcome at the COP27 summit in Egypt."
+image: "https://images.axios.com/517fWD4QzjdSk5z_YdvOWOkGHvI=/1366x768/smart/2022/11/16/1668616800499.jpg"
 group: pro
 rank: 16
 ---

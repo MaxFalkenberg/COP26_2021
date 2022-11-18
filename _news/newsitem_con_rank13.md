@@ -1,9 +1,9 @@
 ---
-publication: "fairsnape.substack.com"
-link: "https://fairsnape.substack.com/p/cop27-regen-notes"
-title: "COP27 Regen Notes"
-excerpt: "Storms, Starlight and the Magic of the Mangrove"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9e526fcf-9034-4b0f-9660-8cba086c7864_3590x2515.jpeg"
+publication: "cbcgdf.wordpress.com"
+link: "https://cbcgdf.wordpress.com/2022/11/17/cbcgdf-delegation-accepts-invitation-to-participate-in-the-cop27-side-event-of-the-international-4-per1000-initiative-healthy-earth-healthy-soil/"
+title: "CBCGDF Delegation Accepts Invitation to Participate in the COP27 Side Event of the International “4 per1000” Initiative – Healthy Earth, Healthy Soil"
+excerpt: "The 27th United Nations Climate Change Conference is ta…"
+image: "https://cbcgdf.files.wordpress.com/2022/11/e59bbee78987-2.png"
 group: con
 rank: 13
 ---
