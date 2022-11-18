@@ -5,5 +5,5 @@ title: "Record-breaking carbon emissions, and more — this week’s best scienc
 excerpt: "Three key charts from the world of research, selected by Nature editors."
 image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03721-5/d41586-022-03721-5_23713704.jpg"
 group: pro
-rank: 9
+rank: 10
 ---
