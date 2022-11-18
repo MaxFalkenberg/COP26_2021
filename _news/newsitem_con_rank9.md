@@ -1,9 +1,9 @@
 ---
-publication: "gulfnews.com"
-link: "https://gulfnews.com/"
-title: "Gulf News: Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema"
-excerpt: "Get the latest update on UAE, business, life style, UAE jobs, gold rate, Exchange rate, UAE holidays, Dubai police, RTA and prayer times from UAE’s largest news portal."
-image: "https://assets.gulfnews.com/images/gn-logo-1200x630.png"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/climate-negotiations-are-in-disarray-as-uns-cop27-enters-second-week/"
+title: "Climate Negotiations Are In Disarray As UN's COP27 Enters Second Week"
+excerpt: "The 27th Conference of the Parties (COP27) delegates are tripping over themselves to find ways to destroy civilization by using global warming as an excuse to regulate every aspect of society. The 'gl"
+image: "https://www.technocracy.news/wp-content/uploads/2017/03/UN-secreatary-general.jpg"
 group: con
 rank: 9
 ---

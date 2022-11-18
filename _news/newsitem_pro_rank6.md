@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63625693"
-title: "COP27: War causing huge release of climate warming gas, claims Ukraine"
-excerpt: "Ukraine tells UN climate summit it will use evidence of environmental crimes to sue Russia."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/125F5/production/_127635257_tv078429829.jpg"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/14/cop27-governments-should-reject-weak-carbon-market-rules"
+title: "COP27: Governments Should Reject Weak Carbon Market Rules"
+excerpt: "Countries attending the 27th annual United Nations climate change Conference of Parties (COP27) in Egypt should reject newly proposed recommendations for removals in a global carbon market."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202209EHR_egypt_cop27.jpg?h=c673cd1c&itok=CR4AzpbT"
 group: pro
 rank: 6
 ---

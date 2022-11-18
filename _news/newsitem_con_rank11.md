@@ -1,9 +1,9 @@
 ---
-publication: "technocracy.news"
-link: "https://www.technocracy.news/climate-negotiations-are-in-disarray-as-uns-cop27-enters-second-week/"
-title: "Climate Negotiations Are In Disarray As UN's COP27 Enters Second Week"
-excerpt: "The 27th Conference of the Parties (COP27) delegates are tripping over themselves to find ways to destroy civilization by using global warming as an excuse to regulate every aspect of society. The 'gl"
-image: "https://www.technocracy.news/wp-content/uploads/2017/03/UN-secreatary-general.jpg"
+publication: "notalotofpeopleknowthat.wordpress.com"
+link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/14/egypts-cop27-climate-gabfest-isnt-going-too-well/"
+title: "Egypt’s COP27 ‘climate gabfest’ isn’t going ‘too well’"
+excerpt: "By Paul Homewood   If only our media had the guts to tell the truth:      "
+image: "http://img.youtube.com/vi/iCnJQ1Bde0E/0.jpg"
 group: con
 rank: 11
 ---

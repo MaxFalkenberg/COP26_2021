@@ -1,9 +1,9 @@
 ---
-publication: "dailycaller.com"
-link: "https://dailycaller.com/2022/11/14/private-jets-flown-cop27-egypt/"
-title: "Concerned About The Climate? Take A Private Jet To Egypt To Learn How You Can Help Save The Planet"
-excerpt: "A bunch of billionaires and world leaders flew some 400 private jets to Egypt in November to prevaricate pointlessly about climate change."
-image: "https://cdn01.dailycaller.com/wp-content/uploads/2022/11/2022-11-07T185340Z_567712032_RC24HX92SD7C_RTRMADP_3_CLIMATE-UN-scaled-e1668442052576.jpg"
+publication: "thetimes.co.uk"
+link: "https://www.thetimes.co.uk/article/the-world-population-passes-8-billion-today-how-big-will-it-get-mhqgz5vcw"
+title: "The world population passes 8 billion today. How big will it get?"
+excerpt: "Some time today Earth’s population is expected to pass eight billion, according to the United Nations, which will announce the milestone in events staged in N"
+image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F73d28572-644b-11ed-9c3b-2d9184d0076f.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
 group: pro
 rank: 12
 ---

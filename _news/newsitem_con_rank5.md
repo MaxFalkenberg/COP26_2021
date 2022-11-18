@@ -1,10 +1,9 @@
 ---
-publication: "naturalnews.com"
-link: "https://www.naturalnews.com/2022-11-10-globalists-enjoying-food-while-people-eat-bugs.html"
-title: "Hypocrite globalists enjoy smorgasbord of fine foods while urging regular people to eat BUGS"
-excerpt: "An utter display of hypocrisy is laid out for the world to see as the globalists enjoy a variety of fine foods at the COP27 climate summit in Egypt, while pushing for regular people to eat insects.
-"
-image: "https://www.naturalnews.com/wp-content/uploads/sites/91/2022/11/Gates_WEF_wikimedia-1.jpeg"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/14/WS637262cda310491754329a57.html"
+title: "'Loss and damage' funding a justified demand: China Daily editorial"
+excerpt: "The low-income nations, which have done the least to cause climate change, often bear the brunt of the disastrous consequences of global warming ranging from floods, hurricanes to sea-level rises. The"
+image: "http://img2.chinadaily.com.cn/images/202211/15/6372e10da31049178c90aadd.jpeg"
 group: con
 rank: 5
 ---

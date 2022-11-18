@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/world-population-8-billion-acc94296d8aeb06e64daff9e597e0214"
-title: "World Population hits 8 billion, creating many challenges"
-excerpt: "LAGOS, Nigeria (AP) — The world's population will likely hit an estimated 8 billion people  on Tuesday, according to a United Nations projection, with much of the growth coming from developing nations"
-image: "https://storage.googleapis.com/afs-prod/media/ceb97167d0694dc686d6a78968a09d92/3000.jpeg"
+publication: "mediamatters.org"
+link: "https://www.mediamatters.org/climate-deniers/fox-news-platforms-climate-denial-and-great-reset-conspiracy-theory-during-cop27"
+title: "Fox News platforms climate denial and the Great Reset conspiracy theory during COP27"
+excerpt: None
+image: "https://cloudfront.mediamatters.org/static/D8Image/2022/11/14/unfiltered_with_dan_bongino_-_fnc-bongino-111222-moranogrclimate_-_09_00_01_pm.jpg?VersionId=NBuPu67ItauswZM_wOLEeitzR4i.lHsS"
 group: pro
 rank: 18
 ---
