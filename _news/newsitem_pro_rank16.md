@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63599932"
-title: "COP27: Without Greta, activists make waves at climate summit"
-excerpt: "Young campaigners say they are calling out 'greenwashing' at COP27 from the inside."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/1D77/production/_127634570_gettyimages-1440254642.jpg"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/brazil-is-back-climate-helm-lula-arrives-egypt-cop27-2022-11-15/"
+title: "'Brazil is back' at COP27 as Lula meets US, Chinese climate envoys"
+excerpt: "Bringing a message that 'Brazil is back' in the fight against global warming, Luiz Inacio Lula da Silva met with climate envoys from China and the United States on Tuesday in Egypt for the COP27 talks"
+image: "https://www.reuters.com/resizer/KtylUFFvjxqRoXxaAi7aXAvbw5s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OP5MAC6N2JOBVDN5FJL35W3BYI.jpg"
 group: pro
 rank: 16
 ---

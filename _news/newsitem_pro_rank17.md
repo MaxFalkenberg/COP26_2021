@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/uk-northern-ireland-63626967"
-title: "Extinction Rebellion protest leads to two arrests at bank"
-excerpt: "A man and woman in their 30s are arrested on suspicion of criminal damage and disorderly behaviour."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/CCBD/production/_127631425_barclayspaint.jpg"
+publication: "democracynow.org"
+link: "https://www.democracynow.org/"
+title: "Democracy Now!"
+excerpt: "A daily TV/radio news program, hosted by Amy Goodman and Juan Gonzalez, pioneering the largest community media collaboration in the U.S."
+image: "https://assets.democracynow.org/assets/default_content_image-354f4555cc64afadc730d64243c658dd0af1f330152adcda6c4900cb4a26f082.jpg"
 group: pro
 rank: 17
 ---
