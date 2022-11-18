@@ -1,9 +1,9 @@
 ---
-publication: "thegatewaypundit.com"
-link: "https://www.thegatewaypundit.com/2022/11/exclusive-donations-democrats-ftx-related-foreign-entities-like-ukraine-go-executive-order-13848-signed-trump-biden/"
-title: "EXCLUSIVE: FTX Donations to Democrats from Foreign Entities Like Ukraine Are in Violation of Executive Order 13848 Signed by President Trump and Biden"
-excerpt: "Sam Bankman-Fried (SBF) donated tens of millions to the Democrats over the past few years.  It’s questionable how legal this was since FTX is a Bahamas-based entity. We reported this weekend how FTX h"
-image: "https://www.thegatewaypundit.com/wp-content/uploads/FTX-Circle-of-Fraud-2.jpg"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/life/brazil-s-lula-pledges-to-defeat-all-crimes-in-amazon-forest-62613"
+title: "Brazil's Lula pledges to defeat 'all crimes' in Amazon forest"
+excerpt: "President-elect Lula da Silva receives a superstar welcome at COP27 summit in Egypt as he promises to recommit the rainforest nation to tackling illegal deforestation and mining 'without respite.'"
+image: "https://cdni0.trtworld.com/w480/h270/q75/144171_EGY20221116_1668633700414.jpg"
 group: con
 rank: 3
 ---

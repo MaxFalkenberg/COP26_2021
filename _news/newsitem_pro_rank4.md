@@ -1,9 +1,9 @@
 ---
-publication: "newscientist.com"
-link: "https://www.newscientist.com/article/2347429-cop27-brazils-lula-promises-zero-deforestation-in-the-amazon-by-2030/"
-title: "COP27: Brazil's Lula promises zero deforestation in the Amazon by 2030"
-excerpt: "Brazil’s incoming president Luiz Inácio Lula da Silva vowed to reverse the environmentally damaging policies of his predecessor in a speech at the UN climate meeting"
-image: "https://images.newscientist.com/wp-content/uploads/2022/11/16174734/SEI_133878034.jpg"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/16/egypt-detentions-repression-follow-protest-calls"
+title: "Egypt: Detentions, Repression Follow Protest Calls"
+excerpt: "Egyptian authorities have reportedly detained hundreds of people in a nationwide crackdown following calls for anti-government protests."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211afr_egypt_cop27_climate_protest.jpg?h=a130fd67&itok=PMtqChhx"
 group: pro
 rank: 4
 ---

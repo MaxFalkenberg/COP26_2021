@@ -1,9 +1,9 @@
 ---
-publication: "fairsnape.substack.com"
-link: "https://fairsnape.substack.com/p/cop27-regen-notes"
-title: "COP27 Regen Notes"
-excerpt: "Storms, Starlight and the Magic of the Mangrove"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9e526fcf-9034-4b0f-9660-8cba086c7864_3590x2515.jpeg"
+publication: "takvera.blogspot.com"
+link: "https://takvera.blogspot.com/2022/11/from-russia-with-love-and-smoke-fossil.html"
+title: "From Russia with Love (and Smoke) Fossil of the day Award at COP27"
+excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2SxydywQMuVIY2kXkl11El596zis3uL45ip23aTZ0GM6hgdvcqBJmicF4jO1M_Hv3usvNvQmdd9cqaEOxP2WTTeonoHLeoJXii2MRKMxzFx_aiBqjPCtUUo9q2bBGOQmgpEqqhlytq5BgHHuN6vy6hnib72K_sTYDQF9lKf5i6JmLqv_ujpPxs1sd/w1200-h630-p-k-no-nu/2022-11-16-FOTD02-Russia.jpeg"
 group: con
 rank: 14
 ---

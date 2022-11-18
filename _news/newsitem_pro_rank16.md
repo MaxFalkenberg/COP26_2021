@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop27-children-global-south-make-their-presence-felt-climate-summit-2022-11-16/"
-title: "COP27: Children from Global South make their presence felt at climate summit"
-excerpt: "Eleven-year-old Indian climate activist Licypriya Kangujam's dogged questioning of Britain's climate minister Zac Goldsmith about the fate of climate activists detained in his country was one of the m"
-image: "https://www.reuters.com/resizer/Db4Yo7cMQuwWO_kvknbqfEYYqGE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/42J2DWWDHZNX5OOKZINU2FVL64.jpg"
+publication: "newscientist.com"
+link: "https://www.newscientist.com/article/2347429-cop27-brazils-lula-promises-zero-deforestation-in-the-amazon-by-2030/"
+title: "COP27: Brazil's Lula promises zero deforestation in the Amazon by 2030"
+excerpt: "Brazil’s incoming president Luiz Inácio Lula da Silva vowed to reverse the environmentally damaging policies of his predecessor in a speech at the UN climate meeting"
+image: "https://images.newscientist.com/wp-content/uploads/2022/11/16174734/SEI_133878034.jpg"
 group: pro
 rank: 16
 ---

@@ -1,9 +1,10 @@
 ---
-publication: "dailykos.com"
-link: "https://www.dailykos.com/story/2022/11/17/2134235/-Caribbean-Matters-At-COP27-Barbados-PM-Mia-Mottley-is-a-powerful-voice-addressing-climate-change"
-title: "Caribbean Matters: At COP27, Barbados PM Mia Mottley is a powerful voice addressing climate change"
-excerpt: "While many people here in the U.S. have been focused on the midterm elections�and results, which are still coming in, nations around the world have been participating in COP27 .�More formally known .."
-image: "https://images.dailykos.com/images/1134333/story_image/GettyImages-1244608437.jpg?1668523498"
+publication: "zerohedge.com"
+link: "https://www.zerohedge.com/markets/cop27-climate-virtue-signaling-boondoggle-ends-failure-without-fossil-fuel-pledge"
+title: "COP27 Climate Virtue-Signaling Boondoggle Ends In Failure, Leaves Out Fossil Fuel Pledge"
+excerpt: "The COP27 text still makes no reference to a fossil fuel phase down, as poseur virtue signalers are once again put in their place by the likes of India and China.
+"
+image: "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-11/sophia%20kianni.jpg?itok=vHCIIWV9"
 group: con
 rank: 0
 ---

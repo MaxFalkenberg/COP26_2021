@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/climate-change/news/lula-cop27-brazil-amazon-oil-b2226404.html"
-title: "Brazil’s president-elect Lula vows to save Amazon at Cop27"
-excerpt: "Climate activists are pressing for answers on whether Brazil’s new leader will cut booming oil and gas expansion in country"
-image: "https://static.independent.co.uk/2022/11/16/15/SEI133835940.jpg?quality=75&width=1200&auto=webp"
+publication: "axios.com"
+link: "https://www.axios.com/2022/11/16/lula-cop27-declares-brazil-back-on-climate-action"
+title: "Lula declares 'Brazil is back' on climate action, seeks climate damage funding"
+excerpt: "Lula was treated to a rock star welcome at the COP27 summit in Egypt."
+image: "https://images.axios.com/517fWD4QzjdSk5z_YdvOWOkGHvI=/1366x768/smart/2022/11/16/1668616800499.jpg"
 group: pro
 rank: 12
 ---
