@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/world/2022/11/15/russia-ukraine-g20-cop27-lavrov/"
-title: "Russia sees its role on the global stage diminished by Ukraine war"
-excerpt: "At the G-20 in Bali and COP27 in Egypt, Russia has found itself in an unusual position — a leading topic of discussion rather than a leading player."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6ESOY57GS4UBKQ3KQGUEXSHG4Y.jpg&w=1440"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/04/brazil-lula-should-urgently-address-amazon-crisis"
+title: "Brazil: Lula Should Urgently Address Amazon Crisis"
+excerpt: "Brazil’s President-Elect, Luiz Inácio Lula da Silva, should commit to concrete measures to back up his promises on the environment as government representatives gather for the COP27 climate summit mee"
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211americas_brazil_deforestation.jpg?h=790be497&itok=8cRsbU6J"
 group: pro
 rank: 15
 ---

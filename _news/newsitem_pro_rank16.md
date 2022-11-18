@@ -1,9 +1,9 @@
 ---
-publication: "hrw.org"
-link: "https://www.hrw.org/news/2022/11/04/brazil-lula-should-urgently-address-amazon-crisis"
-title: "Brazil: Lula Should Urgently Address Amazon Crisis"
-excerpt: "Brazil’s President-Elect, Luiz Inácio Lula da Silva, should commit to concrete measures to back up his promises on the environment as government representatives gather for the COP27 climate summit mee"
-image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211americas_brazil_deforestation.jpg?h=790be497&itok=8cRsbU6J"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/brazils-lula-put-climate-center-first-post-election-speech-abroad-2022-11-16/"
+title: "COP27: Greeted like a rock star, Brazil's Lula promises to protect Amazon"
+excerpt: "Brazil's Luiz Inacio Lula da Silva received a superstar welcome at the COP27 summit in Egypt on Wednesday as he pledged to recommit the rainforest nation to tackling the climate crisis and offered to "
+image: "https://www.reuters.com/resizer/9FCwB1x34-z_S0QdNjS3TjH7_Fw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZUD2M6R6WBIRFJ4NXDYX5OISQA.jpg"
 group: pro
 rank: 16
 ---
