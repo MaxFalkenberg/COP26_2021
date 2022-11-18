@@ -1,9 +1,9 @@
 ---
-publication: "insideclimatenews.org"
-link: "https://insideclimatenews.org/news/15112022/cop27-deforestation-united-states-logging/"
-title: "At COP27, the US Said It Will Lead Efforts to Halt Deforestation. But at Home, the Biden Administration Is Considering Massive Old Growth Logging Projects - Inside Climate News"
-excerpt: "SHARM EL-SHEIKH, Egypt—The U.S. Center at the COP27 climate talks in Sharm El-Sheikh hosted a panel Monday focused on ending global deforestation by 2030, but the reality on the ground in the nation’s"
-image: "https://insideclimatenews.org/wp-content/uploads/2022/11/forest_andrew-lichtenstein-corbis-getty-scaled.jpg"
+publication: "grist.org"
+link: "https://grist.org/cop27/corporations-have-co-opted-the-un-climate-talks-coca-col/"
+title: "It's not just Coke: Corporations have co-opted the UN climate talks"
+excerpt: "COP27 is covered with logos. But that's just the start of companies' influence."
+image: "https://grist.org/wp-content/uploads/2022/11/COP27-sponsors.jpg"
 group: pro
 rank: 8
 ---

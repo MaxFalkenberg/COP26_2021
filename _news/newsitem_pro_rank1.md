@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop27-un-food-agency-plan-farming-emissions-launch-by-next-year-after-investor-2022-11-10/"
-title: "COP27: UN food agency plan on farming emissions to launch by next year after investor push"
-excerpt: "The U.N. food agency aims to launch a plan within the year to make the world's food system more sustainable, a senior executive told Reuters on the sidelines of the COP27 climate talks in Egypt."
-image: "https://www.reuters.com/resizer/VcvWdJRv2AyuHlmfj-Ev6VvwwVM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WARSVZRTBVLGTNT52N6W4YQIXQ.jpg"
+publication: "theguardian.com"
+link: "https://www.theguardian.com/australia-news/2022/nov/16/australia-criticised-for-resisting-cop27-push-to-end-international-fossil-fuel-subsidies"
+title: "Australia criticised for resisting Cop27 push to end international fossil fuel subsidies"
+excerpt: "Labor party’s environment wing says it’s ‘disappointing’ Albanese government has not joined partnership which would build consensus across OECD"
+image: "https://i.guim.co.uk/img/media/10c07c4b41cbfaeff39ae4079d266645fbd80532/0_13_5436_3260/master/5436.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=03d2c5feb79bf6fd04b1ecc99ee08e37"
 group: pro
 rank: 1
 ---
