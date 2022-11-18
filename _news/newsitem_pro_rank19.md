@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/11/cop27-live-updates-biden-egypt/"
-title: "COP27 highlights: Biden says U.S. will ‘do our part to avert’ a ‘climate hell’ during address in Egypt"
-excerpt: "The first week of COP27, the United Nations climate conference, is underway in Egypt. President Biden is attending events with other world leaders."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-11-2022/t_3d5af52991554f3793dccdcdec5407a4_name_1___1920x1080___30p_00_46_58_16_Still015.jpg&w=1440"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/big-gas-chiefs-bill-themselves-climate-leaders-cop27-2022-11-14/"
+title: "Big gas chiefs bill themselves as climate leaders at COP27"
+excerpt: "The heads of two big natural gas companies told Reuters on Monday they were seeking to use the setting of the COP27 international climate summit to bill their industry as a leader in the fight against"
+image: "https://www.reuters.com/resizer/GOJtnR6mltAyt8gRHRosZ01OUwU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WYLTXI4K5VKCLCOSIJLMUTTKAA.jpg"
 group: pro
 rank: 19
 ---
