@@ -1,9 +1,9 @@
 ---
-publication: "technocracy.news"
-link: "https://www.technocracy.news/eu-raises-climate-target-continues-to-drive-europe-into-energy-poverty/"
-title: "EU Raises Climate Target, Continues To Drive Europe Into Energy Poverty"
-excerpt: "COP27 is a virtue signaling bonanza. EU Technocrats have driven Europe into an energy crisis with their war on traditional energy sources. Instead of saving Europeans from de-industrialization and ene"
-image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-15-at-8.02.27-AM.png"
+publication: "presstv.ir"
+link: "https://www.presstv.ir/Detail/2022/11/14/692700/Europe-seeks-access-to-African-fossil-fuels-raising-alarm-at-COP27"
+title: "Wealthy European nations eye natural gas in poor Africa amid energy crunch "
+excerpt: "Europe"
+image: "https://cdn.presstv.ir/Photo/2022/11/14/61038215-fe6f-4502-b299-b3e85082409c.jfif"
 group: con
 rank: 12
 ---

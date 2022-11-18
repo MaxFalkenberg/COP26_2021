@@ -1,9 +1,9 @@
 ---
-publication: "19thnews.org"
-link: "https://19thnews.org/2022/11/women-cop27-climate-environment-demands/"
-title: "Representation, protection, restitution: Women lay out key demands at COP27 climate summit"
-excerpt: "Women are disproportionately impacted by climate change, but are also left out of decision-making. This year’s summit attendees are working to change that."
-image: "https://19thnews.org/wp-content/uploads/2022/11/cop27-1.jpg"
+publication: "insideclimatenews.org"
+link: "https://insideclimatenews.org/todaysclimate/climate-disinformation-campaigns-threaten-cop27-progress-a-new-report-concludes/"
+title: "Climate Disinformation Campaigns Threaten COP27 Progress, a New Report Concludes - Inside Climate News"
+excerpt: "SHARM EL-SHEIKH, Egypt—The slow pace of global climate talks is once again on display at COP27 this week and can be partially explained by a renewed blitz of climate disinformation, according to watch"
+image: "https://insideclimatenews.org/wp-content/uploads/2022/11/cop_joseph-eid-getty-scaled.jpg"
 group: pro
 rank: 13
 ---
