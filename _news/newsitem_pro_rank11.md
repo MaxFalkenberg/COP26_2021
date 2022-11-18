@@ -1,9 +1,9 @@
 ---
-publication: "reason.com"
-link: "https://reason.com/2022/11/17/at-the-u-n-s-climate-change-conference-nuclear-power-is-finally-getting-some-respect/"
-title: "At the U.N.'s Climate Change Conference, nuclear power is finally getting some respect"
-excerpt: "The bigger problem now is that outmoded regulations stand in the way of deployment."
-image: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2022/11/dreamstime_xl_63832570-scaled.jpg"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/us-aims-zero-emissions-heavy-duty-vehicles-by-2040-2022-11-17/"
+title: "U.S. aims for zero-emissions heavy-duty vehicles by 2040"
+excerpt: "The United States aims to only sell and produce zero-emissions medium- and heavy-duty vehicles like school buses and tractor trailers by 2040, the U.S. energy secretary agreed at the COP27 climate sum"
+image: "https://www.reuters.com/resizer/Ae7xg44mm-ZKSaDJ4QPbD5vlP4w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QBIHSDCLSZMDDNGMC7JULIEHCI.jpg"
 group: pro
 rank: 11
 ---

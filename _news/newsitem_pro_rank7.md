@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/16/brazil-lula-climate-amazon-cop27/"
-title: "‘Brazil is back’: At COP27, Lula vows to be a global climate leader"
-excerpt: "Brazil's president-elect vowed to reverse deforestation, raising hopes that Brazil could soon push other wavering nations into more ambitious climate action."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5WJSDQPVDYDNE5LYILBX72WH4.jpg&w=1440"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/cop27-children-global-south-make-their-presence-felt-climate-summit-2022-11-16/"
+title: "COP27: Children from Global South make their presence felt at climate summit"
+excerpt: "Eleven-year-old Indian climate activist Licypriya Kangujam's dogged questioning of Britain's climate minister Zac Goldsmith about the fate of climate activists detained in his country was one of the m"
+image: "https://www.reuters.com/resizer/Db4Yo7cMQuwWO_kvknbqfEYYqGE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/42J2DWWDHZNX5OOKZINU2FVL64.jpg"
 group: pro
 rank: 7
 ---

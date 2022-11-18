@@ -1,9 +1,9 @@
 ---
-publication: "newscientist.com"
-link: "https://www.newscientist.com/article/2347429-cop27-brazils-lula-promises-zero-deforestation-in-the-amazon-by-2030/"
-title: "COP27: Brazil's Lula promises zero deforestation in the Amazon by 2030"
-excerpt: "Brazil’s incoming president Luiz Inácio Lula da Silva vowed to reverse the environmentally damaging policies of his predecessor in a speech at the UN climate meeting"
-image: "https://images.newscientist.com/wp-content/uploads/2022/11/16174734/SEI_133878034.jpg"
+publication: "democracynow.org"
+link: "https://www.democracynow.org/2022/11/17/cop27_land_defenders_mexico_guatemala_green"
+title: "At COP27 Indigenous Land Defenders from Mexico, Guatemala Warn “Green Capitalism” Creates Violence"
+excerpt: "We continue our coverage of the U.N. climate conference in Sharm el-Sheikh, Egypt, by asking what Indigenous leaders at the frontlines of the climate crisis are calling for from world leaders. We spea"
+image: "https://www.democracynow.org/images/story/32/65232/full_hd/seg3-futuros-indegenas.jpg"
 group: pro
 rank: 17
 ---

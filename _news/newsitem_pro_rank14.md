@@ -1,9 +1,9 @@
 ---
-publication: "vox.com"
-link: "https://www.vox.com/down-to-earth/2022/11/17/23460525/nature-based-solutions-climate-change-cop27"
-title: "No one knows what 'nature-based solutions' are"
-excerpt: "The environmental movement has a buzzword problem."
-image: "https://cdn.vox-cdn.com/thumbor/2g1iseVJsA5Oa3eZcdZqHEB6F_4=/0x217:2000x1264/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24205256/adler_9724.jpg"
+publication: "independent.co.uk"
+link: "https://www.independent.co.uk/climate-change/news/cop27-egypt-climate-sharm-el-sheikh-b2227355.html"
+title: "Trust breaks down at Cop27 as UN chief urges agreement in final 24 hours"
+excerpt: "‘This is no time for finger-pointing. The blame game is a recipe for mutually assured destruction,’ UN secretary-general Antonio Guterres warns "
+image: "https://static.independent.co.uk/2022/11/17/16/SEI134027592.jpg?quality=75&width=1200&auto=webp"
 group: pro
 rank: 14
 ---

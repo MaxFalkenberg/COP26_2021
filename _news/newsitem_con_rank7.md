@@ -1,9 +1,9 @@
 ---
-publication: "radio.cgtn.com"
-link: "https://radio.cgtn.com/podcast/news/5/COP27-Climate-funding-or-more-disappointment-for-Africa/2704806"
-title: "Live Radio, Shows & Podcasts | CGTN Radio"
-excerpt: "Catch the latest radio news with CGTN Radio and listen to our trending podcasts wherever you are!"
-image: "https://radio.cgtn.com/static/img/logo_title.png"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/18/extreme-weather-to-strike-australia-decades-earlier-than-expected-climatecrisis-cop27-demand-climateaction-sdg13-hyperthreat-plane-auspol/"
+title: "Extreme weather to strike Australia decades earlier than expected #ClimateCrisis #COP27 demand #ClimateAction #SDG13 #Hyperthreat #PlanE #auspol"
+excerpt: "Climate change is likely to change eastern Pacific weather patterns within the decade, a new study has found, meaning Australia needs to start preparing for “extreme” flooding and droug…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_2015.jpg"
 group: con
 rank: 7
 ---
