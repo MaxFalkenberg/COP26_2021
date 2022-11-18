@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/17/sleepwalking-to-global-armageddon-cop27-ecologicalcrisis-climatecrisis-economiccrisis-hyperthreat-time-for-plane-tellthetruth-demand-climateaction-sdg13/"
-title: "Sleepwalking to global armageddon #COP27 #EcologicalCrisis #ClimateCrisis #EconomicCrisis #Hyperthreat time for #PlanE #TellTheTruth demand #ClimateAction #SDG13"
-excerpt: "By Jeremy Webb An article in the prestigious journal Nature shows a dramatic increase in the likelihood of tipping points causing a runway disruption to the globe’s environment. Australia and other…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1882.jpg?w=1034"
+publication: "radio.cgtn.com"
+link: "https://radio.cgtn.com/podcast/news/5/COP27-Climate-funding-or-more-disappointment-for-Africa/2704806"
+title: "Live Radio, Shows & Podcasts | CGTN Radio"
+excerpt: "Catch the latest radio news with CGTN Radio and listen to our trending podcasts wherever you are!"
+image: "https://radio.cgtn.com/static/img/logo_title.png"
 group: con
 rank: 8
 ---

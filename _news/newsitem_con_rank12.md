@@ -1,9 +1,9 @@
 ---
-publication: "cbcgdf.wordpress.com"
-link: "https://cbcgdf.wordpress.com/2022/11/17/cbcgdf-delegation-accepts-invitation-to-participate-in-the-cop27-side-event-of-the-international-4-per1000-initiative-healthy-earth-healthy-soil/"
-title: "CBCGDF Delegation Accepts Invitation to Participate in the COP27 Side Event of the International “4 per1000” Initiative – Healthy Earth, Healthy Soil"
-excerpt: "The 27th United Nations Climate Change Conference is ta…"
-image: "https://cbcgdf.files.wordpress.com/2022/11/e59bbee78987-2.png"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/18/can-scientists-moonlight-as-activists-or-does-that-violate-an-important-ethical-code-ecologicalcrisis-climatecrisis-cop27/"
+title: "Can scientists moonlight as activists — or does that violate an important ethical code? #EcologicalCrisis #ClimateCrisis #COP27"
+excerpt: "By NICHOLAS GOLDBERG LA Times Peter Kalmus, a climate scientist with NASA’s Jet Propulsion Laboratory, chained himself to the doors of the Wilson Air Center in Charlotte, N.C., last week as part of…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1881.jpg?w=1200"
 group: con
 rank: 12
 ---

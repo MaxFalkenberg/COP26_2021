@@ -1,9 +1,9 @@
 ---
-publication: "reason.com"
-link: "https://reason.com/2022/11/17/at-the-u-n-s-climate-change-conference-nuclear-power-is-finally-getting-some-respect/"
-title: "At the U.N.'s Climate Change Conference, nuclear power is finally getting some respect"
-excerpt: "The bigger problem now is that outmoded regulations stand in the way of deployment."
-image: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2022/11/dreamstime_xl_63832570-scaled.jpg"
+publication: "democracynow.org"
+link: "https://www.democracynow.org/2022/11/17/cop27_land_defenders_mexico_guatemala_green"
+title: "At COP27 Indigenous Land Defenders from Mexico, Guatemala Warn “Green Capitalism” Creates Violence"
+excerpt: "We continue our coverage of the U.N. climate conference in Sharm el-Sheikh, Egypt, by asking what Indigenous leaders at the frontlines of the climate crisis are calling for from world leaders. We spea"
+image: "https://www.democracynow.org/images/story/32/65232/full_hd/seg3-futuros-indegenas.jpg"
 group: pro
 rank: 19
 ---

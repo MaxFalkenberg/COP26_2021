@@ -1,9 +1,9 @@
 ---
-publication: "bylinetimes.com"
-link: "https://bylinetimes.com/2022/11/17/sponsor-microsoft-partnering-with-egypts-big-oil-drive-to-increase-fossil-fuel-investments/"
-title: "Sponsor Microsoft Partnering with Egypt's Big Oil Drive to ‘Increase’ Fossil Fuel Investments – Byline Times"
-excerpt: "Documents reveal Microsoft is working with the Egyptian Government to use COP27 to maximise fossil fuel exploitation – and the owners of the Daily Mail are helping them"
-image: "https://bylinetimes.com/wp-content/uploads/2022/11/2K3CW0F-600x314.jpg"
+publication: "axios.com"
+link: "https://www.axios.com/2022/11/16/lula-cop27-declares-brazil-back-on-climate-action"
+title: "Lula declares 'Brazil is back' on climate action, seeks climate damage funding"
+excerpt: "Lula was treated to a rock star welcome at the COP27 summit in Egypt."
+image: "https://images.axios.com/517fWD4QzjdSk5z_YdvOWOkGHvI=/1366x768/smart/2022/11/16/1668616800499.jpg"
 group: pro
 rank: 17
 ---

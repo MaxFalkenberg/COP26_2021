@@ -1,9 +1,9 @@
 ---
-publication: "axios.com"
-link: "https://www.axios.com/2022/11/16/lula-cop27-declares-brazil-back-on-climate-action"
-title: "Lula declares 'Brazil is back' on climate action, seeks climate damage funding"
-excerpt: "Lula was treated to a rock star welcome at the COP27 summit in Egypt."
-image: "https://images.axios.com/517fWD4QzjdSk5z_YdvOWOkGHvI=/1366x768/smart/2022/11/16/1668616800499.jpg"
+publication: "vox.com"
+link: "https://www.vox.com/down-to-earth/2022/11/17/23460525/nature-based-solutions-climate-change-cop27"
+title: "No one knows what 'nature-based solutions' are"
+excerpt: "The environmental movement has a buzzword problem."
+image: "https://cdn.vox-cdn.com/thumbor/2g1iseVJsA5Oa3eZcdZqHEB6F_4=/0x217:2000x1264/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24205256/adler_9724.jpg"
 group: pro
 rank: 16
 ---

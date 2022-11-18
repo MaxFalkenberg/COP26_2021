@@ -1,9 +1,9 @@
 ---
-publication: "vox.com"
-link: "https://www.vox.com/down-to-earth/2022/11/17/23460525/nature-based-solutions-climate-change-cop27"
-title: "No one knows what 'nature-based solutions' are"
-excerpt: "The environmental movement has a buzzword problem."
-image: "https://cdn.vox-cdn.com/thumbor/2g1iseVJsA5Oa3eZcdZqHEB6F_4=/0x217:2000x1264/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24205256/adler_9724.jpg"
+publication: "newscientist.com"
+link: "https://www.newscientist.com/article/2347429-cop27-brazils-lula-promises-zero-deforestation-in-the-amazon-by-2030/"
+title: "COP27: Brazil's Lula promises zero deforestation in the Amazon by 2030"
+excerpt: "Brazil’s incoming president Luiz Inácio Lula da Silva vowed to reverse the environmentally damaging policies of his predecessor in a speech at the UN climate meeting"
+image: "https://images.newscientist.com/wp-content/uploads/2022/11/16174734/SEI_133878034.jpg"
 group: pro
 rank: 14
 ---
