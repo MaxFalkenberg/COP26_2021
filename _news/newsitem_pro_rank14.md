@@ -1,9 +1,9 @@
 ---
-publication: "dw.com"
-link: "https://www.dw.com/en/germany-complains-to-egypt-over-cop27-snooping-report/a-63743183"
-title: "Germany complains to Egypt over COP27 snooping: report – DW – 11/13/2022"
-excerpt: "The German embassy in Cairo accused Egyptian security officials of monitoring and filming events at the German pavilion in the climate conference venue. Berlin has used its presence to highlight human"
-image: "https://static.dw.com/image/63743322_6.jpg"
+publication: "bbc.com"
+link: "https://www.bbc.com/news/science-environment-63584993"
+title: "COP27: BP chief listed as delegate for Mauritania"
+excerpt: "Chief executive of leading oil company is registered for COP27 as a delegate from poor African nation."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/9DE3/production/_127591404_8b02a6d3109de19484839f21a08d34e1284f7485.jpg"
 group: pro
 rank: 14
 ---
