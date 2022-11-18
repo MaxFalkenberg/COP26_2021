@@ -1,9 +1,9 @@
 ---
-publication: "thegatewaypundit.com"
-link: "https://www.thegatewaypundit.com/2022/11/exclusive-donations-democrats-ftx-related-foreign-entities-like-ukraine-go-executive-order-13848-signed-trump-biden/"
-title: "EXCLUSIVE: FTX Donations to Democrats from Foreign Entities Like Ukraine Are in Violation of Executive Order 13848 Signed by President Trump and Biden"
-excerpt: "Sam Bankman-Fried (SBF) donated tens of millions to the Democrats over the past few years.  It’s questionable how legal this was since FTX is a Bahamas-based entity. We reported this weekend how FTX h"
-image: "https://www.thegatewaypundit.com/wp-content/uploads/FTX-Circle-of-Fraud-2.jpg"
+publication: "maynoothgeography.wordpress.com"
+link: "https://maynoothgeography.wordpress.com/2022/11/16/cop27-negotiating-the-square-brackets/"
+title: "COP27 : Negotiating the Square Brackets"
+excerpt: "It is often queried why so many people are necessary to attend the COP. The attendance of around 30,000 this year is made up not just of national negotiators from the 197 countries who signed up to…"
+image: "https://s0.wp.com/i/blank.jpg"
 group: con
 rank: 10
 ---
