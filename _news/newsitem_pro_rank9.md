@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63584993"
-title: "COP27: BP chief listed as delegate for Mauritania"
-excerpt: "Chief executive of leading oil company is registered for COP27 as a delegate from poor African nation."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/9DE3/production/_127591404_8b02a6d3109de19484839f21a08d34e1284f7485.jpg"
+publication: "thetimes.co.uk"
+link: "https://www.thetimes.co.uk/article/the-world-population-passes-8-billion-today-how-big-will-it-get-mhqgz5vcw"
+title: "The world population passes 8 billion today. How big will it get?"
+excerpt: "Some time today Earth’s population is expected to pass eight billion, according to the United Nations, which will announce the milestone in events staged in N"
+image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F73d28572-644b-11ed-9c3b-2d9184d0076f.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
 group: pro
 rank: 9
 ---
