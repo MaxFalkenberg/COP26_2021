@@ -1,9 +1,9 @@
 ---
 publication: "hrw.org"
-link: "https://www.hrw.org/news/2022/11/04/brazil-lula-should-urgently-address-amazon-crisis"
-title: "Brazil: Lula Should Urgently Address Amazon Crisis"
-excerpt: "Brazil’s President-Elect, Luiz Inácio Lula da Silva, should commit to concrete measures to back up his promises on the environment as government representatives gather for the COP27 climate summit mee"
-image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211americas_brazil_deforestation.jpg?h=790be497&itok=8cRsbU6J"
+link: "https://www.hrw.org/news/2022/11/16/governments-should-commit-fossil-fuel-phase-out-cop27"
+title: "Governments Should Commit to Fossil Fuel Phase Out at COP27"
+excerpt: "In these closing days of COP27, governments are negotiating the final text detailing the key agreements reached at the United Nations climate change summit in Egypt. The first glimpse of that document"
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211mena_egypt_COP27_Sharm_El_Sheikh_Fossil_Fuels_Phase_Out_action.jpg?h=34bbd072&itok=0ph06ZHN"
 group: pro
 rank: 15
 ---

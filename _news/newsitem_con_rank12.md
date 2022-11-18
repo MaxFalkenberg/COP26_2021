@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/world/2022/11/16/G20-agrees-to-pursue-bids-to-limit-temperature-rise-to-1-5C-in-boost-to-COP27-talks"
-title: "G20 agrees to pursue bids to limit temperature rise to 1.5C, in boost to COP27 talks"
-excerpt: "Leaders at the G20 meeting in Bali on Wednesday agreed to pursue efforts to limit the rise in global temperatures to 1.5 degrees Celsius and recognized the"
-image: "https://vid.alarabiya.net/images/2022/11/16/5ba21adf-0b07-495e-9ab5-429fe03b4670/5ba21adf-0b07-495e-9ab5-429fe03b4670_16x9_600x338.JPG"
+publication: "mattcarr.substack.com"
+link: "https://mattcarr.substack.com/p/chronicles-of-extinction"
+title: "Chronicles of Extinction"
+excerpt: "Why the WWF's latest report is a Wake-up Call that We Need to Heed"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1bca4bd9-87f3-4cc3-8c9d-1229a6e7f06b_800x600.jpeg"
 group: con
 rank: 12
 ---
