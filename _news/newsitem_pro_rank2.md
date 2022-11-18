@@ -1,9 +1,9 @@
 ---
-publication: "ft.com"
-link: "https://www.ft.com/content/a29c1204-70cf-46c1-b266-780788bfa048"
-title: "Subscribe to read | Financial Times"
-excerpt: "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
-image: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
+publication: "financialpost.com"
+link: "https://financialpost.com/commodities/energy/oil-gas/sonya-savage-alberta-cop27-energy-crisis"
+title: "Sonya Savage: Alberta is taking a seat at COP27 to help solve the global energy crisis"
+excerpt: "We need to have an honest conversation about balancing climate policy with energy and food security, writes Alberta's Sonya Savage. Read on."
+image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/11/sonya-savage.jpg"
 group: pro
 rank: 2
 ---

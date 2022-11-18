@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/brazil-rainforest-nations-join-forces-save-jungle-2022-11-14/"
-title: "Biggest rainforest nations form triple alliance to save jungle"
-excerpt: "The world's three largest rainforest nations Brazil, Democratic Republic of Congo and Indonesia on Monday formally launched a partnership to cooperate on forest preservation after a decade of on-off t"
-image: "https://www.reuters.com/resizer/nfiAlFvwOAKfcULQv4hQmxaCYk4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SFPTL667QZMAHLFHN7NK2UWBX4.jpg"
+publication: "dw.com"
+link: "https://www.dw.com/en/germany-complains-to-egypt-over-cop27-snooping-report/a-63743183"
+title: "Germany complains to Egypt over COP27 snooping: report – DW – 11/13/2022"
+excerpt: "The German embassy in Cairo accused Egyptian security officials of monitoring and filming events at the German pavilion in the climate conference venue. Berlin has used its presence to highlight human"
+image: "https://static.dw.com/image/63743322_6.jpg"
 group: pro
 rank: 12
 ---
