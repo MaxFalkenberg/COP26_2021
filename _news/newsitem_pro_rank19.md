@@ -1,9 +1,9 @@
 ---
-publication: "dailymail.co.uk"
-link: "https://www.dailymail.co.uk/news/article-11416209/FOUR-private-jets-arrived-Egypt-COP27-climate-delegates-accused-hypocrisy.html"
-title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
-excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
-image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
+publication: "mediamatters.org"
+link: "https://www.mediamatters.org/climate-deniers/fox-news-platforms-climate-denial-and-great-reset-conspiracy-theory-during-cop27"
+title: "Fox News platforms climate denial and the Great Reset conspiracy theory during COP27"
+excerpt: None
+image: "https://cloudfront.mediamatters.org/static/D8Image/2022/11/14/unfiltered_with_dan_bongino_-_fnc-bongino-111222-moranogrclimate_-_09_00_01_pm.jpg?VersionId=NBuPu67ItauswZM_wOLEeitzR4i.lHsS"
 group: pro
 rank: 19
 ---

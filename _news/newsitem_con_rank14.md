@@ -1,9 +1,9 @@
 ---
-publication: "mwangocapital.substack.com"
-link: "https://mwangocapital.substack.com/p/14-11-2022-safaricom-hy-23-results"
-title: "Safaricom HY 23 Results"
-excerpt: "Net profit declines 9.6% to KES 33.5B"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0775e2a2-b48e-41ad-87e8-b6167d8077c7_1600x917.png"
+publication: "thegatewaypundit.com"
+link: "https://www.thegatewaypundit.com/2022/11/john-kerry-spills-beans-u-n-s-cop27-meeting-want-replace-capitalism-new-economic-system/"
+title: "John Kerry Spills the Beans at U.N.’s COP27 Meeting: They Want to Replace Capitalism with a New Economic System"
+excerpt: "Guest post by Leo Hohmann The World Economic Forum’s climate change agenda was “modeled” off the effort to roll out vaccines during the Covid pandemic, John Kerry said during a COP27 panel discussion "
+image: "https://www.thegatewaypundit.com/wp-content/uploads/IMG_7767-1.jpg"
 group: con
 rank: 14
 ---
