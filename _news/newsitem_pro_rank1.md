@@ -1,9 +1,9 @@
 ---
 publication: "theguardian.com"
-link: "https://www.theguardian.com/australia-news/2022/nov/16/australia-criticised-for-resisting-cop27-push-to-end-international-fossil-fuel-subsidies"
-title: "Australia criticised for resisting Cop27 push to end international fossil fuel subsidies"
-excerpt: "Labor party’s environment wing says it’s ‘disappointing’ Albanese government has not joined partnership which would build consensus across OECD"
-image: "https://i.guim.co.uk/img/media/10c07c4b41cbfaeff39ae4079d266645fbd80532/0_13_5436_3260/master/5436.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=03d2c5feb79bf6fd04b1ecc99ee08e37"
+link: "https://www.theguardian.com/environment/2022/nov/16/uae-cop28-host-lobby-climate-reputation-cop27"
+title: "UAE using role as Cop28 host to lobby on its climate reputation"
+excerpt: "Gulf petrostate hired PR firms to stress its part in next year’s climate summit before this year’s had begun"
+image: "https://i.guim.co.uk/img/media/661584e9acbc1713f2b5875fca0daa8a7865b60c/0_84_7117_4272/master/7117.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5db9141dfa8c730f1240d74e1ca27dd"
 group: pro
 rank: 1
 ---

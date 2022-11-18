@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63625698"
-title: "COP27: Brazil is back on the world stage, Lula tells climate summit"
-excerpt: "The Brazilian president-elect attracts huge emotional crowds at COP27 but faces opposition at home."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/15FB3/production/_127653009_tv080346782.jpg"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/16/egypt-detentions-repression-follow-protest-calls"
+title: "Egypt: Detentions, Repression Follow Protest Calls"
+excerpt: "Egyptian authorities have reportedly detained hundreds of people in a nationwide crackdown following calls for anti-government protests."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211afr_egypt_cop27_climate_protest.jpg?h=a130fd67&itok=PMtqChhx"
 group: pro
 rank: 12
 ---

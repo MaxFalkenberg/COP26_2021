@@ -1,9 +1,9 @@
 ---
-publication: "mattcarr.substack.com"
-link: "https://mattcarr.substack.com/p/chronicles-of-extinction"
-title: "Chronicles of Extinction"
-excerpt: "Why the WWF's latest report is a Wake-up Call that We Need to Heed"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1bca4bd9-87f3-4cc3-8c9d-1229a6e7f06b_800x600.jpeg"
+publication: "takvera.blogspot.com"
+link: "https://takvera.blogspot.com/2022/11/tracking-australian-ministers-and.html"
+title: "Tracking Australian Ministers and Australian pledges at COP27"
+excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3Ae64kyAxmQH_lQi8kFHiny9EyNk5kscVZWSNUk_SIsp3xWWzK0XURU0z-Tty1wspYtEjeNQbXkfRHeEnGvl0E3Au4KkYyZdVkTHsqorDWQCWUXvAvjK-84_OxIRJ-tyMRakx5vkoUEKcJ5lfS-qvf4PVQ7X2Cbwuh-seOT5cnNtPx3gHMPTj06WT/w1200-h630-p-k-no-nu/2022-11-15-chris-Bowen-statement-cropped.jpeg"
 group: con
 rank: 11
 ---
