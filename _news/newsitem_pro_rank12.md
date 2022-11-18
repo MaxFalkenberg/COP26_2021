@@ -1,9 +1,9 @@
 ---
-publication: "dailycaller.com"
-link: "https://dailycaller.com/2022/11/14/private-jets-flown-cop27-egypt/"
-title: "Concerned About The Climate? Take A Private Jet To Egypt To Learn How You Can Help Save The Planet"
-excerpt: "A bunch of billionaires and world leaders flew some 400 private jets to Egypt in November to prevaricate pointlessly about climate change."
-image: "https://cdn01.dailycaller.com/wp-content/uploads/2022/11/2022-11-07T185340Z_567712032_RC24HX92SD7C_RTRMADP_3_CLIMATE-UN-scaled-e1668442052576.jpg"
+publication: "grist.org"
+link: "https://grist.org/cop27/corporations-have-co-opted-the-un-climate-talks-coca-col/"
+title: "It's not just Coke: Corporations have co-opted the UN climate talks"
+excerpt: "COP27 is covered with logos. But that's just the start of companies' influence."
+image: "https://grist.org/wp-content/uploads/2022/11/COP27-sponsors.jpg"
 group: pro
 rank: 12
 ---
