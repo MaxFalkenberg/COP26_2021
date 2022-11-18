@@ -1,9 +1,9 @@
 ---
-publication: "esgadvocate.substack.com"
-link: "https://esgadvocate.substack.com/p/cop27-on-the-money"
-title: "COP27: On the Money?"
-excerpt: "COP27's Finance Day brought the focus to the Private Sector, but what was missing?"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7355c920-4466-448c-bc3b-60aa31b71a5b_420x300.jpeg"
+publication: "gulfnews.com"
+link: "https://gulfnews.com/uae/indian-expat-student-from-dubai-speaks-at-cop27-1.91886059"
+title: "Indian expat student from Dubai speaks at COP27"
+excerpt: "17 year old from Jumeirah College is out to educate youth on sustainability"
+image: "https://imagevars.gulfnews.com/2022/11/14/Sa_1847492a17d_medium.jpg"
 group: con
 rank: 10
 ---

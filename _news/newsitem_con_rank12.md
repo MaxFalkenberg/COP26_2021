@@ -1,9 +1,9 @@
 ---
-publication: "theorchard.substack.com"
-link: "http://theorchard.substack.com"
-title: "The Orchard"
-excerpt: "News and analysis from an unabashedly progressive perspective. Click to read The Orchard, by Jeremy Appel, a Substack publication with thousands of readers."
-image: "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Ftheorchard.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D757822826%26version%3D8"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/regeneration/p/cop27-climate-change-and-global-meat"
+title: "COP27, Climate Change, & Global Meat-Phobia"
+excerpt: "I agree with George Monbiot - governments aren’t discussing livestock enough - but his calls to eliminate livestock are short-sighted and will cause more harm than good."
+image: "https://images.unsplash.com/photo-1581976684536-eb40b61ee175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwxNzh8fGNvd3N8ZW58MHx8fHwxNjY4MzAzNTQ5&ixlib=rb-4.0.3&q=80&w=1080"
 group: con
 rank: 12
 ---

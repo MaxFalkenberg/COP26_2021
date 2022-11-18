@@ -1,9 +1,9 @@
 ---
 publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/16/on-the-highway-to-climate-hell-the-climate-crisis-activism-and-broken-politics-cop27-auspol-tellthetruth-demand-climateaction-sdg13-plane/"
-title: "‘On The Highway To Climate Hell’ – The Climate Crisis, Activism And Broken Politics #COP27 #auspol #TellTheTruth demand #ClimateAction #SDG13 #PlanE"
-excerpt: "Last month, the United Nations environment agency issued arguably its starkest warning yet about the climate crisis. The failure by governments around the world to cut carbon emissions means there …"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1970.jpg"
+link: "https://climateactionaustralia.wordpress.com/2022/11/16/australia-criticised-for-resisting-cop27-push-to-end-international-fossil-fuel-subsidies-cop27-climatecrisis-auspol-on-the-highwaytohell-time-for-plane-2/"
+title: "Australia criticised for resisting Cop27 push to end international fossil fuel subsidies #COP27 #ClimateCrisis #auspol On the #HighwayToHell Time for #PlanE"
+excerpt: "Labor party’s environment wing says it’s ‘disappointing’ Albanese government has not joined partnership which would build consensus across OECD BY Adam Morton The climate change minister Chris Bowe…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1863.jpg?w=1200"
 group: con
 rank: 7
 ---

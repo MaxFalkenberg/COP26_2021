@@ -1,9 +1,9 @@
 ---
-publication: "climatechangenews.com"
-link: "https://www.climatechangenews.com/2022/11/15/complete-contradiction-cop27-host-egypt-dirty-fuels-sell-more-gas-to-europe/"
-title: "Egypt is burning dirtier fuel to sell more gas to Europe"
-excerpt: "The Cop27 host has increased its use of mazut, a heavy fuel oil, in power stations, despite its harmful impact on health and the environment."
-image: "https://cdn.climatechangenews.com/files/2022/11/15102350/2419349835_090e8df655_c-e1668507949230.jpg"
+publication: "apnews.com"
+link: "https://apnews.com/article/science-business-climate-and-environment-ed3f0bde2e382ea2e30baaecfdf5c0bc"
+title: "Climate activists slam fossil fuels, protest restrictions"
+excerpt: "SHARM EL-SHEIKH, Egypt (AP) — Ugandan climate activist Vanessa Nakate slammed world leaders Tuesday who persist in backing new fossil fuel projects as other activists held a symbolic human and environ"
+image: "https://storage.googleapis.com/afs-prod/media/60c33a01cf214ba18d8679fcafdf51d1/3000.jpeg"
 group: pro
 rank: 10
 ---

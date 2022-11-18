@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/science-business-climate-and-environment-ed3f0bde2e382ea2e30baaecfdf5c0bc"
-title: "Climate activists slam fossil fuels, protest restrictions"
-excerpt: "SHARM EL-SHEIKH, Egypt (AP) — Ugandan climate activist Vanessa Nakate slammed world leaders Tuesday who persist in backing new fossil fuel projects as other activists held a symbolic human and environ"
-image: "https://storage.googleapis.com/afs-prod/media/60c33a01cf214ba18d8679fcafdf51d1/3000.jpeg"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/brazil-is-back-climate-helm-lula-arrives-egypt-cop27-2022-11-15/"
+title: "'Brazil is back' at COP27 as Lula meets US, Chinese climate envoys"
+excerpt: "Bringing a message that 'Brazil is back' in the fight against global warming, Luiz Inacio Lula da Silva met with climate envoys from China and the United States on Tuesday in Egypt for the COP27 talks"
+image: "https://www.reuters.com/resizer/KtylUFFvjxqRoXxaAi7aXAvbw5s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OP5MAC6N2JOBVDN5FJL35W3BYI.jpg"
 group: pro
 rank: 12
 ---

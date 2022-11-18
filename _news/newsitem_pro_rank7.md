@@ -1,9 +1,9 @@
 ---
-publication: "time.com"
-link: "https://time.com/6233777/egyptian-activist-alaa-abd-el-fattah-cop27/"
-title: "Alaa Abd El-Fattah’s Sister Shares Updates, Memories"
-excerpt: "In a Q&A with TIME, Sanaa Seif details her family's efforts to free jailed Egyptian activist Alaa Abd El-Fattah. "
-image: "https://api.time.com/wp-content/uploads/2022/11/sanaa-seif-cop27-activist.jpg?quality=85&w=1024&h=628&crop=1"
+publication: "grist.org"
+link: "https://grist.org/cop27/corporations-have-co-opted-the-un-climate-talks-coca-col/"
+title: "It's not just Coke: Corporations have co-opted the UN climate talks"
+excerpt: "COP27 is covered with logos. But that's just the start of companies' influence."
+image: "https://grist.org/wp-content/uploads/2022/11/COP27-sponsors.jpg"
 group: pro
 rank: 7
 ---

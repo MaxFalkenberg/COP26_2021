@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/regeneration/p/cop27-climate-change-and-global-meat"
-title: "COP27, Climate Change, & Global Meat-Phobia"
-excerpt: "I agree with George Monbiot - governments aren’t discussing livestock enough - but his calls to eliminate livestock are short-sighted and will cause more harm than good."
-image: "https://images.unsplash.com/photo-1581976684536-eb40b61ee175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwxNzh8fGNvd3N8ZW58MHx8fHwxNjY4MzAzNTQ5&ixlib=rb-4.0.3&q=80&w=1080"
+publication: "esgadvocate.substack.com"
+link: "https://esgadvocate.substack.com/p/cop27-on-the-money"
+title: "COP27: On the Money?"
+excerpt: "COP27's Finance Day brought the focus to the Private Sector, but what was missing?"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7355c920-4466-448c-bc3b-60aa31b71a5b_420x300.jpeg"
 group: con
 rank: 11
 ---
