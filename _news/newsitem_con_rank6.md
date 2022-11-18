@@ -1,9 +1,9 @@
 ---
-publication: "maynoothgeography.wordpress.com"
-link: "https://maynoothgeography.wordpress.com/2022/11/14/cop27-the-latest-from-sharm-el-sheikh/"
-title: "COP27: The Latest from Sharm El Sheikh"
-excerpt: "The Annual Conference of the Parties to the United Nations Framework Convention on Climate Change has largely entered the lexicon as the COP. Now in its 27th iteration, the rotation of locations ba…"
-image: "https://s0.wp.com/i/blank.jpg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/15/degrowth-a-dangerous-idea-or-the-answer-to-the-worlds-biggest-crisis-cop27-ecologicalcrisis-climatecrisis-economiccrisis-auspol/"
+title: "Degrowth: A dangerous idea or the answer to the world’s biggest crisis? #COP27 #EcologicalCrisis + #ClimateCrisis = #EconomicCrisis #auspol"
+excerpt: "London(CNN Business) — Conventional economic logic hinges on a core assumption: Bigger economies are better, and finding ways to maintain or boost growth is paramount to improving society. By Julia…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/05/img_0907.jpg"
 group: con
 rank: 6
 ---

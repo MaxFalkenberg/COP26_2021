@@ -1,9 +1,9 @@
 ---
-publication: "globaltimes.cn"
-link: "https://www.globaltimes.cn/page/202211/1279478.shtml"
-title: "China's envoy urges developed countries to fulfill climate finance promises, as a week's slow climate negotiations stoke worries"
-excerpt: "One week into this year's UN climate summit in Egypt, China's special envoy for climate change Xie Zhenhua reiterated the urgency and necessity of cooperating and helping developing countries in tackl"
-image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-09/9ce5b553-84a5-454f-8270-f7a1020eacd4_s.jpeg"
+publication: "esgadvocate.substack.com"
+link: "https://esgadvocate.substack.com/"
+title: "The ESG Advocate"
+excerpt: "Threading the week's ESG stories into one sustainably sourced read. Click to read The ESG Advocate, by Matthew Sekol, a Substack publication with hundreds of readers."
+image: "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fesgadvocate.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1338736601%26version%3D8"
 group: con
 rank: 11
 ---

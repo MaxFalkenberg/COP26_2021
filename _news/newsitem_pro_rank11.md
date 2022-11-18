@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/brazil-rainforest-nations-join-forces-save-jungle-2022-11-14/"
-title: "Biggest rainforest nations form triple alliance to save jungle"
-excerpt: "The world's three largest rainforest nations Brazil, Democratic Republic of Congo and Indonesia on Monday formally launched a partnership to cooperate on forest preservation after a decade of on-off t"
-image: "https://www.reuters.com/resizer/nfiAlFvwOAKfcULQv4hQmxaCYk4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SFPTL667QZMAHLFHN7NK2UWBX4.jpg"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63617400"
+title: "COP27: Fears of compromise on key 1.5C global temperature issue"
+excerpt: "There are fears the commitment to a key warming limit may soften as nations seek agreement in Egypt."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/3766/production/_127628141_cop27protest_index_getty.jpg"
 group: pro
 rank: 11
 ---

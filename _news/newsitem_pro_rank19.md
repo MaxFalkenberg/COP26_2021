@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/big-gas-chiefs-bill-themselves-climate-leaders-cop27-2022-11-14/"
-title: "Big gas chiefs bill themselves as climate leaders at COP27"
-excerpt: "The heads of two big natural gas companies told Reuters on Monday they were seeking to use the setting of the COP27 international climate summit to bill their industry as a leader in the fight against"
-image: "https://www.reuters.com/resizer/GOJtnR6mltAyt8gRHRosZ01OUwU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WYLTXI4K5VKCLCOSIJLMUTTKAA.jpg"
+publication: "ft.com"
+link: "https://www.ft.com/content/a29c1204-70cf-46c1-b266-780788bfa048"
+title: "Subscribe to read | Financial Times"
+excerpt: "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
+image: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
 group: pro
 rank: 19
 ---

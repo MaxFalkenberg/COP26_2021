@@ -1,9 +1,10 @@
 ---
-publication: "wnd.com"
-link: "https://www.wnd.com/2022/11/climate-cult-meeting-depopulation/"
-title: "'Climate cult' meeting is 'all about depopulation'"
-excerpt: "“Let them eat cake,” famously attributed to Marie Antoinette by Jean-Jacques Rousseau, has become universal shorthand for a monarch’s total disregard for her famished citizens stealing and wreaking ha"
-image: "https://www.wnd.com/wp-content/uploads/2022/05/Apocalypse-armageddon-end-civilization-times-of-days-death-skull-heartbroken-anguish-misery-grief-woman-crying-destruction-pain-emotion-despair-pillars-pixabay.jpg"
+publication: "naturalnews.com"
+link: "https://www.naturalnews.com/2022-11-10-globalists-enjoying-food-while-people-eat-bugs.html"
+title: "Hypocrite globalists enjoy smorgasbord of fine foods while urging regular people to eat BUGS"
+excerpt: "An utter display of hypocrisy is laid out for the world to see as the globalists enjoy a variety of fine foods at the COP27 climate summit in Egypt, while pushing for regular people to eat insects.
+"
+image: "https://www.naturalnews.com/wp-content/uploads/sites/91/2022/11/Gates_WEF_wikimedia-1.jpeg"
 group: con
 rank: 13
 ---

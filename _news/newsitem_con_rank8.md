@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/15/new-global-climate-ranking-sees-australia-go-from-dead-last-to-far-from-a-pass-climatecrisis-cop27-auspol-tellthetruth-demand-climateaction-sdg13/"
-title: "New global climate ranking sees Australia go from “dead last to far from a pass” #ClimateCrisis #COP27 #auspol #TellTheTruth demand #ClimateAction #SDG13"
-excerpt: "Australia has climbed just four places to rank 55th out of 63 in this year’s global Climate Change Performance Index 2023, launched at COP27 in Egypt, a slight improvement on last year’s where it c…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_2003.jpg"
+publication: "thegatewaypundit.com"
+link: "https://www.thegatewaypundit.com/2022/11/john-kerry-spills-beans-u-n-s-cop27-meeting-want-replace-capitalism-new-economic-system/"
+title: "John Kerry Spills the Beans at U.N.’s COP27 Meeting: They Want to Replace Capitalism with a New Economic System"
+excerpt: "Guest post by Leo Hohmann The World Economic Forum’s climate change agenda was “modeled” off the effort to roll out vaccines during the Covid pandemic, John Kerry said during a COP27 panel discussion "
+image: "https://www.thegatewaypundit.com/wp-content/uploads/IMG_7767-1.jpg"
 group: con
 rank: 8
 ---
