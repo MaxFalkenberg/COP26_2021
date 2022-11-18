@@ -5,5 +5,5 @@ title: "Live Radio, Shows & Podcasts | CGTN Radio"
 excerpt: "Catch the latest radio news with CGTN Radio and listen to our trending podcasts wherever you are!"
 image: "https://radio.cgtn.com/static/img/logo_title.png"
 group: con
-rank: 8
+rank: 9
 ---
