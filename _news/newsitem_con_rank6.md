@@ -1,9 +1,9 @@
 ---
-publication: "dailykos.com"
-link: "https://www.dailykos.com/story/2022/11/15/2136408/-COP27-Global-rivers-coalition-exposes-severe-climate-and-human-rights-risk-of-new-hydropower-dams"
-title: "COP27: Global rivers coalition exposes severe climate and human rights risk of new hydropower dams"
-excerpt: "Sharm El-Sheikh, Egypt— In a statement issued today, a global river and human rights coalition at the United Nations (UN) Climate Change Conference (COP27) called both on governments to avoid includin"
-image: "https://images.dailykos.com/images/1134463/story_image/315873816_2193982677456483_333212564692450797_n.jpg?1668557806"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/16/on-the-highway-to-climate-hell-the-climate-crisis-activism-and-broken-politics-cop27-auspol-tellthetruth-demand-climateaction-sdg13-plane/"
+title: "‘On The Highway To Climate Hell’ – The Climate Crisis, Activism And Broken Politics #COP27 #auspol #TellTheTruth demand #ClimateAction #SDG13 #PlanE"
+excerpt: "Last month, the United Nations environment agency issued arguably its starkest warning yet about the climate crisis. The failure by governments around the world to cut carbon emissions means there …"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1970.jpg"
 group: con
 rank: 6
 ---

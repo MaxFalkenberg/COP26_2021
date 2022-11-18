@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63599932"
-title: "COP27: Without Greta, activists make waves at climate summit"
-excerpt: "Young campaigners say they are calling out 'greenwashing' at COP27 from the inside."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/1D77/production/_127634570_gettyimages-1440254642.jpg"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/uk-northern-ireland-63626967"
+title: "Extinction Rebellion protest leads to two arrests at bank"
+excerpt: "A man and woman in their 30s are arrested on suspicion of criminal damage and disorderly behaviour."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/CCBD/production/_127631425_barclayspaint.jpg"
 group: pro
 rank: 17
 ---

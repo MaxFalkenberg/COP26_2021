@@ -1,9 +1,9 @@
 ---
 publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/15/degrowth-a-dangerous-idea-or-the-answer-to-the-worlds-biggest-crisis-cop27-ecologicalcrisis-climatecrisis-economiccrisis-auspol/"
-title: "Degrowth: A dangerous idea or the answer to the world’s biggest crisis? #COP27 #EcologicalCrisis + #ClimateCrisis = #EconomicCrisis #auspol"
-excerpt: "London(CNN Business) — Conventional economic logic hinges on a core assumption: Bigger economies are better, and finding ways to maintain or boost growth is paramount to improving society. By Julia…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/05/img_0907.jpg"
+link: "https://climateactionaustralia.wordpress.com/2022/11/16/cop27-fiddling-as-world-warms-climatecrisis-demand-climateaction-sdg13-hyperthreat-time-for-plane/"
+title: "COP27 Fiddling as World Warms #ClimateCrisis demand #ClimateAction #SDG13 #Hyperthreat time for #PlanE"
+excerpt: "The latest annual climate conference has begun in the face of a worsening climate crisis and further retreats by rich nations following the energy crisis induced by NATO sanctions after the Russian…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1981.jpg?w=1200"
 group: con
 rank: 7
 ---

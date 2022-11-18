@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/16/WS6373cc18a310491754329e5a.html"
-title: "UN publishes draft to tackle 'loss and damage' issue in climate debate"
-excerpt: " The United Nations (UN) published on Monday a draft text with an aim to address the 'loss and damage' issue, one of the hottest topics at the ongoing UN climate conference."
-image: "http://img2.chinadaily.com.cn/images/202211/16/6373cd7fa31049178c90f087.jpeg"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/regeneration/p/cop27-climate-change-and-global-meat"
+title: "COP27, Climate Change, & Global Meat-Phobia"
+excerpt: "I agree with George Monbiot - governments aren’t discussing livestock enough - but his calls to eliminate livestock are short-sighted and will cause more harm than good."
+image: "https://images.unsplash.com/photo-1581976684536-eb40b61ee175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwxNzh8fGNvd3N8ZW58MHx8fHwxNjY4MzAzNTQ5&ixlib=rb-4.0.3&q=80&w=1080"
 group: con
 rank: 10
 ---
