@@ -1,9 +1,9 @@
 ---
-publication: "uncutnews.ch"
-link: "https://uncutnews.ch/die-vereinten-nationen-erwaegen-den-versuch-alle-fossilen-brennstoffe-auf-dem-planeten-zu-verbieten-was-zu-hunger-und-tod-von-milliarden-fuehren-wuerde/"
-title: "Die Vereinten Nationen erwägen den Versuch, alle fossilen Brennstoffe auf dem Planeten zu verbieten, was zu Hunger und Tod von Milliarden führen würde"
-excerpt: None
-image: "https://www.naturalnews.com/wp-content/uploads/sites/91/2022/11/Pain-at-the-gas-pump-and-economic-challenge-1.jpeg"
+publication: "notalotofpeopleknowthat.wordpress.com"
+link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/14/egypts-cop27-climate-gabfest-isnt-going-too-well/"
+title: "Egypt’s COP27 ‘climate gabfest’ isn’t going ‘too well’"
+excerpt: "By Paul Homewood   If only our media had the guts to tell the truth:      "
+image: "http://img.youtube.com/vi/iCnJQ1Bde0E/0.jpg"
 group: con
 rank: 12
 ---
