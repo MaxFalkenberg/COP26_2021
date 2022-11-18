@@ -1,9 +1,9 @@
 ---
-publication: "womenlead.substack.com"
-link: "https://womenlead.substack.com/p/at-cop27-barbados-pm-mia-mottley"
-title: "At COP27, Barbados PM Mia Mottley leads the call for a rethink on climate finance, and other stories"
-excerpt: "#WomenLead (Issue 123): Your weekly round-up on women in politics"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3b283da3-3fae-40e7-9c0b-619abe778e4f_1423x769.png"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1279478.shtml"
+title: "China's envoy urges developed countries to fulfill climate finance promises, as a week's slow climate negotiations stoke worries"
+excerpt: "One week into this year's UN climate summit in Egypt, China's special envoy for climate change Xie Zhenhua reiterated the urgency and necessity of cooperating and helping developing countries in tackl"
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-09/9ce5b553-84a5-454f-8270-f7a1020eacd4_s.jpeg"
 group: con
 rank: 10
 ---
