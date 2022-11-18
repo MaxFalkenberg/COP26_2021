@@ -1,9 +1,9 @@
 ---
-publication: "nature.com"
-link: "https://www.nature.com/articles/s41467-022-33976-5"
-title: "Energy requirements and carbon emissions for a low-carbon energy transition - Nature Communications"
-excerpt: "A low-carbon energy transition consistent with 1.5 °C of warming may result in substantial carbon emissions. Moreover, the initial push to substitute fossil fuels with low-carbon alternatives will red"
-image: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33976-5/MediaObjects/41467_2022_33976_Fig1_HTML.png"
+publication: "democracynow.org"
+link: "https://www.democracynow.org/2022/11/17/cop27_land_defenders_mexico_guatemala_green"
+title: "At COP27 Indigenous Land Defenders from Mexico, Guatemala Warn “Green Capitalism” Creates Violence"
+excerpt: "We continue our coverage of the U.N. climate conference in Sharm el-Sheikh, Egypt, by asking what Indigenous leaders at the frontlines of the climate crisis are calling for from world leaders. We spea"
+image: "https://www.democracynow.org/images/story/32/65232/full_hd/seg3-futuros-indegenas.jpg"
 group: pro
 rank: 16
 ---

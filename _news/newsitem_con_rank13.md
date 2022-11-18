@@ -1,9 +1,9 @@
 ---
-publication: "samuchitenvirotech.blogspot.com"
-link: "https://samuchitenvirotech.blogspot.com/2022/11/firsthand-experience-at-cop27-egypt.html"
-title: "Firsthand experience at the COP27 Egypt "
-excerpt: "Sustainable life blog"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzblpPioU_U4Ia7W4M-TYPhRJg8Nw4WCebftc1dxOqal_8oOzMWW-P6O3uTP8Vka71NAQ6l4OXwEVsvUlK-gM-lZlsCzBKkj10saL7JJaMM8Mfs74XSOC36lxFrrwOKgl82uN-GK050wHVjOdSvzdmAHhGtuLhQ_nIupjRN9ozEQdzewK3qZSJ7qVT/w1200-h630-p-k-no-nu/WhatsApp%20Image%202022-11-17%20at%2011.30.29.jpeg"
+publication: "takvera.blogspot.com"
+link: "https://takvera.blogspot.com/2022/11/stakeout-antonio-guterres-un-secretary.html"
+title: "Stakeout: António Guterres, UN Secretary-General and Sameh Shoukry, COP27 President demand negotiators step up"
+excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR3hHtvv4BgLn23QjxFdeB3oppqy1Q5SSN9S2C-rqsoEgCCSKYzx2IQZInJGdVXP0enh8TSH5zbgozpJQehoekFb7mfza4Hze7Zf1_OynekuFbnFMAJoUWMZNeRF8E9KpToyXfLf3PxbfUjWPXHpQR-srl4MP-Vm7dTK3qePfgUYVzJmGTsssUy5cm/w1200-h630-p-k-no-nu/2022-11-17-Stakeout-COP-President-and-UNSG.jpeg"
 group: con
 rank: 13
 ---

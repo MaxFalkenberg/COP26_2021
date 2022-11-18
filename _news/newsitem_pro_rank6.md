@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/16/brazil-lula-climate-amazon-cop27/"
-title: "‘Brazil is back’: At COP27, Lula vows to be a global climate leader"
-excerpt: "Brazil's president-elect vowed to reverse deforestation, raising hopes that Brazil could soon push other wavering nations into more ambitious climate action."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5WJSDQPVDYDNE5LYILBX72WH4.jpg&w=1440"
+publication: "spiegel.de"
+link: "https://www.spiegel.de/ausland/uno-klimakonferenz-cop27-eu-stellt-rund-eine-milliarde-euro-fuer-klima-resilienz-in-afrika-bereit-a-02955dd2-d1f4-44b3-87e7-26d2e07d4066"
+title: "Uno-Klimakonferenz COP27: EU stellt rund eine Milliarde Euro für Klima-Resilienz in Afrika bereit"
+excerpt: "Dürre, Überschwemmung, Hitze: Die EU will dem afrikanischen Kontinent helfen, besser mit den Folgen der Klimakrise umzugehen. 60 Millionen Euro soll es zum Ausgleich für bereits eingetretene Schäden u"
+image: "https://cdn.prod.www.spiegel.de/images/60a9cf4f-7073-43cb-ba9b-107ff803ce44_w1280_r1.77_fpx53_fpy53.jpg"
 group: pro
 rank: 6
 ---

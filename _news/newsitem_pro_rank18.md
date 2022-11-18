@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/climate-change/news/cop27-egypt-climate-sharm-el-sheikh-b2227355.html"
-title: "Trust breaks down at Cop27 as UN chief urges agreement in final 24 hours"
-excerpt: "‘This is no time for finger-pointing. The blame game is a recipe for mutually assured destruction,’ UN secretary-general Antonio Guterres warns "
-image: "https://static.independent.co.uk/2022/11/17/16/SEI134027592.jpg?quality=75&width=1200&auto=webp"
+publication: "dw.com"
+link: "https://www.dw.com/en/pakistan-lawmaker-at-cop27-international-response-favorable-after-flood-disaster/video-63793821"
+title: "COP27: Global response 'favorable' after Pakistan floods – DW – 11/17/2022"
+excerpt: "Pakistan's Federal Minister for Planning, Development and Special Measures Ahsan Iqbal told DW at the climate summit in Sharm el-Sheikh that his country can recover from the floods and has internation"
+image: "https://static.dw.com/image/63148910_6.jpg"
 group: pro
 rank: 18
 ---

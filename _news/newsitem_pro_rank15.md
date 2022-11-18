@@ -1,9 +1,9 @@
 ---
-publication: "cbc.ca"
-link: "https://www.cbc.ca/news/opinion/opinion-cop27-oil-and-gas-emissions-cuts-1.6652662"
-title: "OPINION | If oil and gas companies aren't cutting emissions at peak profits, when will they get in the game? | CBC News"
-excerpt: "While waiting for government to put more public money on the table, oil and gas companies continue to increase their emissions, writes policy analyst Laura Cameron."
-image: "https://i.cbc.ca/1.6652759.1668553566!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/fort-hills-oilsands-plant.jpg"
+publication: "newscientist.com"
+link: "https://www.newscientist.com/article/2347429-cop27-brazils-lula-promises-zero-deforestation-in-the-amazon-by-2030/"
+title: "COP27: Brazil's Lula promises zero deforestation in the Amazon by 2030"
+excerpt: "Brazil’s incoming president Luiz Inácio Lula da Silva vowed to reverse the environmentally damaging policies of his predecessor in a speech at the UN climate meeting"
+image: "https://images.newscientist.com/wp-content/uploads/2022/11/16174734/SEI_133878034.jpg"
 group: pro
 rank: 15
 ---

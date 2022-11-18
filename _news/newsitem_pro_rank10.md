@@ -1,9 +1,9 @@
 ---
-publication: "vox.com"
-link: "https://www.vox.com/down-to-earth/2022/11/17/23460525/nature-based-solutions-climate-change-cop27"
-title: "No one knows what 'nature-based solutions' are"
-excerpt: "The environmental movement has a buzzword problem."
-image: "https://cdn.vox-cdn.com/thumbor/2g1iseVJsA5Oa3eZcdZqHEB6F_4=/0x217:2000x1264/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24205256/adler_9724.jpg"
+publication: "nature.com"
+link: "https://www.nature.com/articles/s41467-022-33976-5"
+title: "Energy requirements and carbon emissions for a low-carbon energy transition - Nature Communications"
+excerpt: "A low-carbon energy transition consistent with 1.5 °C of warming may result in substantial carbon emissions. Moreover, the initial push to substitute fossil fuels with low-carbon alternatives will red"
+image: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33976-5/MediaObjects/41467_2022_33976_Fig1_HTML.png"
 group: pro
 rank: 10
 ---

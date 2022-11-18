@@ -1,9 +1,9 @@
 ---
-publication: "cbc.ca"
-link: "https://www.cbc.ca/news/science/biodiversity-montreal-cop27-1.6654447"
-title: "Biodiversity needs same protection as climate, say scientists, activists at COP27 | CBC News"
-excerpt: "Civil society groups, Indigenous activists and scientists are standing together at the COP27 climate conference in Sharm el-Sheikh, Egypt, and demanding firm action be taken next month at the UN Biodi"
-image: "https://i.cbc.ca/1.4583528.1668691821!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/alberta-caribou.jpg"
+publication: "sg.news.yahoo.com"
+link: "https://sg.news.yahoo.com/in-a-first-us-signals-support-for-un-agreement-to-phase-down-use-of-fossil-fuels-000125333.html"
+title: "In a first, U.S. signals support for U.N. agreement to phase down use of fossil fuels"
+excerpt: "During U.N. climate change negotiations in Egypt on Wednesday, the United States signaled its support for the adoption of language calling for phasing down the use of fossil fuels — a major symbolic s"
+image: "https://s.yimg.com/ny/api/res/1.2/0cYCH_oYT5Up4YCrZmSfLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/60ef0cc0-65f7-11ed-971c-30b08e2eb2dd"
 group: pro
 rank: 19
 ---

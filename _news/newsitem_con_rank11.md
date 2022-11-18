@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/middle-east/2022/11/17/UN-publishes-first-draft-of-COP27-climate-deal"
-title: "UN publishes first draft of COP27 climate deal"
-excerpt: "The UN climate agency published a first draft on Thursday of a hoped-for final agreement from the COP27 climate summit, repeating many of last year’s goals"
-image: "https://vid.alarabiya.net/images/2022/11/02/ce097661-639d-4649-878a-108c0542e383/ce097661-639d-4649-878a-108c0542e383_16x9_600x338.JPG"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/jonathancook/p/cop27-the-dirty-secret-europe-is"
+title: "Cop27: The dirty secret Europe is hiding at the climate summit"
+excerpt: "Grand declarations on tackling the climate emergency are sabotaged by a treaty from the 1990s that holds European states to ransom"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0c13fdf1-27a3-462b-9c20-6b270ef1132a_520x338.png"
 group: con
 rank: 11
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "dw.com"
-link: "https://www.dw.com/en/pakistan-lawmaker-at-cop27-international-response-favorable-after-flood-disaster/video-63793821"
-title: "COP27: Global response 'favorable' after Pakistan floods – DW – 11/17/2022"
-excerpt: "Pakistan's Federal Minister for Planning, Development and Special Measures Ahsan Iqbal told DW at the climate summit in Sharm el-Sheikh that his country can recover from the floods and has internation"
-image: "https://static.dw.com/image/63148910_6.jpg"
+publication: "cbc.ca"
+link: "https://www.cbc.ca/news/opinion/opinion-cop27-oil-and-gas-emissions-cuts-1.6652662"
+title: "OPINION | If oil and gas companies aren't cutting emissions at peak profits, when will they get in the game? | CBC News"
+excerpt: "While waiting for government to put more public money on the table, oil and gas companies continue to increase their emissions, writes policy analyst Laura Cameron."
+image: "https://i.cbc.ca/1.6652759.1668553566!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/fort-hills-oilsands-plant.jpg"
 group: pro
 rank: 17
 ---
