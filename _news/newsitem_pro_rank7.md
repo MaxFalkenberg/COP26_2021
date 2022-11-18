@@ -1,9 +1,9 @@
 ---
-publication: "theconversation.com"
-link: "https://theconversation.com/climate-change-will-clearly-disrupt-el-nino-and-la-nina-this-decade-40-years-earlier-than-we-thought-194529"
-title: "Climate change will clearly disrupt El Niño and La Niña this decade – 40 years earlier than we thought"
-excerpt: "The findings have big implications for how Australians prepare for extreme weather events."
-image: "https://images.theconversation.com/files/495221/original/file-20221115-18-vliqyk.jpeg?ixlib=rb-1.1.0&rect=0%2C345%2C2995%2C1495&q=45&auto=format&w=1356&h=668&fit=crop"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/16/egypt-detentions-repression-follow-protest-calls"
+title: "Egypt: Detentions, Repression Follow Protest Calls"
+excerpt: "Egyptian authorities have reportedly detained hundreds of people in a nationwide crackdown following calls for anti-government protests."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211afr_egypt_cop27_climate_protest.jpg?h=a130fd67&itok=PMtqChhx"
 group: pro
 rank: 7
 ---
