@@ -1,9 +1,9 @@
 ---
-publication: "globaltimes.cn"
-link: "https://www.globaltimes.cn/page/202211/1279705.shtml"
-title: "Resumption of talks between China, US pushes COP27 to yield concrete results"
-excerpt: "Top climate officials from China and the US started talks after the leaders of both countries endorsed the resumption of communications on climate change, which scientists believe is expected to push "
-image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-11/fec4f3f9-33ca-45d1-a8ad-23ab238090e2_s.jpeg"
+publication: "revkin.substack.com"
+link: "https://revkin.substack.com/p/election-worries-bolsonaro-could-22-09-07"
+title: "Election Worries - Bolsonaro Could Burn Brazil's Democracy Along with Amazon Forests"
+excerpt: "Brazil is celebrating 200 years of independence. Will it celebrate democracy or face a coup in October?"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimport-images%2F05be73bb-cc7b-4bd1-8e4f-bc39a9c4879d%2F26f336642d80939e1658a98ca61f4c01.jpg"
 group: con
 rank: 7
 ---

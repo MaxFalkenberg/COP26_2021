@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/africa/cop27-un-warns-of-increasing-hunger-in-africa-due-to-climate-crisis-62602"
-title: "COP27: UN warns of increasing hunger in Africa due to climate crisis"
-excerpt: "Despite being least responsible for carbon emissions, some of the countries in Africa are the hardest hit by an onslaught of weather extremes."
-image: "https://cdni0.trtworld.com/w480/h270/q75/144142_Sudan_1668608274115.jpg"
+publication: "mattcarr.substack.com"
+link: "https://mattcarr.substack.com/p/chronicles-of-extinction"
+title: "Chronicles of Extinction"
+excerpt: "Why the WWF's latest report is a Wake-up Call that We Need to Heed"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1bca4bd9-87f3-4cc3-8c9d-1229a6e7f06b_800x600.jpeg"
 group: con
 rank: 12
 ---

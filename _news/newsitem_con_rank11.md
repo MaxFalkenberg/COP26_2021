@@ -1,9 +1,9 @@
 ---
-publication: "takvera.blogspot.com"
-link: "https://takvera.blogspot.com/2022/11/chris-bowen-speech-to-cop27-on.html"
-title: "Chris Bowen speech to COP27 on Australia's new climate ambition, COP31 bid and global financial institution reform"
-excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj29T5o5vb0LyvcsiUbgjoe_mouqgLikOekE8WueX8m8jKPK2mUW4B_e24nXN2RsiTnEc6mylXilKC4zucUEOuOcMBBXrejGegAtlpe7C7qJzeT28rHY4KJ0_hxGHk8UZEa_lkRLwkhndN2-cIOFi0L3K2KUMOyRBEcFLDVziQPO1IL8kMx_5JGXUeR/w1200-h630-p-k-no-nu/2022-11-15-COP27-chris-Bowen02-statement.jpeg"
+publication: "londongreenleft.blogspot.com"
+link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
+title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
+excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
 group: con
 rank: 11
 ---

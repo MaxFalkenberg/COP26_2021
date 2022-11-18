@@ -1,9 +1,9 @@
 ---
-publication: "insideclimatenews.org"
-link: "https://insideclimatenews.org/news/15112022/cop27-deforestation-united-states-logging/"
-title: "At COP27, the US Said It Will Lead Efforts to Halt Deforestation. But at Home, the Biden Administration Is Considering Massive Old Growth Logging Projects - Inside Climate News"
-excerpt: "SHARM EL-SHEIKH, Egypt—The U.S. Center at the COP27 climate talks in Sharm El-Sheikh hosted a panel Monday focused on ending global deforestation by 2030, but the reality on the ground in the nation’s"
-image: "https://insideclimatenews.org/wp-content/uploads/2022/11/forest_andrew-lichtenstein-corbis-getty-scaled.jpg"
+publication: "apnews.com"
+link: "https://apnews.com/article/forests-brazil-deforestation-climate-and-environment-782a100c87cb6cd83c949b2d106cc926"
+title: "At climate summit, Brazil's Lula promises new day for Amazon"
+excerpt: "SHARM el-SHEIKH, Egypt (AP) — Six weeks before taking power, Brazilian President-elect Luiz Inácio Lula da Silva on Wednesday told cheering crowds at the U.N. climate conference that he would crack do"
+image: "https://storage.googleapis.com/afs-prod/media/f8a38eeb3b0c432683e70296d55f5962/3000.jpeg"
 group: pro
 rank: 3
 ---

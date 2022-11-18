@@ -1,9 +1,9 @@
 ---
-publication: "takvera.blogspot.com"
-link: "https://takvera.blogspot.com/2022/11/tracking-australian-ministers-and.html"
-title: "Tracking Australian Ministers and Australian pledges at COP27"
-excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3Ae64kyAxmQH_lQi8kFHiny9EyNk5kscVZWSNUk_SIsp3xWWzK0XURU0z-Tty1wspYtEjeNQbXkfRHeEnGvl0E3Au4KkYyZdVkTHsqorDWQCWUXvAvjK-84_OxIRJ-tyMRakx5vkoUEKcJ5lfS-qvf4PVQ7X2Cbwuh-seOT5cnNtPx3gHMPTj06WT/w1200-h630-p-k-no-nu/2022-11-15-chris-Bowen-statement-cropped.jpeg"
+publication: "jonathancook.substack.com"
+link: "https://jonathancook.substack.com/p/cop27-the-dirty-secret-europe-is"
+title: "Cop27: The dirty secret Europe is hiding at the climate summit"
+excerpt: "Grand declarations on tackling the climate emergency are sabotaged by a treaty from the 1990s that holds European states to ransom"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0c13fdf1-27a3-462b-9c20-6b270ef1132a_520x338.png"
 group: con
 rank: 14
 ---

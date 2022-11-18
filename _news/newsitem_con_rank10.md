@@ -1,9 +1,9 @@
 ---
-publication: "technocracy.news"
-link: "https://www.technocracy.news/eu-raises-climate-target-continues-to-drive-europe-into-energy-poverty/"
-title: "EU Raises Climate Target, Continues To Drive Europe Into Energy Poverty"
-excerpt: "COP27 is a virtue signaling bonanza. EU Technocrats have driven Europe into an energy crisis with their war on traditional energy sources. Instead of saving Europeans from de-industrialization and ene"
-image: "https://www.technocracy.news/wp-content/uploads/2022/11/Screenshot-2022-11-15-at-8.02.27-AM.png"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/africa/cop27-un-warns-of-increasing-hunger-in-africa-due-to-climate-crisis-62602"
+title: "COP27: UN warns of increasing hunger in Africa due to climate crisis"
+excerpt: "Despite being least responsible for carbon emissions, some of the countries in Africa are the hardest hit by an onslaught of weather extremes."
+image: "https://cdni0.trtworld.com/w480/h270/q75/144142_Sudan_1668608274115.jpg"
 group: con
 rank: 10
 ---

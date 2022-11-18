@@ -1,9 +1,9 @@
 ---
-publication: "maynoothgeography.wordpress.com"
-link: "https://maynoothgeography.wordpress.com/2022/11/16/cop27-negotiating-the-square-brackets/"
-title: "COP27 : Negotiating the Square Brackets"
-excerpt: "It is often queried why so many people are necessary to attend the COP. The attendance of around 30,000 this year is made up not just of national negotiators from the 197 countries who signed up to…"
-image: "https://s0.wp.com/i/blank.jpg"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/regeneration/p/cop27-climate-change-and-global-meat"
+title: "COP27, Climate Change, & Global Meat-Phobia"
+excerpt: "I agree with George Monbiot - governments aren’t discussing livestock enough - but his calls to eliminate livestock are short-sighted and will cause more harm than good."
+image: "https://images.unsplash.com/photo-1581976684536-eb40b61ee175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwxNzh8fGNvd3N8ZW58MHx8fHwxNjY4MzAzNTQ5&ixlib=rb-4.0.3&q=80&w=1080"
 group: con
 rank: 8
 ---

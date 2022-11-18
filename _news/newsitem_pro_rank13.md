@@ -1,9 +1,9 @@
 ---
-publication: "globalcitizen.org"
-link: "https://www.globalcitizen.org/en/content/rainn-wilson-name-climate-change-arctic-cop27/"
-title: "Rainn Wilson Has Changed His Name to Protest Climate Change — And You Can Too."
-excerpt: "Against the backdrop of COP27, actor Rainn Wilson has 'changed' his name to raise awareness of the climate crisis — and what the Arctic has to do with it."
-image: "https://media.globalcitizen.org/thumbnails/14/48/1448e702-1e12-404c-b7a5-bbb7f7e29fe8/ap19250088356480.jpg__1500x670_q85_ALIAS-hero_image_crop_subsampling-2.jpg"
+publication: "grist.org"
+link: "https://grist.org/cop27/corporations-have-co-opted-the-un-climate-talks-coca-col/"
+title: "It's not just Coke: Corporations have co-opted the UN climate talks"
+excerpt: "COP27 is covered with logos. But that's just the start of companies' influence."
+image: "https://grist.org/wp-content/uploads/2022/11/COP27-sponsors.jpg"
 group: pro
 rank: 13
 ---
