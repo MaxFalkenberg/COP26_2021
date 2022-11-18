@@ -1,9 +1,9 @@
 ---
-publication: "u.afp.com"
-link: "http://u.afp.com/iqDN"
-title: "Brazil's Lula, world leaders bolster UN climate talks"
-excerpt: "UN climate talks got a boost Wednesday after Brazilian president-elect Luiz Inacio Lula da Silva vowed to fight Amazon deforestation and global leaders reaffirmed key pledges. Lula kicked off COP27 ev"
-image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA14cNC7.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=435&y=232"
+publication: "nature.com"
+link: "https://www.nature.com/articles/d41586-022-03657-w"
+title: "Carbon emissions hit new high: warning from COP27"
+excerpt: "Fresh data released at the climate summit show global carbon dioxide emissions from fossil fuels are soaring despite energy crisis."
+image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03657-w/d41586-022-03657-w_23688624.jpg"
 group: pro
 rank: 18
 ---

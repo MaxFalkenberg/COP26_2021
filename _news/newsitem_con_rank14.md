@@ -1,9 +1,9 @@
 ---
-publication: "cbcgdf.wordpress.com"
-link: "https://cbcgdf.wordpress.com/2022/11/17/cbcgdf-delegation-accepts-invitation-to-participate-in-the-cop27-side-event-of-the-international-4-per1000-initiative-healthy-earth-healthy-soil/"
-title: "CBCGDF Delegation Accepts Invitation to Participate in the COP27 Side Event of the International “4 per1000” Initiative – Healthy Earth, Healthy Soil"
-excerpt: "The 27th United Nations Climate Change Conference is ta…"
-image: "https://cbcgdf.files.wordpress.com/2022/11/e59bbee78987-2.png"
+publication: "stuartbramhall.wordpress.com"
+link: "https://stuartbramhall.wordpress.com/2022/11/16/elite-fly-400-private-jets-to-cop27-sponsored-by-largest-plastic-polluter-in-world-to-lecture-you-about-climate/"
+title: "Elite Fly 400 Private Jets to COP27, Sponsored by Largest Plastic Polluter in World, To Lecture YOU About Climate"
+excerpt: "By Matt Agorist Free Thought Project “The world is literally burning because of you,” according to the world’s elite who produce more pollution in a few hours than most people make all year. Curren…"
+image: "https://www.naturalblaze.com/wp-content/uploads/2022/11/cop27-ftp.jpg"
 group: con
 rank: 14
 ---
