@@ -1,9 +1,9 @@
 ---
-publication: "mol.im"
-link: "https://mol.im/a/11416209"
-title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
-excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
-image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/14/cop27-governments-should-reject-weak-carbon-market-rules"
+title: "COP27: Governments Should Reject Weak Carbon Market Rules"
+excerpt: "Countries attending the 27th annual United Nations climate change Conference of Parties (COP27) in Egypt should reject newly proposed recommendations for removals in a global carbon market."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202209EHR_egypt_cop27.jpg?h=c673cd1c&itok=CR4AzpbT"
 group: pro
 rank: 9
 ---

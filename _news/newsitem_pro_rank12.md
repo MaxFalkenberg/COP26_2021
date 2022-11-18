@@ -1,9 +1,9 @@
 ---
-publication: "grist.org"
-link: "https://grist.org/cop27/corporations-have-co-opted-the-un-climate-talks-coca-col/"
-title: "It's not just Coke: Corporations have co-opted the UN climate talks"
-excerpt: "COP27 is covered with logos. But that's just the start of companies' influence."
-image: "https://grist.org/wp-content/uploads/2022/11/COP27-sponsors.jpg"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63625693"
+title: "COP27: War causing huge release of climate warming gas, claims Ukraine"
+excerpt: "Ukraine tells UN climate summit it will use evidence of environmental crimes to sue Russia."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/125F5/production/_127635257_tv078429829.jpg"
 group: pro
 rank: 12
 ---

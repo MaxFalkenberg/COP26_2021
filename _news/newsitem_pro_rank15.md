@@ -1,9 +1,9 @@
 ---
-publication: "dailycaller.com"
-link: "https://dailycaller.com/2022/11/14/private-jets-flown-cop27-egypt/"
-title: "Concerned About The Climate? Take A Private Jet To Egypt To Learn How You Can Help Save The Planet"
-excerpt: "A bunch of billionaires and world leaders flew some 400 private jets to Egypt in November to prevaricate pointlessly about climate change."
-image: "https://cdn01.dailycaller.com/wp-content/uploads/2022/11/2022-11-07T185340Z_567712032_RC24HX92SD7C_RTRMADP_3_CLIMATE-UN-scaled-e1668442052576.jpg"
+publication: "independent.co.uk"
+link: "https://www.independent.co.uk/climate-change/news/india-cop27-coal-draft-deal-b2223915.html"
+title: "Coal-dependent India asks world to avoid ‘singling out’ the fossil fuel in Cop27 pact"
+excerpt: "Negotiators are discussing the draft text of the final ‘Sharm’ agreement  "
+image: "https://static.independent.co.uk/2021/11/13/19/1236291590.jpg?quality=75&width=1200&auto=webp"
 group: pro
 rank: 15
 ---
