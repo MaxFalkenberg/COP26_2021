@@ -1,9 +1,9 @@
 ---
-publication: "dailykos.com"
-link: "https://www.dailykos.com/story/2022/11/15/2136408/-COP27-Global-rivers-coalition-exposes-severe-climate-and-human-rights-risk-of-new-hydropower-dams"
-title: "COP27: Global rivers coalition exposes severe climate and human rights risk of new hydropower dams"
-excerpt: "Sharm El-Sheikh, Egypt— In a statement issued today, a global river and human rights coalition at the United Nations (UN) Climate Change Conference (COP27) called both on governments to avoid includin"
-image: "https://images.dailykos.com/images/1134463/story_image/315873816_2193982677456483_333212564692450797_n.jpg?1668557806"
+publication: "londongreenleft.blogspot.com"
+link: "https://londongreenleft.blogspot.com/2022/11/extract-from-ecosocialism-not-extinction.html"
+title: "Extract From: Ecosocialism Not Extinction  "
+excerpt: "Written by Allan Todd (2022)     “The central preomise of ecosocialism, already suggested by the term itself, is that non-ecological sociali..."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOnGFu2WFN8j2gycS06HZ75nEWFUt9D1NBDq-lEWGmFZc0ehRT64ddPVWfVUqWM0wlx6h9catM047Q3HlFivr_j7zniynnGXzXUkbNwsYs89KkQDEdsv803SwGwXV7sU8ubdbFNIo7LZwYyldmPBXiisfqqouBt4GcVM1rQMbf-gWB1F7iYKac9jVB/w1200-h630-p-k-no-nu/ECOSOCIALISM.NOTEXTINCTION%20(1).jpg"
 group: con
 rank: 3
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "revkin.substack.com"
-link: "https://revkin.substack.com/p/election-worries-bolsonaro-could-22-09-07"
-title: "Election Worries - Bolsonaro Could Burn Brazil's Democracy Along with Amazon Forests"
-excerpt: "Brazil is celebrating 200 years of independence. Will it celebrate democracy or face a coup in October?"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimport-images%2F05be73bb-cc7b-4bd1-8e4f-bc39a9c4879d%2F26f336642d80939e1658a98ca61f4c01.jpg"
+publication: "takvera.blogspot.com"
+link: "https://takvera.blogspot.com/2022/11/from-russia-with-love-and-smoke-fossil.html"
+title: "From Russia with Love (and Smoke) Fossil of the day Award at COP27"
+excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2SxydywQMuVIY2kXkl11El596zis3uL45ip23aTZ0GM6hgdvcqBJmicF4jO1M_Hv3usvNvQmdd9cqaEOxP2WTTeonoHLeoJXii2MRKMxzFx_aiBqjPCtUUo9q2bBGOQmgpEqqhlytq5BgHHuN6vy6hnib72K_sTYDQF9lKf5i6JmLqv_ujpPxs1sd/w1200-h630-p-k-no-nu/2022-11-16-FOTD02-Russia.jpeg"
 group: con
 rank: 11
 ---
