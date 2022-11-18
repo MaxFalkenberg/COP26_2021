@@ -1,9 +1,9 @@
 ---
-publication: "climatism.wordpress.com"
-link: "https://climatism.wordpress.com/2022/11/17/cop27-colombia-claims-an-absurd-800-billion-a-year-loss-and-damage/"
-title: "COP27 – Colombia Claims An Absurd $800 Billion A Year “Loss And Damage”"
-excerpt: "Reblogged on WordPress.com"
-image: "https://climatism.files.wordpress.com/2022/11/untitled.png"
+publication: "radio.cgtn.com"
+link: "https://radio.cgtn.com/podcast/news/5/COP27-Climate-funding-or-more-disappointment-for-Africa/2704806"
+title: "Live Radio, Shows & Podcasts | CGTN Radio"
+excerpt: "Catch the latest radio news with CGTN Radio and listen to our trending podcasts wherever you are!"
+image: "https://radio.cgtn.com/static/img/logo_title.png"
 group: con
 rank: 7
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "nature.com"
-link: "https://www.nature.com/articles/s41467-022-33976-5"
-title: "Energy requirements and carbon emissions for a low-carbon energy transition - Nature Communications"
-excerpt: "A low-carbon energy transition consistent with 1.5 °C of warming may result in substantial carbon emissions. Moreover, the initial push to substitute fossil fuels with low-carbon alternatives will red"
-image: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33976-5/MediaObjects/41467_2022_33976_Fig1_HTML.png"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/16/brazil-lula-climate-amazon-cop27/"
+title: "‘Brazil is back’: At COP27, Lula vows to be a global climate leader"
+excerpt: "Brazil's president-elect vowed to reverse deforestation, raising hopes that Brazil could soon push other wavering nations into more ambitious climate action."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5WJSDQPVDYDNE5LYILBX72WH4.jpg&w=1440"
 group: pro
 rank: 7
 ---
