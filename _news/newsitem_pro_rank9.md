@@ -1,9 +1,9 @@
 ---
-publication: "hrw.org"
-link: "https://www.hrw.org/news/2022/11/14/cop27-governments-should-reject-weak-carbon-market-rules"
-title: "COP27: Governments Should Reject Weak Carbon Market Rules"
-excerpt: "Countries attending the 27th annual United Nations climate change Conference of Parties (COP27) in Egypt should reject newly proposed recommendations for removals in a global carbon market."
-image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202209EHR_egypt_cop27.jpg?h=c673cd1c&itok=CR4AzpbT"
+publication: "insideclimatenews.org"
+link: "https://insideclimatenews.org/news/15112022/cop27-deforestation-united-states-logging/"
+title: "At COP27, the US Said It Will Lead Efforts to Halt Deforestation. But at Home, the Biden Administration Is Considering Massive Old Growth Logging Projects - Inside Climate News"
+excerpt: "SHARM EL-SHEIKH, Egypt—The U.S. Center at the COP27 climate talks in Sharm El-Sheikh hosted a panel Monday focused on ending global deforestation by 2030, but the reality on the ground in the nation’s"
+image: "https://insideclimatenews.org/wp-content/uploads/2022/11/forest_andrew-lichtenstein-corbis-getty-scaled.jpg"
 group: pro
 rank: 9
 ---

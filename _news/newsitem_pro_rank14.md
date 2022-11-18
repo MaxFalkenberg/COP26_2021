@@ -1,9 +1,9 @@
 ---
-publication: "time.com"
-link: "https://time.com/6233777/egyptian-activist-alaa-abd-el-fattah-cop27/"
-title: "Alaa Abd El-Fattah’s Sister Shares Updates, Memories"
-excerpt: "In a Q&A with TIME, Sanaa Seif details her family's efforts to free jailed Egyptian activist Alaa Abd El-Fattah. "
-image: "https://api.time.com/wp-content/uploads/2022/11/sanaa-seif-cop27-activist.jpg?quality=85&w=1024&h=628&crop=1"
+publication: "independent.co.uk"
+link: "https://www.independent.co.uk/climate-change/news/india-cop27-coal-draft-deal-b2223915.html"
+title: "Coal-dependent India asks world to avoid ‘singling out’ the fossil fuel in Cop27 pact"
+excerpt: "Negotiators are discussing the draft text of the final ‘Sharm’ agreement  "
+image: "https://static.independent.co.uk/2021/11/13/19/1236291590.jpg?quality=75&width=1200&auto=webp"
 group: pro
 rank: 14
 ---

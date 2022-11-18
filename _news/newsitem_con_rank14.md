@@ -1,9 +1,9 @@
 ---
-publication: "m.dailykos.com"
-link: "https://m.dailykos.com/stories/2022/11/14/2136088/-Climate-Brief-Week-Two-COP27-and-CO2-Removals"
-title: "Climate Brief: Week Two @ COP27 and CO2 Removals"
-excerpt: "Loss and damage looms large on the agenda as the climate talks at COP27 in Sharm el-Sheikh, Egypt, enter their second and final week. The COP is scheduled to end Friday but could stretch into Saturday"
-image: "https://images.dailykos.com/images/1121572/story_image/ScreenShot2022-10-08at2.07.34PM.png?1665263343"
+publication: "takvera.blogspot.com"
+link: "https://takvera.blogspot.com/2022/11/chris-bowen-speech-to-cop27-on.html"
+title: "Chris Bowen speech to COP27 on Australia's new climate ambition, COP31 bid and global financial institution reform"
+excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj29T5o5vb0LyvcsiUbgjoe_mouqgLikOekE8WueX8m8jKPK2mUW4B_e24nXN2RsiTnEc6mylXilKC4zucUEOuOcMBBXrejGegAtlpe7C7qJzeT28rHY4KJ0_hxGHk8UZEa_lkRLwkhndN2-cIOFi0L3K2KUMOyRBEcFLDVziQPO1IL8kMx_5JGXUeR/w1200-h630-p-k-no-nu/2022-11-15-COP27-chris-Bowen02-statement.jpeg"
 group: con
 rank: 14
 ---

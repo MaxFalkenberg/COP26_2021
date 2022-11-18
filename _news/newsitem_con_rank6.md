@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/15/degrowth-a-dangerous-idea-or-the-answer-to-the-worlds-biggest-crisis-cop27-ecologicalcrisis-climatecrisis-economiccrisis-auspol/"
-title: "Degrowth: A dangerous idea or the answer to the world’s biggest crisis? #COP27 #EcologicalCrisis + #ClimateCrisis = #EconomicCrisis #auspol"
-excerpt: "London(CNN Business) — Conventional economic logic hinges on a core assumption: Bigger economies are better, and finding ways to maintain or boost growth is paramount to improving society. By Julia…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/05/img_0907.jpg"
+publication: "dailykos.com"
+link: "https://www.dailykos.com/story/2022/11/15/2136408/-COP27-Global-rivers-coalition-exposes-severe-climate-and-human-rights-risk-of-new-hydropower-dams"
+title: "COP27: Global rivers coalition exposes severe climate and human rights risk of new hydropower dams"
+excerpt: "Sharm El-Sheikh, Egypt— In a statement issued today, a global river and human rights coalition at the United Nations (UN) Climate Change Conference (COP27) called both on governments to avoid includin"
+image: "https://images.dailykos.com/images/1134463/story_image/315873816_2193982677456483_333212564692450797_n.jpg?1668557806"
 group: con
 rank: 6
 ---
