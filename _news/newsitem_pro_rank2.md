@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/forests-brazil-deforestation-climate-and-environment-782a100c87cb6cd83c949b2d106cc926"
-title: "At climate summit, Brazil's Lula promises new day for Amazon"
-excerpt: "SHARM el-SHEIKH, Egypt (AP) — Six weeks before taking power, Brazilian President-elect Luiz Inácio Lula da Silva on Wednesday told cheering crowds at the U.N. climate conference that he would crack do"
-image: "https://storage.googleapis.com/afs-prod/media/f8a38eeb3b0c432683e70296d55f5962/3000.jpeg"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/16/egypt-detentions-repression-follow-protest-calls"
+title: "Egypt: Detentions, Repression Follow Protest Calls"
+excerpt: "Egyptian authorities have reportedly detained hundreds of people in a nationwide crackdown following calls for anti-government protests."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211afr_egypt_cop27_climate_protest.jpg?h=a130fd67&itok=PMtqChhx"
 group: pro
 rank: 2
 ---
