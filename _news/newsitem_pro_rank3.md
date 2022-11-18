@@ -1,9 +1,9 @@
 ---
-publication: "news.stv.tv"
-link: "https://news.stv.tv/scotland/no-more-money-for-scottish-nhs-staff-as-strikes-loom-warns-health-secretary-humza-yousaf"
-title: "No more money for NHS staff as strikes loom, warns Humza Yousaf"
-excerpt: "On Saturday, the GMB union announced staff at the Scottish Ambulance Service will go on strike."
-image: "https://news.stv.tv/wp-content/uploads/2022/01/b5a33753824ce77756dd3c2d84fc1474-social-default.jpg"
+publication: "ft.com"
+link: "https://www.ft.com/content/a29c1204-70cf-46c1-b266-780788bfa048"
+title: "Subscribe to read | Financial Times"
+excerpt: "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
+image: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
 group: pro
 rank: 3
 ---
