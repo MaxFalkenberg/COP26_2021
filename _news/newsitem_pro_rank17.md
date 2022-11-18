@@ -1,9 +1,9 @@
 ---
-publication: "u.afp.com"
-link: "http://u.afp.com/iqDN"
-title: "Brazil's Lula, world leaders bolster UN climate talks"
-excerpt: "UN climate talks got a boost Wednesday after Brazilian president-elect Luiz Inacio Lula da Silva vowed to fight Amazon deforestation and global leaders reaffirmed key pledges. Lula kicked off COP27 ev"
-image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA14cNC7.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=435&y=232"
+publication: "insideclimatenews.org"
+link: "https://insideclimatenews.org/todaysclimate/climate-disinformation-campaigns-threaten-cop27-progress-a-new-report-concludes/"
+title: "Climate Disinformation Campaigns Threaten COP27 Progress, a New Report Concludes - Inside Climate News"
+excerpt: "SHARM EL-SHEIKH, Egypt—The slow pace of global climate talks is once again on display at COP27 this week and can be partially explained by a renewed blitz of climate disinformation, according to watch"
+image: "https://insideclimatenews.org/wp-content/uploads/2022/11/cop_joseph-eid-getty-scaled.jpg"
 group: pro
 rank: 17
 ---
