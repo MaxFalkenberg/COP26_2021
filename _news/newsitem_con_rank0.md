@@ -1,9 +1,9 @@
 ---
-publication: "dailykos.com"
-link: "https://www.dailykos.com/story/2022/11/15/2136408/-COP27-Global-rivers-coalition-exposes-severe-climate-and-human-rights-risk-of-new-hydropower-dams"
-title: "COP27: Global rivers coalition exposes severe climate and human rights risk of new hydropower dams"
-excerpt: "Sharm El-Sheikh, Egypt— In a statement issued today, a global river and human rights coalition at the United Nations (UN) Climate Change Conference (COP27) called both on governments to avoid includin"
-image: "https://images.dailykos.com/images/1134463/story_image/315873816_2193982677456483_333212564692450797_n.jpg?1668557806"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/africa/cop27-un-warns-of-increasing-hunger-in-africa-due-to-climate-crisis-62602"
+title: "COP27: UN warns of increasing hunger in Africa due to climate crisis"
+excerpt: "Despite being least responsible for carbon emissions, some of the countries in Africa are the hardest hit by an onslaught of weather extremes."
+image: "https://cdni0.trtworld.com/w480/h270/q75/144142_Sudan_1668608274115.jpg"
 group: con
 rank: 0
 ---

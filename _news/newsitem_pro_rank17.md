@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/world/2022/11/15/russia-ukraine-g20-cop27-lavrov/"
-title: "Russia sees its role on the global stage diminished by Ukraine war"
-excerpt: "At the G-20 in Bali and COP27 in Egypt, Russia has found itself in an unusual position — a leading topic of discussion rather than a leading player."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6ESOY57GS4UBKQ3KQGUEXSHG4Y.jpg&w=1440"
+publication: "insideclimatenews.org"
+link: "https://insideclimatenews.org/todaysclimate/climate-disinformation-campaigns-threaten-cop27-progress-a-new-report-concludes/"
+title: "Climate Disinformation Campaigns Threaten COP27 Progress, a New Report Concludes - Inside Climate News"
+excerpt: "SHARM EL-SHEIKH, Egypt—The slow pace of global climate talks is once again on display at COP27 this week and can be partially explained by a renewed blitz of climate disinformation, according to watch"
+image: "https://insideclimatenews.org/wp-content/uploads/2022/11/cop_joseph-eid-getty-scaled.jpg"
 group: pro
 rank: 17
 ---

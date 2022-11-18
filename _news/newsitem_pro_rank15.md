@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/science-business-climate-and-environment-ed3f0bde2e382ea2e30baaecfdf5c0bc"
-title: "Climate activists slam fossil fuels, protest restrictions"
-excerpt: "SHARM EL-SHEIKH, Egypt (AP) — Ugandan climate activist Vanessa Nakate slammed world leaders Tuesday who persist in backing new fossil fuel projects as other activists held a symbolic human and environ"
-image: "https://storage.googleapis.com/afs-prod/media/60c33a01cf214ba18d8679fcafdf51d1/3000.jpeg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/world/2022/11/15/russia-ukraine-g20-cop27-lavrov/"
+title: "Russia sees its role on the global stage diminished by Ukraine war"
+excerpt: "At the G-20 in Bali and COP27 in Egypt, Russia has found itself in an unusual position — a leading topic of discussion rather than a leading player."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6ESOY57GS4UBKQ3KQGUEXSHG4Y.jpg&w=1440"
 group: pro
 rank: 15
 ---
