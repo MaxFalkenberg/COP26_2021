@@ -1,9 +1,9 @@
 ---
-publication: "stuartbramhall.wordpress.com"
-link: "https://stuartbramhall.wordpress.com/2022/11/16/elite-fly-400-private-jets-to-cop27-sponsored-by-largest-plastic-polluter-in-world-to-lecture-you-about-climate/"
-title: "Elite Fly 400 Private Jets to COP27, Sponsored by Largest Plastic Polluter in World, To Lecture YOU About Climate"
-excerpt: "By Matt Agorist Free Thought Project “The world is literally burning because of you,” according to the world’s elite who produce more pollution in a few hours than most people make all year. Curren…"
-image: "https://www.naturalblaze.com/wp-content/uploads/2022/11/cop27-ftp.jpg"
+publication: "fairsnape.substack.com"
+link: "https://fairsnape.substack.com/p/cop27-regen-notes"
+title: "COP27 Regen Notes"
+excerpt: "Storms, Starlight and the Magic of the Mangrove"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9e526fcf-9034-4b0f-9660-8cba086c7864_3590x2515.jpeg"
 group: con
 rank: 13
 ---

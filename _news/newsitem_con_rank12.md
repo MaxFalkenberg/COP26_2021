@@ -1,9 +1,9 @@
 ---
-publication: "radio.cgtn.com"
-link: "https://radio.cgtn.com/podcast/news/5/COP27-Climate-funding-or-more-disappointment-for-Africa/2704806"
-title: "Live Radio, Shows & Podcasts | CGTN Radio"
-excerpt: "Catch the latest radio news with CGTN Radio and listen to our trending podcasts wherever you are!"
-image: "https://radio.cgtn.com/static/img/logo_title.png"
+publication: "hillheat.substack.com"
+link: "https://hillheat.substack.com/p/atlas-of-disaster"
+title: "Atlas of Disaster"
+excerpt: "Entering Year 77 of the Calamity and Year Two of Hill Heat"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhq3PO2XEAEyRyI.jpg"
 group: con
 rank: 12
 ---

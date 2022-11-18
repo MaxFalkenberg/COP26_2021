@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/forests-brazil-deforestation-climate-and-environment-782a100c87cb6cd83c949b2d106cc926"
-title: "At climate summit, Brazil's Lula promises new day for Amazon"
-excerpt: "SHARM el-SHEIKH, Egypt (AP) — Six weeks before taking power, Brazilian President-elect Luiz Inácio Lula da Silva on Wednesday told cheering crowds at the U.N. climate conference that he would crack do"
-image: "https://storage.googleapis.com/afs-prod/media/f8a38eeb3b0c432683e70296d55f5962/3000.jpeg"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63625698"
+title: "COP27: Brazil is back on the world stage, Lula tells climate summit"
+excerpt: "The Brazilian president-elect attracts huge emotional crowds at COP27 but faces opposition at home."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/15FB3/production/_127653009_tv080346782.jpg"
 group: pro
 rank: 3
 ---

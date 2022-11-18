@@ -1,9 +1,9 @@
 ---
-publication: "takvera.blogspot.com"
-link: "https://takvera.blogspot.com/2022/11/from-russia-with-love-and-smoke-fossil.html"
-title: "From Russia with Love (and Smoke) Fossil of the day Award at COP27"
-excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2SxydywQMuVIY2kXkl11El596zis3uL45ip23aTZ0GM6hgdvcqBJmicF4jO1M_Hv3usvNvQmdd9cqaEOxP2WTTeonoHLeoJXii2MRKMxzFx_aiBqjPCtUUo9q2bBGOQmgpEqqhlytq5BgHHuN6vy6hnib72K_sTYDQF9lKf5i6JmLqv_ujpPxs1sd/w1200-h630-p-k-no-nu/2022-11-16-FOTD02-Russia.jpeg"
+publication: "stuartbramhall.wordpress.com"
+link: "https://stuartbramhall.wordpress.com/2022/11/16/elite-fly-400-private-jets-to-cop27-sponsored-by-largest-plastic-polluter-in-world-to-lecture-you-about-climate/"
+title: "Elite Fly 400 Private Jets to COP27, Sponsored by Largest Plastic Polluter in World, To Lecture YOU About Climate"
+excerpt: "By Matt Agorist Free Thought Project “The world is literally burning because of you,” according to the world’s elite who produce more pollution in a few hours than most people make all year. Curren…"
+image: "https://www.naturalblaze.com/wp-content/uploads/2022/11/cop27-ftp.jpg"
 group: con
 rank: 14
 ---
