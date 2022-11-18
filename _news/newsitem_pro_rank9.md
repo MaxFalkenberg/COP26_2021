@@ -1,9 +1,9 @@
 ---
-publication: "nature.com"
-link: "https://www.nature.com/articles/d41586-022-03721-5"
-title: "Record-breaking carbon emissions, and more — this week’s best science graphics"
-excerpt: "Three key charts from the world of research, selected by Nature editors."
-image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03721-5/d41586-022-03721-5_23713704.jpg"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63636435"
+title: "COP27: Lack of women at negotiations raises concern"
+excerpt: "Women barely feature in negotiations in Egypt despite bearing the brunt of climate change."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/6C81/production/_127677772_shirleyiwindex.jpg"
 group: pro
 rank: 9
 ---
