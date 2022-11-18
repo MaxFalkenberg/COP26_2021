@@ -1,9 +1,9 @@
 ---
-publication: "insideclimatenews.org"
-link: "https://insideclimatenews.org/todaysclimate/climate-disinformation-campaigns-threaten-cop27-progress-a-new-report-concludes/"
-title: "Climate Disinformation Campaigns Threaten COP27 Progress, a New Report Concludes - Inside Climate News"
-excerpt: "SHARM EL-SHEIKH, Egypt—The slow pace of global climate talks is once again on display at COP27 this week and can be partially explained by a renewed blitz of climate disinformation, according to watch"
-image: "https://insideclimatenews.org/wp-content/uploads/2022/11/cop_joseph-eid-getty-scaled.jpg"
+publication: "nature.com"
+link: "https://www.nature.com/articles/d41586-022-03657-w"
+title: "Carbon emissions hit new high: warning from COP27"
+excerpt: "Fresh data released at the climate summit show global carbon dioxide emissions from fossil fuels are soaring despite energy crisis."
+image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03657-w/d41586-022-03657-w_23688624.jpg"
 group: pro
 rank: 14
 ---

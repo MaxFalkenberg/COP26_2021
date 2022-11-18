@@ -1,9 +1,9 @@
 ---
-publication: "jonathancook.substack.com"
-link: "https://jonathancook.substack.com/p/cop27-the-dirty-secret-europe-is"
-title: "Cop27: The dirty secret Europe is hiding at the climate summit"
-excerpt: "Grand declarations on tackling the climate emergency are sabotaged by a treaty from the 1990s that holds European states to ransom"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0c13fdf1-27a3-462b-9c20-6b270ef1132a_520x338.png"
+publication: "cbcgdf.wordpress.com"
+link: "https://cbcgdf.wordpress.com/2022/11/17/cbcgdf-delegation-accepts-invitation-to-participate-in-the-cop27-side-event-of-the-international-4-per1000-initiative-healthy-earth-healthy-soil/"
+title: "CBCGDF Delegation Accepts Invitation to Participate in the COP27 Side Event of the International “4 per1000” Initiative – Healthy Earth, Healthy Soil"
+excerpt: "The 27th United Nations Climate Change Conference is ta…"
+image: "https://cbcgdf.files.wordpress.com/2022/11/e59bbee78987-2.png"
 group: con
 rank: 13
 ---

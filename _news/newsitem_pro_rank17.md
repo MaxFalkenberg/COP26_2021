@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/climate-change/news/lula-cop27-brazil-amazon-oil-b2226404.html"
-title: "Brazil’s president-elect Lula vows to save Amazon at Cop27"
-excerpt: "Climate activists are pressing for answers on whether Brazil’s new leader will cut booming oil and gas expansion in country"
-image: "https://static.independent.co.uk/2022/11/16/15/SEI133835940.jpg?quality=75&width=1200&auto=webp"
+publication: "u.afp.com"
+link: "http://u.afp.com/iqDN"
+title: "Brazil's Lula, world leaders bolster UN climate talks"
+excerpt: "UN climate talks got a boost Wednesday after Brazilian president-elect Luiz Inacio Lula da Silva vowed to fight Amazon deforestation and global leaders reaffirmed key pledges. Lula kicked off COP27 ev"
+image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA14cNC7.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=435&y=232"
 group: pro
 rank: 17
 ---
