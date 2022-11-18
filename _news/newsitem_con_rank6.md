@@ -1,9 +1,9 @@
 ---
-publication: "d-edufeminist.blogspot.com"
-link: "https://d-edufeminist.blogspot.com/2022/11/breaking-newsas-cop27-enters-final-days.html"
-title: "BREAKING NEWS:AS COP27 ENTERS FINAL DAYS, 70% OF AFGHAN CHILDREN THREATENED BY EXTREME WEATHER EVENTS AS DROUGHT PREDICTED TO STRETCH INTO 2023 – SAVE THE CHILDREN"
-excerpt: "  Skip to main content 17 NOVEMBER 2022  - AFGHANISTAN AS COP27 ENTERS FINAL DAYS, 70% OF AFGHAN CHILDREN THREATENED BY EXTREME WEATHER EVEN..."
-image: "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1yjbMnuhcvd3wnfm-K2Vv4oyVfYqghvl_Rf2ONA4HTgMjc6ryKopxLxqjLlQ9z_XOlDfsPXcOeG92gWZVhBSvdvdyM_NlNpigD6TEIoGqk4DFrj6RCT66GwyRXrHdfhtUjyrklOz3MIkZSbafv0QqW=w1200-h630-p-k-no-nu"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/18/extreme-weather-to-strike-australia-decades-earlier-than-expected-climatecrisis-cop27-demand-climateaction-sdg13-hyperthreat-plane-auspol/"
+title: "Extreme weather to strike Australia decades earlier than expected #ClimateCrisis #COP27 demand #ClimateAction #SDG13 #Hyperthreat #PlanE #auspol"
+excerpt: "Climate change is likely to change eastern Pacific weather patterns within the decade, a new study has found, meaning Australia needs to start preparing for “extreme” flooding and droug…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_2015.jpg"
 group: con
 rank: 6
 ---
