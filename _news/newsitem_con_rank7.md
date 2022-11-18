@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/15/WS63739409a310491754329e2c.html"
-title: "Zambian expert urges Africa-China renewable energy cooperation to tackle climate change"
-excerpt: " Africa and other developing countries should focus their attention on tackling climate change by partnering with China in developing renewable energy sources, a Zambian expert has said."
-image: "http://img2.chinadaily.com.cn/images/202211/15/63739409a31049178c90e8f8.jpeg"
+publication: "gulfnews.com"
+link: "https://gulfnews.com/"
+title: "Gulf News: Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema"
+excerpt: "Get the latest update on UAE, business, life style, UAE jobs, gold rate, Exchange rate, UAE holidays, Dubai police, RTA and prayer times from UAE’s largest news portal."
+image: "https://assets.gulfnews.com/images/gn-logo-1200x630.png"
 group: con
 rank: 7
 ---

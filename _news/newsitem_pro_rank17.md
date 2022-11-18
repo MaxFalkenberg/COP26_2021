@@ -1,9 +1,9 @@
 ---
-publication: "mol.im"
-link: "https://mol.im/a/11416209"
-title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
-excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
-image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
+publication: "time.com"
+link: "https://time.com/6233777/egyptian-activist-alaa-abd-el-fattah-cop27/"
+title: "Alaa Abd El-Fattah’s Sister Shares Updates, Memories"
+excerpt: "In a Q&A with TIME, Sanaa Seif details her family's efforts to free jailed Egyptian activist Alaa Abd El-Fattah. "
+image: "https://api.time.com/wp-content/uploads/2022/11/sanaa-seif-cop27-activist.jpg?quality=85&w=1024&h=628&crop=1"
 group: pro
 rank: 17
 ---

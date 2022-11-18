@@ -1,9 +1,9 @@
 ---
-publication: "asiaundercovered.substack.com"
-link: "https://asiaundercovered.substack.com/p/asia-undercovered-round-up-1-nov"
-title: "Asia Undercovered Round-up: 1 Nov 2022"
-excerpt: "This week: More violence against ethnic minorities in Myanmar, Malaysia's upcoming elections, and China's Party Congress cements dictatorial rule."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFgFSfasakAQnBZ-.jpg"
+publication: "dailykos.com"
+link: "https://www.dailykos.com/story/2022/11/15/2136408/-COP27-Global-rivers-coalition-exposes-severe-climate-and-human-rights-risk-of-new-hydropower-dams"
+title: "COP27: Global rivers coalition exposes severe climate and human rights risk of new hydropower dams"
+excerpt: "Sharm El-Sheikh, Egypt— In a statement issued today, a global river and human rights coalition at the United Nations (UN) Climate Change Conference (COP27) called both on governments to avoid includin"
+image: "https://images.dailykos.com/images/1134463/story_image/315873816_2193982677456483_333212564692450797_n.jpg?1668557806"
 group: con
 rank: 10
 ---
