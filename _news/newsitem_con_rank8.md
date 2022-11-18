@@ -1,9 +1,9 @@
 ---
 publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/16/cop27-fiddling-as-world-warms-climatecrisis-demand-climateaction-sdg13-hyperthreat-time-for-plane/"
-title: "COP27 Fiddling as World Warms #ClimateCrisis demand #ClimateAction #SDG13 #Hyperthreat time for #PlanE"
-excerpt: "The latest annual climate conference has begun in the face of a worsening climate crisis and further retreats by rich nations following the energy crisis induced by NATO sanctions after the Russian…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1981.jpg?w=1200"
+link: "https://climateactionaustralia.wordpress.com/2022/11/16/australia-criticised-for-resisting-cop27-push-to-end-international-fossil-fuel-subsidies-cop27-climatecrisis-auspol-on-the-highwaytohell-time-for-plane-2/"
+title: "Australia criticised for resisting Cop27 push to end international fossil fuel subsidies #COP27 #ClimateCrisis #auspol On the #HighwayToHell Time for #PlanE"
+excerpt: "Labor party’s environment wing says it’s ‘disappointing’ Albanese government has not joined partnership which would build consensus across OECD BY Adam Morton The climate change minister Chris Bowe…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1863.jpg?w=1200"
 group: con
 rank: 8
 ---

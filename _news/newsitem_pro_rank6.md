@@ -1,9 +1,9 @@
 ---
-publication: "climatechangenews.com"
-link: "https://www.climatechangenews.com/2022/11/15/complete-contradiction-cop27-host-egypt-dirty-fuels-sell-more-gas-to-europe/"
-title: "Egypt is burning dirtier fuel to sell more gas to Europe"
-excerpt: "The Cop27 host has increased its use of mazut, a heavy fuel oil, in power stations, despite its harmful impact on health and the environment."
-image: "https://cdn.climatechangenews.com/files/2022/11/15102350/2419349835_090e8df655_c-e1668507949230.jpg"
+publication: "nature.com"
+link: "https://www.nature.com/articles/d41586-022-03721-5"
+title: "Record-breaking carbon emissions, and more — this week’s best science graphics"
+excerpt: "Three key charts from the world of research, selected by Nature editors."
+image: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03721-5/d41586-022-03721-5_23713704.jpg"
 group: pro
 rank: 6
 ---

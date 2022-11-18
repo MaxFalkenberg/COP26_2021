@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/science-business-climate-and-environment-ed3f0bde2e382ea2e30baaecfdf5c0bc"
-title: "Climate activists slam fossil fuels, protest restrictions"
-excerpt: "SHARM EL-SHEIKH, Egypt (AP) — Ugandan climate activist Vanessa Nakate slammed world leaders Tuesday who persist in backing new fossil fuel projects as other activists held a symbolic human and environ"
-image: "https://storage.googleapis.com/afs-prod/media/60c33a01cf214ba18d8679fcafdf51d1/3000.jpeg"
+publication: "globalcitizen.org"
+link: "https://www.globalcitizen.org/en/content/rainn-wilson-name-climate-change-arctic-cop27/"
+title: "Rainn Wilson Has Changed His Name to Protest Climate Change — And You Can Too."
+excerpt: "Against the backdrop of COP27, actor Rainn Wilson has 'changed' his name to raise awareness of the climate crisis — and what the Arctic has to do with it."
+image: "https://media.globalcitizen.org/thumbnails/14/48/1448e702-1e12-404c-b7a5-bbb7f7e29fe8/ap19250088356480.jpg__1500x670_q85_ALIAS-hero_image_crop_subsampling-2.jpg"
 group: pro
 rank: 12
 ---

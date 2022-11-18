@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/business-china-xi-jinping-united-nations-john-kerry-b8e95eba615325ab049f9c7fec45ca0f"
-title: "US, China climate envoys meet at COP27 summit in Egypt"
-excerpt: "SHARM EL-SHEIKH, Egypt (AP) — U.S. climate envoy John Kerry met Tuesday with his Chinese counterpart at annual United Nations climate negotiations in Egypt in a further hint of improving relations bet"
-image: "https://storage.googleapis.com/afs-prod/media/47f89a1b41de440baa480078bd6892e1/3000.jpeg"
+publication: "insideclimatenews.org"
+link: "https://insideclimatenews.org/todaysclimate/climate-disinformation-campaigns-threaten-cop27-progress-a-new-report-concludes/"
+title: "Climate Disinformation Campaigns Threaten COP27 Progress, a New Report Concludes - Inside Climate News"
+excerpt: "SHARM EL-SHEIKH, Egypt—The slow pace of global climate talks is once again on display at COP27 this week and can be partially explained by a renewed blitz of climate disinformation, according to watch"
+image: "https://insideclimatenews.org/wp-content/uploads/2022/11/cop_joseph-eid-getty-scaled.jpg"
 group: pro
 rank: 17
 ---

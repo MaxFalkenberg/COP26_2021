@@ -1,9 +1,9 @@
 ---
-publication: "time.com"
-link: "https://time.com/6233777/egyptian-activist-alaa-abd-el-fattah-cop27/"
-title: "Alaa Abd El-Fattah’s Sister Shares Updates, Memories"
-excerpt: "In a Q&A with TIME, Sanaa Seif details her family's efforts to free jailed Egyptian activist Alaa Abd El-Fattah. "
-image: "https://api.time.com/wp-content/uploads/2022/11/sanaa-seif-cop27-activist.jpg?quality=85&w=1024&h=628&crop=1"
+publication: "climatechangenews.com"
+link: "https://www.climatechangenews.com/2022/11/15/complete-contradiction-cop27-host-egypt-dirty-fuels-sell-more-gas-to-europe/"
+title: "Egypt is burning dirtier fuel to sell more gas to Europe"
+excerpt: "The Cop27 host has increased its use of mazut, a heavy fuel oil, in power stations, despite its harmful impact on health and the environment."
+image: "https://cdn.climatechangenews.com/files/2022/11/15102350/2419349835_090e8df655_c-e1668507949230.jpg"
 group: pro
 rank: 5
 ---
