@@ -1,10 +1,9 @@
 ---
-publication: "naturalnews.com"
-link: "https://www.naturalnews.com/2022-11-10-globalists-enjoying-food-while-people-eat-bugs.html"
-title: "Hypocrite globalists enjoy smorgasbord of fine foods while urging regular people to eat BUGS"
-excerpt: "An utter display of hypocrisy is laid out for the world to see as the globalists enjoy a variety of fine foods at the COP27 climate summit in Egypt, while pushing for regular people to eat insects.
-"
-image: "https://www.naturalnews.com/wp-content/uploads/sites/91/2022/11/Gates_WEF_wikimedia-1.jpeg"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/climate-negotiations-are-in-disarray-as-uns-cop27-enters-second-week/"
+title: "Climate Negotiations Are In Disarray As UN's COP27 Enters Second Week"
+excerpt: "The 27th Conference of the Parties (COP27) delegates are tripping over themselves to find ways to destroy civilization by using global warming as an excuse to regulate every aspect of society. The 'gl"
+image: "https://www.technocracy.news/wp-content/uploads/2017/03/UN-secreatary-general.jpg"
 group: con
 rank: 5
 ---

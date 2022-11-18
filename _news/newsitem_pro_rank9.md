@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/science-business-climate-and-environment-ed3f0bde2e382ea2e30baaecfdf5c0bc"
-title: "Climate activists slam fossil fuels, protest restrictions"
-excerpt: "SHARM EL-SHEIKH, Egypt (AP) — Ugandan climate activist Vanessa Nakate slammed world leaders Tuesday who persist in backing new fossil fuel projects as other activists held a symbolic human and environ"
-image: "https://storage.googleapis.com/afs-prod/media/60c33a01cf214ba18d8679fcafdf51d1/3000.jpeg"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63625693"
+title: "COP27: War causing huge release of climate warming gas, claims Ukraine"
+excerpt: "Ukraine tells UN climate summit it will use evidence of environmental crimes to sue Russia."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/125F5/production/_127635257_tv078429829.jpg"
 group: pro
 rank: 9
 ---

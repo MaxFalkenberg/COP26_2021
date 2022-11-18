@@ -1,9 +1,9 @@
 ---
-publication: "uncutnews.ch"
-link: "https://uncutnews.ch/die-vereinten-nationen-erwaegen-den-versuch-alle-fossilen-brennstoffe-auf-dem-planeten-zu-verbieten-was-zu-hunger-und-tod-von-milliarden-fuehren-wuerde/"
-title: "Die Vereinten Nationen erwägen den Versuch, alle fossilen Brennstoffe auf dem Planeten zu verbieten, was zu Hunger und Tod von Milliarden führen würde"
-excerpt: None
-image: "https://www.naturalnews.com/wp-content/uploads/sites/91/2022/11/Pain-at-the-gas-pump-and-economic-challenge-1.jpeg"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/cop27-where-green-deals-are-signed-in-red-ink/"
+title: "Technocracy News & Trends"
+excerpt: "Accumulating news and articles on Technocracy, Transhumanism and Scientism from around the world with emphasis on the bio-security state and scientific dictatorship."
+image: "https://www.technocracy.news/wp-content/uploads/2019/02/default-social-media-pict.jpg"
 group: con
 rank: 13
 ---

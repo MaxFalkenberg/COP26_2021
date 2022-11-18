@@ -1,9 +1,9 @@
 ---
-publication: "technocracy.news"
-link: "https://www.technocracy.news/cop27-where-green-deals-are-signed-in-red-ink/"
-title: "Technocracy News & Trends"
-excerpt: "Accumulating news and articles on Technocracy, Transhumanism and Scientism from around the world with emphasis on the bio-security state and scientific dictatorship."
-image: "https://www.technocracy.news/wp-content/uploads/2019/02/default-social-media-pict.jpg"
+publication: "arabnews.com"
+link: "https://www.arabnews.com/node/2199671"
+title: "COP27 gives region chance to lead climate change fight"
+excerpt: "World leaders representing the signatory countries to the UN Framework Convention on Climate Change last week gathered in Sharm El-Sheikh for the latest COP conference, focusing global attention on Eg"
+image: "https://www.arabnews.com/sites/default/files/authors/3541056-haifa-aljedea1.png"
 group: con
 rank: 14
 ---
