@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/16/australia-criticised-for-resisting-cop27-push-to-end-international-fossil-fuel-subsidies-cop27-climatecrisis-auspol-on-the-highwaytohell-time-for-plane-2/"
-title: "Australia criticised for resisting Cop27 push to end international fossil fuel subsidies #COP27 #ClimateCrisis #auspol On the #HighwayToHell Time for #PlanE"
-excerpt: "Labor party’s environment wing says it’s ‘disappointing’ Albanese government has not joined partnership which would build consensus across OECD BY Adam Morton The climate change minister Chris Bowe…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1863.jpg?w=1200"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/regeneration/p/cop27-climate-change-and-global-meat"
+title: "COP27, Climate Change, & Global Meat-Phobia"
+excerpt: "I agree with George Monbiot - governments aren’t discussing livestock enough - but his calls to eliminate livestock are short-sighted and will cause more harm than good."
+image: "https://images.unsplash.com/photo-1581976684536-eb40b61ee175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwxNzh8fGNvd3N8ZW58MHx8fHwxNjY4MzAzNTQ5&ixlib=rb-4.0.3&q=80&w=1080"
 group: con
 rank: 10
 ---

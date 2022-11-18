@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63599932"
-title: "COP27: Without Greta, activists make waves at climate summit"
-excerpt: "Young campaigners say they are calling out 'greenwashing' at COP27 from the inside."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/1D77/production/_127634570_gettyimages-1440254642.jpg"
+publication: "apnews.com"
+link: "https://apnews.com/article/science-business-climate-and-environment-ed3f0bde2e382ea2e30baaecfdf5c0bc"
+title: "Climate activists slam fossil fuels, protest restrictions"
+excerpt: "SHARM EL-SHEIKH, Egypt (AP) — Ugandan climate activist Vanessa Nakate slammed world leaders Tuesday who persist in backing new fossil fuel projects as other activists held a symbolic human and environ"
+image: "https://storage.googleapis.com/afs-prod/media/60c33a01cf214ba18d8679fcafdf51d1/3000.jpeg"
 group: pro
 rank: 12
 ---
