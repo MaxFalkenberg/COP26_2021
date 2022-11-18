@@ -1,9 +1,9 @@
 ---
-publication: "londongreenleft.blogspot.com"
-link: "https://londongreenleft.blogspot.com/2022/11/cop27-still-fiddling-while-world-burns.html"
-title: "COP27- Still Fiddling While the World Burns - Ecosocialist Alliance Statement"
-excerpt: "Ecosocialist Alliance has released a statement ahead of the COP27 meeting at the heavily fortified Sharm El-Sheikh resort, in Egypt. In Engl..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg77eM3GIylTA1wO63n3uRvPXIvfiVjfzUKpPDrVJxKAdFJ3b5K9YtQhvzDs5YKt0kif19r1hFwiYMSnl5LTdOS3MRCPKEkaQbHktSllVgEjKcqqV1p_LIe75I4Nt5fOgCaTLlwlAGKkPXScDf9S0jsVGC-oVTlA_Ks0AVYp7SMILPPh2-nll7JC45z/w1200-h630-p-k-no-nu/Ecosocialist%20Alliance%20Banner.png"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/17/sleepwalking-to-global-armageddon-cop27-ecologicalcrisis-climatecrisis-economiccrisis-hyperthreat-time-for-plane-tellthetruth-demand-climateaction-sdg13/"
+title: "Sleepwalking to global armageddon #COP27 #EcologicalCrisis #ClimateCrisis #EconomicCrisis #Hyperthreat time for #PlanE #TellTheTruth demand #ClimateAction #SDG13"
+excerpt: "By Jeremy Webb An article in the prestigious journal Nature shows a dramatic increase in the likelihood of tipping points causing a runway disruption to the globe’s environment. Australia and other…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1882.jpg?w=1034"
 group: con
 rank: 6
 ---

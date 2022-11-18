@@ -1,9 +1,9 @@
 ---
-publication: "stuartbramhall.wordpress.com"
-link: "https://stuartbramhall.wordpress.com/2022/11/16/elite-fly-400-private-jets-to-cop27-sponsored-by-largest-plastic-polluter-in-world-to-lecture-you-about-climate/"
-title: "Elite Fly 400 Private Jets to COP27, Sponsored by Largest Plastic Polluter in World, To Lecture YOU About Climate"
-excerpt: "By Matt Agorist Free Thought Project “The world is literally burning because of you,” according to the world’s elite who produce more pollution in a few hours than most people make all year. Curren…"
-image: "https://www.naturalblaze.com/wp-content/uploads/2022/11/cop27-ftp.jpg"
+publication: "bkotry.wordpress.com"
+link: "https://bkotry.wordpress.com/2014/12/14/wood-vaccination/"
+title: "Wood Vaccination As Green Alternative To CCA"
+excerpt: "Berekotry Ltd Nigeria | Take waste wood and treat efficiently via some beautiful green machinations, we got a solution that prevents and arrests wood rot in all aqueos media. This Breakthrough is a…"
+image: "https://s0.wp.com/i/blank.jpg"
 group: con
 rank: 14
 ---
