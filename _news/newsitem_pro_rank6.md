@@ -1,9 +1,9 @@
 ---
-publication: "climatechangenews.com"
-link: "https://www.climatechangenews.com/2022/11/15/complete-contradiction-cop27-host-egypt-dirty-fuels-sell-more-gas-to-europe/"
-title: "Egypt is burning dirtier fuel to sell more gas to Europe"
-excerpt: "The Cop27 host has increased its use of mazut, a heavy fuel oil, in power stations, despite its harmful impact on health and the environment."
-image: "https://cdn.climatechangenews.com/files/2022/11/15102350/2419349835_090e8df655_c-e1668507949230.jpg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/16/brazil-lula-climate-amazon-cop27/"
+title: "‘Brazil is back’: At COP27, Lula vows to be a global climate leader"
+excerpt: "Brazil's president-elect vowed to reverse deforestation, raising hopes that Brazil could soon push other wavering nations into more ambitious climate action."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5WJSDQPVDYDNE5LYILBX72WH4.jpg&w=1440"
 group: pro
 rank: 6
 ---

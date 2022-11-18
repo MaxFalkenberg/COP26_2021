@@ -1,9 +1,9 @@
 ---
-publication: "dailykos.com"
-link: "https://www.dailykos.com/story/2022/11/17/2134235/-Caribbean-Matters-At-COP27-Barbados-PM-Mia-Mottley-is-a-powerful-voice-addressing-climate-change"
-title: "Caribbean Matters: At COP27, Barbados PM Mia Mottley is a powerful voice addressing climate change"
-excerpt: "While many people here in the U.S. have been focused on the midterm elections�and results, which are still coming in, nations around the world have been participating in COP27 .�More formally known .."
-image: "https://images.dailykos.com/images/1134333/story_image/GettyImages-1244608437.jpg?1668523498"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/life/brazil-s-lula-pledges-to-defeat-all-crimes-in-amazon-forest-62613"
+title: "Brazil's Lula pledges to defeat 'all crimes' in Amazon forest"
+excerpt: "President-elect Lula da Silva receives a superstar welcome at COP27 summit in Egypt as he promises to recommit the rainforest nation to tackling illegal deforestation and mining 'without respite.'"
+image: "https://cdni0.trtworld.com/w480/h270/q75/144171_EGY20221116_1668633700414.jpg"
 group: con
 rank: 2
 ---
