@@ -1,9 +1,9 @@
 ---
-publication: "fairsnape.substack.com"
-link: "https://fairsnape.substack.com/p/cop27-regen-notes"
-title: "COP27 Regen Notes"
-excerpt: "Storms, Starlight and the Magic of the Mangrove"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9e526fcf-9034-4b0f-9660-8cba086c7864_3590x2515.jpeg"
+publication: "d-edufeminist.blogspot.com"
+link: "https://d-edufeminist.blogspot.com/2022/11/breaking-newsas-cop27-enters-final-days.html"
+title: "BREAKING NEWS:AS COP27 ENTERS FINAL DAYS, 70% OF AFGHAN CHILDREN THREATENED BY EXTREME WEATHER EVENTS AS DROUGHT PREDICTED TO STRETCH INTO 2023 – SAVE THE CHILDREN"
+excerpt: "  Skip to main content 17 NOVEMBER 2022  - AFGHANISTAN AS COP27 ENTERS FINAL DAYS, 70% OF AFGHAN CHILDREN THREATENED BY EXTREME WEATHER EVEN..."
+image: "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1yjbMnuhcvd3wnfm-K2Vv4oyVfYqghvl_Rf2ONA4HTgMjc6ryKopxLxqjLlQ9z_XOlDfsPXcOeG92gWZVhBSvdvdyM_NlNpigD6TEIoGqk4DFrj6RCT66GwyRXrHdfhtUjyrklOz3MIkZSbafv0QqW=w1200-h630-p-k-no-nu"
 group: con
 rank: 6
 ---

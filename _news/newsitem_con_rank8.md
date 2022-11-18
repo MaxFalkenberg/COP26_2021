@@ -1,9 +1,9 @@
 ---
-publication: "d-edufeminist.blogspot.com"
-link: "https://d-edufeminist.blogspot.com/2022/11/breaking-newsas-cop27-enters-final-days.html"
-title: "BREAKING NEWS:AS COP27 ENTERS FINAL DAYS, 70% OF AFGHAN CHILDREN THREATENED BY EXTREME WEATHER EVENTS AS DROUGHT PREDICTED TO STRETCH INTO 2023 – SAVE THE CHILDREN"
-excerpt: "  Skip to main content 17 NOVEMBER 2022  - AFGHANISTAN AS COP27 ENTERS FINAL DAYS, 70% OF AFGHAN CHILDREN THREATENED BY EXTREME WEATHER EVEN..."
-image: "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1yjbMnuhcvd3wnfm-K2Vv4oyVfYqghvl_Rf2ONA4HTgMjc6ryKopxLxqjLlQ9z_XOlDfsPXcOeG92gWZVhBSvdvdyM_NlNpigD6TEIoGqk4DFrj6RCT66GwyRXrHdfhtUjyrklOz3MIkZSbafv0QqW=w1200-h630-p-k-no-nu"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/17/sleepwalking-to-global-armageddon-cop27-ecologicalcrisis-climatecrisis-economiccrisis-hyperthreat-time-for-plane-tellthetruth-demand-climateaction-sdg13/"
+title: "Sleepwalking to global armageddon #COP27 #EcologicalCrisis #ClimateCrisis #EconomicCrisis #Hyperthreat time for #PlanE #TellTheTruth demand #ClimateAction #SDG13"
+excerpt: "By Jeremy Webb An article in the prestigious journal Nature shows a dramatic increase in the likelihood of tipping points causing a runway disruption to the globe’s environment. Australia and other…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1882.jpg?w=1034"
 group: con
 rank: 8
 ---
