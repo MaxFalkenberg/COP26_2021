@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63617400"
-title: "COP27: Fears of compromise on key 1.5C global temperature issue"
-excerpt: "There are fears the commitment to a key warming limit may soften as nations seek agreement in Egypt."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/3766/production/_127628141_cop27protest_index_getty.jpg"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/big-gas-chiefs-bill-themselves-climate-leaders-cop27-2022-11-14/"
+title: "Big gas chiefs bill themselves as climate leaders at COP27"
+excerpt: "The heads of two big natural gas companies told Reuters on Monday they were seeking to use the setting of the COP27 international climate summit to bill their industry as a leader in the fight against"
+image: "https://www.reuters.com/resizer/GOJtnR6mltAyt8gRHRosZ01OUwU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WYLTXI4K5VKCLCOSIJLMUTTKAA.jpg"
 group: pro
 rank: 16
 ---

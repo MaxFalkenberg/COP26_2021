@@ -1,9 +1,9 @@
 ---
-publication: "presstv.ir"
-link: "https://www.presstv.ir/Detail/2022/11/14/692700/Europe-seeks-access-to-African-fossil-fuels-raising-alarm-at-COP27"
-title: "Wealthy European nations eye natural gas in poor Africa amid energy crunch "
-excerpt: "Europe"
-image: "https://cdn.presstv.ir/Photo/2022/11/14/61038215-fe6f-4502-b299-b3e85082409c.jfif"
+publication: "breitbart.com"
+link: "https://www.breitbart.com/europe/2022/11/11/record-number-of-fossil-fuel-lobbyists-attend-cop27-climate-conference/"
+title: "Record Number of Fossil Fuel Lobbyists Attend COP27 Climate Summit"
+excerpt: "The number of lobbyists from fossil fuel companies attending the COP27 climate change conference has increased by 25 per cent over last year."
+image: "https://media.breitbart.com/media/2022/11/GettyImages-1244638257-2-640x335.jpg"
 group: con
 rank: 6
 ---
