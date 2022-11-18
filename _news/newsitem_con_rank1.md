@@ -1,9 +1,9 @@
 ---
-publication: "londongreenleft.blogspot.com"
-link: "https://londongreenleft.blogspot.com/2022/11/extract-from-ecosocialism-not-extinction.html"
-title: "Extract From: Ecosocialism Not Extinction  "
-excerpt: "Written by Allan Todd (2022)     “The central preomise of ecosocialism, already suggested by the term itself, is that non-ecological sociali..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOnGFu2WFN8j2gycS06HZ75nEWFUt9D1NBDq-lEWGmFZc0ehRT64ddPVWfVUqWM0wlx6h9catM047Q3HlFivr_j7zniynnGXzXUkbNwsYs89KkQDEdsv803SwGwXV7sU8ubdbFNIo7LZwYyldmPBXiisfqqouBt4GcVM1rQMbf-gWB1F7iYKac9jVB/w1200-h630-p-k-no-nu/ECOSOCIALISM.NOTEXTINCTION%20(1).jpg"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/turkey/cop27-t%C3%BCrkiye-doubles-its-target-to-reduce-carbon-emissions-62575"
+title: "COP27: Türkiye doubles its target to reduce carbon emissions"
+excerpt: "Türkiye has revised its target of reducing carbon emissions from 21 percent to 41 percent by the year 2030, according to Minister of Environment, Urbanization and Climate Change Murat Kurum."
+image: "https://cdni0.trtworld.com/w480/h270/q75/144083_turMuratKurumaa_1668529534678.jpg"
 group: con
 rank: 1
 ---

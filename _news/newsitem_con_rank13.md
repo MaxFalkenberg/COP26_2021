@@ -1,9 +1,9 @@
 ---
-publication: "asiaundercovered.substack.com"
-link: "https://asiaundercovered.substack.com/p/asia-undercovered-round-up-1-nov"
-title: "Asia Undercovered Round-up: 1 Nov 2022"
-excerpt: "This week: More violence against ethnic minorities in Myanmar, Malaysia's upcoming elections, and China's Party Congress cements dictatorial rule."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFgFSfasakAQnBZ-.jpg"
+publication: "uncutnews.ch"
+link: "https://uncutnews.ch/die-vereinten-nationen-erwaegen-den-versuch-alle-fossilen-brennstoffe-auf-dem-planeten-zu-verbieten-was-zu-hunger-und-tod-von-milliarden-fuehren-wuerde/"
+title: "Die Vereinten Nationen erwägen den Versuch, alle fossilen Brennstoffe auf dem Planeten zu verbieten, was zu Hunger und Tod von Milliarden führen würde"
+excerpt: None
+image: "https://www.naturalnews.com/wp-content/uploads/sites/91/2022/11/Pain-at-the-gas-pump-and-economic-challenge-1.jpeg"
 group: con
 rank: 13
 ---
