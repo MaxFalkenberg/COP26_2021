@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/11/cop27-egypt-carbon-budget-gas-projects/"
-title: "World has nine years to avert catastrophic warming, study shows"
-excerpt: "As nations meet at COP27 in Egypt, studies show the world on track exhaust its carbon budget in nine years -- and new gas projects could accelerate that trend."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KCCZ5GPM7U5YY5DHUSREF63MPM.jpg&w=1440"
+publication: "bbc.com"
+link: "https://www.bbc.com/news/science-environment-63584993"
+title: "COP27: BP chief listed as delegate for Mauritania"
+excerpt: "Chief executive of leading oil company is registered for COP27 as a delegate from poor African nation."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/9DE3/production/_127591404_8b02a6d3109de19484839f21a08d34e1284f7485.jpg"
 group: pro
 rank: 15
 ---
