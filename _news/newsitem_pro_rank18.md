@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop27-climate-marchers-demand-justice-despite-protest-restrictions-2022-11-12/"
-title: "COP27 climate marchers demand justice despite protest restrictions"
-excerpt: "Climate campaign groups marched at the U.N. climate summit in Sharm el-Sheikh on Saturday, calling for reparations for rising 'loss and damage' caused by global warming, under the watchful eye of secu"
-image: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=120"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/11/cop27-live-updates-biden-egypt/"
+title: "COP27 highlights: Biden says U.S. will ‘do our part to avert’ a ‘climate hell’ during address in Egypt"
+excerpt: "The first week of COP27, the United Nations climate conference, is underway in Egypt. President Biden is attending events with other world leaders."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-11-2022/t_3d5af52991554f3793dccdcdec5407a4_name_1___1920x1080___30p_00_46_58_16_Still015.jpg&w=1440"
 group: pro
 rank: 18
 ---
