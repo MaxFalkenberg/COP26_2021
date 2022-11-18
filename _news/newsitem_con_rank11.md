@@ -1,9 +1,9 @@
 ---
-publication: "esgadvocate.substack.com"
-link: "https://esgadvocate.substack.com/"
-title: "The ESG Advocate"
-excerpt: "Threading the week's ESG stories into one sustainably sourced read. Click to read The ESG Advocate, by Matthew Sekol, a Substack publication with hundreds of readers."
-image: "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fesgadvocate.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1338736601%26version%3D8"
+publication: "gulfnews.com"
+link: "https://gulfnews.com/"
+title: "Gulf News: Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema"
+excerpt: "Get the latest update on UAE, business, life style, UAE jobs, gold rate, Exchange rate, UAE holidays, Dubai police, RTA and prayer times from UAE’s largest news portal."
+image: "https://assets.gulfnews.com/images/gn-logo-1200x630.png"
 group: con
 rank: 11
 ---

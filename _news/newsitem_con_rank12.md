@@ -1,9 +1,9 @@
 ---
-publication: "gulfnews.com"
-link: "https://gulfnews.com/"
-title: "Gulf News: Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema"
-excerpt: "Get the latest update on UAE, business, life style, UAE jobs, gold rate, Exchange rate, UAE holidays, Dubai police, RTA and prayer times from UAE’s largest news portal."
-image: "https://assets.gulfnews.com/images/gn-logo-1200x630.png"
+publication: "wnd.com"
+link: "https://www.wnd.com/2022/11/climate-cult-meeting-depopulation/"
+title: "'Climate cult' meeting is 'all about depopulation'"
+excerpt: "“Let them eat cake,” famously attributed to Marie Antoinette by Jean-Jacques Rousseau, has become universal shorthand for a monarch’s total disregard for her famished citizens stealing and wreaking ha"
+image: "https://www.wnd.com/wp-content/uploads/2022/05/Apocalypse-armageddon-end-civilization-times-of-days-death-skull-heartbroken-anguish-misery-grief-woman-crying-destruction-pain-emotion-despair-pillars-pixabay.jpg"
 group: con
 rank: 12
 ---

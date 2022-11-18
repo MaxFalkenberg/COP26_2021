@@ -1,9 +1,9 @@
 ---
-publication: "thegatewaypundit.com"
-link: "https://www.thegatewaypundit.com/2022/11/john-kerry-spills-beans-u-n-s-cop27-meeting-want-replace-capitalism-new-economic-system/"
-title: "John Kerry Spills the Beans at U.N.’s COP27 Meeting: They Want to Replace Capitalism with a New Economic System"
-excerpt: "Guest post by Leo Hohmann The World Economic Forum’s climate change agenda was “modeled” off the effort to roll out vaccines during the Covid pandemic, John Kerry said during a COP27 panel discussion "
-image: "https://www.thegatewaypundit.com/wp-content/uploads/IMG_7767-1.jpg"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/14/WS637262cda310491754329a57.html"
+title: "'Loss and damage' funding a justified demand: China Daily editorial"
+excerpt: "The low-income nations, which have done the least to cause climate change, often bear the brunt of the disastrous consequences of global warming ranging from floods, hurricanes to sea-level rises. The"
+image: "http://img2.chinadaily.com.cn/images/202211/15/6372e10da31049178c90aadd.jpeg"
 group: con
 rank: 9
 ---

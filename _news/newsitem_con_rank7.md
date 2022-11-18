@@ -1,9 +1,10 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/15/new-global-climate-ranking-sees-australia-go-from-dead-last-to-far-from-a-pass-climatecrisis-cop27-auspol-tellthetruth-demand-climateaction-sdg13/"
-title: "New global climate ranking sees Australia go from “dead last to far from a pass” #ClimateCrisis #COP27 #auspol #TellTheTruth demand #ClimateAction #SDG13"
-excerpt: "Australia has climbed just four places to rank 55th out of 63 in this year’s global Climate Change Performance Index 2023, launched at COP27 in Egypt, a slight improvement on last year’s where it c…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_2003.jpg"
+publication: "naturalnews.com"
+link: "https://www.naturalnews.com/2022-11-10-globalists-enjoying-food-while-people-eat-bugs.html"
+title: "Hypocrite globalists enjoy smorgasbord of fine foods while urging regular people to eat BUGS"
+excerpt: "An utter display of hypocrisy is laid out for the world to see as the globalists enjoy a variety of fine foods at the COP27 climate summit in Egypt, while pushing for regular people to eat insects.
+"
+image: "https://www.naturalnews.com/wp-content/uploads/sites/91/2022/11/Gates_WEF_wikimedia-1.jpeg"
 group: con
 rank: 7
 ---

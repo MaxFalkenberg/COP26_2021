@@ -1,9 +1,9 @@
 ---
-publication: "mediamatters.org"
-link: "https://www.mediamatters.org/climate-deniers/fox-news-platforms-climate-denial-and-great-reset-conspiracy-theory-during-cop27"
-title: "Fox News platforms climate denial and the Great Reset conspiracy theory during COP27"
-excerpt: None
-image: "https://cloudfront.mediamatters.org/static/D8Image/2022/11/14/unfiltered_with_dan_bongino_-_fnc-bongino-111222-moranogrclimate_-_09_00_01_pm.jpg?VersionId=NBuPu67ItauswZM_wOLEeitzR4i.lHsS"
+publication: "democracynow.org"
+link: "https://www.democracynow.org/2022/11/14/headlines/climate_activists_rally_at_cop27_for_climate_reparations"
+title: "Climate Activists Rally at COP27 for Climate Justice"
+excerpt: "Outside the halls of COP27, hundreds of people rallied Saturday to demand global systemic transformation to defend human rights and combat the climate catastrophe. This is South African climate activi"
+image: "https://www.democracynow.org/images/headlines/69/65169/full_hd/H6-climate-activists.jpg"
 group: pro
 rank: 19
 ---

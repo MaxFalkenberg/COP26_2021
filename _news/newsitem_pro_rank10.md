@@ -1,9 +1,9 @@
 ---
-publication: "financialpost.com"
-link: "https://financialpost.com/commodities/energy/oil-gas/sonya-savage-alberta-cop27-energy-crisis"
-title: "Sonya Savage: Alberta is taking a seat at COP27 to help solve the global energy crisis"
-excerpt: "We need to have an honest conversation about balancing climate policy with energy and food security, writes Alberta's Sonya Savage. Read on."
-image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/11/sonya-savage.jpg"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/brazil-rainforest-nations-join-forces-save-jungle-2022-11-14/"
+title: "Biggest rainforest nations form triple alliance to save jungle"
+excerpt: "The world's three largest rainforest nations Brazil, Democratic Republic of Congo and Indonesia on Monday formally launched a partnership to cooperate on forest preservation after a decade of on-off t"
+image: "https://www.reuters.com/resizer/nfiAlFvwOAKfcULQv4hQmxaCYk4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SFPTL667QZMAHLFHN7NK2UWBX4.jpg"
 group: pro
 rank: 10
 ---
