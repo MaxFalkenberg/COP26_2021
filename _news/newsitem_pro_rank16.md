@@ -1,9 +1,9 @@
 ---
-publication: "ctvnews.ca"
-link: "https://www.ctvnews.ca/climate-and-environment/canada-won-t-back-call-at-cop27-to-phase-down-oil-and-gas-production-1.6157657"
-title: "Canada won't back call at COP27 to 'phase down' oil and gas production"
-excerpt: "Environment Minister Steven Guilbeault says Canada will not agree to include language calling for the phaseout of all fossil fuels in the final agreement at this year's United Nations climate talks in"
-image: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/11/17/steven-guilbeault-1-6157670-1668715879159.jpg"
+publication: "euronews.com"
+link: "https://www.euronews.com/green/2022/11/07/cop27-more-than-25-countries-band-together-to-keep-deforestation-pledges-made-in-glasgow"
+title: "Countries band together to keep deforestation pledges made at COP26"
+excerpt: "The group - including Japan, Pakistan and the UK - has said they will hold each other accountable for a pledge to end deforestation by 2030."
+image: "https://static.euronews.com/articles/stories/07/17/79/92/1000x563_cmsv2_f77c0ce2-f4d9-5051-8fb2-04a70210cb3e-7177992.jpg"
 group: pro
 rank: 16
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "insideclimatenews.org"
-link: "https://insideclimatenews.org/news/18112022/is-cop27-the-end-of-hopes-for-limiting-global-warming-to-1-5-degrees-celsius/"
-title: "Is COP27 the End of Hopes for Limiting Global Warming to 1.5 Degrees Celsius? - Inside Climate News"
-excerpt: "SHARM EL-SHEIKH, Egypt—The COP27 climate conference in Egypt may be remembered as the moment when the world gave up on limiting global warming to 1.5 degrees Celsius, the most ambitious goal set by th"
-image: "https://insideclimatenews.org/wp-content/uploads/2022/11/GettyImages-1244874277-scaled.jpg"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/cop27-more-countries-join-methane-pact-focus-turns-farms-waste-2022-11-17/"
+title: "COP27: More join methane pact as focus turns to farms"
+excerpt: "More than 150 countries have signed up to a global pact to reduce methane emissions, around 50 more than when the initiative launched last year, the United States and European Union said on Thursday."
+image: "https://www.reuters.com/resizer/KmLJxg22MsB_MkCLMVUgj_PuqMM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LI6XJ7WMP5IOZFUE63TWHD5VGA.jpg"
 group: pro
 rank: 13
 ---

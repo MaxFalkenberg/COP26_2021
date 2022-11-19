@@ -1,9 +1,9 @@
 ---
-publication: "euronews.com"
-link: "https://www.euronews.com/green/2022/11/07/cop27-more-than-25-countries-band-together-to-keep-deforestation-pledges-made-in-glasgow"
-title: "Countries band together to keep deforestation pledges made at COP26"
-excerpt: "The group - including Japan, Pakistan and the UK - has said they will hold each other accountable for a pledge to end deforestation by 2030."
-image: "https://static.euronews.com/articles/stories/07/17/79/92/1000x563_cmsv2_f77c0ce2-f4d9-5051-8fb2-04a70210cb3e-7177992.jpg"
+publication: "insideclimatenews.org"
+link: "https://insideclimatenews.org/news/18112022/is-cop27-the-end-of-hopes-for-limiting-global-warming-to-1-5-degrees-celsius/"
+title: "Is COP27 the End of Hopes for Limiting Global Warming to 1.5 Degrees Celsius? - Inside Climate News"
+excerpt: "SHARM EL-SHEIKH, Egypt—The COP27 climate conference in Egypt may be remembered as the moment when the world gave up on limiting global warming to 1.5 degrees Celsius, the most ambitious goal set by th"
+image: "https://insideclimatenews.org/wp-content/uploads/2022/11/GettyImages-1244874277-scaled.jpg"
 group: pro
 rank: 14
 ---
