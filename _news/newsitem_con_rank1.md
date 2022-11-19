@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/19/our-leaders-had-a-final-chance-to-halt-climate-breakdown-they-failed-each-and-every-one-of-us-george-monbiot-cop27-climatecrisis-ecologicalcrisis-auspol/"
-title: "Our leaders had a final chance to halt climate breakdown. They failed each and every one of us | George Monbiot #COP27 #ClimateCrisis #EcologicalCrisis #auspol"
-excerpt: "By George Monbiot The chances of any one person being born were calculated by the life coach Dr Ali Binazir. He multiplied the probability of your parents meeting, mating and conceiving by the chan…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1969.jpg"
+publication: "thegatewaypundit.com"
+link: "https://www.thegatewaypundit.com/2022/11/fda-announces-lab-grown-meat-served-cop27-climate-conference-safe-eat-world-experiencing-food-revolution/"
+title: "FDA Announces LAB GROWN MEAT That Was Served at COP27 Climate Conference Is 'SAFE TO EAT': 'The World Is Experiencing A Food Revolution'"
+excerpt: "The US Food and Drug Administration has approved lab-grown meat, a product grown from animal cells, for human consumption for the first time. The FDA announced Wednesday that laboratory-grown chicken "
+image: "https://www.thegatewaypundit.com/wp-content/uploads/221117080338-01-upside-foods-products.jpg"
 group: con
 rank: 1
 ---
