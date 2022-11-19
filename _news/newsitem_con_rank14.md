@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-18/UN-chief-calls-for-reaching-consensus-on-climate-actions-at-COP27-1f3AzMFkpEY/index.html"
-title: "UN chief calls for reaching consensus on climate actions at COP27"
-excerpt: "United Nations Secretary-General Antonio Guterres on Thursday called on countries to take climate actions instead of 'finger-pointing' at the ongoing UN climate change conference."
-image: "https://news.cgtn.com/news/2022-11-18/UN-chief-calls-for-reaching-consensus-on-climate-actions-at-COP27-1f3AzMFkpEY/img/a1524f014dbc4bb6892bfe10577e5fd2/a1524f014dbc4bb6892bfe10577e5fd2-750.png"
+publication: "independentsentinel.com"
+link: "https://www.independentsentinel.com/john-kerry-us-totally-supportive-of-paying-climate-reparations/"
+title: "John Kerry: US - 'Totally Supportive' of Paying Climate Reparations"
+excerpt: "Americans are allegedly 'totally supportive' of this insanity. That's what John Kerry believes. Did he ask the..."
+image: "https://www.independentsentinel.com/wp-content/uploads/2022/11/kerry-john.jpg"
 group: con
 rank: 14
 ---

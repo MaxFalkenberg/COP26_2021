@@ -1,10 +1,9 @@
 ---
-publication: "english.aawsat.com"
-link: "https://english.aawsat.com/home/article/3974446/saudi-arabia-commits-25-bln-middle-east-green-initiative"
-title: "Saudi Arabia Commits $2.5 Bln to Middle East Green Initiative "
-excerpt: "Prince Mohammed bin Salman, Crown Prince and Prime Minister, announced on Monday that Saudi Arabia was committing 2.5 billion dollars to the Middle East Green Initiative for the next ten years. 
-He ma"
-image: "https://english.aawsat.com/sites/default/files/styles/large/public/2022/11/07/lmyr_mhmd_bn_slmn_ytwst_lqd_wlmswwlyn_lmshrkyn_fy_tlq_lqm_lthny_mn_mbdr_lshrq_lwst_lkhdr_0.jpeg?itok=mNXDycHm"
+publication: "takvera.blogspot.com"
+link: "https://takvera.blogspot.com/2022/11/end-game-for-cop27-will-there-be.html"
+title: "End game for COP27: Will there be backsliding on Fossil fuels or 1.5C target? Will a Loss and Damage finance Facility be established?"
+excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5i0QILCMnmGhYQiMT-vag9FUN7lFs8lJua9NOkoI2zXHptVgK30VOS8KZFVyGoMa-i4TabKNLvmj-yPqhQPeDXiPxn1x-3IXuxTGSzfc8tqm5jcY-RXibdGTunoedFQ6t1c33FUZQu0nMf3e4m3ou4l4UL3aEHWDabjc5HU-fLPQT1shUaR5Id-FA/w1200-h630-p-k-no-nu/2022-11-18-COP27=presidency-presser-2300.jpeg"
 group: con
 rank: 11
 ---

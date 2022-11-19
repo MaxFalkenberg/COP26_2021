@@ -1,9 +1,9 @@
 ---
-publication: "notalotofpeopleknowthat.wordpress.com"
-link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/17/staggering-disconnect-climate-summit-boasts-opulent-beef-seafood-menu-despite-spearheading-anti-meat-initiatives/"
-title: "‘Staggering Disconnect’: Climate Summit Boasts Opulent Beef, Seafood Menu Despite Spearheading Anti-Meat Initiatives"
-excerpt: "By Paul Homewood   h/t 1saveenergy   Meat for me, but not for thee!         World leaders and officials attending the United Nations COP27 climate conference can spend…"
-image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb-66.png"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1279939.shtml"
+title: "China plays a pivotal role in combating climate change, has supported various related projects: Egyptian Ambassador "
+excerpt: "The high level of cooperation between China and the Egyptian presidency of COP27 continues to become stronger, with far reaching results that will have a lasting positive impact for both peoples and t"
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/8f25207c-64e3-4e1d-bfd1-ba3da6750b77_s.jpeg"
 group: con
 rank: 7
 ---

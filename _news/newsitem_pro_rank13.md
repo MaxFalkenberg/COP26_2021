@@ -1,9 +1,9 @@
 ---
-publication: "cbc.ca"
-link: "https://www.cbc.ca/news/science/biodiversity-montreal-cop27-1.6654447"
-title: "Biodiversity needs same protection as climate, say scientists, activists at COP27 | CBC News"
-excerpt: "Civil society groups, Indigenous activists and scientists are standing together at the COP27 climate conference in Sharm el-Sheikh, Egypt, and demanding firm action be taken next month at the UN Biodi"
-image: "https://i.cbc.ca/1.4583528.1668691821!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/alberta-caribou.jpg"
+publication: "thenational.scot"
+link: "https://www.thenational.scot/news/23136855.fm-celebrates-inclusion-loss-damage-fund-cop27-agreement/"
+title: "Nicola Sturgeon welcomes loss and damage fund as COP27 talks drag on"
+excerpt: "NICOLA Sturgeon has welcomed the establishment of a loss and damage fund for developing nations in the draft text of the COP27 agreement."
+image: "https://www.thenational.scot/resources/images/16098637/?type=og-image"
 group: pro
 rank: 13
 ---

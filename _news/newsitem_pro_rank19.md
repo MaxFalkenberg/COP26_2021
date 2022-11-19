@@ -1,9 +1,9 @@
 ---
-publication: "thenational.scot"
-link: "https://www.thenational.scot/news/23136855.fm-celebrates-inclusion-loss-damage-fund-cop27-agreement/"
-title: "Nicola Sturgeon welcomes loss and damage fund as COP27 talks drag on"
-excerpt: "NICOLA Sturgeon has welcomed the establishment of a loss and damage fund for developing nations in the draft text of the COP27 agreement."
-image: "https://www.thenational.scot/resources/images/16098637/?type=og-image"
+publication: "climatechangenews.com"
+link: "https://www.climatechangenews.com/2022/11/18/greenwash-alert-as-cop27-draft-allows-double-claiming-of-carbon-credits/"
+title: "Cop27 draft carbon trading rules open door to corporate greenwash"
+excerpt: "Companies and countries could take credit for the same tonne of CO2 cut under rules being negotiated in Sharm el-Sheikh"
+image: "https://cdn.climatechangenews.com/files/2022/11/17191703/Clean-cookstove.jpg"
 group: pro
 rank: 19
 ---
