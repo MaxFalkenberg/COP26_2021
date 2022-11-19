@@ -1,9 +1,9 @@
 ---
-publication: "express.co.uk"
-link: "https://www.express.co.uk/comment/expresscomment/1694648/Brexit-remain-analysis-EU-latest-news-rishi-sunak-cop27-climate-change"
-title: "Betraying our country isn’t treason anymore - it’s policy"
-excerpt: "We live in the era of revelation. In earlier times, politicians hid their scorn from us, the people, behind smiles, heartfelt assurances and thick curtains."
-image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4393551.jpg?r=1668072133426"
+publication: "nature.com"
+link: "https://www.nature.com/articles/s41467-022-33976-5"
+title: "Energy requirements and carbon emissions for a low-carbon energy transition - Nature Communications"
+excerpt: "A low-carbon energy transition consistent with 1.5 °C of warming may result in substantial carbon emissions. Moreover, the initial push to substitute fossil fuels with low-carbon alternatives will red"
+image: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33976-5/MediaObjects/41467_2022_33976_Fig1_HTML.png"
 group: pro
 rank: 3
 ---
