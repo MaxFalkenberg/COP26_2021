@@ -1,9 +1,9 @@
 ---
-publication: "fortune.com"
-link: "https://fortune.com/2022/11/09/al-gore-cop27-climate-change-polluters-inventory-top-polluters-oil-gas/"
-title: "Al Gore reveals the world's top 14 polluters are all oil and gas fields but insists 'We are capable of solving this crisis'"
-excerpt: "UN Secretary General Antonio Guterres said Climate TRACE's inventory shows a problem “in front of our eyes, but also hidden in plain sight.”"
-image: "https://content.fortune.com/wp-content/uploads/2022/11/AP22313327359977.jpg?resize=1200,600"
+publication: "insideclimatenews.org"
+link: "https://insideclimatenews.org/todaysclimate/climate-disinformation-campaigns-threaten-cop27-progress-a-new-report-concludes/"
+title: "Climate Disinformation Campaigns Threaten COP27 Progress, a New Report Concludes - Inside Climate News"
+excerpt: "SHARM EL-SHEIKH, Egypt—The slow pace of global climate talks is once again on display at COP27 this week and can be partially explained by a renewed blitz of climate disinformation, according to watch"
+image: "https://insideclimatenews.org/wp-content/uploads/2022/11/cop_joseph-eid-getty-scaled.jpg"
 group: pro
 rank: 5
 ---

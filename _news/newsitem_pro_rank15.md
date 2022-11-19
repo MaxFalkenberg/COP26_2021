@@ -1,9 +1,9 @@
 ---
-publication: "qz.com"
-link: "https://qz.com/cop27-is-leaving-huge-loopholes-for-greenwashing-1849800189"
-title: "COP27 is leaving huge loopholes for greenwashing"
-excerpt: "Negotiations on a new carbon market allow for dubious accounting and lack transparency"
-image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/de7ef63384c2cffcf4cb76f573691291.jpg"
+publication: "euronews.com"
+link: "https://www.euronews.com/green/2022/11/07/cop27-more-than-25-countries-band-together-to-keep-deforestation-pledges-made-in-glasgow"
+title: "Countries band together to keep deforestation pledges made at COP26"
+excerpt: "The group - including Japan, Pakistan and the UK - has said they will hold each other accountable for a pledge to end deforestation by 2030."
+image: "https://static.euronews.com/articles/stories/07/17/79/92/1000x563_cmsv2_f77c0ce2-f4d9-5051-8fb2-04a70210cb3e-7177992.jpg"
 group: pro
 rank: 15
 ---

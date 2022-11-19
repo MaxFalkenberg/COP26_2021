@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/teenagers-in-polluted-areas-more-likely-to-have-higher-blood-pressure-vtdc9vc5p"
-title: "Teenagers in polluted areas ‘more likely to have higher blood pressure’"
-excerpt: "Teenagers who live in areas with high levels of air pollution are more likely to have high blood pressure, a new study has found, putting them at greater risk o"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fac8c68f6-6694-11ed-9ccc-9d160947f622.jpg?crop=4004%2C2252%2C117%2C526&resize=1200"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/cop27-more-countries-join-methane-pact-focus-turns-farms-waste-2022-11-17/"
+title: "COP27: More join methane pact as focus turns to farms"
+excerpt: "More than 150 countries have signed up to a global pact to reduce methane emissions, around 50 more than when the initiative launched last year, the United States and European Union said on Thursday."
+image: "https://www.reuters.com/resizer/KmLJxg22MsB_MkCLMVUgj_PuqMM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LI6XJ7WMP5IOZFUE63TWHD5VGA.jpg"
 group: pro
 rank: 14
 ---

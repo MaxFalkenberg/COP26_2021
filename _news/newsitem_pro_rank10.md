@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop27-children-global-south-make-their-presence-felt-climate-summit-2022-11-16/"
-title: "COP27: Children from Global South make their presence felt at climate summit"
-excerpt: "Eleven-year-old Indian climate activist Licypriya Kangujam's dogged questioning of Britain's climate minister Zac Goldsmith about the fate of climate activists detained in his country was one of the m"
-image: "https://www.reuters.com/resizer/Db4Yo7cMQuwWO_kvknbqfEYYqGE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/42J2DWWDHZNX5OOKZINU2FVL64.jpg"
+publication: "thetimes.co.uk"
+link: "https://www.thetimes.co.uk/article/teenagers-in-polluted-areas-more-likely-to-have-higher-blood-pressure-vtdc9vc5p"
+title: "Teenagers in polluted areas ‘more likely to have higher blood pressure’"
+excerpt: "Teenagers who live in areas with high levels of air pollution are more likely to have high blood pressure, a new study has found, putting them at greater risk o"
+image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fac8c68f6-6694-11ed-9ccc-9d160947f622.jpg?crop=4004%2C2252%2C117%2C526&resize=1200"
 group: pro
 rank: 10
 ---
