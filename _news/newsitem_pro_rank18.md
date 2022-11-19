@@ -1,9 +1,9 @@
 ---
-publication: "commondreams.org"
-link: "https://www.commondreams.org/news/2022/11/16/moral-and-strategic-responsibility-bowman-omar-lead-call-loss-and-damage-funding"
-title: "'A Moral and a Strategic Responsibility': Bowman, Omar Lead Call for Loss and Damage Funding"
-excerpt: "'We have both a moral and a strategic responsibility to provide comprehensive support for countries facing climate disaster, including debt forgiveness and reparations,' 13 lawmakers, led by Reps. Bow"
-image: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-12/GettyImages-1236921630-bowman.jpg?h=ba046cd8&itok=JuqPTc2O"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/17/climate-change-cop27-egypt/"
+title: "Climate talks hit ‘breakdown’ over finance, fossil fuels as time dwindles  "
+excerpt: "With time running out for nations to agree on a road map for tackling climate change, the fate of U.N. climate talks in Egypt appeared in jeopardy Thursday as rich and poor nations continued to disagr"
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IXAVY4FWC5H424R5MHOCV2BSQI.jpg&w=1440"
 group: pro
 rank: 18
 ---

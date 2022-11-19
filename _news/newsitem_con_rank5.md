@@ -1,9 +1,9 @@
 ---
-publication: "theclaudeslaw.wordpress.com"
-link: "https://theclaudeslaw.wordpress.com/2022/11/18/domestic-affairs-are-to-be-addressed-and-taken-more-seriously/"
-title: "Domestic Affairs are to be Addressed and Taken More Seriously"
-excerpt: "School strike week 222. #FridaysForFuture #ClimateStrike #PeopleNotProfit Our World Leaders. Have a duty to take. Domestic Affairs more seriously. {UK Crisis}#ClimateJustice #ClimateInequality #COP…"
-image: "https://theclaudeslaw.files.wordpress.com/2021/06/0001-742512986_20210503_144120_0000.png?w=200"
+publication: "royalhollowayucu.wordpress.com"
+link: "https://royalhollowayucu.wordpress.com/2022/11/18/cop27-rhul-and-you/"
+title: "COP27, RHUL and You"
+excerpt: "As COP27 comes to a close, our Green Rep Prof. Liz Schafer reflects. I am trying very hard not to be too cynical about COP27 – at least the environment occasionally gets more attention than normal …"
+image: "https://s0.wp.com/i/blank.jpg"
 group: con
 rank: 5
 ---

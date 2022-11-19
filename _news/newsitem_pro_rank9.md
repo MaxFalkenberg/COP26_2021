@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/science-china-deserts-climate-and-environment-d8c5c4657abea010d7b1d02719b9ca9d"
-title: "EU shakes up climate talks with surprise disaster fund offer"
-excerpt: "SHARM EL-SHEIKH, Egypt (AP) — Climate talks appeared stalled late night Thursday on major issues going into the final day, but possibilities for a deal were buoyed by an unexpected proposal by the Eur"
-image: "https://storage.googleapis.com/afs-prod/media/78db90507d2e457fb0a35175d4674722/3000.jpeg"
+publication: "climatechangenews.com"
+link: "https://www.climatechangenews.com/2022/11/18/greenwash-alert-as-cop27-draft-allows-double-claiming-of-carbon-credits/"
+title: "Cop27 draft carbon trading rules open door to corporate greenwash"
+excerpt: "Companies and countries could take credit for the same tonne of CO2 cut under rules being negotiated in Sharm el-Sheikh"
+image: "https://cdn.climatechangenews.com/files/2022/11/17191703/Clean-cookstove.jpg"
 group: pro
 rank: 9
 ---

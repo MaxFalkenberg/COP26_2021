@@ -1,10 +1,9 @@
 ---
-publication: "zerohedge.com"
-link: "https://www.zerohedge.com/markets/cop27-climate-virtue-signaling-boondoggle-ends-failure-without-fossil-fuel-pledge"
-title: "COP27 Climate Virtue-Signaling Boondoggle Ends In Failure, Leaves Out Fossil Fuel Pledge"
-excerpt: "The COP27 text still makes no reference to a fossil fuel phase down, as poseur virtue signalers are once again put in their place by the likes of India and China.
-"
-image: "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-11/sophia%20kianni.jpg?itok=vHCIIWV9"
+publication: "woodstockearth.blogspot.com"
+link: "http://woodstockearth.blogspot.com/2015/11/10-false-solutions-to-climate-change.html"
+title: "Woodstock Earth Blog"
+excerpt: "A blog that addresses issues dealing with human health, the safety of our food supply, and the welfare of Mother Earth."
+image: "http://3.bp.blogspot.com/-CluCF7iDUBQ/VlY2R19nHSI/AAAAAAAAAUE/CQQUZnbrqqQ/w1200-h630-p-k-no-nu/woodstockearthbulletin.jpg"
 group: con
 rank: 1
 ---
