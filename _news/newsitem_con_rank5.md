@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/18/extreme-weather-to-strike-australia-decades-earlier-than-expected-climatecrisis-cop27-demand-climateaction-sdg13-hyperthreat-plane-auspol/"
-title: "Extreme weather to strike Australia decades earlier than expected #ClimateCrisis #COP27 demand #ClimateAction #SDG13 #Hyperthreat #PlanE #auspol"
-excerpt: "Climate change is likely to change eastern Pacific weather patterns within the decade, a new study has found, meaning Australia needs to start preparing for “extreme” flooding and droug…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_2015.jpg"
+publication: "royalhollowayucu.wordpress.com"
+link: "https://royalhollowayucu.wordpress.com/2022/11/18/cop27-rhul-and-you/"
+title: "COP27, RHUL and You"
+excerpt: "As COP27 comes to a close, our Green Rep Prof. Liz Schafer reflects. I am trying very hard not to be too cynical about COP27 – at least the environment occasionally gets more attention than normal …"
+image: "https://s0.wp.com/i/blank.jpg"
 group: con
 rank: 5
 ---

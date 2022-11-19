@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/climate-change/news/cop27-egypt-climate-sharm-el-sheikh-b2227355.html"
-title: "Trust breaks down at Cop27 as UN chief urges agreement in final 24 hours"
-excerpt: "‘This is no time for finger-pointing. The blame game is a recipe for mutually assured destruction,’ UN secretary-general Antonio Guterres warns "
-image: "https://static.independent.co.uk/2022/11/17/16/SEI134027592.jpg?quality=75&width=1200&auto=webp"
+publication: "reason.com"
+link: "https://reason.com/2022/11/17/at-the-u-n-s-climate-change-conference-nuclear-power-is-finally-getting-some-respect/"
+title: "At the U.N.'s Climate Change Conference, nuclear power is finally getting some respect"
+excerpt: "The bigger problem now is that outmoded regulations stand in the way of deployment."
+image: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2022/11/dreamstime_xl_63832570-scaled.jpg"
 group: pro
 rank: 12
 ---

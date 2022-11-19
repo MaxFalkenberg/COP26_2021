@@ -1,9 +1,9 @@
 ---
 publication: "open.substack.com"
-link: "https://open.substack.com/pub/jonathancook/p/cop27-the-dirty-secret-europe-is"
-title: "Cop27: The dirty secret Europe is hiding at the climate summit"
-excerpt: "Grand declarations on tackling the climate emergency are sabotaged by a treaty from the 1990s that holds European states to ransom"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0c13fdf1-27a3-462b-9c20-6b270ef1132a_520x338.png"
+link: "https://open.substack.com/pub/itsgreenify/p/greenify-38-cop-27-wrapping-up"
+title: "Greenify #38: COP 27 wrapping up!"
+excerpt: "November 18, 2022"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7990cf21-ce8a-471e-8051-94ce0f0837da_1024x683.jpeg"
 group: con
 rank: 12
 ---

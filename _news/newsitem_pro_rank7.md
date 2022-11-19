@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop27-children-global-south-make-their-presence-felt-climate-summit-2022-11-16/"
-title: "COP27: Children from Global South make their presence felt at climate summit"
-excerpt: "Eleven-year-old Indian climate activist Licypriya Kangujam's dogged questioning of Britain's climate minister Zac Goldsmith about the fate of climate activists detained in his country was one of the m"
-image: "https://www.reuters.com/resizer/Db4Yo7cMQuwWO_kvknbqfEYYqGE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/42J2DWWDHZNX5OOKZINU2FVL64.jpg"
+publication: "apnews.com"
+link: "https://apnews.com/article/science-china-deserts-climate-and-environment-d8c5c4657abea010d7b1d02719b9ca9d"
+title: "EU shakes up climate talks with surprise disaster fund offer"
+excerpt: "SHARM EL-SHEIKH, Egypt (AP) — Climate talks appeared stalled late night Thursday on major issues going into the final day, but possibilities for a deal were buoyed by an unexpected proposal by the Eur"
+image: "https://storage.googleapis.com/afs-prod/media/78db90507d2e457fb0a35175d4674722/3000.jpeg"
 group: pro
 rank: 7
 ---

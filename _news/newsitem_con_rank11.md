@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-18/UN-chief-calls-for-reaching-consensus-on-climate-actions-at-COP27-1f3AzMFkpEY/index.html"
-title: "UN chief calls for reaching consensus on climate actions at COP27"
-excerpt: "United Nations Secretary-General Antonio Guterres on Thursday called on countries to take climate actions instead of 'finger-pointing' at the ongoing UN climate change conference."
-image: "https://news.cgtn.com/news/2022-11-18/UN-chief-calls-for-reaching-consensus-on-climate-actions-at-COP27-1f3AzMFkpEY/img/a1524f014dbc4bb6892bfe10577e5fd2/a1524f014dbc4bb6892bfe10577e5fd2-750.png"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/18/EU-proposes-midway-path-on-climate-fund-to-unblock-COP27-talks"
+title: "EU proposes midway path on climate fund to unblock COP27 talks"
+excerpt: "Climate negotiators on Friday were mulling a late-night European Union proposal aimed at resolving a stubborn impasse over financing for countries hit by"
+image: "https://vid.alarabiya.net/images/2022/05/02/0c8490cb-0523-42d8-a981-08b27dd1eed7/0c8490cb-0523-42d8-a981-08b27dd1eed7_16x9_600x338.JPG"
 group: con
 rank: 11
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "climatism.wordpress.com"
-link: "https://climatism.wordpress.com/2022/11/17/cop27-colombia-claims-an-absurd-800-billion-a-year-loss-and-damage/"
-title: "COP27 – Colombia Claims An Absurd $800 Billion A Year “Loss And Damage”"
-excerpt: "Reblogged on WordPress.com"
-image: "https://climatism.files.wordpress.com/2022/11/untitled.png"
+publication: "museumdevelopmentnorthwest.wordpress.com"
+link: "https://museumdevelopmentnorthwest.wordpress.com/2022/11/18/cop27-what-next-for-museums/"
+title: "COP27: What next for museums?"
+excerpt: "As COP27 draws to a close and there may, or may not have been, sufficient agreement between the leaders of countries to take the necessary action required, today’s blog post brings together informa…"
+image: "https://museumdevelopmentnorthwest.files.wordpress.com/2021/06/cropped-logo-for-blogtwitter.jpg?w=200"
 group: con
 rank: 10
 ---
