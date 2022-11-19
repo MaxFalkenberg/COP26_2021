@@ -1,9 +1,9 @@
 ---
-publication: "insideclimatenews.org"
-link: "https://insideclimatenews.org/news/18112022/is-cop27-the-end-of-hopes-for-limiting-global-warming-to-1-5-degrees-celsius/"
-title: "Is COP27 the End of Hopes for Limiting Global Warming to 1.5 Degrees Celsius? - Inside Climate News"
-excerpt: "SHARM EL-SHEIKH, Egypt—The COP27 climate conference in Egypt may be remembered as the moment when the world gave up on limiting global warming to 1.5 degrees Celsius, the most ambitious goal set by th"
-image: "https://insideclimatenews.org/wp-content/uploads/2022/11/GettyImages-1244874277-scaled.jpg"
+publication: "qz.com"
+link: "https://qz.com/cop27-is-leaving-huge-loopholes-for-greenwashing-1849800189"
+title: "COP27 is leaving huge loopholes for greenwashing"
+excerpt: "Negotiations on a new carbon market allow for dubious accounting and lack transparency"
+image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/de7ef63384c2cffcf4cb76f573691291.jpg"
 group: pro
 rank: 14
 ---

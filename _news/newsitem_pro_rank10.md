@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/18/john-kerry-covid-cop27-climate/"
-title: "John Kerry tests positive for coronavirus, complicating end of climate talks"
-excerpt: "U.S. special climate envoy John Kerry has tested positive for coronavirus as COP27 nears its uncertain conclusion. "
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5XCRBSDHQEI63MEMHTRCEYDQLE.jpg&w=1440"
+publication: "ctvnews.ca"
+link: "https://www.ctvnews.ca/climate-and-environment/canada-won-t-back-call-at-cop27-to-phase-down-oil-and-gas-production-1.6157657"
+title: "Canada won't back call at COP27 to 'phase down' oil and gas production"
+excerpt: "Environment Minister Steven Guilbeault says Canada will not agree to include language calling for the phaseout of all fossil fuels in the final agreement at this year's United Nations climate talks in"
+image: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/11/17/steven-guilbeault-1-6157670-1668715879159.jpg"
 group: pro
 rank: 10
 ---

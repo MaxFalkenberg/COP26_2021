@@ -1,9 +1,10 @@
 ---
-publication: "dailykos.com"
-link: "https://www.dailykos.com/stories/2022/11/17/2136850/-Climate-disinformation-swirling-around-COP27-could-make-it-much-harder-to-ratify-an-agreement"
-title: "Climate disinformation swirling around COP27 could make it much harder to ratify an agreement"
-excerpt: "The day before COP27 is scheduled to wrap up, a draft text of the U.N. Climate Change Conference’s agreement was released. The text itself is titled “Presidency non-paper on cover decisions,” pointing"
-image: "https://images.dailykos.com/images/1134941/story_image/GettyImages-1244778487.jpg?1668712135"
+publication: "english.aawsat.com"
+link: "https://english.aawsat.com/home/article/3974446/saudi-arabia-commits-25-bln-middle-east-green-initiative"
+title: "Saudi Arabia Commits $2.5 Bln to Middle East Green Initiative "
+excerpt: "Prince Mohammed bin Salman, Crown Prince and Prime Minister, announced on Monday that Saudi Arabia was committing 2.5 billion dollars to the Middle East Green Initiative for the next ten years. 
+He ma"
+image: "https://english.aawsat.com/sites/default/files/styles/large/public/2022/11/07/lmyr_mhmd_bn_slmn_ytwst_lqd_wlmswwlyn_lmshrkyn_fy_tlq_lqm_lthny_mn_mbdr_lshrq_lwst_lkhdr_0.jpeg?itok=mNXDycHm"
 group: con
 rank: 8
 ---

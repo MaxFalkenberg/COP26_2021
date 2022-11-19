@@ -1,9 +1,9 @@
 ---
-publication: "cbc.ca"
-link: "https://www.cbc.ca/news/science/biodiversity-montreal-cop27-1.6654447"
-title: "Biodiversity needs same protection as climate, say scientists, activists at COP27 | CBC News"
-excerpt: "Civil society groups, Indigenous activists and scientists are standing together at the COP27 climate conference in Sharm el-Sheikh, Egypt, and demanding firm action be taken next month at the UN Biodi"
-image: "https://i.cbc.ca/1.4583528.1668691821!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/alberta-caribou.jpg"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/16/egypt-detentions-repression-follow-protest-calls"
+title: "Egypt: Detentions, Repression Follow Protest Calls"
+excerpt: "Egyptian authorities have reportedly detained hundreds of people in a nationwide crackdown following calls for anti-government protests."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211afr_egypt_cop27_climate_protest.jpg?h=a130fd67&itok=PMtqChhx"
 group: pro
 rank: 17
 ---
