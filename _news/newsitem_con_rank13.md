@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/jonathancook/p/cop27-the-dirty-secret-europe-is"
-title: "Cop27: The dirty secret Europe is hiding at the climate summit"
-excerpt: "Grand declarations on tackling the climate emergency are sabotaged by a treaty from the 1990s that holds European states to ransom"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0c13fdf1-27a3-462b-9c20-6b270ef1132a_520x338.png"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/18/EU-proposes-midway-path-on-climate-fund-to-unblock-COP27-talks"
+title: "EU proposes midway path on climate fund to unblock COP27 talks"
+excerpt: "Climate negotiators on Friday were mulling a late-night European Union proposal aimed at resolving a stubborn impasse over financing for countries hit by"
+image: "https://vid.alarabiya.net/images/2022/05/02/0c8490cb-0523-42d8-a981-08b27dd1eed7/0c8490cb-0523-42d8-a981-08b27dd1eed7_16x9_600x338.JPG"
 group: con
 rank: 13
 ---

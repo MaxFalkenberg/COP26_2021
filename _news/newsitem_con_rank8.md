@@ -1,9 +1,9 @@
 ---
-publication: "en.people.cn"
-link: "http://en.people.cn/n3/2022/1118/c90000-10172979.html"
-title: "UN chief calls for reaching consensus on climate actions at COP27 - People's Daily Online"
-excerpt: "United Nations Secretary-General Antonio Guterres addresses the opening of the Sharm El-Sheikh"
-image: "/mediafile/pic/BIG/20221118/15/5835781411433895747.jpg"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/dr-tim-ball-on-climate-lies-wrapped-in-deception-smothered-with-delusion/"
+title: "Dr. Tim Ball On Climate: Lies Wrapped In Deception Smothered With Delusion"
+excerpt: "Technocrats have darkened hearts just like everyone else, but they soon discovered how to use the mantra of 'science' to trick and deceive. In similar fashion of the 1970s Chiffon Margarine ad, 'It's "
+image: "https://www.technocracy.news/wp-content/uploads/2018/10/Wolf-in-Sheeps-Clothing.jpg"
 group: con
 rank: 8
 ---

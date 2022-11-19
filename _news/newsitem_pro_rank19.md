@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop27-children-global-south-make-their-presence-felt-climate-summit-2022-11-16/"
-title: "COP27: Children from Global South make their presence felt at climate summit"
-excerpt: "Eleven-year-old Indian climate activist Licypriya Kangujam's dogged questioning of Britain's climate minister Zac Goldsmith about the fate of climate activists detained in his country was one of the m"
-image: "https://www.reuters.com/resizer/Db4Yo7cMQuwWO_kvknbqfEYYqGE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/42J2DWWDHZNX5OOKZINU2FVL64.jpg"
+publication: "dw.com"
+link: "https://www.dw.com/en/pakistan-lawmaker-at-cop27-international-response-favorable-after-flood-disaster/video-63793821"
+title: "COP27: Global response 'favorable' after Pakistan floods – DW – 11/17/2022"
+excerpt: "Pakistan's Federal Minister for Planning, Development and Special Measures Ahsan Iqbal told DW at the climate summit in Sharm el-Sheikh that his country can recover from the floods and has internation"
+image: "https://static.dw.com/image/63148910_6.jpg"
 group: pro
 rank: 19
 ---

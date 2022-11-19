@@ -5,5 +5,5 @@ title: "Inside the campaign at COP27 to free Egypt’s most famous political pri
 excerpt: "What happened when Sanaa Seif tried to shame the authorities into releasing her brother?"
 image: "https://www.economist.com/img/b/1984/1116/90/media-assets/image/1843_20221117_SANAA_SEIF_01.jpg"
 group: pro
-rank: 3
+rank: 4
 ---

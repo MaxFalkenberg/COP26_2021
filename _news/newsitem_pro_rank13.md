@@ -1,9 +1,9 @@
 ---
-publication: "climatechangenews.com"
-link: "https://www.climatechangenews.com/2022/11/18/greenwash-alert-as-cop27-draft-allows-double-claiming-of-carbon-credits/"
-title: "Cop27 draft carbon trading rules open door to corporate greenwash"
-excerpt: "Companies and countries could take credit for the same tonne of CO2 cut under rules being negotiated in Sharm el-Sheikh"
-image: "https://cdn.climatechangenews.com/files/2022/11/17191703/Clean-cookstove.jpg"
+publication: "reason.com"
+link: "https://reason.com/2022/11/17/at-the-u-n-s-climate-change-conference-nuclear-power-is-finally-getting-some-respect/"
+title: "At the U.N.'s Climate Change Conference, nuclear power is finally getting some respect"
+excerpt: "The bigger problem now is that outmoded regulations stand in the way of deployment."
+image: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2022/11/dreamstime_xl_63832570-scaled.jpg"
 group: pro
 rank: 13
 ---
