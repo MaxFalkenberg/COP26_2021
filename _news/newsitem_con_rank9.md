@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/world/2022/11/18/EU-proposes-midway-path-on-climate-fund-to-unblock-COP27-talks"
-title: "EU proposes midway path on climate fund to unblock COP27 talks"
-excerpt: "Climate negotiators on Friday were mulling a late-night European Union proposal aimed at resolving a stubborn impasse over financing for countries hit by"
-image: "https://vid.alarabiya.net/images/2022/05/02/0c8490cb-0523-42d8-a981-08b27dd1eed7/0c8490cb-0523-42d8-a981-08b27dd1eed7_16x9_600x338.JPG"
+publication: "unlockaid.substack.com"
+link: "https://unlockaid.substack.com/p/cop27-and-us-global-leadership-on"
+title: "COP27 & US global leadership on climate change"
+excerpt: "Unlock Aid was at COP27 in Egypt. We're heartened to see big new announcements to fight the climate crisis, but there's much more to do."
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3438e34c-ded3-4aaf-98a4-3b56b3e13e5b_2560x1922.jpeg"
 group: con
 rank: 9
 ---
