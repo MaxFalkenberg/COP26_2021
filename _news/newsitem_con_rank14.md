@@ -1,9 +1,9 @@
 ---
-publication: "museumdevelopmentnorthwest.wordpress.com"
-link: "https://museumdevelopmentnorthwest.wordpress.com/2022/11/18/cop27-what-next-for-museums/"
-title: "COP27: What next for museums?"
-excerpt: "As COP27 draws to a close and there may, or may not have been, sufficient agreement between the leaders of countries to take the necessary action required, today’s blog post brings together informa…"
-image: "https://museumdevelopmentnorthwest.files.wordpress.com/2021/06/cropped-logo-for-blogtwitter.jpg?w=200"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/itsgreenify/p/greenify-38-cop-27-wrapping-up"
+title: "Greenify #38: COP 27 wrapping up!"
+excerpt: "November 18, 2022"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7990cf21-ce8a-471e-8051-94ce0f0837da_1024x683.jpeg"
 group: con
 rank: 14
 ---

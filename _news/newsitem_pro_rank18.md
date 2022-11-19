@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/17/climate-change-cop27-egypt/"
-title: "Climate talks hit ‘breakdown’ over finance, fossil fuels as time dwindles  "
-excerpt: "With time running out for nations to agree on a road map for tackling climate change, the fate of U.N. climate talks in Egypt appeared in jeopardy Thursday as rich and poor nations continued to disagr"
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IXAVY4FWC5H424R5MHOCV2BSQI.jpg&w=1440"
+publication: "nationalpost.com"
+link: "https://nationalpost.com/news/politics/canada-wont-back-call-at-cop27-to-phase-down-oil-and-gas-production"
+title: "Canada won't back COP27 call for phaseout of oil and gas production: Guilbeault"
+excerpt: "'We have to be super careful in terms of what we do that what we do will hold in court. Otherwise we're wasting time, and precious time to fight climate change'"
+image: "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2022/11/Steven-Guilbeault-COP27-scaled.jpg"
 group: pro
 rank: 18
 ---
