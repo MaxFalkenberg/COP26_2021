@@ -1,9 +1,9 @@
 ---
-publication: "royalhollowayucu.wordpress.com"
-link: "https://royalhollowayucu.wordpress.com/2022/11/18/cop27-rhul-and-you/"
-title: "COP27, RHUL and You"
-excerpt: "As COP27 comes to a close, our Green Rep Prof. Liz Schafer reflects. I am trying very hard not to be too cynical about COP27 – at least the environment occasionally gets more attention than normal …"
-image: "https://s0.wp.com/i/blank.jpg"
+publication: "dailykos.com"
+link: "https://www.dailykos.com/stories/2022/11/17/2136850/-Climate-disinformation-swirling-around-COP27-could-make-it-much-harder-to-ratify-an-agreement"
+title: "Climate disinformation swirling around COP27 could make it much harder to ratify an agreement"
+excerpt: "The day before COP27 is scheduled to wrap up, a draft text of the U.N. Climate Change Conference’s agreement was released. The text itself is titled “Presidency non-paper on cover decisions,” pointing"
+image: "https://images.dailykos.com/images/1134941/story_image/GettyImages-1244778487.jpg?1668712135"
 group: con
 rank: 8
 ---

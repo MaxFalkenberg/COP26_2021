@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-18/UN-chief-calls-for-reaching-consensus-on-climate-actions-at-COP27-1f3AzMFkpEY/index.html"
-title: "UN chief calls for reaching consensus on climate actions at COP27"
-excerpt: "United Nations Secretary-General Antonio Guterres on Thursday called on countries to take climate actions instead of 'finger-pointing' at the ongoing UN climate change conference."
-image: "https://news.cgtn.com/news/2022-11-18/UN-chief-calls-for-reaching-consensus-on-climate-actions-at-COP27-1f3AzMFkpEY/img/a1524f014dbc4bb6892bfe10577e5fd2/a1524f014dbc4bb6892bfe10577e5fd2-750.png"
+publication: "royalhollowayucu.wordpress.com"
+link: "https://royalhollowayucu.wordpress.com/2022/11/18/cop27-rhul-and-you/"
+title: "COP27, RHUL and You"
+excerpt: "As COP27 comes to a close, our Green Rep Prof. Liz Schafer reflects. I am trying very hard not to be too cynical about COP27 – at least the environment occasionally gets more attention than normal …"
+image: "https://s0.wp.com/i/blank.jpg"
 group: con
 rank: 7
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "ctvnews.ca"
-link: "https://www.ctvnews.ca/climate-and-environment/canada-won-t-back-call-at-cop27-to-phase-down-oil-and-gas-production-1.6157657"
-title: "Canada won't back call at COP27 to 'phase down' oil and gas production"
-excerpt: "Environment Minister Steven Guilbeault says Canada will not agree to include language calling for the phaseout of all fossil fuels in the final agreement at this year's United Nations climate talks in"
-image: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/11/17/steven-guilbeault-1-6157670-1668715879159.jpg"
+publication: "axios.com"
+link: "https://www.axios.com/2022/11/18/indigenous-activists-seen-not-heard-at-cop27"
+title: "Indigenous activists 'seen, not heard' at COP27"
+excerpt: "Several tell Axios they're being shut out of decision-making dialogues."
+image: "https://images.axios.com/eCA54Sw1ewgfC6q4NsFcj_byhuA=/0x0:1920x1080/1366x768/2022/11/16/1668637546354.jpg"
 group: pro
 rank: 19
 ---

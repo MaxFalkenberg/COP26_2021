@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop27-more-countries-join-methane-pact-focus-turns-farms-waste-2022-11-17/"
-title: "COP27: More join methane pact as focus turns to farms"
-excerpt: "More than 150 countries have signed up to a global pact to reduce methane emissions, around 50 more than when the initiative launched last year, the United States and European Union said on Thursday."
-image: "https://www.reuters.com/resizer/KmLJxg22MsB_MkCLMVUgj_PuqMM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LI6XJ7WMP5IOZFUE63TWHD5VGA.jpg"
+publication: "euronews.com"
+link: "https://www.euronews.com/green/2022/11/07/cop27-more-than-25-countries-band-together-to-keep-deforestation-pledges-made-in-glasgow"
+title: "Countries band together to keep deforestation pledges made at COP26"
+excerpt: "The group - including Japan, Pakistan and the UK - has said they will hold each other accountable for a pledge to end deforestation by 2030."
+image: "https://static.euronews.com/articles/stories/07/17/79/92/1000x563_cmsv2_f77c0ce2-f4d9-5051-8fb2-04a70210cb3e-7177992.jpg"
 group: pro
 rank: 14
 ---

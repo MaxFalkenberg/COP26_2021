@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/teenagers-in-polluted-areas-more-likely-to-have-higher-blood-pressure-vtdc9vc5p"
-title: "Teenagers in polluted areas ‘more likely to have higher blood pressure’"
-excerpt: "Teenagers who live in areas with high levels of air pollution are more likely to have high blood pressure, a new study has found, putting them at greater risk o"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fac8c68f6-6694-11ed-9ccc-9d160947f622.jpg?crop=4004%2C2252%2C117%2C526&resize=1200"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/18/john-kerry-covid-cop27-climate/"
+title: "John Kerry tests positive for coronavirus, complicating end of climate talks"
+excerpt: "U.S. special climate envoy John Kerry has tested positive for coronavirus as COP27 nears its uncertain conclusion. "
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5XCRBSDHQEI63MEMHTRCEYDQLE.jpg&w=1440"
 group: pro
 rank: 10
 ---
