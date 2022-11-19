@@ -1,9 +1,9 @@
 ---
-publication: "financialpost.com"
-link: "https://financialpost.com/commodities/energy/oil-gas/cop27-overtime-canada-face-criticism-oil-and-gas"
-title: "COP27 goes into overtime as Canada continues to face criticism on oil and gas stance"
-excerpt: "Canada resisted heavy lobbying from India and others to sign a final agreement committing to a complete phaseout of fossil fuels. Read on."
-image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/11/guilbeault-vw1118.jpg"
+publication: "ox.ac.uk"
+link: "https://www.ox.ac.uk/news/2022-11-17-expert-comment-air-pollution-cools-climate-more-expected-making-cutting-carbon"
+title: "Expert Comment: Air pollution cools climate more than expected –"
+excerpt: "Air pollutants kill around seven million people every year. Much of this pollution is tiny particles suspended in the air which, when inhaled, can cause people to develop heart and lung diseases, as"
+image: "https://www.ox.ac.uk/sites/files/oxford/field/field_image_main/polluted%20city%20again%20smaller.jpg"
 group: pro
 rank: 19
 ---

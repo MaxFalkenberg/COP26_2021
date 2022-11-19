@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/paolomanzo/p/medias-bizarre-enthusiasm-for-lula"
-title: "Media's bizarre enthusiasm for Lula at Cop27"
-excerpt: "The Brazilian president who has deforested more Amazonia than Bolsonaro arrives at the UN climate summit aboard the jet of a convict. But the media treat him as the new Greta. My analysis here"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F514abfd7-43bf-43a3-9c42-d1507874a6e5_900x506.jpeg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/19/our-leaders-had-a-final-chance-to-halt-climate-breakdown-they-failed-each-and-every-one-of-us-george-monbiot-cop27-climatecrisis-ecologicalcrisis-auspol/"
+title: "Our leaders had a final chance to halt climate breakdown. They failed each and every one of us | George Monbiot #COP27 #ClimateCrisis #EcologicalCrisis #auspol"
+excerpt: "By George Monbiot The chances of any one person being born were calculated by the life coach Dr Ali Binazir. He multiplied the probability of your parents meeting, mating and conceiving by the chan…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1969.jpg"
 group: con
 rank: 2
 ---

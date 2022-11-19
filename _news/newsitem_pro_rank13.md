@@ -1,9 +1,9 @@
 ---
-publication: "theglobeandmail.com"
-link: "https://www.theglobeandmail.com/canada/article-canada-wont-back-call-at-cop27-to-phase-down-oil-and-gas-production-2/"
-title: "Canada won’t back call at COP27 to ‘phase down’ oil and gas production"
-excerpt: "Environment Minister Steven Guilbeault says Canada won’t be backing call to phase out oil and gas production at COP27"
-image: "https://www.theglobeandmail.com/resizer/gXMU1jJsd-_73Vdkfkkvq0vzbKM=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OYHGSY2S2NIATHXCZJ4CZ5VW5U.jpg"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/16/egypt-detentions-repression-follow-protest-calls"
+title: "Egypt: Detentions, Repression Follow Protest Calls"
+excerpt: "Egyptian authorities have reportedly detained hundreds of people in a nationwide crackdown following calls for anti-government protests."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211afr_egypt_cop27_climate_protest.jpg?h=a130fd67&itok=PMtqChhx"
 group: pro
 rank: 13
 ---
