@@ -1,9 +1,9 @@
 ---
-publication: "climatechangenews.com"
-link: "https://www.climatechangenews.com/2022/11/19/eu-developing-countries-cop27-deal-offers-hope-to-climate-victims/"
-title: "EU-developing countries' Cop27 deal offers hope to climate victims"
-excerpt: "In a breakthrough at Sharm el-Sheikh talks, the EU agreed to back a dedicated fund for climate-related loss and damage"
-image: "https://cdn.climatechangenews.com/files/2022/11/19131750/Rehman-Munir.png"
+publication: "aljazeera.com"
+link: "https://www.aljazeera.com/news/2022/11/19/cop27-in-deadlock-as-us-envoy-john-kerry-contracts-covid-19"
+title: "COP27 in deadlock as US envoy John Kerry contracts COVID-19"
+excerpt: "Loss and damage remains a sticking point at COP27, particularly how to compensate poor countries hit by climate change."
+image: "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-11-18T202556Z_429112739_RC2KHX9WHIE4_RTRMADP_3_CLIMATE-UN-KERRY-COVID.jpg?resize=1920%2C1440"
 group: pro
 rank: 8
 ---

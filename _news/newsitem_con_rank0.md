@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/life/have-a-heart-and-do-math-ghana-girl-delivers-strong-message-at-cop27-62688"
-title: "'Have a heart and do math': Ghana girl delivers strong message at COP27"
-excerpt: "Nakeeyat Dramani Sam, 10, discusses sufferings in her country due to floods and asks rich nations, which have contributed most to climate crisis, to compensate developing countries for the damage."
-image: "https://cdni0.trtworld.com/w480/h270/q75/144327_EGY20221118_1668808994305.jpg"
+publication: "disastrousearth.wordpress.com"
+link: "https://disastrousearth.wordpress.com/2022/11/19/cop27-and-global-warming-hoax-have-failed-miserably-as-public-has-awakened/"
+title: "COP27 And Global Warming Hoax Have Failed Miserably As Public Has Awakened"
+excerpt: "For 50 years the hoax and scam of Global Warming was pushed by United Nations and those having vested interest and an eye upon money making and total control out of this hoax. But Perry4Law Organis…"
+image: "https://disastrousearth.files.wordpress.com/2022/11/exit-door.png"
 group: con
 rank: 0
 ---

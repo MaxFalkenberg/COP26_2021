@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/19/time-is-running-out-we-must-call-out-the-vested-interests-propelling-the-climate-crisis-gabrielle-kuiper-the-guardian-cop27-climatecrisis-ecologicalcrisis-auspol/"
-title: "Time is running out. We must call out the vested interests propelling the climate crisis | Gabrielle Kuiper | The Guardian #COP27 #ClimateCrisis #EcologicalCrisis #auspol"
-excerpt: "The role of science communication is to counter wilful ignorance. I don’t mean the deliberate placing of blinkers over the eyes or rose-coloured glasses on the nose. I mean the facts that are incon…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1803-1.jpg"
+publication: "notalotofpeopleknowthat.wordpress.com"
+link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/17/staggering-disconnect-climate-summit-boasts-opulent-beef-seafood-menu-despite-spearheading-anti-meat-initiatives/"
+title: "‘Staggering Disconnect’: Climate Summit Boasts Opulent Beef, Seafood Menu Despite Spearheading Anti-Meat Initiatives"
+excerpt: "By Paul Homewood   h/t 1saveenergy   Meat for me, but not for thee!         World leaders and officials attending the United Nations COP27 climate conference can spend…"
+image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb-66.png"
 group: con
 rank: 7
 ---

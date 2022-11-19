@@ -1,9 +1,9 @@
 ---
-publication: "aljazeera.com"
-link: "https://www.aljazeera.com/news/2022/11/19/cop27-in-deadlock-as-us-envoy-john-kerry-contracts-covid-19"
-title: "COP27 in deadlock as US envoy John Kerry contracts COVID-19"
-excerpt: "Loss and damage remains a sticking point at COP27, particularly how to compensate poor countries hit by climate change."
-image: "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-11-18T202556Z_429112739_RC2KHX9WHIE4_RTRMADP_3_CLIMATE-UN-KERRY-COVID.jpg?resize=1920%2C1440"
+publication: "bbc.com"
+link: "https://www.bbc.com/news/science-environment-63584993.amp"
+title: "BP chief listed as COP27 delegate for Mauritania - BBC News"
+excerpt: "Chief executive of leading oil company is registered for COP27 as a delegate from poor African nation."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/9DE3/production/_127591404_8b02a6d3109de19484839f21a08d34e1284f7485.jpg"
 group: pro
 rank: 12
 ---

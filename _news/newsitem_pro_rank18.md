@@ -1,9 +1,9 @@
 ---
-publication: "climatechangenews.com"
-link: "https://www.climatechangenews.com/2022/11/18/greenwash-alert-as-cop27-draft-allows-double-claiming-of-carbon-credits/"
-title: "Cop27 draft carbon trading rules open door to corporate greenwash"
-excerpt: "Companies and countries could take credit for the same tonne of CO2 cut under rules being negotiated in Sharm el-Sheikh"
-image: "https://cdn.climatechangenews.com/files/2022/11/17191703/Clean-cookstove.jpg"
+publication: "independent.co.uk"
+link: "https://www.independent.co.uk/climate-change/news/cop27-loss-and-damage-text-b2228639.html"
+title: "Cop27: Draft loss and damage text says countries will set up fund "
+excerpt: "It is the key demand of developing countries particularly vulnerable to the climate crisis"
+image: "https://static.independent.co.uk/2022/11/12/10/COP27_State_of_Negotiations._24291.jpg?quality=75&width=1200&auto=webp"
 group: pro
 rank: 18
 ---

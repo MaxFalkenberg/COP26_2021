@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63584993.amp"
-title: "BP chief listed as COP27 delegate for Mauritania - BBC News"
-excerpt: "Chief executive of leading oil company is registered for COP27 as a delegate from poor African nation."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/9DE3/production/_127591404_8b02a6d3109de19484839f21a08d34e1284f7485.jpg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/19/cop27-climate-conference-egypt-updates/"
+title: "COP27 live updates: Nations poised to agree on historic fund for climate harms"
+excerpt: "All the latest updates from COP27 in Egypt, the United Nations climate change conference in its final hours. "
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D7ZYNK6DETUY4X6NNBFWM7TFPM.jpg&w=1440"
 group: pro
 rank: 14
 ---

@@ -1,9 +1,10 @@
 ---
-publication: "notalotofpeopleknowthat.wordpress.com"
-link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/17/staggering-disconnect-climate-summit-boasts-opulent-beef-seafood-menu-despite-spearheading-anti-meat-initiatives/"
-title: "‘Staggering Disconnect’: Climate Summit Boasts Opulent Beef, Seafood Menu Despite Spearheading Anti-Meat Initiatives"
-excerpt: "By Paul Homewood   h/t 1saveenergy   Meat for me, but not for thee!         World leaders and officials attending the United Nations COP27 climate conference can spend…"
-image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb-66.png"
+publication: "english.aawsat.com"
+link: "https://english.aawsat.com/home/article/3974446/saudi-arabia-commits-25-bln-middle-east-green-initiative"
+title: "Saudi Arabia Commits $2.5 Bln to Middle East Green Initiative "
+excerpt: "Prince Mohammed bin Salman, Crown Prince and Prime Minister, announced on Monday that Saudi Arabia was committing 2.5 billion dollars to the Middle East Green Initiative for the next ten years. 
+He ma"
+image: "https://english.aawsat.com/sites/default/files/styles/large/public/2022/11/07/lmyr_mhmd_bn_slmn_ytwst_lqd_wlmswwlyn_lmshrkyn_fy_tlq_lqm_lthny_mn_mbdr_lshrq_lwst_lkhdr_0.jpeg?itok=mNXDycHm"
 group: con
 rank: 11
 ---
