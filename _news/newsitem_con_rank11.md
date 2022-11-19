@@ -1,9 +1,9 @@
 ---
-publication: "technocracy.news"
-link: "https://www.technocracy.news/dr-tim-ball-on-climate-lies-wrapped-in-deception-smothered-with-delusion/"
-title: "Dr. Tim Ball On Climate: Lies Wrapped In Deception Smothered With Delusion"
-excerpt: "Technocrats have darkened hearts just like everyone else, but they soon discovered how to use the mantra of 'science' to trick and deceive. In similar fashion of the 1970s Chiffon Margarine ad, 'It's "
-image: "https://www.technocracy.news/wp-content/uploads/2018/10/Wolf-in-Sheeps-Clothing.jpg"
+publication: "news.cgtn.com"
+link: "https://news.cgtn.com/news/2022-11-18/UN-chief-calls-for-reaching-consensus-on-climate-actions-at-COP27-1f3AzMFkpEY/index.html"
+title: "UN chief calls for reaching consensus on climate actions at COP27"
+excerpt: "United Nations Secretary-General Antonio Guterres on Thursday called on countries to take climate actions instead of 'finger-pointing' at the ongoing UN climate change conference."
+image: "https://news.cgtn.com/news/2022-11-18/UN-chief-calls-for-reaching-consensus-on-climate-actions-at-COP27-1f3AzMFkpEY/img/a1524f014dbc4bb6892bfe10577e5fd2/a1524f014dbc4bb6892bfe10577e5fd2-750.png"
 group: con
 rank: 11
 ---

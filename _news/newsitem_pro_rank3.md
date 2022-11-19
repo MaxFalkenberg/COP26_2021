@@ -1,9 +1,9 @@
 ---
-publication: "nature.com"
-link: "https://www.nature.com/articles/s41467-022-33976-5"
-title: "Energy requirements and carbon emissions for a low-carbon energy transition - Nature Communications"
-excerpt: "A low-carbon energy transition consistent with 1.5 °C of warming may result in substantial carbon emissions. Moreover, the initial push to substitute fossil fuels with low-carbon alternatives will red"
-image: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-022-33976-5/MediaObjects/41467_2022_33976_Fig1_HTML.png"
+publication: "economist.com"
+link: "https://www.economist.com/1843/2022/11/17/inside-the-campaign-at-cop27-to-free-egypts-leading-political-prisoner"
+title: "Inside the campaign at COP27 to free Egypt’s most famous political prisoner"
+excerpt: "What happened when Sanaa Seif tried to shame the authorities into releasing her brother?"
+image: "https://www.economist.com/img/b/1984/1116/90/media-assets/image/1843_20221117_SANAA_SEIF_01.jpg"
 group: pro
 rank: 3
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "climatechangenews.com"
-link: "https://www.climatechangenews.com/2022/11/18/greenwash-alert-as-cop27-draft-allows-double-claiming-of-carbon-credits/"
-title: "Cop27 draft carbon trading rules open door to corporate greenwash"
-excerpt: "Companies and countries could take credit for the same tonne of CO2 cut under rules being negotiated in Sharm el-Sheikh"
-image: "https://cdn.climatechangenews.com/files/2022/11/17191703/Clean-cookstove.jpg"
+publication: "vox.com"
+link: "https://www.vox.com/down-to-earth/2022/11/17/23460525/nature-based-solutions-climate-change-cop27"
+title: "No one knows what 'nature-based solutions' are"
+excerpt: "The environmental movement has a buzzword problem."
+image: "https://cdn.vox-cdn.com/thumbor/2g1iseVJsA5Oa3eZcdZqHEB6F_4=/0x217:2000x1264/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24205256/adler_9724.jpg"
 group: pro
 rank: 16
 ---

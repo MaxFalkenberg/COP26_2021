@@ -1,9 +1,9 @@
 ---
-publication: "climatism.wordpress.com"
-link: "https://climatism.wordpress.com/2022/11/17/cop27-colombia-claims-an-absurd-800-billion-a-year-loss-and-damage/"
-title: "COP27 – Colombia Claims An Absurd $800 Billion A Year “Loss And Damage”"
-excerpt: "Reblogged on WordPress.com"
-image: "https://climatism.files.wordpress.com/2022/11/untitled.png"
+publication: "en.people.cn"
+link: "http://en.people.cn/n3/2022/1118/c90000-10172979.html"
+title: "UN chief calls for reaching consensus on climate actions at COP27 - People's Daily Online"
+excerpt: "United Nations Secretary-General Antonio Guterres addresses the opening of the Sharm El-Sheikh"
+image: "/mediafile/pic/BIG/20221118/15/5835781411433895747.jpg"
 group: con
 rank: 9
 ---

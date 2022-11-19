@@ -1,9 +1,9 @@
 ---
-publication: "eanoes.blogspot.com"
-link: "https://eanoes.blogspot.com/2022/11/smart-and-sustainable-cities.html"
-title: "SMART AND SUSTAINABLE CITIES"
-excerpt: None
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkOsN9e4kxcvBUB1iA0fPe9c-k-ZpYgbp357j2VYsi6hlDpQf73Z6qfcjEOQcYbvdA2sNTt6fwmHoneGmeuDjXNewcq2pX06OvLPL7aZur-p5Eg4dYOOEuVohgPIUdyDOhWzhczZCdki0yi3yFkVDUhdr6p9xxIhaA3YodRwHpq0MMJnqdjhhpbo6xiw/w1200-h630-p-k-no-nu/1816173063-c549cd1f-ca5b-4666-a9ca-4673c234cfb5.webp"
+publication: "takvera.blogspot.com"
+link: "https://takvera.blogspot.com/2022/11/stakeout-antonio-guterres-un-secretary.html"
+title: "Stakeout: António Guterres, UN Secretary-General and Sameh Shoukry, COP27 President demand negotiators step up"
+excerpt: "Writings on climate change, sea level rise, ocean acidification, biodiversity loss, climate adaptation & protests from a Melbourne Citizen Journalist."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR3hHtvv4BgLn23QjxFdeB3oppqy1Q5SSN9S2C-rqsoEgCCSKYzx2IQZInJGdVXP0enh8TSH5zbgozpJQehoekFb7mfza4Hze7Zf1_OynekuFbnFMAJoUWMZNeRF8E9KpToyXfLf3PxbfUjWPXHpQR-srl4MP-Vm7dTK3qePfgUYVzJmGTsssUy5cm/w1200-h630-p-k-no-nu/2022-11-17-Stakeout-COP-President-and-UNSG.jpeg"
 group: con
 rank: 14
 ---

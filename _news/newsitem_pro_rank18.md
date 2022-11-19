@@ -1,9 +1,9 @@
 ---
-publication: "democracynow.org"
-link: "https://www.democracynow.org/2022/11/17/cop27_land_defenders_mexico_guatemala_green"
-title: "At COP27 Indigenous Land Defenders from Mexico, Guatemala Warn “Green Capitalism” Creates Violence"
-excerpt: "We continue our coverage of the U.N. climate conference in Sharm el-Sheikh, Egypt, by asking what Indigenous leaders at the frontlines of the climate crisis are calling for from world leaders. We spea"
-image: "https://www.democracynow.org/images/story/32/65232/full_hd/seg3-futuros-indegenas.jpg"
+publication: "dw.com"
+link: "https://www.dw.com/en/pakistan-lawmaker-at-cop27-international-response-favorable-after-flood-disaster/video-63793821"
+title: "COP27: Global response 'favorable' after Pakistan floods – DW – 11/17/2022"
+excerpt: "Pakistan's Federal Minister for Planning, Development and Special Measures Ahsan Iqbal told DW at the climate summit in Sharm el-Sheikh that his country can recover from the floods and has internation"
+image: "https://static.dw.com/image/63148910_6.jpg"
 group: pro
 rank: 18
 ---

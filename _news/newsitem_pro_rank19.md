@@ -1,9 +1,9 @@
 ---
-publication: "dw.com"
-link: "https://www.dw.com/en/pakistan-lawmaker-at-cop27-international-response-favorable-after-flood-disaster/video-63793821"
-title: "COP27: Global response 'favorable' after Pakistan floods – DW – 11/17/2022"
-excerpt: "Pakistan's Federal Minister for Planning, Development and Special Measures Ahsan Iqbal told DW at the climate summit in Sharm el-Sheikh that his country can recover from the floods and has internation"
-image: "https://static.dw.com/image/63148910_6.jpg"
+publication: "weforum.org"
+link: "https://www.weforum.org/agenda/2022/11/uplink-freshwater-hcl-radio-davos-cop27"
+title: "How can innovation help solve the freshwater crisis?"
+excerpt: "Less than 1% of freshwater on our planet is easily accessible. UpLink is looking for innovative solutions to help protect and restore freshwater ecosystems. "
+image: "https://assets.weforum.org/article/image/responsive_medium_Y4FekgEHk_lJ6l16WD8ofWO_7cgRKx9YBhif7DES9qI.jpg"
 group: pro
 rank: 19
 ---
