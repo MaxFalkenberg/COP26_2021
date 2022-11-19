@@ -1,9 +1,9 @@
 ---
-publication: "notalotofpeopleknowthat.wordpress.com"
-link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/18/an-extremely-nice-summer/"
-title: "An Extreme(ly Nice) Summer"
-excerpt: "By Paul Homewood I see the BBC/Met Office are up to their extreme weather scam again! (Timed to coincide with COP27 of course):       Extreme weather events have affected most of the…"
-image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb-78.png"
+publication: "en.people.cn"
+link: "http://en.people.cn/n3/2022/1118/c90000-10172979.html"
+title: "UN chief calls for reaching consensus on climate actions at COP27 - People's Daily Online"
+excerpt: "United Nations Secretary-General Antonio Guterres addresses the opening of the Sharm El-Sheikh"
+image: "/mediafile/pic/BIG/20221118/15/5835781411433895747.jpg"
 group: con
 rank: 11
 ---

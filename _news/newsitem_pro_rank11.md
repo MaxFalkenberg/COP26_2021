@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop27-children-global-south-make-their-presence-felt-climate-summit-2022-11-16/"
-title: "COP27: Children from Global South make their presence felt at climate summit"
-excerpt: "Eleven-year-old Indian climate activist Licypriya Kangujam's dogged questioning of Britain's climate minister Zac Goldsmith about the fate of climate activists detained in his country was one of the m"
-image: "https://www.reuters.com/resizer/Db4Yo7cMQuwWO_kvknbqfEYYqGE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/42J2DWWDHZNX5OOKZINU2FVL64.jpg"
+publication: "fortune.com"
+link: "https://fortune.com/2022/11/09/al-gore-cop27-climate-change-polluters-inventory-top-polluters-oil-gas/"
+title: "Al Gore reveals the world's top 14 polluters are all oil and gas fields but insists 'We are capable of solving this crisis'"
+excerpt: "UN Secretary General Antonio Guterres said Climate TRACE's inventory shows a problem “in front of our eyes, but also hidden in plain sight.”"
+image: "https://content.fortune.com/wp-content/uploads/2022/11/AP22313327359977.jpg?resize=1200,600"
 group: pro
 rank: 11
 ---

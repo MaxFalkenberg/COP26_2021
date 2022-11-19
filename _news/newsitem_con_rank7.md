@@ -1,9 +1,9 @@
 ---
-publication: "dailykos.com"
-link: "https://www.dailykos.com/stories/2022/11/17/2136850/-Climate-disinformation-swirling-around-COP27-could-make-it-much-harder-to-ratify-an-agreement"
-title: "Climate disinformation swirling around COP27 could make it much harder to ratify an agreement"
-excerpt: "The day before COP27 is scheduled to wrap up, a draft text of the U.N. Climate Change Conference’s agreement was released. The text itself is titled “Presidency non-paper on cover decisions,” pointing"
-image: "https://images.dailykos.com/images/1134941/story_image/GettyImages-1244778487.jpg?1668712135"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/dr-tim-ball-on-climate-lies-wrapped-in-deception-smothered-with-delusion/"
+title: "Dr. Tim Ball On Climate: Lies Wrapped In Deception Smothered With Delusion"
+excerpt: "Technocrats have darkened hearts just like everyone else, but they soon discovered how to use the mantra of 'science' to trick and deceive. In similar fashion of the 1970s Chiffon Margarine ad, 'It's "
+image: "https://www.technocracy.news/wp-content/uploads/2018/10/Wolf-in-Sheeps-Clothing.jpg"
 group: con
 rank: 7
 ---

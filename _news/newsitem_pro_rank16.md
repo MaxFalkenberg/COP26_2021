@@ -1,9 +1,9 @@
 ---
-publication: "nationalpost.com"
-link: "https://nationalpost.com/news/politics/canada-wont-back-call-at-cop27-to-phase-down-oil-and-gas-production"
-title: "Canada won't back COP27 call for phaseout of oil and gas production: Guilbeault"
-excerpt: "'We have to be super careful in terms of what we do that what we do will hold in court. Otherwise we're wasting time, and precious time to fight climate change'"
-image: "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2022/11/Steven-Guilbeault-COP27-scaled.jpg"
+publication: "euronews.com"
+link: "https://www.euronews.com/green/2022/11/07/cop27-more-than-25-countries-band-together-to-keep-deforestation-pledges-made-in-glasgow"
+title: "Countries band together to keep deforestation pledges made at COP26"
+excerpt: "The group - including Japan, Pakistan and the UK - has said they will hold each other accountable for a pledge to end deforestation by 2030."
+image: "https://static.euronews.com/articles/stories/07/17/79/92/1000x563_cmsv2_f77c0ce2-f4d9-5051-8fb2-04a70210cb3e-7177992.jpg"
 group: pro
 rank: 16
 ---
