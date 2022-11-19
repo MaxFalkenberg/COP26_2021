@@ -1,9 +1,9 @@
 ---
-publication: "royalhollowayucu.wordpress.com"
-link: "https://royalhollowayucu.wordpress.com/2022/11/18/cop27-rhul-and-you/"
-title: "COP27, RHUL and You"
-excerpt: "As COP27 comes to a close, our Green Rep Prof. Liz Schafer reflects. I am trying very hard not to be too cynical about COP27 – at least the environment occasionally gets more attention than normal …"
-image: "https://s0.wp.com/i/blank.jpg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/19/time-is-running-out-we-must-call-out-the-vested-interests-propelling-the-climate-crisis-gabrielle-kuiper-the-guardian-cop27-climatecrisis-ecologicalcrisis-auspol/"
+title: "Time is running out. We must call out the vested interests propelling the climate crisis | Gabrielle Kuiper | The Guardian #COP27 #ClimateCrisis #EcologicalCrisis #auspol"
+excerpt: "The role of science communication is to counter wilful ignorance. I don’t mean the deliberate placing of blinkers over the eyes or rose-coloured glasses on the nose. I mean the facts that are incon…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1803-1.jpg"
 group: con
 rank: 4
 ---
