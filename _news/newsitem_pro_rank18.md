@@ -1,9 +1,9 @@
 ---
-publication: "theglobeandmail.com"
-link: "https://www.theglobeandmail.com/canada/article-canada-wont-back-call-at-cop27-to-phase-down-oil-and-gas-production-2/"
-title: "Canada won’t back call at COP27 to ‘phase down’ oil and gas production"
-excerpt: "Environment Minister Steven Guilbeault says Canada won’t be backing call to phase out oil and gas production at COP27"
-image: "https://www.theglobeandmail.com/resizer/gXMU1jJsd-_73Vdkfkkvq0vzbKM=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OYHGSY2S2NIATHXCZJ4CZ5VW5U.jpg"
+publication: "ox.ac.uk"
+link: "https://www.ox.ac.uk/news/2022-11-17-expert-comment-air-pollution-cools-climate-more-expected-making-cutting-carbon"
+title: "Expert Comment: Air pollution cools climate more than expected –"
+excerpt: "Air pollutants kill around seven million people every year. Much of this pollution is tiny particles suspended in the air which, when inhaled, can cause people to develop heart and lung diseases, as"
+image: "https://www.ox.ac.uk/sites/files/oxford/field/field_image_main/polluted%20city%20again%20smaller.jpg"
 group: pro
 rank: 18
 ---
