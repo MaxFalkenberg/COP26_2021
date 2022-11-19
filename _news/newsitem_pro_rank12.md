@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/us-aims-zero-emissions-heavy-duty-vehicles-by-2040-2022-11-17/"
-title: "U.S. aims for zero-emissions heavy-duty vehicles by 2040"
-excerpt: "The United States aims to only sell and produce zero-emissions medium- and heavy-duty vehicles like school buses and tractor trailers by 2040, the U.S. energy secretary agreed at the COP27 climate sum"
-image: "https://www.reuters.com/resizer/Ae7xg44mm-ZKSaDJ4QPbD5vlP4w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QBIHSDCLSZMDDNGMC7JULIEHCI.jpg"
+publication: "weforum.org"
+link: "https://www.weforum.org/agenda/2022/11/uplink-freshwater-hcl-radio-davos-cop27"
+title: "How can innovation help solve the freshwater crisis?"
+excerpt: "Less than 1% of freshwater on our planet is easily accessible. UpLink is looking for innovative solutions to help protect and restore freshwater ecosystems. "
+image: "https://assets.weforum.org/article/image/responsive_medium_Y4FekgEHk_lJ6l16WD8ofWO_7cgRKx9YBhif7DES9qI.jpg"
 group: pro
 rank: 12
 ---

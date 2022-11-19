@@ -1,9 +1,9 @@
 ---
-publication: "climatechangenews.com"
-link: "https://www.climatechangenews.com/2022/11/18/greenwash-alert-as-cop27-draft-allows-double-claiming-of-carbon-credits/"
-title: "Cop27 draft carbon trading rules open door to corporate greenwash"
-excerpt: "Companies and countries could take credit for the same tonne of CO2 cut under rules being negotiated in Sharm el-Sheikh"
-image: "https://cdn.climatechangenews.com/files/2022/11/17191703/Clean-cookstove.jpg"
+publication: "dw.com"
+link: "https://www.dw.com/en/pakistan-lawmaker-at-cop27-international-response-favorable-after-flood-disaster/video-63793821"
+title: "COP27: Global response 'favorable' after Pakistan floods – DW – 11/17/2022"
+excerpt: "Pakistan's Federal Minister for Planning, Development and Special Measures Ahsan Iqbal told DW at the climate summit in Sharm el-Sheikh that his country can recover from the floods and has internation"
+image: "https://static.dw.com/image/63148910_6.jpg"
 group: pro
 rank: 14
 ---

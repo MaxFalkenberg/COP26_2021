@@ -1,9 +1,9 @@
 ---
-publication: "vox.com"
-link: "https://www.vox.com/down-to-earth/2022/11/17/23460525/nature-based-solutions-climate-change-cop27"
-title: "No one knows what 'nature-based solutions' are"
-excerpt: "The environmental movement has a buzzword problem."
-image: "https://cdn.vox-cdn.com/thumbor/2g1iseVJsA5Oa3eZcdZqHEB6F_4=/0x217:2000x1264/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24205256/adler_9724.jpg"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/cop27-children-global-south-make-their-presence-felt-climate-summit-2022-11-16/"
+title: "COP27: Children from Global South make their presence felt at climate summit"
+excerpt: "Eleven-year-old Indian climate activist Licypriya Kangujam's dogged questioning of Britain's climate minister Zac Goldsmith about the fate of climate activists detained in his country was one of the m"
+image: "https://www.reuters.com/resizer/Db4Yo7cMQuwWO_kvknbqfEYYqGE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/42J2DWWDHZNX5OOKZINU2FVL64.jpg"
 group: pro
 rank: 15
 ---

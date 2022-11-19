@@ -1,9 +1,9 @@
 ---
-publication: "dw.com"
-link: "https://www.dw.com/en/pakistan-lawmaker-at-cop27-international-response-favorable-after-flood-disaster/video-63793821"
-title: "COP27: Global response 'favorable' after Pakistan floods – DW – 11/17/2022"
-excerpt: "Pakistan's Federal Minister for Planning, Development and Special Measures Ahsan Iqbal told DW at the climate summit in Sharm el-Sheikh that his country can recover from the floods and has internation"
-image: "https://static.dw.com/image/63148910_6.jpg"
+publication: "nationalpost.com"
+link: "https://nationalpost.com/news/politics/canada-wont-back-call-at-cop27-to-phase-down-oil-and-gas-production"
+title: "Canada won't back COP27 call for phaseout of oil and gas production: Guilbeault"
+excerpt: "'We have to be super careful in terms of what we do that what we do will hold in court. Otherwise we're wasting time, and precious time to fight climate change'"
+image: "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2022/11/Steven-Guilbeault-COP27-scaled.jpg"
 group: pro
 rank: 19
 ---

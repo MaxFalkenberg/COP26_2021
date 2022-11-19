@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/climate-change/news/cop27-egypt-climate-sharm-el-sheikh-b2227355.html"
-title: "Trust breaks down at Cop27 as UN chief urges agreement in final 24 hours"
-excerpt: "‘This is no time for finger-pointing. The blame game is a recipe for mutually assured destruction,’ UN secretary-general Antonio Guterres warns "
-image: "https://static.independent.co.uk/2022/11/17/16/SEI134027592.jpg?quality=75&width=1200&auto=webp"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/us-aims-zero-emissions-heavy-duty-vehicles-by-2040-2022-11-17/"
+title: "U.S. aims for zero-emissions heavy-duty vehicles by 2040"
+excerpt: "The United States aims to only sell and produce zero-emissions medium- and heavy-duty vehicles like school buses and tractor trailers by 2040, the U.S. energy secretary agreed at the COP27 climate sum"
+image: "https://www.reuters.com/resizer/Ae7xg44mm-ZKSaDJ4QPbD5vlP4w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QBIHSDCLSZMDDNGMC7JULIEHCI.jpg"
 group: pro
 rank: 10
 ---

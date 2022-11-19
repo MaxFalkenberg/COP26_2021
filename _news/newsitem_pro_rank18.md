@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop27-children-global-south-make-their-presence-felt-climate-summit-2022-11-16/"
-title: "COP27: Children from Global South make their presence felt at climate summit"
-excerpt: "Eleven-year-old Indian climate activist Licypriya Kangujam's dogged questioning of Britain's climate minister Zac Goldsmith about the fate of climate activists detained in his country was one of the m"
-image: "https://www.reuters.com/resizer/Db4Yo7cMQuwWO_kvknbqfEYYqGE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/42J2DWWDHZNX5OOKZINU2FVL64.jpg"
+publication: "euronews.com"
+link: "https://www.euronews.com/green/2022/11/07/cop27-more-than-25-countries-band-together-to-keep-deforestation-pledges-made-in-glasgow"
+title: "Countries band together to keep deforestation pledges made at COP26"
+excerpt: "The group - including Japan, Pakistan and the UK - has said they will hold each other accountable for a pledge to end deforestation by 2030."
+image: "https://static.euronews.com/articles/stories/07/17/79/92/1000x563_cmsv2_f77c0ce2-f4d9-5051-8fb2-04a70210cb3e-7177992.jpg"
 group: pro
 rank: 18
 ---
