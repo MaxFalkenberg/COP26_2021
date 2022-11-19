@@ -1,9 +1,9 @@
 ---
-publication: "terragaia.wordpress.com"
-link: "https://terragaia.wordpress.com/2022/11/18/germany-g7-launch-global-shield-climate-finance-at-cop27/"
-title: "Germany, G7 launch ‘Global Shield’ climate finance at COP27"
-excerpt: "The initiative aims to get cash quickly to communities in low-income countries struck by climate disaster. But critics call it a “distraction” from a real loss and damage fund. By Jenni…"
-image: "https://terragaia.files.wordpress.com/2022/11/04164749_145409_gd.jpg"
+publication: "thegatewaypundit.com"
+link: "https://www.thegatewaypundit.com/2022/11/fda-announces-lab-grown-meat-served-cop27-climate-conference-safe-eat-world-experiencing-food-revolution/"
+title: "FDA Announces LAB GROWN MEAT That Was Served at COP27 Climate Conference Is 'SAFE TO EAT': 'The World Is Experiencing A Food Revolution'"
+excerpt: "The US Food and Drug Administration has approved lab-grown meat, a product grown from animal cells, for human consumption for the first time. The FDA announced Wednesday that laboratory-grown chicken "
+image: "https://www.thegatewaypundit.com/wp-content/uploads/221117080338-01-upside-foods-products.jpg"
 group: con
 rank: 8
 ---

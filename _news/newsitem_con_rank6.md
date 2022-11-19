@@ -1,9 +1,9 @@
 ---
-publication: "thegatewaypundit.com"
-link: "https://www.thegatewaypundit.com/2022/11/fda-announces-lab-grown-meat-served-cop27-climate-conference-safe-eat-world-experiencing-food-revolution/"
-title: "FDA Announces LAB GROWN MEAT That Was Served at COP27 Climate Conference Is 'SAFE TO EAT': 'The World Is Experiencing A Food Revolution'"
-excerpt: "The US Food and Drug Administration has approved lab-grown meat, a product grown from animal cells, for human consumption for the first time. The FDA announced Wednesday that laboratory-grown chicken "
-image: "https://www.thegatewaypundit.com/wp-content/uploads/221117080338-01-upside-foods-products.jpg"
+publication: "news.cgtn.com"
+link: "https://news.cgtn.com/news/2022-11-19/COP27-renews-the-global-hope-of-fighting-climate-change--1f0UbsZPd5u/index.html"
+title: "COP27 renews the global hope of fighting climate change "
+excerpt: "Fighting climate change requires collective efforts and continuous dialogue between all stakeholders, both developing and developed countries."
+image: "https://news.cgtn.com/news/2022-11-19/COP27-renews-the-global-hope-of-fighting-climate-change--1f0UbsZPd5u/img/12a487b073854077afc859394e00524d/12a487b073854077afc859394e00524d-1280.jpeg"
 group: con
 rank: 6
 ---

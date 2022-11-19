@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/theorchard/p/the-contradictions-of-cop27"
-title: "The Contradictions of COP27"
-excerpt: "Fossil fuel lobbyists, politicians, organized labour and environmentalists have all gathered in Egypt to try and put their stamp on the future of climate policy."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0b324ba8-221a-4bb1-81a5-9c4daa2e15ec_640x421.jpeg"
+publication: "disastrousearth.wordpress.com"
+link: "https://disastrousearth.wordpress.com/2022/11/19/cop27-and-global-warming-hoax-have-failed-miserably-as-public-has-awakened/"
+title: "COP27 And Global Warming Hoax Have Failed Miserably As Public Has Awakened"
+excerpt: "For 50 years the hoax and scam of Global Warming was pushed by United Nations and those having vested interest and an eye upon money making and total control out of this hoax. But Perry4Law Organis…"
+image: "https://disastrousearth.files.wordpress.com/2022/11/exit-door.png"
 group: con
 rank: 1
 ---
