@@ -1,9 +1,9 @@
 ---
-publication: "climatechangenews.com"
-link: "https://www.climatechangenews.com/2022/11/18/greenwash-alert-as-cop27-draft-allows-double-claiming-of-carbon-credits/"
-title: "Cop27 draft carbon trading rules open door to corporate greenwash"
-excerpt: "Companies and countries could take credit for the same tonne of CO2 cut under rules being negotiated in Sharm el-Sheikh"
-image: "https://cdn.climatechangenews.com/files/2022/11/17191703/Clean-cookstove.jpg"
+publication: "independent.co.uk"
+link: "https://www.independent.co.uk/climate-change/news/cop27-egypt-climate-sharm-el-sheikh-b2227355.html"
+title: "Trust breaks down at Cop27 as UN chief urges agreement in final 24 hours"
+excerpt: "‘This is no time for finger-pointing. The blame game is a recipe for mutually assured destruction,’ UN secretary-general Antonio Guterres warns "
+image: "https://static.independent.co.uk/2022/11/17/16/SEI134027592.jpg?quality=75&width=1200&auto=webp"
 group: pro
 rank: 10
 ---

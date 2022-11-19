@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/world/2022/11/18/EU-proposes-midway-path-on-climate-fund-to-unblock-COP27-talks"
-title: "EU proposes midway path on climate fund to unblock COP27 talks"
-excerpt: "Climate negotiators on Friday were mulling a late-night European Union proposal aimed at resolving a stubborn impasse over financing for countries hit by"
-image: "https://vid.alarabiya.net/images/2022/05/02/0c8490cb-0523-42d8-a981-08b27dd1eed7/0c8490cb-0523-42d8-a981-08b27dd1eed7_16x9_600x338.JPG"
+publication: "rpujolviven.blogspot.com"
+link: "https://rpujolviven.blogspot.com/2016/10/hypocrisy-to-fight-against-climate.html"
+title: "Hypocrisy: to fight against climate change in home when own oil is sold far from your home"
+excerpt: " '... In the oil business, you can work neck up or neck down: the first option you enriches while the second you only get dirty ...'     Tay..."
+image: "https://4.bp.blogspot.com/-7rfOmsZ8tRo/WBTbiqDnF8I/AAAAAAAACIc/w1Tjeb-f-Zk-F_n4ajsfYhiuwNuiZgDlACLcB/w1200-h630-p-k-no-nu/00096721.jpg"
 group: con
 rank: 14
 ---
