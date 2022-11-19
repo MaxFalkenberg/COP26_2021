@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-18/UN-chief-calls-for-reaching-consensus-on-climate-actions-at-COP27-1f3AzMFkpEY/index.html"
-title: "UN chief calls for reaching consensus on climate actions at COP27"
-excerpt: "United Nations Secretary-General Antonio Guterres on Thursday called on countries to take climate actions instead of 'finger-pointing' at the ongoing UN climate change conference."
-image: "https://news.cgtn.com/news/2022-11-18/UN-chief-calls-for-reaching-consensus-on-climate-actions-at-COP27-1f3AzMFkpEY/img/a1524f014dbc4bb6892bfe10577e5fd2/a1524f014dbc4bb6892bfe10577e5fd2-750.png"
+publication: "notalotofpeopleknowthat.wordpress.com"
+link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/17/staggering-disconnect-climate-summit-boasts-opulent-beef-seafood-menu-despite-spearheading-anti-meat-initiatives/"
+title: "‘Staggering Disconnect’: Climate Summit Boasts Opulent Beef, Seafood Menu Despite Spearheading Anti-Meat Initiatives"
+excerpt: "By Paul Homewood   h/t 1saveenergy   Meat for me, but not for thee!         World leaders and officials attending the United Nations COP27 climate conference can spend…"
+image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb-66.png"
 group: con
 rank: 11
 ---

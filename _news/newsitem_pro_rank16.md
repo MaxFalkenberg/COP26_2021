@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/18/john-kerry-covid-cop27-climate/"
-title: "John Kerry tests positive for coronavirus, complicating end of climate talks"
-excerpt: "U.S. special climate envoy John Kerry has tested positive for coronavirus as COP27 nears its uncertain conclusion. "
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5XCRBSDHQEI63MEMHTRCEYDQLE.jpg&w=1440"
+publication: "euronews.com"
+link: "https://www.euronews.com/green/2022/11/07/cop27-more-than-25-countries-band-together-to-keep-deforestation-pledges-made-in-glasgow"
+title: "Countries band together to keep deforestation pledges made at COP26"
+excerpt: "The group - including Japan, Pakistan and the UK - has said they will hold each other accountable for a pledge to end deforestation by 2030."
+image: "https://static.euronews.com/articles/stories/07/17/79/92/1000x563_cmsv2_f77c0ce2-f4d9-5051-8fb2-04a70210cb3e-7177992.jpg"
 group: pro
 rank: 16
 ---
