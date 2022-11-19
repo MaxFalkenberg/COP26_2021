@@ -1,9 +1,9 @@
 ---
-publication: "climatechangenews.com"
-link: "https://www.climatechangenews.com/2022/11/18/greenwash-alert-as-cop27-draft-allows-double-claiming-of-carbon-credits/"
-title: "Cop27 draft carbon trading rules open door to corporate greenwash"
-excerpt: "Companies and countries could take credit for the same tonne of CO2 cut under rules being negotiated in Sharm el-Sheikh"
-image: "https://cdn.climatechangenews.com/files/2022/11/17191703/Clean-cookstove.jpg"
+publication: "axios.com"
+link: "https://www.axios.com/2022/11/18/indigenous-activists-seen-not-heard-at-cop27"
+title: "Indigenous activists 'seen, not heard' at COP27"
+excerpt: "Several tell Axios they're being shut out of decision-making dialogues."
+image: "https://images.axios.com/eCA54Sw1ewgfC6q4NsFcj_byhuA=/0x0:1920x1080/1366x768/2022/11/16/1668637546354.jpg"
 group: pro
 rank: 6
 ---

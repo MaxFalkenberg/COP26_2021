@@ -1,9 +1,9 @@
 ---
-publication: "unlockaid.substack.com"
-link: "https://unlockaid.substack.com/p/cop27-and-us-global-leadership-on"
-title: "COP27 & US global leadership on climate change"
-excerpt: "Unlock Aid was at COP27 in Egypt. We're heartened to see big new announcements to fight the climate crisis, but there's much more to do."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3438e34c-ded3-4aaf-98a4-3b56b3e13e5b_2560x1922.jpeg"
+publication: "dailykos.com"
+link: "https://www.dailykos.com/stories/2022/11/17/2136850/-Climate-disinformation-swirling-around-COP27-could-make-it-much-harder-to-ratify-an-agreement"
+title: "Climate disinformation swirling around COP27 could make it much harder to ratify an agreement"
+excerpt: "The day before COP27 is scheduled to wrap up, a draft text of the U.N. Climate Change Conference’s agreement was released. The text itself is titled “Presidency non-paper on cover decisions,” pointing"
+image: "https://images.dailykos.com/images/1134941/story_image/GettyImages-1244778487.jpg?1668712135"
 group: con
 rank: 8
 ---

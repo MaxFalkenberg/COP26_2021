@@ -1,9 +1,9 @@
 ---
-publication: "euronews.com"
-link: "https://www.euronews.com/green/2022/11/07/cop27-more-than-25-countries-band-together-to-keep-deforestation-pledges-made-in-glasgow"
-title: "Countries band together to keep deforestation pledges made at COP26"
-excerpt: "The group - including Japan, Pakistan and the UK - has said they will hold each other accountable for a pledge to end deforestation by 2030."
-image: "https://static.euronews.com/articles/stories/07/17/79/92/1000x563_cmsv2_f77c0ce2-f4d9-5051-8fb2-04a70210cb3e-7177992.jpg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/17/climate-change-cop27-egypt/"
+title: "Climate talks hit ‘breakdown’ over finance, fossil fuels as time dwindles  "
+excerpt: "With time running out for nations to agree on a road map for tackling climate change, the fate of U.N. climate talks in Egypt appeared in jeopardy Thursday as rich and poor nations continued to disagr"
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IXAVY4FWC5H424R5MHOCV2BSQI.jpg&w=1440"
 group: pro
 rank: 16
 ---

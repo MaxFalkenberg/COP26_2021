@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/17/climate-change-cop27-egypt/"
-title: "Climate talks hit ‘breakdown’ over finance, fossil fuels as time dwindles  "
-excerpt: "With time running out for nations to agree on a road map for tackling climate change, the fate of U.N. climate talks in Egypt appeared in jeopardy Thursday as rich and poor nations continued to disagr"
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IXAVY4FWC5H424R5MHOCV2BSQI.jpg&w=1440"
+publication: "cbc.ca"
+link: "https://www.cbc.ca/news/science/biodiversity-montreal-cop27-1.6654447"
+title: "Biodiversity needs same protection as climate, say scientists, activists at COP27 | CBC News"
+excerpt: "Civil society groups, Indigenous activists and scientists are standing together at the COP27 climate conference in Sharm el-Sheikh, Egypt, and demanding firm action be taken next month at the UN Biodi"
+image: "https://i.cbc.ca/1.4583528.1668691821!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/alberta-caribou.jpg"
 group: pro
 rank: 17
 ---

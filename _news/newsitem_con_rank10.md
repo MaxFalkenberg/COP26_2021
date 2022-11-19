@@ -1,9 +1,9 @@
 ---
-publication: "terragaia.wordpress.com"
-link: "https://terragaia.wordpress.com/2022/11/18/germany-g7-launch-global-shield-climate-finance-at-cop27/"
-title: "Germany, G7 launch ‘Global Shield’ climate finance at COP27"
-excerpt: "The initiative aims to get cash quickly to communities in low-income countries struck by climate disaster. But critics call it a “distraction” from a real loss and damage fund. By Jenni…"
-image: "https://terragaia.files.wordpress.com/2022/11/04164749_145409_gd.jpg"
+publication: "news.cgtn.com"
+link: "https://news.cgtn.com/news/2022-11-19/COP27-renews-the-global-hope-of-fighting-climate-change--1f0UbsZPd5u/index.html"
+title: "COP27 renews the global hope of fighting climate change "
+excerpt: "Fighting climate change requires collective efforts and continuous dialogue between all stakeholders, both developing and developed countries."
+image: "https://news.cgtn.com/news/2022-11-19/COP27-renews-the-global-hope-of-fighting-climate-change--1f0UbsZPd5u/img/12a487b073854077afc859394e00524d/12a487b073854077afc859394e00524d-1280.jpeg"
 group: con
 rank: 10
 ---
