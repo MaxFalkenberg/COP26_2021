@@ -1,9 +1,9 @@
 ---
-publication: "truthout.org"
-link: "https://truthout.org/articles/greenwashing-governments-and-oil-companies-turned-cop27-into-a-climate-disaster/"
-title: "COP27 Looked More Like a Fossil Fuel Industry Trade Show Than a Climate Summit"
-excerpt: "In the end, COP27 looked more like a fossil fuel industry trade show than a climate summit."
-image: "https://truthout.org/wp-content/uploads/2022/11/2022_1118-cop27-1200x675.jpg"
+publication: "express.co.uk"
+link: "https://www.express.co.uk/comment/expresscomment/1694648/Brexit-remain-analysis-EU-latest-news-rishi-sunak-cop27-climate-change"
+title: "Betraying our country isn’t treason anymore - it’s policy"
+excerpt: "We live in the era of revelation. In earlier times, politicians hid their scorn from us, the people, behind smiles, heartfelt assurances and thick curtains."
+image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4393551.jpg?r=1668072133426"
 group: pro
 rank: 5
 ---

@@ -1,10 +1,9 @@
 ---
-publication: "zerohedge.com"
-link: "https://www.zerohedge.com/markets/cop27-climate-virtue-signaling-boondoggle-ends-failure-without-fossil-fuel-pledge"
-title: "COP27 Climate Virtue-Signaling Boondoggle Ends In Failure, Leaves Out Fossil Fuel Pledge"
-excerpt: "The COP27 text still makes no reference to a fossil fuel phase down, as poseur virtue signalers are once again put in their place by the likes of India and China.
-"
-image: "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-11/sophia%20kianni.jpg?itok=vHCIIWV9"
+publication: "thegatewaypundit.com"
+link: "https://www.thegatewaypundit.com/2022/11/fda-announces-lab-grown-meat-served-cop27-climate-conference-safe-eat-world-experiencing-food-revolution/"
+title: "FDA Announces LAB GROWN MEAT That Was Served at COP27 Climate Conference Is 'SAFE TO EAT': 'The World Is Experiencing A Food Revolution'"
+excerpt: "The US Food and Drug Administration has approved lab-grown meat, a product grown from animal cells, for human consumption for the first time. The FDA announced Wednesday that laboratory-grown chicken "
+image: "https://www.thegatewaypundit.com/wp-content/uploads/221117080338-01-upside-foods-products.jpg"
 group: con
 rank: 0
 ---

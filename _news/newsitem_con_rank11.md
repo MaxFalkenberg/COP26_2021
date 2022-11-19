@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-18/UN-chief-calls-for-reaching-consensus-on-climate-actions-at-COP27-1f3AzMFkpEY/index.html"
-title: "UN chief calls for reaching consensus on climate actions at COP27"
-excerpt: "United Nations Secretary-General Antonio Guterres on Thursday called on countries to take climate actions instead of 'finger-pointing' at the ongoing UN climate change conference."
-image: "https://news.cgtn.com/news/2022-11-18/UN-chief-calls-for-reaching-consensus-on-climate-actions-at-COP27-1f3AzMFkpEY/img/a1524f014dbc4bb6892bfe10577e5fd2/a1524f014dbc4bb6892bfe10577e5fd2-750.png"
+publication: "notalotofpeopleknowthat.wordpress.com"
+link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/18/an-extremely-nice-summer/"
+title: "An Extreme(ly Nice) Summer"
+excerpt: "By Paul Homewood I see the BBC/Met Office are up to their extreme weather scam again! (Timed to coincide with COP27 of course):       Extreme weather events have affected most of the…"
+image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb-78.png"
 group: con
 rank: 11
 ---
