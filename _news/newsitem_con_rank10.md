@@ -1,9 +1,9 @@
 ---
-publication: "en.people.cn"
-link: "http://en.people.cn/n3/2022/1118/c90000-10172979.html"
-title: "UN chief calls for reaching consensus on climate actions at COP27 - People's Daily Online"
-excerpt: "United Nations Secretary-General Antonio Guterres addresses the opening of the Sharm El-Sheikh"
-image: "/mediafile/pic/BIG/20221118/15/5835781411433895747.jpg"
+publication: "terragaia.wordpress.com"
+link: "https://terragaia.wordpress.com/2022/11/18/germany-g7-launch-global-shield-climate-finance-at-cop27/"
+title: "Germany, G7 launch ‘Global Shield’ climate finance at COP27"
+excerpt: "The initiative aims to get cash quickly to communities in low-income countries struck by climate disaster. But critics call it a “distraction” from a real loss and damage fund. By Jenni…"
+image: "https://terragaia.files.wordpress.com/2022/11/04164749_145409_gd.jpg"
 group: con
 rank: 10
 ---

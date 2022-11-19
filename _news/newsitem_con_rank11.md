@@ -1,9 +1,9 @@
 ---
-publication: "notalotofpeopleknowthat.wordpress.com"
-link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/17/staggering-disconnect-climate-summit-boasts-opulent-beef-seafood-menu-despite-spearheading-anti-meat-initiatives/"
-title: "‘Staggering Disconnect’: Climate Summit Boasts Opulent Beef, Seafood Menu Despite Spearheading Anti-Meat Initiatives"
-excerpt: "By Paul Homewood   h/t 1saveenergy   Meat for me, but not for thee!         World leaders and officials attending the United Nations COP27 climate conference can spend…"
-image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb-66.png"
+publication: "en.people.cn"
+link: "http://en.people.cn/n3/2022/1118/c90000-10172979.html"
+title: "UN chief calls for reaching consensus on climate actions at COP27 - People's Daily Online"
+excerpt: "United Nations Secretary-General Antonio Guterres addresses the opening of the Sharm El-Sheikh"
+image: "/mediafile/pic/BIG/20221118/15/5835781411433895747.jpg"
 group: con
 rank: 11
 ---
