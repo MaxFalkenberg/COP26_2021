@@ -1,9 +1,9 @@
 ---
-publication: "theclaudeslaw.wordpress.com"
-link: "https://theclaudeslaw.wordpress.com/2022/11/18/domestic-affairs-are-to-be-addressed-and-taken-more-seriously/"
-title: "Domestic Affairs are to be Addressed and Taken More Seriously"
-excerpt: "School strike week 222. #FridaysForFuture #ClimateStrike #PeopleNotProfit Our World Leaders. Have a duty to take. Domestic Affairs more seriously. {UK Crisis}#ClimateJustice #ClimateInequality #COP…"
-image: "https://theclaudeslaw.files.wordpress.com/2021/06/0001-742512986_20210503_144120_0000.png?w=200"
+publication: "dailykos.com"
+link: "https://www.dailykos.com/stories/2022/11/17/2136850/-Climate-disinformation-swirling-around-COP27-could-make-it-much-harder-to-ratify-an-agreement"
+title: "Climate disinformation swirling around COP27 could make it much harder to ratify an agreement"
+excerpt: "The day before COP27 is scheduled to wrap up, a draft text of the U.N. Climate Change Conference’s agreement was released. The text itself is titled “Presidency non-paper on cover decisions,” pointing"
+image: "https://images.dailykos.com/images/1134941/story_image/GettyImages-1244778487.jpg?1668712135"
 group: con
 rank: 6
 ---

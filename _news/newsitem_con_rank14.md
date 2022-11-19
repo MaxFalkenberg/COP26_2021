@@ -1,9 +1,9 @@
 ---
-publication: "rpujolviven.blogspot.com"
-link: "https://rpujolviven.blogspot.com/2016/10/hypocrisy-to-fight-against-climate.html"
-title: "Hypocrisy: to fight against climate change in home when own oil is sold far from your home"
-excerpt: " '... In the oil business, you can work neck up or neck down: the first option you enriches while the second you only get dirty ...'     Tay..."
-image: "https://4.bp.blogspot.com/-7rfOmsZ8tRo/WBTbiqDnF8I/AAAAAAAACIc/w1Tjeb-f-Zk-F_n4ajsfYhiuwNuiZgDlACLcB/w1200-h630-p-k-no-nu/00096721.jpg"
+publication: "billmckibben.substack.com"
+link: "https://billmckibben.substack.com/p/someday-the-climate-fight-will-be"
+title: "Someday the climate fight will be dull--and that's how we'll know we're winning"
+excerpt: "Egypt Dispatch 5: Looking back at America's elections from Sharm el Sheikh"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8950a9c-45b6-4091-b7bf-bfff0b5e5491_3644x2766.jpeg"
 group: con
 rank: 14
 ---
