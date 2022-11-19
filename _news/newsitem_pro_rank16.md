@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/climate-change/news/cop27-egypt-climate-sharm-el-sheikh-b2227355.html"
-title: "Trust breaks down at Cop27 as UN chief urges agreement in final 24 hours"
-excerpt: "‘This is no time for finger-pointing. The blame game is a recipe for mutually assured destruction,’ UN secretary-general Antonio Guterres warns "
-image: "https://static.independent.co.uk/2022/11/17/16/SEI134027592.jpg?quality=75&width=1200&auto=webp"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/cop27-more-countries-join-methane-pact-focus-turns-farms-waste-2022-11-17/"
+title: "COP27: More join methane pact as focus turns to farms"
+excerpt: "More than 150 countries have signed up to a global pact to reduce methane emissions, around 50 more than when the initiative launched last year, the United States and European Union said on Thursday."
+image: "https://www.reuters.com/resizer/KmLJxg22MsB_MkCLMVUgj_PuqMM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LI6XJ7WMP5IOZFUE63TWHD5VGA.jpg"
 group: pro
 rank: 16
 ---
