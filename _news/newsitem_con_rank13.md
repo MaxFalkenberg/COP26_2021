@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/19/time-is-running-out-we-must-call-out-the-vested-interests-propelling-the-climate-crisis-gabrielle-kuiper-the-guardian-cop27-climatecrisis-ecologicalcrisis-auspol/"
-title: "Time is running out. We must call out the vested interests propelling the climate crisis | Gabrielle Kuiper | The Guardian #COP27 #ClimateCrisis #EcologicalCrisis #auspol"
-excerpt: "The role of science communication is to counter wilful ignorance. I don’t mean the deliberate placing of blinkers over the eyes or rose-coloured glasses on the nose. I mean the facts that are incon…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1803-1.jpg"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1279911.shtml"
+title: "COP27 nears end with parties calling for developed countries to fulfill their finance pledge"
+excerpt: "As COP27 is drawing to a close, various parties called on developed countries to fulfill their pledge of providing $100 billion per year for developing countries to tackle climate damage, however, som"
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-10-31/4f2912f8-a1c0-4d3f-9265-2a70b7a64585_s.jpeg"
 group: con
 rank: 13
 ---
