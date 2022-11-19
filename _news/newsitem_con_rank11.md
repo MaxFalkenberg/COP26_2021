@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/world/2022/11/18/EU-proposes-midway-path-on-climate-fund-to-unblock-COP27-talks"
-title: "EU proposes midway path on climate fund to unblock COP27 talks"
-excerpt: "Climate negotiators on Friday were mulling a late-night European Union proposal aimed at resolving a stubborn impasse over financing for countries hit by"
-image: "https://vid.alarabiya.net/images/2022/05/02/0c8490cb-0523-42d8-a981-08b27dd1eed7/0c8490cb-0523-42d8-a981-08b27dd1eed7_16x9_600x338.JPG"
+publication: "en.people.cn"
+link: "http://en.people.cn/n3/2022/1118/c90000-10172979.html"
+title: "UN chief calls for reaching consensus on climate actions at COP27 - People's Daily Online"
+excerpt: "United Nations Secretary-General Antonio Guterres addresses the opening of the Sharm El-Sheikh"
+image: "/mediafile/pic/BIG/20221118/15/5835781411433895747.jpg"
 group: con
 rank: 11
 ---
