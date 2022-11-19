@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/19/time-is-running-out-we-must-call-out-the-vested-interests-propelling-the-climate-crisis-gabrielle-kuiper-the-guardian-cop27-climatecrisis-ecologicalcrisis-auspol/"
-title: "Time is running out. We must call out the vested interests propelling the climate crisis | Gabrielle Kuiper | The Guardian #COP27 #ClimateCrisis #EcologicalCrisis #auspol"
-excerpt: "The role of science communication is to counter wilful ignorance. I don’t mean the deliberate placing of blinkers over the eyes or rose-coloured glasses on the nose. I mean the facts that are incon…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1803-1.jpg"
+publication: "dailykos.com"
+link: "https://www.dailykos.com/story/2022/11/17/2134235/-Caribbean-Matters-At-COP27-Barbados-PM-Mia-Mottley-is-a-powerful-voice-addressing-climate-change"
+title: "Caribbean Matters: At COP27, Barbados PM Mia Mottley is a powerful voice addressing climate change"
+excerpt: "While many people here in the U.S. have been focused on the midterm elections�and results, which are still coming in, nations around the world have been participating in COP27 .�More formally known .."
+image: "https://images.dailykos.com/images/1134333/story_image/GettyImages-1244608437.jpg?1668523498"
 group: con
 rank: 4
 ---

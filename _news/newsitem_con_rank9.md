@@ -1,9 +1,9 @@
 ---
-publication: "terragaia.wordpress.com"
-link: "https://terragaia.wordpress.com/2022/11/18/germany-g7-launch-global-shield-climate-finance-at-cop27/"
-title: "Germany, G7 launch ‘Global Shield’ climate finance at COP27"
-excerpt: "The initiative aims to get cash quickly to communities in low-income countries struck by climate disaster. But critics call it a “distraction” from a real loss and damage fund. By Jenni…"
-image: "https://terragaia.files.wordpress.com/2022/11/04164749_145409_gd.jpg"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1279939.shtml"
+title: "China plays a pivotal role in combating climate change, has supported various related projects: Egyptian Ambassador "
+excerpt: "The high level of cooperation between China and the Egyptian presidency of COP27 continues to become stronger, with far reaching results that will have a lasting positive impact for both peoples and t"
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/8f25207c-64e3-4e1d-bfd1-ba3da6750b77_s.jpeg"
 group: con
 rank: 9
 ---

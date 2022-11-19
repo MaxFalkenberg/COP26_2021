@@ -1,9 +1,10 @@
 ---
-publication: "globaltimes.cn"
-link: "https://www.globaltimes.cn/page/202211/1279939.shtml"
-title: "China plays a pivotal role in combating climate change, has supported various related projects: Egyptian Ambassador "
-excerpt: "The high level of cooperation between China and the Egyptian presidency of COP27 continues to become stronger, with far reaching results that will have a lasting positive impact for both peoples and t"
-image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/8f25207c-64e3-4e1d-bfd1-ba3da6750b77_s.jpeg"
+publication: "english.aawsat.com"
+link: "https://english.aawsat.com/home/article/3974446/saudi-arabia-commits-25-bln-middle-east-green-initiative"
+title: "Saudi Arabia Commits $2.5 Bln to Middle East Green Initiative "
+excerpt: "Prince Mohammed bin Salman, Crown Prince and Prime Minister, announced on Monday that Saudi Arabia was committing 2.5 billion dollars to the Middle East Green Initiative for the next ten years. 
+He ma"
+image: "https://english.aawsat.com/sites/default/files/styles/large/public/2022/11/07/lmyr_mhmd_bn_slmn_ytwst_lqd_wlmswwlyn_lmshrkyn_fy_tlq_lqm_lthny_mn_mbdr_lshrq_lwst_lkhdr_0.jpeg?itok=mNXDycHm"
 group: con
 rank: 11
 ---
