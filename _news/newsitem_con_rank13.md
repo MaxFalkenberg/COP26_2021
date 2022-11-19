@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-18/UN-chief-calls-for-reaching-consensus-on-climate-actions-at-COP27-1f3AzMFkpEY/index.html"
-title: "UN chief calls for reaching consensus on climate actions at COP27"
-excerpt: "United Nations Secretary-General Antonio Guterres on Thursday called on countries to take climate actions instead of 'finger-pointing' at the ongoing UN climate change conference."
-image: "https://news.cgtn.com/news/2022-11-18/UN-chief-calls-for-reaching-consensus-on-climate-actions-at-COP27-1f3AzMFkpEY/img/a1524f014dbc4bb6892bfe10577e5fd2/a1524f014dbc4bb6892bfe10577e5fd2-750.png"
+publication: "theorchard.substack.com"
+link: "https://theorchard.substack.com/p/the-contradictions-of-cop27"
+title: "The Contradictions of COP27"
+excerpt: "Fossil fuel lobbyists, politicians, organized labour and environmentalists have all gathered in Egypt to try and put their stamp on the future of climate policy."
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0b324ba8-221a-4bb1-81a5-9c4daa2e15ec_640x421.jpeg"
 group: con
 rank: 13
 ---

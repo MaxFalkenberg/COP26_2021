@@ -1,9 +1,9 @@
 ---
-publication: "qz.com"
-link: "https://qz.com/cop27-is-leaving-huge-loopholes-for-greenwashing-1849800189"
-title: "COP27 is leaving huge loopholes for greenwashing"
-excerpt: "Negotiations on a new carbon market allow for dubious accounting and lack transparency"
-image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/de7ef63384c2cffcf4cb76f573691291.jpg"
+publication: "cbc.ca"
+link: "https://www.cbc.ca/news/science/biodiversity-montreal-cop27-1.6654447"
+title: "Biodiversity needs same protection as climate, say scientists, activists at COP27 | CBC News"
+excerpt: "Civil society groups, Indigenous activists and scientists are standing together at the COP27 climate conference in Sharm el-Sheikh, Egypt, and demanding firm action be taken next month at the UN Biodi"
+image: "https://i.cbc.ca/1.4583528.1668691821!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/alberta-caribou.jpg"
 group: pro
 rank: 12
 ---

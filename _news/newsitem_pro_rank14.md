@@ -1,9 +1,9 @@
 ---
-publication: "hrw.org"
-link: "https://www.hrw.org/news/2022/11/16/egypt-detentions-repression-follow-protest-calls"
-title: "Egypt: Detentions, Repression Follow Protest Calls"
-excerpt: "Egyptian authorities have reportedly detained hundreds of people in a nationwide crackdown following calls for anti-government protests."
-image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211afr_egypt_cop27_climate_protest.jpg?h=a130fd67&itok=PMtqChhx"
+publication: "climatechangenews.com"
+link: "https://www.climatechangenews.com/2022/11/18/greenwash-alert-as-cop27-draft-allows-double-claiming-of-carbon-credits/"
+title: "Cop27 draft carbon trading rules open door to corporate greenwash"
+excerpt: "Companies and countries could take credit for the same tonne of CO2 cut under rules being negotiated in Sharm el-Sheikh"
+image: "https://cdn.climatechangenews.com/files/2022/11/17191703/Clean-cookstove.jpg"
 group: pro
 rank: 14
 ---

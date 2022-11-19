@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/19/time-is-running-out-we-must-call-out-the-vested-interests-propelling-the-climate-crisis-gabrielle-kuiper-the-guardian-cop27-climatecrisis-ecologicalcrisis-auspol/"
-title: "Time is running out. We must call out the vested interests propelling the climate crisis | Gabrielle Kuiper | The Guardian #COP27 #ClimateCrisis #EcologicalCrisis #auspol"
-excerpt: "The role of science communication is to counter wilful ignorance. I don’t mean the deliberate placing of blinkers over the eyes or rose-coloured glasses on the nose. I mean the facts that are incon…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1803-1.jpg"
+publication: "thegatewaypundit.com"
+link: "https://www.thegatewaypundit.com/2022/11/fda-announces-lab-grown-meat-served-cop27-climate-conference-safe-eat-world-experiencing-food-revolution/"
+title: "FDA Announces LAB GROWN MEAT That Was Served at COP27 Climate Conference Is 'SAFE TO EAT': 'The World Is Experiencing A Food Revolution'"
+excerpt: "The US Food and Drug Administration has approved lab-grown meat, a product grown from animal cells, for human consumption for the first time. The FDA announced Wednesday that laboratory-grown chicken "
+image: "https://www.thegatewaypundit.com/wp-content/uploads/221117080338-01-upside-foods-products.jpg"
 group: con
 rank: 4
 ---

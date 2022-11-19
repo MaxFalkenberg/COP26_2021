@@ -1,9 +1,9 @@
 ---
-publication: "dailykos.com"
-link: "https://www.dailykos.com/stories/2022/11/17/2136850/-Climate-disinformation-swirling-around-COP27-could-make-it-much-harder-to-ratify-an-agreement"
-title: "Climate disinformation swirling around COP27 could make it much harder to ratify an agreement"
-excerpt: "The day before COP27 is scheduled to wrap up, a draft text of the U.N. Climate Change Conference’s agreement was released. The text itself is titled “Presidency non-paper on cover decisions,” pointing"
-image: "https://images.dailykos.com/images/1134941/story_image/GettyImages-1244778487.jpg?1668712135"
+publication: "news.cgtn.com"
+link: "https://news.cgtn.com/news/2022-11-19/COP27-renews-the-global-hope-of-fighting-climate-change--1f0UbsZPd5u/index.html"
+title: "COP27 renews the global hope of fighting climate change "
+excerpt: "Fighting climate change requires collective efforts and continuous dialogue between all stakeholders, both developing and developed countries."
+image: "https://news.cgtn.com/news/2022-11-19/COP27-renews-the-global-hope-of-fighting-climate-change--1f0UbsZPd5u/img/12a487b073854077afc859394e00524d/12a487b073854077afc859394e00524d-1280.jpeg"
 group: con
 rank: 7
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "notalotofpeopleknowthat.wordpress.com"
-link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/17/staggering-disconnect-climate-summit-boasts-opulent-beef-seafood-menu-despite-spearheading-anti-meat-initiatives/"
-title: "‘Staggering Disconnect’: Climate Summit Boasts Opulent Beef, Seafood Menu Despite Spearheading Anti-Meat Initiatives"
-excerpt: "By Paul Homewood   h/t 1saveenergy   Meat for me, but not for thee!         World leaders and officials attending the United Nations COP27 climate conference can spend…"
-image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb-66.png"
+publication: "dailykos.com"
+link: "https://www.dailykos.com/stories/2022/11/17/2136850/-Climate-disinformation-swirling-around-COP27-could-make-it-much-harder-to-ratify-an-agreement"
+title: "Climate disinformation swirling around COP27 could make it much harder to ratify an agreement"
+excerpt: "The day before COP27 is scheduled to wrap up, a draft text of the U.N. Climate Change Conference’s agreement was released. The text itself is titled “Presidency non-paper on cover decisions,” pointing"
+image: "https://images.dailykos.com/images/1134941/story_image/GettyImages-1244778487.jpg?1668712135"
 group: con
 rank: 11
 ---
