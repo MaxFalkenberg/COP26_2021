@@ -1,9 +1,9 @@
 ---
-publication: "fortune.com"
-link: "https://fortune.com/2022/11/09/al-gore-cop27-climate-change-polluters-inventory-top-polluters-oil-gas/"
-title: "Al Gore reveals the world's top 14 polluters are all oil and gas fields but insists 'We are capable of solving this crisis'"
-excerpt: "UN Secretary General Antonio Guterres said Climate TRACE's inventory shows a problem “in front of our eyes, but also hidden in plain sight.”"
-image: "https://content.fortune.com/wp-content/uploads/2022/11/AP22313327359977.jpg?resize=1200,600"
+publication: "express.co.uk"
+link: "https://www.express.co.uk/comment/expresscomment/1694648/Brexit-remain-analysis-EU-latest-news-rishi-sunak-cop27-climate-change"
+title: "Betraying our country isn’t treason anymore - it’s policy"
+excerpt: "We live in the era of revelation. In earlier times, politicians hid their scorn from us, the people, behind smiles, heartfelt assurances and thick curtains."
+image: "https://cdn.images.express.co.uk/img/dynamic/41/1200x712/4393551.jpg?r=1668072133426"
 group: pro
 rank: 7
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "theclaudeslaw.wordpress.com"
-link: "https://theclaudeslaw.wordpress.com/2022/11/18/domestic-affairs-are-to-be-addressed-and-taken-more-seriously/"
-title: "Domestic Affairs are to be Addressed and Taken More Seriously"
-excerpt: "School strike week 222. #FridaysForFuture #ClimateStrike #PeopleNotProfit Our World Leaders. Have a duty to take. Domestic Affairs more seriously. {UK Crisis}#ClimateJustice #ClimateInequality #COP…"
-image: "https://theclaudeslaw.files.wordpress.com/2021/06/0001-742512986_20210503_144120_0000.png?w=200"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/middle-east/2022/11/18/UN-climate-talks-COP27-extended-to-Saturday"
+title: "UN climate talks, COP27, extended to Saturday"
+excerpt: "UN climate talks that were supposed to end Friday were extended by another day as negotiators seek to break a deadlock over creating a fund for nations"
+image: "https://vid.alarabiya.net/images/2022/11/07/f672d520-7e00-4bff-aec5-c057a6d1af00/f672d520-7e00-4bff-aec5-c057a6d1af00_16x9_600x338.jpg"
 group: con
 rank: 4
 ---

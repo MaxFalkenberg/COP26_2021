@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/life/have-a-heart-and-do-math-ghana-girl-delivers-strong-message-at-cop27-62688"
-title: "'Have a heart and do math': Ghana girl delivers strong message at COP27"
-excerpt: "Nakeeyat Dramani Sam, 10, discusses sufferings in her country due to floods and asks rich nations, which have contributed most to climate crisis, to compensate developing countries for the damage."
-image: "https://cdni0.trtworld.com/w480/h270/q75/144327_EGY20221118_1668808994305.jpg"
+publication: "thegatewaypundit.com"
+link: "https://www.thegatewaypundit.com/2022/11/fda-announces-lab-grown-meat-served-cop27-climate-conference-safe-eat-world-experiencing-food-revolution/"
+title: "FDA Announces LAB GROWN MEAT That Was Served at COP27 Climate Conference Is 'SAFE TO EAT': 'The World Is Experiencing A Food Revolution'"
+excerpt: "The US Food and Drug Administration has approved lab-grown meat, a product grown from animal cells, for human consumption for the first time. The FDA announced Wednesday that laboratory-grown chicken "
+image: "https://www.thegatewaypundit.com/wp-content/uploads/221117080338-01-upside-foods-products.jpg"
 group: con
 rank: 1
 ---
