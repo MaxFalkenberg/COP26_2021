@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/19/our-leaders-had-a-final-chance-to-halt-climate-breakdown-they-failed-each-and-every-one-of-us-george-monbiot-cop27-climatecrisis-ecologicalcrisis-auspol/"
-title: "Our leaders had a final chance to halt climate breakdown. They failed each and every one of us | George Monbiot #COP27 #ClimateCrisis #EcologicalCrisis #auspol"
-excerpt: "By George Monbiot The chances of any one person being born were calculated by the life coach Dr Ali Binazir. He multiplied the probability of your parents meeting, mating and conceiving by the chan…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1969.jpg"
+publication: "theorchard.substack.com"
+link: "https://theorchard.substack.com/p/the-contradictions-of-cop27"
+title: "The Contradictions of COP27"
+excerpt: "Fossil fuel lobbyists, politicians, organized labour and environmentalists have all gathered in Egypt to try and put their stamp on the future of climate policy."
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0b324ba8-221a-4bb1-81a5-9c4daa2e15ec_640x421.jpeg"
 group: con
 rank: 3
 ---

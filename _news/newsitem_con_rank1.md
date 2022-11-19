@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/life/have-a-heart-and-do-math-ghana-girl-delivers-strong-message-at-cop27-62688"
-title: "'Have a heart and do math': Ghana girl delivers strong message at COP27"
-excerpt: "Nakeeyat Dramani Sam, 10, discusses sufferings in her country due to floods and asks rich nations, which have contributed most to climate crisis, to compensate developing countries for the damage."
-image: "https://cdni0.trtworld.com/w480/h270/q75/144327_EGY20221118_1668808994305.jpg"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/theorchard/p/the-contradictions-of-cop27"
+title: "The Contradictions of COP27"
+excerpt: "Fossil fuel lobbyists, politicians, organized labour and environmentalists have all gathered in Egypt to try and put their stamp on the future of climate policy."
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0b324ba8-221a-4bb1-81a5-9c4daa2e15ec_640x421.jpeg"
 group: con
 rank: 1
 ---

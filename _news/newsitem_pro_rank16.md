@@ -1,9 +1,9 @@
 ---
-publication: "pbs.org"
-link: "https://www.pbs.org/newshour/world/barbados-leads-charge-for-climate-disaster-financing-at-cop27"
-title: "Barbados leads charge for climate disaster financing at COP27"
-excerpt: "At the U.N. climate summit in Egypt, leaders of developing nations have repeatedly said it's not fair to expect them to cover the costs of rebuilding from devastating weather events in a warming world"
-image: "https://d3i6fh83elv35t.cloudfront.net/static/2022/11/2022-08-17T233446Z_434431918_RC2NYV9FLOKD_RTRMADP_3_CLIMATE-CHANGE-CARIBBEAN-COP27-1024x683.jpg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/opinions/2022/11/09/nigerian-president-cop27-africa-climate-change/"
+title: "Opinion | Muhammadu Buhari: How not to talk with Africa about climate change"
+excerpt: "Africa didn’t cause the mess, yet it pays the price."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AP4LAIA73OM4NZ6CU2XNMC7LNE.JPG&w=1440"
 group: pro
 rank: 16
 ---
