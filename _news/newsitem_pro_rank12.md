@@ -1,9 +1,9 @@
 ---
-publication: "weforum.org"
-link: "https://www.weforum.org/agenda/2022/11/uplink-freshwater-hcl-radio-davos-cop27"
-title: "How can innovation help solve the freshwater crisis?"
-excerpt: "Less than 1% of freshwater on our planet is easily accessible. UpLink is looking for innovative solutions to help protect and restore freshwater ecosystems. "
-image: "https://assets.weforum.org/article/image/responsive_medium_Y4FekgEHk_lJ6l16WD8ofWO_7cgRKx9YBhif7DES9qI.jpg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/17/climate-change-cop27-egypt/"
+title: "Climate talks hit ‘breakdown’ over finance, fossil fuels as time dwindles  "
+excerpt: "With time running out for nations to agree on a road map for tackling climate change, the fate of U.N. climate talks in Egypt appeared in jeopardy Thursday as rich and poor nations continued to disagr"
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IXAVY4FWC5H424R5MHOCV2BSQI.jpg&w=1440"
 group: pro
 rank: 12
 ---

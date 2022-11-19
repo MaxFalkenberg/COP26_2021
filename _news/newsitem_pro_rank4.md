@@ -1,9 +1,9 @@
 ---
-publication: "bylinetimes.com"
-link: "https://bylinetimes.com/2022/11/17/sponsor-microsoft-partnering-with-egypts-big-oil-drive-to-increase-fossil-fuel-investments/"
-title: "Sponsor Microsoft Partnering with Egypt's Big Oil Drive to ‘Increase’ Fossil Fuel Investments – Byline Times"
-excerpt: "Documents reveal Microsoft is working with the Egyptian Government to use COP27 to maximise fossil fuel exploitation – and the owners of the Daily Mail are helping them"
-image: "https://bylinetimes.com/wp-content/uploads/2022/11/2K3CW0F-600x314.jpg"
+publication: "insideclimatenews.org"
+link: "https://insideclimatenews.org/todaysclimate/climate-disinformation-campaigns-threaten-cop27-progress-a-new-report-concludes/"
+title: "Climate Disinformation Campaigns Threaten COP27 Progress, a New Report Concludes - Inside Climate News"
+excerpt: "SHARM EL-SHEIKH, Egypt—The slow pace of global climate talks is once again on display at COP27 this week and can be partially explained by a renewed blitz of climate disinformation, according to watch"
+image: "https://insideclimatenews.org/wp-content/uploads/2022/11/cop_joseph-eid-getty-scaled.jpg"
 group: pro
 rank: 4
 ---

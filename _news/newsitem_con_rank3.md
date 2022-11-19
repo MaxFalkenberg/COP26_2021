@@ -1,9 +1,9 @@
 ---
-publication: "thegatewaypundit.com"
-link: "https://www.thegatewaypundit.com/2022/11/fda-announces-lab-grown-meat-served-cop27-climate-conference-safe-eat-world-experiencing-food-revolution/"
-title: "FDA Announces LAB GROWN MEAT That Was Served at COP27 Climate Conference Is 'SAFE TO EAT': 'The World Is Experiencing A Food Revolution'"
-excerpt: "The US Food and Drug Administration has approved lab-grown meat, a product grown from animal cells, for human consumption for the first time. The FDA announced Wednesday that laboratory-grown chicken "
-image: "https://www.thegatewaypundit.com/wp-content/uploads/221117080338-01-upside-foods-products.jpg"
+publication: "woodstockearth.blogspot.com"
+link: "http://woodstockearth.blogspot.com/2015/11/10-false-solutions-to-climate-change.html"
+title: "Woodstock Earth Blog"
+excerpt: "A blog that addresses issues dealing with human health, the safety of our food supply, and the welfare of Mother Earth."
+image: "http://3.bp.blogspot.com/-CluCF7iDUBQ/VlY2R19nHSI/AAAAAAAAAUE/CQQUZnbrqqQ/w1200-h630-p-k-no-nu/woodstockearthbulletin.jpg"
 group: con
 rank: 3
 ---

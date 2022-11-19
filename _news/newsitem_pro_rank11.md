@@ -1,9 +1,9 @@
 ---
-publication: "climatechangenews.com"
-link: "https://www.climatechangenews.com/2022/11/18/greenwash-alert-as-cop27-draft-allows-double-claiming-of-carbon-credits/"
-title: "Cop27 draft carbon trading rules open door to corporate greenwash"
-excerpt: "Companies and countries could take credit for the same tonne of CO2 cut under rules being negotiated in Sharm el-Sheikh"
-image: "https://cdn.climatechangenews.com/files/2022/11/17191703/Clean-cookstove.jpg"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/us-aims-zero-emissions-heavy-duty-vehicles-by-2040-2022-11-17/"
+title: "U.S. aims for zero-emissions heavy-duty vehicles by 2040"
+excerpt: "The United States aims to only sell and produce zero-emissions medium- and heavy-duty vehicles like school buses and tractor trailers by 2040, the U.S. energy secretary agreed at the COP27 climate sum"
+image: "https://www.reuters.com/resizer/Ae7xg44mm-ZKSaDJ4QPbD5vlP4w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QBIHSDCLSZMDDNGMC7JULIEHCI.jpg"
 group: pro
 rank: 11
 ---

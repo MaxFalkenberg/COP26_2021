@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/world/2022/11/18/EU-proposes-midway-path-on-climate-fund-to-unblock-COP27-talks"
-title: "EU proposes midway path on climate fund to unblock COP27 talks"
-excerpt: "Climate negotiators on Friday were mulling a late-night European Union proposal aimed at resolving a stubborn impasse over financing for countries hit by"
-image: "https://vid.alarabiya.net/images/2022/05/02/0c8490cb-0523-42d8-a981-08b27dd1eed7/0c8490cb-0523-42d8-a981-08b27dd1eed7_16x9_600x338.JPG"
+publication: "theclaudeslaw.wordpress.com"
+link: "https://theclaudeslaw.wordpress.com/2022/11/18/domestic-affairs-are-to-be-addressed-and-taken-more-seriously/"
+title: "Domestic Affairs are to be Addressed and Taken More Seriously"
+excerpt: "School strike week 222. #FridaysForFuture #ClimateStrike #PeopleNotProfit Our World Leaders. Have a duty to take. Domestic Affairs more seriously. {UK Crisis}#ClimateJustice #ClimateInequality #COP…"
+image: "https://theclaudeslaw.files.wordpress.com/2021/06/0001-742512986_20210503_144120_0000.png?w=200"
 group: con
 rank: 13
 ---
