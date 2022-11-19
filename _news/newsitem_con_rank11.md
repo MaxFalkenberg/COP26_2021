@@ -1,9 +1,9 @@
 ---
-publication: "terragaia.wordpress.com"
-link: "https://terragaia.wordpress.com/2022/11/18/germany-g7-launch-global-shield-climate-finance-at-cop27/"
-title: "Germany, G7 launch ‘Global Shield’ climate finance at COP27"
-excerpt: "The initiative aims to get cash quickly to communities in low-income countries struck by climate disaster. But critics call it a “distraction” from a real loss and damage fund. By Jenni…"
-image: "https://terragaia.files.wordpress.com/2022/11/04164749_145409_gd.jpg"
+publication: "notalotofpeopleknowthat.wordpress.com"
+link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/17/staggering-disconnect-climate-summit-boasts-opulent-beef-seafood-menu-despite-spearheading-anti-meat-initiatives/"
+title: "‘Staggering Disconnect’: Climate Summit Boasts Opulent Beef, Seafood Menu Despite Spearheading Anti-Meat Initiatives"
+excerpt: "By Paul Homewood   h/t 1saveenergy   Meat for me, but not for thee!         World leaders and officials attending the United Nations COP27 climate conference can spend…"
+image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb-66.png"
 group: con
 rank: 11
 ---

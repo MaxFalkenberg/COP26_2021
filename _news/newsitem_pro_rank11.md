@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/18/john-kerry-covid-cop27-climate/"
-title: "John Kerry tests positive for coronavirus, complicating end of climate talks"
-excerpt: "U.S. special climate envoy John Kerry has tested positive for coronavirus as COP27 nears its uncertain conclusion. "
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5XCRBSDHQEI63MEMHTRCEYDQLE.jpg&w=1440"
+publication: "climatechangenews.com"
+link: "https://www.climatechangenews.com/2022/11/19/eu-developing-countries-cop27-deal-offers-hope-to-climate-victims/"
+title: "EU-developing countries' Cop27 deal offers hope to climate victims"
+excerpt: "In a breakthrough at Sharm el-Sheikh talks, the EU agreed to back a dedicated fund for climate-related loss and damage"
+image: "https://cdn.climatechangenews.com/files/2022/11/19131750/Rehman-Munir.png"
 group: pro
 rank: 11
 ---

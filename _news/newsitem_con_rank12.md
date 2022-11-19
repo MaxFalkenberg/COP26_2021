@@ -1,9 +1,9 @@
 ---
-publication: "rpujolviven.blogspot.com"
-link: "https://rpujolviven.blogspot.com/2016/10/hypocrisy-to-fight-against-climate.html"
-title: "Hypocrisy: to fight against climate change in home when own oil is sold far from your home"
-excerpt: " '... In the oil business, you can work neck up or neck down: the first option you enriches while the second you only get dirty ...'     Tay..."
-image: "https://4.bp.blogspot.com/-7rfOmsZ8tRo/WBTbiqDnF8I/AAAAAAAACIc/w1Tjeb-f-Zk-F_n4ajsfYhiuwNuiZgDlACLcB/w1200-h630-p-k-no-nu/00096721.jpg"
+publication: "notalotofpeopleknowthat.wordpress.com"
+link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/18/an-extremely-nice-summer/"
+title: "An Extreme(ly Nice) Summer"
+excerpt: "By Paul Homewood I see the BBC/Met Office are up to their extreme weather scam again! (Timed to coincide with COP27 of course):       Extreme weather events have affected most of the…"
+image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb-78.png"
 group: con
 rank: 12
 ---

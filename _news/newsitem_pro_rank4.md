@@ -1,9 +1,9 @@
 ---
-publication: "insideclimatenews.org"
-link: "https://insideclimatenews.org/todaysclimate/climate-disinformation-campaigns-threaten-cop27-progress-a-new-report-concludes/"
-title: "Climate Disinformation Campaigns Threaten COP27 Progress, a New Report Concludes - Inside Climate News"
-excerpt: "SHARM EL-SHEIKH, Egypt—The slow pace of global climate talks is once again on display at COP27 this week and can be partially explained by a renewed blitz of climate disinformation, according to watch"
-image: "https://insideclimatenews.org/wp-content/uploads/2022/11/cop_joseph-eid-getty-scaled.jpg"
+publication: "theguardian.com"
+link: "https://www.theguardian.com/environment/live/2022/nov/19/cop27-fears-15c-target-danger-negotiations-overrun-live"
+title: "Cop27 live: signs of progress on vital loss and damage talks as draft deal text released"
+excerpt: "After two weeks of negotiations, talks have been extended with countries unable to reach agreement on Friday"
+image: "https://i.guim.co.uk/img/media/a90b85f9e38f9ed868cdf16d6741f181ff7bccb4/0_6_8338_5003/master/8338.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f99c13f6e66c6f999cd28c37c048a956"
 group: pro
 rank: 4
 ---

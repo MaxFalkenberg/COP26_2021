@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/teenagers-in-polluted-areas-more-likely-to-have-higher-blood-pressure-vtdc9vc5p"
-title: "Teenagers in polluted areas ‘more likely to have higher blood pressure’"
-excerpt: "Teenagers who live in areas with high levels of air pollution are more likely to have high blood pressure, a new study has found, putting them at greater risk o"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fac8c68f6-6694-11ed-9ccc-9d160947f622.jpg?crop=4004%2C2252%2C117%2C526&resize=1200"
+publication: "ctvnews.ca"
+link: "https://www.ctvnews.ca/climate-and-environment/canada-won-t-back-call-at-cop27-to-phase-down-oil-and-gas-production-1.6157657"
+title: "Canada won't back call at COP27 to 'phase down' oil and gas production"
+excerpt: "Environment Minister Steven Guilbeault says Canada will not agree to include language calling for the phaseout of all fossil fuels in the final agreement at this year's United Nations climate talks in"
+image: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/11/17/steven-guilbeault-1-6157670-1668715879159.jpg"
 group: pro
 rank: 8
 ---

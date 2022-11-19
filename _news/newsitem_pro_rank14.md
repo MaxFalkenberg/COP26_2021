@@ -1,9 +1,9 @@
 ---
-publication: "qz.com"
-link: "https://qz.com/cop27-is-leaving-huge-loopholes-for-greenwashing-1849800189"
-title: "COP27 is leaving huge loopholes for greenwashing"
-excerpt: "Negotiations on a new carbon market allow for dubious accounting and lack transparency"
-image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/de7ef63384c2cffcf4cb76f573691291.jpg"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/16/egypt-detentions-repression-follow-protest-calls"
+title: "Egypt: Detentions, Repression Follow Protest Calls"
+excerpt: "Egyptian authorities have reportedly detained hundreds of people in a nationwide crackdown following calls for anti-government protests."
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211afr_egypt_cop27_climate_protest.jpg?h=a130fd67&itok=PMtqChhx"
 group: pro
 rank: 14
 ---
