@@ -1,9 +1,9 @@
 ---
-publication: "ctvnews.ca"
-link: "https://www.ctvnews.ca/climate-and-environment/canada-won-t-back-call-at-cop27-to-phase-down-oil-and-gas-production-1.6157657"
-title: "Canada won't back call at COP27 to 'phase down' oil and gas production"
-excerpt: "Environment Minister Steven Guilbeault says Canada will not agree to include language calling for the phaseout of all fossil fuels in the final agreement at this year's United Nations climate talks in"
-image: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/11/17/steven-guilbeault-1-6157670-1668715879159.jpg"
+publication: "democracynow.org"
+link: "https://www.democracynow.org/2022/11/17/eriel_deranger_tom_goldtooth_at_cop27"
+title: "Indigenous Activists Tom Goldtooth & Eriel Deranger on the Link Between Colonialism & Climate Crisis"
+excerpt: "Democracy Now! is broadcasting live from COP27, the U.N. climate conference in Sharm el-Sheikh, Egypt, where hundreds of activists protested outside the plenary hall Thursday to demand climate justice"
+image: "https://www.democracynow.org/images/story/30/65230/full_hd/seg1-Goldtooth-Eriel.jpg"
 group: pro
 rank: 13
 ---

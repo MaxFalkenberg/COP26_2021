@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/20/is-cop27-the-end-of-hopes-for-limiting-global-warming-to-1-5-degrees-celsius-auspol-climatecrisis-ecologicalcrisis-economiccrisis-tellthetruth-insiders/"
-title: "Is COP27 the End of Hopes for Limiting Global Warming to 1.5 Degrees Celsius? #auspol #ClimateCrisis #EcologicalCrisis #EconomicCrisis #TellTheTruth #insiders"
-excerpt: "The climate talks are going into overtime with little progress toward the emissions cuts required to meet the goals of the Paris Agreement. BY Bob Berwyn November 18, 2022 18 November 2022, Egypt, …"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_2003.jpg"
+publication: "gulfnews.com"
+link: "https://gulfnews.com/"
+title: "Gulf News: Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema"
+excerpt: "Get the latest update on UAE, business, life style, UAE jobs, gold rate, Exchange rate, UAE holidays, Dubai police, RTA and prayer times from UAE’s largest news portal."
+image: "https://assets.gulfnews.com/images/gn-logo-1200x630.png"
 group: con
 rank: 10
 ---

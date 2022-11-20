@@ -1,9 +1,9 @@
 ---
-publication: "democracynow.org"
-link: "https://www.democracynow.org/2022/11/17/eriel_deranger_tom_goldtooth_at_cop27"
-title: "Indigenous Activists Tom Goldtooth & Eriel Deranger on the Link Between Colonialism & Climate Crisis"
-excerpt: "Democracy Now! is broadcasting live from COP27, the U.N. climate conference in Sharm el-Sheikh, Egypt, where hundreds of activists protested outside the plenary hall Thursday to demand climate justice"
-image: "https://www.democracynow.org/images/story/30/65230/full_hd/seg1-Goldtooth-Eriel.jpg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/opinions/2022/11/09/nigerian-president-cop27-africa-climate-change/"
+title: "Opinion | Muhammadu Buhari: How not to talk with Africa about climate change"
+excerpt: "Africa didn’t cause the mess, yet it pays the price."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AP4LAIA73OM4NZ6CU2XNMC7LNE.JPG&w=1440"
 group: pro
 rank: 15
 ---
