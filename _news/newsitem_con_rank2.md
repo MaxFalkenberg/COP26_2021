@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-20/COP27-China-s-envoy-expects-consultation-with-U-S-to-continue-1f6zMNYgwAE/index.html"
-title: "COP27: China's envoy expects consultation with U.S. to continue"
-excerpt: "China's special envoy for climate change, Xie Zhenhua, said on Saturday he expects to continue direct consultations on climate change with his U.S. counterpart John Kerry after the COP27 summit in Egy"
-image: "https://news.cgtn.com/news/2022-11-20/COP27-China-s-envoy-expects-consultation-with-U-S-to-continue-1f6zMNYgwAE/img/252ec59239b941c1831b390fdd719a1e/252ec59239b941c1831b390fdd719a1e-750.png"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/21/the-world-votes-for-climate-hell-cop27-ecologicalcrisis-climatecrisis-economiccrisis-tellthetruth-auspol-hyperthreat-time-for-plane/"
+title: "The world votes for “climate hell” #COP27 #EcologicalCrisis #ClimateCrisis #EconomicCrisis #TellTheTruth #auspol Hyperthreat time for #PlanE"
+excerpt: "The world votes for “climate hell” By Julian CribbNov 21, 2022 Something of epochal importance happened in Egypt last week – the most significant event since Cheops shoved up his triangular monumen…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1970.jpg"
 group: con
 rank: 2
 ---

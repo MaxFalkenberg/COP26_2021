@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63693738"
-title: "Climate change: Five key takeaways from COP27"
-excerpt: "The biggest win on climate since the Paris Agreement in 2015... or the biggest loss?"
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/4FE2/production/_127705402_f6c5f2e6042db43ee1b6a1c89fcec448c26c47fb0_0_5500_36671000x667.jpg"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/16/governments-should-commit-fossil-fuel-phase-out-cop27"
+title: "Governments Should Commit to Fossil Fuel Phase Out at COP27"
+excerpt: "In these closing days of COP27, governments are negotiating the final text detailing the key agreements reached at the United Nations climate change summit in Egypt. The first glimpse of that document"
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211mena_egypt_COP27_Sharm_El_Sheikh_Fossil_Fuels_Phase_Out_action.jpg?h=34bbd072&itok=0ph06ZHN"
 group: pro
 rank: 13
 ---

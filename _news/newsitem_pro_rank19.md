@@ -1,9 +1,9 @@
 ---
-publication: "news.sky.com"
-link: "https://news.sky.com/story/countries-celebrate-first-ever-fund-for-climate-damages-as-cop27-deal-published-12751046"
-title: "COP27: Countries agree fund for climate-hit poor nations - but doubts remain over 1.5C warming limit"
-excerpt: "Negotiators at COP27 approve a deal to compensate poorer nations that are victims of climate change - but there is little progress in combating the root cause of global warming, the burning of fossil "
-image: "https://e3.365dm.com/22/11/1600x900/skynews-cop27-egypt-protest_5971425.jpg?20221119160426"
+publication: "democracynow.org"
+link: "https://www.democracynow.org/2022/11/17/eriel_deranger_tom_goldtooth_at_cop27"
+title: "Indigenous Activists Tom Goldtooth & Eriel Deranger on the Link Between Colonialism & Climate Crisis"
+excerpt: "Democracy Now! is broadcasting live from COP27, the U.N. climate conference in Sharm el-Sheikh, Egypt, where hundreds of activists protested outside the plenary hall Thursday to demand climate justice"
+image: "https://www.democracynow.org/images/story/30/65230/full_hd/seg1-Goldtooth-Eriel.jpg"
 group: pro
 rank: 19
 ---

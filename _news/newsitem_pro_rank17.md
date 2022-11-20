@@ -1,9 +1,9 @@
 ---
-publication: "economist.com"
-link: "https://www.economist.com/the-economist-explains/2022/11/17/what-is-the-fossil-fuel-industry-doing-at-cop27"
-title: "What is the fossil-fuel industry doing at COP27?"
-excerpt: "Its representatives are mainly shilling gas"
-image: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221119_BLP509.jpg"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63677466"
+title: "COP27: Climate costs deal struck but no fossil fuel progress"
+excerpt: "Rich nations will pay climate damages, but the final deal does not cut fossil fuels further."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/5E60/production/_127706142_gettyimages-1244896339.jpg"
 group: pro
 rank: 17
 ---

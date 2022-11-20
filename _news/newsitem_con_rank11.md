@@ -1,9 +1,9 @@
 ---
-publication: "wesuspectsilence.wordpress.com"
-link: "https://wesuspectsilence.wordpress.com/2022/07/04/when-thinking-about-fossil-fuel-phase-outs-the-key-word-is-unabated/"
-title: "When thinking about fossil fuel phase-outs: The key word is ‘unabated’"
-excerpt: "Is it conceivable that the oldest and wealthiest pillar of industrial globalist power could contrive to use philanthropy and every other covert means available to shape and compromise the resistanc…"
-image: "https://wesuspectsilence.files.wordpress.com/2022/07/unabated_3.jpg"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/20/France-regrets-COP27-s-lack-of-ambition-despite-progress-Minister-"
+title: "France regrets COP27’s ‘lack of ambition’ despite progress: Minister   "
+excerpt: "France on Sunday said it regretted the “lack of ambition” in the agreement reached at the COP27 climate summit in Egypt despite progress on providing"
+image: "https://vid.alarabiya.net/images/2022/11/20/f275ea92-a788-48a2-9d1e-6f08c83d744a/f275ea92-a788-48a2-9d1e-6f08c83d744a_16x9_600x338.PNG"
 group: con
 rank: 11
 ---

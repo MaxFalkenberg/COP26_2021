@@ -1,9 +1,9 @@
 ---
-publication: "english.news.cn"
-link: "https://english.news.cn/20221119/856602364ce94b59ae407941c08f8dab/c.html"
-title: "S. Africa welcomes COP27 outcomes"
-excerpt: "S. Africa welcomes COP27 outcomes-"
-image: "zxcode_20221119856602364ce94b59ae407941c08f8dab.jpg"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1279999.shtml"
+title: "COP27 concludes on Sunday, yields ‘historic’ deal on climate loss and damage  "
+excerpt: "In what has been hailed as a "
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/8f25207c-64e3-4e1d-bfd1-ba3da6750b77_s.jpeg"
 group: con
 rank: 8
 ---
