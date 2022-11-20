@@ -1,9 +1,9 @@
 ---
-publication: "globaltimes.cn"
-link: "https://www.globaltimes.cn/page/202211/1279999.shtml"
-title: "COP27 concludes on Sunday, yields ‘historic’ deal on climate loss and damage  "
-excerpt: "In what has been hailed as a "
-image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/8f25207c-64e3-4e1d-bfd1-ba3da6750b77_s.jpeg"
+publication: "wesuspectsilence.wordpress.com"
+link: "https://wesuspectsilence.wordpress.com/2022/07/04/when-thinking-about-fossil-fuel-phase-outs-the-key-word-is-unabated/"
+title: "When thinking about fossil fuel phase-outs: The key word is ‘unabated’"
+excerpt: "Is it conceivable that the oldest and wealthiest pillar of industrial globalist power could contrive to use philanthropy and every other covert means available to shape and compromise the resistanc…"
+image: "https://wesuspectsilence.files.wordpress.com/2022/07/unabated_3.jpg"
 group: con
 rank: 12
 ---

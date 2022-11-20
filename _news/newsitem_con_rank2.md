@@ -1,9 +1,9 @@
 ---
-publication: "dailykos.com"
-link: "https://www.dailykos.com/story/2022/11/17/2134235/-Caribbean-Matters-At-COP27-Barbados-PM-Mia-Mottley-is-a-powerful-voice-addressing-climate-change"
-title: "Caribbean Matters: At COP27, Barbados PM Mia Mottley is a powerful voice addressing climate change"
-excerpt: "While many people here in the U.S. have been focused on the midterm elections�and results, which are still coming in, nations around the world have been participating in COP27 .�More formally known .."
-image: "https://images.dailykos.com/images/1134333/story_image/GettyImages-1244608437.jpg?1668523498"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/life/un-cop27-climate-summit-in-egypt-adopts-loss-and-damage-fund-62717"
+title: "UN COP27 climate summit in Egypt adopts 'loss and damage' fund"
+excerpt: "Summit participants agree to compensate poor nations that are victims of extreme weather worsened by rich countries' carbon pollution."
+image: "https://cdni0.trtworld.com/w480/h270/q75/144380_EGY20221911_1668911933459.JPG"
 group: con
 rank: 2
 ---

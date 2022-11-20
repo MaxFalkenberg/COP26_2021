@@ -1,9 +1,9 @@
 ---
-publication: "english.news.cn"
-link: "https://english.news.cn/20221119/856602364ce94b59ae407941c08f8dab/c.html"
-title: "S. Africa welcomes COP27 outcomes"
-excerpt: "S. Africa welcomes COP27 outcomes-"
-image: "zxcode_20221119856602364ce94b59ae407941c08f8dab.jpg"
+publication: "globalresearch.ca"
+link: "https://www.globalresearch.ca/what-a-scam-it-actually-is-assessing-cop27-and-modern-climate-activism/5799585"
+title: "“What a Scam it Actually is.” Assessing COP27 and Modern Climate Activism - Global Research"
+excerpt: "All Global Research articles can be read in 51 languages by activating the “Translate Website” drop down menu on the top banner of our home page (Desktop version). Visit and follow us on Instagram at "
+image: "https://www.globalresearch.ca/wp-content/uploads/2022/11/cop27.jpg"
 group: con
 rank: 10
 ---

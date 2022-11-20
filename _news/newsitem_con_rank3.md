@@ -1,9 +1,9 @@
 ---
-publication: "theorchard.substack.com"
-link: "https://theorchard.substack.com/p/the-contradictions-of-cop27"
-title: "The Contradictions of COP27"
-excerpt: "Fossil fuel lobbyists, politicians, organized labour and environmentalists have all gathered in Egypt to try and put their stamp on the future of climate policy."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0b324ba8-221a-4bb1-81a5-9c4daa2e15ec_640x421.jpeg"
+publication: "news.cgtn.com"
+link: "https://news.cgtn.com/news/2022-11-20/COP27-China-s-envoy-expects-consultation-with-U-S-to-continue-1f6zMNYgwAE/index.html"
+title: "COP27: China's envoy expects consultation with U.S. to continue"
+excerpt: "China's special envoy for climate change, Xie Zhenhua, said on Saturday he expects to continue direct consultations on climate change with his U.S. counterpart John Kerry after the COP27 summit in Egy"
+image: "https://news.cgtn.com/news/2022-11-20/COP27-China-s-envoy-expects-consultation-with-U-S-to-continue-1f6zMNYgwAE/img/252ec59239b941c1831b390fdd719a1e/252ec59239b941c1831b390fdd719a1e-750.png"
 group: con
 rank: 3
 ---

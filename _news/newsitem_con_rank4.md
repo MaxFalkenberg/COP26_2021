@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/life/un-cop27-climate-summit-in-egypt-adopts-loss-and-damage-fund-62717"
-title: "UN COP27 climate summit in Egypt adopts 'loss and damage' fund"
-excerpt: "Summit participants agree to compensate poor nations that are victims of extreme weather worsened by rich countries' carbon pollution."
-image: "https://cdni0.trtworld.com/w480/h270/q75/144380_EGY20221911_1668911933459.JPG"
+publication: "gulfnews.com"
+link: "https://gulfnews.com/"
+title: "Gulf News: Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema"
+excerpt: "Get the latest update on UAE, business, life style, UAE jobs, gold rate, Exchange rate, UAE holidays, Dubai police, RTA and prayer times from UAE’s largest news portal."
+image: "https://assets.gulfnews.com/images/gn-logo-1200x630.png"
 group: con
 rank: 4
 ---
