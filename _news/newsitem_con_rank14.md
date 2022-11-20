@@ -1,9 +1,9 @@
 ---
-publication: "rt.com"
-link: "https://www.rt.com/business/566815-german-producers-meat-shortages/"
-title: "German producers warn of meat shortages – Die Welt"
-excerpt: "Meat producers in Germany expect supply bottlenecks within half a year, Die Welt reports"
-image: "https://mf.b37mrtl.ru/files/2022.11/article/6378984485f5403ea657fc4e.jpg"
+publication: "climatism.wordpress.com"
+link: "https://climatism.wordpress.com/2015/12/10/stormy-weather-ushered-in-the-little-ice-age-hh-lamb/"
+title: "Stormy Weather Ushered In The Little Ice Age – HH Lamb"
+excerpt: "Reblogged on WordPress.com"
+image: "https://climatism.files.wordpress.com/2015/12/scan_thumb.jpg"
 group: con
 rank: 14
 ---
