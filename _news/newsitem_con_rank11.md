@@ -1,9 +1,9 @@
 ---
-publication: "climateawarenessreport.wordpress.com"
-link: "https://climateawarenessreport.wordpress.com/2022/11/20/cop27-makes-ground-on-loss-damage/"
-title: "COP27 Makes Ground on Loss & Damage"
-excerpt: "Various attempts to salvage the stalled talks have yielded results with adoption of decision on establishing a loss and damage fund. After innumerable hiccups over the text of overarching cover dec…"
-image: "https://climateawarenessreport.files.wordpress.com/2022/11/eo0a4450.jpg"
+publication: "wesuspectsilence.wordpress.com"
+link: "https://wesuspectsilence.wordpress.com/2022/07/04/when-thinking-about-fossil-fuel-phase-outs-the-key-word-is-unabated/"
+title: "When thinking about fossil fuel phase-outs: The key word is ‘unabated’"
+excerpt: "Is it conceivable that the oldest and wealthiest pillar of industrial globalist power could contrive to use philanthropy and every other covert means available to shape and compromise the resistanc…"
+image: "https://wesuspectsilence.files.wordpress.com/2022/07/unabated_3.jpg"
 group: con
 rank: 11
 ---

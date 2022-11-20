@@ -1,9 +1,9 @@
 ---
-publication: "globalresearch.ca"
-link: "https://www.globalresearch.ca/what-a-scam-it-actually-is-assessing-cop27-and-modern-climate-activism/5799585"
-title: "“What a Scam it Actually is.” Assessing COP27 and Modern Climate Activism - Global Research"
-excerpt: "All Global Research articles can be read in 51 languages by activating the “Translate Website” drop down menu on the top banner of our home page (Desktop version). Visit and follow us on Instagram at "
-image: "https://www.globalresearch.ca/wp-content/uploads/2022/11/cop27.jpg"
+publication: "rt.com"
+link: "https://www.rt.com/business/566815-german-producers-meat-shortages/"
+title: "German producers warn of meat shortages – Die Welt"
+excerpt: "Meat producers in Germany expect supply bottlenecks within half a year, Die Welt reports"
+image: "https://mf.b37mrtl.ru/files/2022.11/article/6378984485f5403ea657fc4e.jpg"
 group: con
 rank: 14
 ---

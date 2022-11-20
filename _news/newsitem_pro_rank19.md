@@ -1,9 +1,9 @@
 ---
-publication: "democracynow.org"
-link: "https://www.democracynow.org/2022/11/17/eriel_deranger_tom_goldtooth_at_cop27"
-title: "Indigenous Activists Tom Goldtooth & Eriel Deranger on the Link Between Colonialism & Climate Crisis"
-excerpt: "Democracy Now! is broadcasting live from COP27, the U.N. climate conference in Sharm el-Sheikh, Egypt, where hundreds of activists protested outside the plenary hall Thursday to demand climate justice"
-image: "https://www.democracynow.org/images/story/30/65230/full_hd/seg1-Goldtooth-Eriel.jpg"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/countries-agree-loss-damage-fund-final-cop27-deal-elusive-2022-11-20/"
+title: "COP27 deal delivers landmark on 'loss and damage', but little else"
+excerpt: "Countries adopted a hard-fought final agreement at the climate summit that sets up a fund to help poor countries battered by climate disasters, but does not boost efforts to tackle the emissions causi"
+image: "https://www.reuters.com/resizer/rLN6jKRjivefGh3YGQKZxZB1YK4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RGUNQZL2BZLSJISBOOYWHGUDEM.jpg"
 group: pro
 rank: 19
 ---
