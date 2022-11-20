@@ -1,9 +1,9 @@
 ---
 publication: "climatechangenews.com"
-link: "https://www.climatechangenews.com/2022/11/19/eu-developing-countries-cop27-deal-offers-hope-to-climate-victims/"
-title: "EU-developing countries' Cop27 deal offers hope to climate victims"
-excerpt: "In a breakthrough at Sharm el-Sheikh talks, the EU agreed to back a dedicated fund for climate-related loss and damage"
-image: "https://cdn.climatechangenews.com/files/2022/11/19131750/Rehman-Munir.png"
+link: "https://www.climatechangenews.com/2022/11/20/in-low-energy-finish-oil-and-gas-escape-censure-at-cop27/"
+title: "In low-energy finish, oil and gas escape censure at Cop27"
+excerpt: "At dawn on Sunday, exhausted negotiators accepted a climate deal in Sharm el-Sheikh that paves the way to a fund for climate victims but falls short on mitigation"
+image: "https://cdn.climatechangenews.com/files/2022/11/20044500/52511583763_d9262117ef_c-e1668919539782.jpg"
 group: pro
 rank: 7
 ---
