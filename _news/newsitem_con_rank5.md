@@ -1,9 +1,9 @@
 ---
-publication: "globaltimes.cn"
-link: "https://www.globaltimes.cn/page/202211/1279939.shtml"
-title: "China plays a pivotal role in combating climate change, has supported various related projects: Egyptian Ambassador "
-excerpt: "The high level of cooperation between China and the Egyptian presidency of COP27 continues to become stronger, with far reaching results that will have a lasting positive impact for both peoples and t"
-image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/8f25207c-64e3-4e1d-bfd1-ba3da6750b77_s.jpeg"
+publication: "news.cgtn.com"
+link: "https://news.cgtn.com/news/2022-11-20/COP27-China-s-envoy-expects-consultation-with-U-S-to-continue-1f6zMNYgwAE/index.html"
+title: "COP27: China's envoy expects consultation with U.S. to continue"
+excerpt: "China's special envoy for climate change, Xie Zhenhua, said on Saturday he expects to continue direct consultations on climate change with his U.S. counterpart John Kerry after the COP27 summit in Egy"
+image: "https://news.cgtn.com/news/2022-11-20/COP27-China-s-envoy-expects-consultation-with-U-S-to-continue-1f6zMNYgwAE/img/252ec59239b941c1831b390fdd719a1e/252ec59239b941c1831b390fdd719a1e-750.png"
 group: con
 rank: 5
 ---

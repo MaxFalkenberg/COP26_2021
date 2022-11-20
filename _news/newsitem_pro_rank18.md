@@ -1,9 +1,9 @@
 ---
 publication: "democracynow.org"
-link: "https://www.democracynow.org/2022/11/16/activists_mobilize_stop_construction_east_african"
-title: "“A Carbon Bomb”: Movement Grows Against EACOP East African Pipeline Funded by France’s Total & China"
-excerpt: "COP27 in Sharm el-Sheikh, Egypt, has been called the African COP, but many African climate activists cannot afford to attend. Broadcasting from the summit, we speak to Omar Elmawi, campaign coordinato"
-image: "https://www.democracynow.org/images/story/03/65203/full_hd/seg3-STOP-EACOP.jpg"
+link: "https://www.democracynow.org/2022/11/17/eriel_deranger_tom_goldtooth_at_cop27"
+title: "Indigenous Activists Tom Goldtooth & Eriel Deranger on the Link Between Colonialism & Climate Crisis"
+excerpt: "Democracy Now! is broadcasting live from COP27, the U.N. climate conference in Sharm el-Sheikh, Egypt, where hundreds of activists protested outside the plenary hall Thursday to demand climate justice"
+image: "https://www.democracynow.org/images/story/30/65230/full_hd/seg1-Goldtooth-Eriel.jpg"
 group: pro
 rank: 18
 ---
