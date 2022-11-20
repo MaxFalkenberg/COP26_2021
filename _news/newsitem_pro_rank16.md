@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/opinions/2022/11/09/nigerian-president-cop27-africa-climate-change/"
-title: "Opinion | Muhammadu Buhari: How not to talk with Africa about climate change"
-excerpt: "Africa didn’t cause the mess, yet it pays the price."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AP4LAIA73OM4NZ6CU2XNMC7LNE.JPG&w=1440"
+publication: "apnews.com"
+link: "https://apnews.com/article/united-nations-john-kerry-climate-and-environment-18f6e5cb8183c59ceaf0cf2408842e6c"
+title: "Last minute objections threaten historic UN climate deal"
+excerpt: "SHARM EL-SHEIKH, Egypt (AP) — A last minute fight over emissions cutting and the overall climate change goal is delaying a potentially historic deal that would create a fund for compensating poor nati"
+image: "https://storage.googleapis.com/afs-prod/media/299277c09cc84c45bc588086bddd9883/3000.jpeg"
 group: pro
 rank: 16
 ---

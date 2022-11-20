@@ -1,9 +1,9 @@
 ---
-publication: "theglobeandmail.com"
-link: "https://www.theglobeandmail.com/canada/article-canada-wont-back-call-at-cop27-to-phase-down-oil-and-gas-production-2/"
-title: "Canada won’t back call at COP27 to ‘phase down’ oil and gas production"
-excerpt: "Environment Minister Steven Guilbeault says Canada won’t be backing call to phase out oil and gas production at COP27"
-image: "https://www.theglobeandmail.com/resizer/gXMU1jJsd-_73Vdkfkkvq0vzbKM=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OYHGSY2S2NIATHXCZJ4CZ5VW5U.jpg"
+publication: "independent.co.uk"
+link: "https://www.independent.co.uk/climate-change/news/cop27-loss-and-damage-text-b2228639.html"
+title: "Cop27: Draft loss and damage text says countries will set up fund "
+excerpt: "It is the key demand of developing countries particularly vulnerable to the climate crisis"
+image: "https://static.independent.co.uk/2022/11/12/10/COP27_State_of_Negotiations._24291.jpg?quality=75&width=1200&auto=webp"
 group: pro
 rank: 18
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "pbs.org"
-link: "https://www.pbs.org/newshour/world/barbados-leads-charge-for-climate-disaster-financing-at-cop27"
-title: "Barbados leads charge for climate disaster financing at COP27"
-excerpt: "At the U.N. climate summit in Egypt, leaders of developing nations have repeatedly said it's not fair to expect them to cover the costs of rebuilding from devastating weather events in a warming world"
-image: "https://d3i6fh83elv35t.cloudfront.net/static/2022/11/2022-08-17T233446Z_434431918_RC2NYV9FLOKD_RTRMADP_3_CLIMATE-CHANGE-CARIBBEAN-COP27-1024x683.jpg"
+publication: "ctvnews.ca"
+link: "https://www.ctvnews.ca/climate-and-environment/canada-won-t-back-call-at-cop27-to-phase-down-oil-and-gas-production-1.6157657"
+title: "Canada won't back call at COP27 to 'phase down' oil and gas production"
+excerpt: "Environment Minister Steven Guilbeault says Canada will not agree to include language calling for the phaseout of all fossil fuels in the final agreement at this year's United Nations climate talks in"
+image: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/11/17/steven-guilbeault-1-6157670-1668715879159.jpg"
 group: pro
 rank: 12
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "climatechangenews.com"
-link: "https://www.climatechangenews.com/2022/11/19/eu-developing-countries-cop27-deal-offers-hope-to-climate-victims/"
-title: "EU-developing countries' Cop27 deal offers hope to climate victims"
-excerpt: "In a breakthrough at Sharm el-Sheikh talks, the EU agreed to back a dedicated fund for climate-related loss and damage"
-image: "https://cdn.climatechangenews.com/files/2022/11/19131750/Rehman-Munir.png"
+publication: "truthout.org"
+link: "https://truthout.org/articles/greenwashing-governments-and-oil-companies-turned-cop27-into-a-climate-disaster/"
+title: "COP27 Looked More Like a Fossil Fuel Industry Trade Show Than a Climate Summit"
+excerpt: "In the end, COP27 looked more like a fossil fuel industry trade show than a climate summit."
+image: "https://truthout.org/wp-content/uploads/2022/11/2022_1118-cop27-1200x675.jpg"
 group: pro
 rank: 6
 ---
