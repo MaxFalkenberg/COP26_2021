@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63584993.amp"
-title: "BP chief listed as COP27 delegate for Mauritania - BBC News"
-excerpt: "Chief executive of leading oil company is registered for COP27 as a delegate from poor African nation."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/9DE3/production/_127591404_8b02a6d3109de19484839f21a08d34e1284f7485.jpg"
+publication: "thenational.scot"
+link: "https://www.thenational.scot/news/23136855.fm-celebrates-inclusion-loss-damage-fund-cop27-agreement/"
+title: "Nicola Sturgeon welcomes loss and damage fund as COP27 talks drag on"
+excerpt: "NICOLA Sturgeon has welcomed the establishment of a loss and damage fund for developing nations in the draft text of the COP27 agreement."
+image: "https://www.thenational.scot/resources/images/16098637/?type=og-image"
 group: pro
 rank: 15
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/united-nations-john-kerry-climate-and-environment-18f6e5cb8183c59ceaf0cf2408842e6c"
-title: "UN climate deal: Calamity cash, but no new emissions cuts"
-excerpt: "SHARM EL-SHEIKH, Egypt (AP) — For the first time, the nations of the world decided to help pay for the damage an overheating world is inflicting on poor countries, but they finished marathon climate t"
-image: "https://storage.googleapis.com/afs-prod/media/3cc034ecb1f740269f8e2a73f45a4f47/3000.jpeg"
+publication: "theguardian.com"
+link: "https://www.theguardian.com/environment/live/2022/nov/19/cop27-fears-15c-target-danger-negotiations-overrun-live"
+title: "Cop27: members ‘deeply disappointed’ by summit outcomes despite historic loss and damage fund – live"
+excerpt: "Despite breakthrough on fund for developing nations, Cop27 outcomes look disappointingly similar to last year’s climate summit in Scotland"
+image: "https://i.guim.co.uk/img/media/348496d446307c7e3dc16727fa7877860546e124/0_288_8640_5184/master/8640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ba9593fc9866dc4f4d093662a01ec34c"
 group: pro
 rank: 3
 ---

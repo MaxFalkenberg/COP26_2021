@@ -1,9 +1,9 @@
 ---
-publication: "thenational.scot"
-link: "https://www.thenational.scot/news/23136855.fm-celebrates-inclusion-loss-damage-fund-cop27-agreement/"
-title: "Nicola Sturgeon welcomes loss and damage fund as COP27 talks drag on"
-excerpt: "NICOLA Sturgeon has welcomed the establishment of a loss and damage fund for developing nations in the draft text of the COP27 agreement."
-image: "https://www.thenational.scot/resources/images/16098637/?type=og-image"
+publication: "truthout.org"
+link: "https://truthout.org/articles/greenwashing-governments-and-oil-companies-turned-cop27-into-a-climate-disaster/"
+title: "COP27 Looked More Like a Fossil Fuel Industry Trade Show Than a Climate Summit"
+excerpt: "In the end, COP27 looked more like a fossil fuel industry trade show than a climate summit."
+image: "https://truthout.org/wp-content/uploads/2022/11/2022_1118-cop27-1200x675.jpg"
 group: pro
 rank: 13
 ---

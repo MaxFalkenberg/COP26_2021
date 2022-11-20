@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-20/COP27-China-s-envoy-expects-consultation-with-U-S-to-continue-1f6zMNYgwAE/index.html"
-title: "COP27: China's envoy expects consultation with U.S. to continue"
-excerpt: "China's special envoy for climate change, Xie Zhenhua, said on Saturday he expects to continue direct consultations on climate change with his U.S. counterpart John Kerry after the COP27 summit in Egy"
-image: "https://news.cgtn.com/news/2022-11-20/COP27-China-s-envoy-expects-consultation-with-U-S-to-continue-1f6zMNYgwAE/img/252ec59239b941c1831b390fdd719a1e/252ec59239b941c1831b390fdd719a1e-750.png"
+publication: "gulfnews.com"
+link: "https://gulfnews.com/"
+title: "Gulf News: Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema"
+excerpt: "Get the latest update on UAE, business, life style, UAE jobs, gold rate, Exchange rate, UAE holidays, Dubai police, RTA and prayer times from UAE’s largest news portal."
+image: "https://assets.gulfnews.com/images/gn-logo-1200x630.png"
 group: con
 rank: 6
 ---
