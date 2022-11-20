@@ -1,9 +1,10 @@
 ---
-publication: "climatism.wordpress.com"
-link: "https://climatism.wordpress.com/2015/12/10/stormy-weather-ushered-in-the-little-ice-age-hh-lamb/"
-title: "Stormy Weather Ushered In The Little Ice Age – HH Lamb"
-excerpt: "Reblogged on WordPress.com"
-image: "https://climatism.files.wordpress.com/2015/12/scan_thumb.jpg"
+publication: "awesomecapital.blogspot.com"
+link: "https://awesomecapital.blogspot.com/2022/11/cop27-draft-climate-deal-published-but.html"
+title: "COP27 draft climate deal published but gaps remain"
+excerpt: "
+"
+image: "https://resources.blogblog.com/img/icon18_edit_allbkg.gif"
 group: con
 rank: 13
 ---

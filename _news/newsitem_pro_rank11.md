@@ -1,9 +1,9 @@
 ---
-publication: "aljazeera.com"
-link: "https://www.aljazeera.com/news/2022/11/19/cop27-in-deadlock-as-us-envoy-john-kerry-contracts-covid-19"
-title: "COP27 in deadlock as US envoy John Kerry contracts COVID-19"
-excerpt: "Loss and damage remains a sticking point at COP27, particularly how to compensate poor countries hit by climate change."
-image: "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-11-18T202556Z_429112739_RC2KHX9WHIE4_RTRMADP_3_CLIMATE-UN-KERRY-COVID.jpg?resize=1920%2C1440"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/australias-climate-policies-dont-match-its-big-talk-cop27-2022-11-20/"
+title: "Analysis: Australia's climate policies don't match its big talk at COP27"
+excerpt: "Australia is talking up its green credentials at the annual U.N. climate summit, but its policies do not match the portrayal as it continues to support new mining and energy projects, and fuels the cr"
+image: "https://www.reuters.com/resizer/-izcM534lBSAYeZDX02aqamtzBY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X7YIOP5CDJNFFK3SA6IQ66EE6E.jpg"
 group: pro
 rank: 11
 ---

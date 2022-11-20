@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/business/not-enough-world-leaders-react-to-historic-un-climate-deal-62728"
-title: "'Not enough': World leaders react to historic UN climate deal"
-excerpt: "While receiving praise for the creation of a 'loss and damage' fund, COP27 has been criticised over a failure to push further efforts on cutting emissions to limit global warming to 1.5 degrees Celsiu"
-image: "https://cdni0.trtworld.com/w480/h270/q75/144398_000_32NZ9JG_1668949293716.jpg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/20/is-cop27-the-end-of-hopes-for-limiting-global-warming-to-1-5-degrees-celsius-auspol-climatecrisis-ecologicalcrisis-economiccrisis-tellthetruth-insiders/"
+title: "Is COP27 the End of Hopes for Limiting Global Warming to 1.5 Degrees Celsius? #auspol #ClimateCrisis #EcologicalCrisis #EconomicCrisis #TellTheTruth #insiders"
+excerpt: "The climate talks are going into overtime with little progress toward the emissions cuts required to meet the goals of the Paris Agreement. BY Bob Berwyn November 18, 2022 18 November 2022, Egypt, …"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_2003.jpg"
 group: con
 rank: 7
 ---

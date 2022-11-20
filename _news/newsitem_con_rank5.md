@@ -1,9 +1,9 @@
 ---
-publication: "notalotofpeopleknowthat.wordpress.com"
-link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/20/cop27-is-a-downpayment-on-disaster/"
-title: "COP27 Is A Downpayment On Disaster"
-excerpt: "By Paul Homewood As usual the BBC paints the latest COP as a “historic deal”!       Despite the hype, very little has been achieved, as the BBC have to admit:"
-image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb-86.png"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/business/not-enough-world-leaders-react-to-historic-un-climate-deal-62728"
+title: "'Not enough': World leaders react to historic UN climate deal"
+excerpt: "While receiving praise for the creation of a 'loss and damage' fund, COP27 has been criticised over a failure to push further efforts on cutting emissions to limit global warming to 1.5 degrees Celsiu"
+image: "https://cdni0.trtworld.com/w480/h270/q75/144398_000_32NZ9JG_1668949293716.jpg"
 group: con
 rank: 5
 ---

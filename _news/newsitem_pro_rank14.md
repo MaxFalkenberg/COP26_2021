@@ -1,9 +1,9 @@
 ---
-publication: "thenational.scot"
-link: "https://www.thenational.scot/news/23136855.fm-celebrates-inclusion-loss-damage-fund-cop27-agreement/"
-title: "Nicola Sturgeon welcomes loss and damage fund as COP27 talks drag on"
-excerpt: "NICOLA Sturgeon has welcomed the establishment of a loss and damage fund for developing nations in the draft text of the COP27 agreement."
-image: "https://www.thenational.scot/resources/images/16098637/?type=og-image"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/16/governments-should-commit-fossil-fuel-phase-out-cop27"
+title: "Governments Should Commit to Fossil Fuel Phase Out at COP27"
+excerpt: "In these closing days of COP27, governments are negotiating the final text detailing the key agreements reached at the United Nations climate change summit in Egypt. The first glimpse of that document"
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211mena_egypt_COP27_Sharm_El_Sheikh_Fossil_Fuels_Phase_Out_action.jpg?h=34bbd072&itok=0ph06ZHN"
 group: pro
 rank: 14
 ---
