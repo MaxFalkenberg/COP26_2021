@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/20/cop27-climate-conference-deal-fund/"
-title: "COP27 leaves world on dangerous warming path despite historic climate fund"
-excerpt: "The final decision of the U.N. Climate Conference in Egypt made little progress on emissions-cutting measures that could avert worse disasters to come."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I3IJMCUUJQB43MYAJABOEQOKOE.JPG&w=1440"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/countries-agree-loss-damage-fund-final-cop27-deal-elusive-2022-11-20/"
+title: "COP27 deal delivers landmark on 'loss and damage', but little else"
+excerpt: "Countries adopted a hard-fought final agreement at the climate summit that sets up a fund to help poor countries battered by climate disasters, but does not boost efforts to tackle the emissions causi"
+image: "https://www.reuters.com/resizer/rLN6jKRjivefGh3YGQKZxZB1YK4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RGUNQZL2BZLSJISBOOYWHGUDEM.jpg"
 group: pro
 rank: 13
 ---
