@@ -1,9 +1,9 @@
 ---
-publication: "democracynow.org"
-link: "https://www.democracynow.org/2022/11/16/activists_mobilize_stop_construction_east_african"
-title: "“A Carbon Bomb”: Movement Grows Against EACOP East African Pipeline Funded by France’s Total & China"
-excerpt: "COP27 in Sharm el-Sheikh, Egypt, has been called the African COP, but many African climate activists cannot afford to attend. Broadcasting from the summit, we speak to Omar Elmawi, campaign coordinato"
-image: "https://www.democracynow.org/images/story/03/65203/full_hd/seg3-STOP-EACOP.jpg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/opinions/2022/11/09/nigerian-president-cop27-africa-climate-change/"
+title: "Opinion | Muhammadu Buhari: How not to talk with Africa about climate change"
+excerpt: "Africa didn’t cause the mess, yet it pays the price."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AP4LAIA73OM4NZ6CU2XNMC7LNE.JPG&w=1440"
 group: pro
 rank: 17
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-19/COP27-renews-the-global-hope-of-fighting-climate-change--1f0UbsZPd5u/index.html"
-title: "COP27 renews the global hope of fighting climate change "
-excerpt: "Fighting climate change requires collective efforts and continuous dialogue between all stakeholders, both developing and developed countries."
-image: "https://news.cgtn.com/news/2022-11-19/COP27-renews-the-global-hope-of-fighting-climate-change--1f0UbsZPd5u/img/12a487b073854077afc859394e00524d/12a487b073854077afc859394e00524d-1280.jpeg"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1279939.shtml"
+title: "China plays a pivotal role in combating climate change, has supported various related projects: Egyptian Ambassador "
+excerpt: "The high level of cooperation between China and the Egyptian presidency of COP27 continues to become stronger, with far reaching results that will have a lasting positive impact for both peoples and t"
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/8f25207c-64e3-4e1d-bfd1-ba3da6750b77_s.jpeg"
 group: con
 rank: 4
 ---

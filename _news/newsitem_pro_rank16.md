@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/united-nations-john-kerry-climate-and-environment-18f6e5cb8183c59ceaf0cf2408842e6c"
-title: "Last minute objections threaten historic UN climate deal"
-excerpt: "SHARM EL-SHEIKH, Egypt (AP) — A last minute fight over emissions cutting and the overall climate change goal is delaying a potentially historic deal that would create a fund for compensating poor nati"
-image: "https://storage.googleapis.com/afs-prod/media/299277c09cc84c45bc588086bddd9883/3000.jpeg"
+publication: "democracynow.org"
+link: "https://www.democracynow.org/2022/11/17/eriel_deranger_tom_goldtooth_at_cop27"
+title: "Indigenous Activists Tom Goldtooth & Eriel Deranger on the Link Between Colonialism & Climate Crisis"
+excerpt: "Democracy Now! is broadcasting live from COP27, the U.N. climate conference in Sharm el-Sheikh, Egypt, where hundreds of activists protested outside the plenary hall Thursday to demand climate justice"
+image: "https://www.democracynow.org/images/story/30/65230/full_hd/seg1-Goldtooth-Eriel.jpg"
 group: pro
 rank: 16
 ---

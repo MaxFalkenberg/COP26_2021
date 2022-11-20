@@ -1,9 +1,9 @@
 ---
-publication: "thenational.scot"
-link: "https://www.thenational.scot/news/23136855.fm-celebrates-inclusion-loss-damage-fund-cop27-agreement/"
-title: "Nicola Sturgeon welcomes loss and damage fund as COP27 talks drag on"
-excerpt: "NICOLA Sturgeon has welcomed the establishment of a loss and damage fund for developing nations in the draft text of the COP27 agreement."
-image: "https://www.thenational.scot/resources/images/16098637/?type=og-image"
+publication: "pbs.org"
+link: "https://www.pbs.org/newshour/world/barbados-leads-charge-for-climate-disaster-financing-at-cop27"
+title: "Barbados leads charge for climate disaster financing at COP27"
+excerpt: "At the U.N. climate summit in Egypt, leaders of developing nations have repeatedly said it's not fair to expect them to cover the costs of rebuilding from devastating weather events in a warming world"
+image: "https://d3i6fh83elv35t.cloudfront.net/static/2022/11/2022-08-17T233446Z_434431918_RC2NYV9FLOKD_RTRMADP_3_CLIMATE-CHANGE-CARIBBEAN-COP27-1024x683.jpg"
 group: pro
 rank: 14
 ---
