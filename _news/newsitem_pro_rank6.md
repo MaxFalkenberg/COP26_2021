@@ -1,9 +1,9 @@
 ---
-publication: "axios.com"
-link: "https://www.axios.com/2022/11/18/indigenous-activists-seen-not-heard-at-cop27"
-title: "Indigenous activists 'seen, not heard' at COP27"
-excerpt: "Several tell Axios they're being shut out of decision-making dialogues."
-image: "https://images.axios.com/eCA54Sw1ewgfC6q4NsFcj_byhuA=/0x0:1920x1080/1366x768/2022/11/16/1668637546354.jpg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/19/cop27-climate-conference-egypt-updates/"
+title: "COP27 live updates: Nations agree to historic fund to help vulnerable nations with climate disasters"
+excerpt: "All the latest updates from COP27 in Egypt, the United Nations climate change conference in its final hours. "
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F2AWQCWAGH5DTM447D3MWPFA6E.jpg&w=1440"
 group: pro
 rank: 6
 ---

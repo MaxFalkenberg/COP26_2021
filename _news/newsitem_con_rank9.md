@@ -1,10 +1,9 @@
 ---
-publication: "english.aawsat.com"
-link: "https://english.aawsat.com/home/article/3974446/saudi-arabia-commits-25-bln-middle-east-green-initiative"
-title: "Saudi Arabia Commits $2.5 Bln to Middle East Green Initiative "
-excerpt: "Prince Mohammed bin Salman, Crown Prince and Prime Minister, announced on Monday that Saudi Arabia was committing 2.5 billion dollars to the Middle East Green Initiative for the next ten years. 
-He ma"
-image: "https://english.aawsat.com/sites/default/files/styles/large/public/2022/11/07/lmyr_mhmd_bn_slmn_ytwst_lqd_wlmswwlyn_lmshrkyn_fy_tlq_lqm_lthny_mn_mbdr_lshrq_lwst_lkhdr_0.jpeg?itok=mNXDycHm"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/20/is-cop27-the-end-of-hopes-for-limiting-global-warming-to-1-5-degrees-celsius-auspol-climatecrisis-ecologicalcrisis-economiccrisis-tellthetruth-insiders/"
+title: "Is COP27 the End of Hopes for Limiting Global Warming to 1.5 Degrees Celsius? #auspol #ClimateCrisis #EcologicalCrisis #EconomicCrisis #TellTheTruth #insiders"
+excerpt: "The climate talks are going into overtime with little progress toward the emissions cuts required to meet the goals of the Paris Agreement. BY Bob Berwyn November 18, 2022 18 November 2022, Egypt, …"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_2003.jpg"
 group: con
 rank: 9
 ---

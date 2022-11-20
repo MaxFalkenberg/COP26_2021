@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/20/is-cop27-the-end-of-hopes-for-limiting-global-warming-to-1-5-degrees-celsius-auspol-climatecrisis-ecologicalcrisis-economiccrisis-tellthetruth-insiders/"
-title: "Is COP27 the End of Hopes for Limiting Global Warming to 1.5 Degrees Celsius? #auspol #ClimateCrisis #EcologicalCrisis #EconomicCrisis #TellTheTruth #insiders"
-excerpt: "The climate talks are going into overtime with little progress toward the emissions cuts required to meet the goals of the Paris Agreement. BY Bob Berwyn November 18, 2022 18 November 2022, Egypt, …"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_2003.jpg"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/life/loss-and-damage-keeps-cop27-at-standstill-as-talks-continue-overtime-62699"
+title: "'Loss and damage' keeps COP27 at standstill as talks continue overtime"
+excerpt: "A final text to conclude the summit has yet to be agreed upon, with outstanding issues including the creation of a new fund for reparations."
+image: "https://cdni0.trtworld.com/w480/h270/q75/144346_AP22323308727034_1668851410462.jpg"
 group: con
 rank: 10
 ---

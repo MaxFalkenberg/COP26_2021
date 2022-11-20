@@ -1,9 +1,9 @@
 ---
-publication: "truthout.org"
-link: "https://truthout.org/articles/greenwashing-governments-and-oil-companies-turned-cop27-into-a-climate-disaster/"
-title: "COP27 Looked More Like a Fossil Fuel Industry Trade Show Than a Climate Summit"
-excerpt: "In the end, COP27 looked more like a fossil fuel industry trade show than a climate summit."
-image: "https://truthout.org/wp-content/uploads/2022/11/2022_1118-cop27-1200x675.jpg"
+publication: "axios.com"
+link: "https://www.axios.com/2022/11/18/indigenous-activists-seen-not-heard-at-cop27"
+title: "Indigenous activists 'seen, not heard' at COP27"
+excerpt: "Several tell Axios they're being shut out of decision-making dialogues."
+image: "https://images.axios.com/eCA54Sw1ewgfC6q4NsFcj_byhuA=/0x0:1920x1080/1366x768/2022/11/16/1668637546354.jpg"
 group: pro
 rank: 7
 ---
