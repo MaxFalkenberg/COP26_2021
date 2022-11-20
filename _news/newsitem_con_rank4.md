@@ -1,9 +1,9 @@
 ---
-publication: "dailykos.com"
-link: "https://www.dailykos.com/story/2022/11/17/2134235/-Caribbean-Matters-At-COP27-Barbados-PM-Mia-Mottley-is-a-powerful-voice-addressing-climate-change"
-title: "Caribbean Matters: At COP27, Barbados PM Mia Mottley is a powerful voice addressing climate change"
-excerpt: "While many people here in the U.S. have been focused on the midterm elections�and results, which are still coming in, nations around the world have been participating in COP27 .�More formally known .."
-image: "https://images.dailykos.com/images/1134333/story_image/GettyImages-1244608437.jpg?1668523498"
+publication: "news.cgtn.com"
+link: "https://news.cgtn.com/news/2022-11-19/COP27-renews-the-global-hope-of-fighting-climate-change--1f0UbsZPd5u/index.html"
+title: "COP27 renews the global hope of fighting climate change "
+excerpt: "Fighting climate change requires collective efforts and continuous dialogue between all stakeholders, both developing and developed countries."
+image: "https://news.cgtn.com/news/2022-11-19/COP27-renews-the-global-hope-of-fighting-climate-change--1f0UbsZPd5u/img/12a487b073854077afc859394e00524d/12a487b073854077afc859394e00524d-1280.jpeg"
 group: con
 rank: 4
 ---

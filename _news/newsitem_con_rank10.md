@@ -1,9 +1,9 @@
 ---
-publication: "londongreenleft.blogspot.com"
-link: "https://londongreenleft.blogspot.com/2022/11/extract-from-ecosocialism-not-extinction.html"
-title: "Extract From: Ecosocialism Not Extinction  "
-excerpt: "Written by Allan Todd (2022)     “The central preomise of ecosocialism, already suggested by the term itself, is that non-ecological sociali..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOnGFu2WFN8j2gycS06HZ75nEWFUt9D1NBDq-lEWGmFZc0ehRT64ddPVWfVUqWM0wlx6h9catM047Q3HlFivr_j7zniynnGXzXUkbNwsYs89KkQDEdsv803SwGwXV7sU8ubdbFNIo7LZwYyldmPBXiisfqqouBt4GcVM1rQMbf-gWB1F7iYKac9jVB/w1200-h630-p-k-no-nu/ECOSOCIALISM.NOTEXTINCTION%20(1).jpg"
+publication: "news.cgtn.com"
+link: "https://news.cgtn.com/news/2022-11-20/COP27-China-s-envoy-expects-consultation-with-U-S-to-continue-1f6zMNYgwAE/index.html"
+title: "COP27: China's envoy expects consultation with U.S. to continue"
+excerpt: "China's special envoy for climate change Xie Zhenhua said on Saturday he expects to continue direct consultation on climate change with his U.S. counterpart John Kerry after the COP27 summit in Egypt "
+image: "https://news.cgtn.com/news/2022-11-20/COP27-China-s-envoy-expects-consultation-with-U-S-to-continue-1f6zMNYgwAE/img/7c09c2b7842f40d79441eb21b876501d/7c09c2b7842f40d79441eb21b876501d-1280.jpeg"
 group: con
 rank: 10
 ---
