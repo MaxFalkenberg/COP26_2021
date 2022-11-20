@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/united-nations-john-kerry-climate-and-environment-18f6e5cb8183c59ceaf0cf2408842e6c"
-title: "Last minute objections threaten historic UN climate deal"
-excerpt: "SHARM EL-SHEIKH, Egypt (AP) — A last minute fight over emissions cutting and the overall climate change goal is delaying a potentially historic deal that would create a fund for compensating poor nati"
-image: "https://storage.googleapis.com/afs-prod/media/299277c09cc84c45bc588086bddd9883/3000.jpeg"
+publication: "pbs.org"
+link: "https://www.pbs.org/newshour/world/barbados-leads-charge-for-climate-disaster-financing-at-cop27"
+title: "Barbados leads charge for climate disaster financing at COP27"
+excerpt: "At the U.N. climate summit in Egypt, leaders of developing nations have repeatedly said it's not fair to expect them to cover the costs of rebuilding from devastating weather events in a warming world"
+image: "https://d3i6fh83elv35t.cloudfront.net/static/2022/11/2022-08-17T233446Z_434431918_RC2NYV9FLOKD_RTRMADP_3_CLIMATE-CHANGE-CARIBBEAN-COP27-1024x683.jpg"
 group: pro
 rank: 15
 ---

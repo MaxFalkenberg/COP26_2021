@@ -1,9 +1,9 @@
 ---
 publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/19/chris-bowen-on-cop27s-urgent-fight-if-were-not-trying-to-keep-to-1-5c-then-what-are-we-here-for-ecologicalcrisis-cop27-climatecrisis-hyperthreat-auspol-2/"
-title: "Chris Bowen on Cop27’s urgent fight: ‘If we’re not trying to keep to 1.5C then what are we here for?’ #EcologicalCrisis #COP27 #ClimateCrisis #Hyperthreat #auspol"
-excerpt: "Australia’s climate change minister backs proposed loss and damage fund but says 1.5C target is crucial to limiting the bill BY Adam Morton As the Cop27 climate summit in Egypt extends into overtim…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1984.jpg?w=1200"
+link: "https://climateactionaustralia.wordpress.com/2022/11/20/is-cop27-the-end-of-hopes-for-limiting-global-warming-to-1-5-degrees-celsius-auspol-climatecrisis-ecologicalcrisis-economiccrisis-tellthetruth-insiders/"
+title: "Is COP27 the End of Hopes for Limiting Global Warming to 1.5 Degrees Celsius? #auspol #ClimateCrisis #EcologicalCrisis #EconomicCrisis #TellTheTruth #insiders"
+excerpt: "The climate talks are going into overtime with little progress toward the emissions cuts required to meet the goals of the Paris Agreement. BY Bob Berwyn November 18, 2022 18 November 2022, Egypt, …"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_2003.jpg"
 group: con
 rank: 10
 ---
