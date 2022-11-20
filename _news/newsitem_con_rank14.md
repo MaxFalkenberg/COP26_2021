@@ -1,9 +1,9 @@
 ---
-publication: "theorchard.substack.com"
-link: "https://theorchard.substack.com/p/the-contradictions-of-cop27"
-title: "The Contradictions of COP27"
-excerpt: "Fossil fuel lobbyists, politicians, organized labour and environmentalists have all gathered in Egypt to try and put their stamp on the future of climate policy."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0b324ba8-221a-4bb1-81a5-9c4daa2e15ec_640x421.jpeg"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/20/COP27-loss-and-damage-fund-alone-insufficient-to-meet-climate-challenge-Macron"
+title: "COP27 loss and damage fund alone ‘insufficient’ to meet climate challenge: Macron"
+excerpt: "A fund for “loss and damage” to help developing countries deal with climate catastrophes is “largely insufficient,” French President Emmanuel Macron said"
+image: "https://vid.alarabiya.net/images/2022/11/20/8a87112f-21f0-4240-8a41-1bfca8501a67/8a87112f-21f0-4240-8a41-1bfca8501a67_16x9_600x338.PNG"
 group: con
 rank: 14
 ---

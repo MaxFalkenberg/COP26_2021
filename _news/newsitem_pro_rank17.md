@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/20/cop27-climate-conference-deal-fund/"
-title: "COP27 leaves world on dangerous warming path despite historic climate fund"
-excerpt: "The final decision of the U.N. Climate Conference in Egypt made little progress on emissions-cutting measures that could avert worse disasters to come."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I3IJMCUUJQB43MYAJABOEQOKOE.JPG&w=1440"
+publication: "hrw.org"
+link: "https://www.hrw.org/news/2022/11/16/governments-should-commit-fossil-fuel-phase-out-cop27"
+title: "Governments Should Commit to Fossil Fuel Phase Out at COP27"
+excerpt: "In these closing days of COP27, governments are negotiating the final text detailing the key agreements reached at the United Nations climate change summit in Egypt. The first glimpse of that document"
+image: "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/11/202211mena_egypt_COP27_Sharm_El_Sheikh_Fossil_Fuels_Phase_Out_action.jpg?h=34bbd072&itok=0ph06ZHN"
 group: pro
 rank: 17
 ---

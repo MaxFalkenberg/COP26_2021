@@ -1,9 +1,9 @@
 ---
-publication: "wesuspectsilence.wordpress.com"
-link: "https://wesuspectsilence.wordpress.com/2022/07/04/when-thinking-about-fossil-fuel-phase-outs-the-key-word-is-unabated/"
-title: "When thinking about fossil fuel phase-outs: The key word is ‘unabated’"
-excerpt: "Is it conceivable that the oldest and wealthiest pillar of industrial globalist power could contrive to use philanthropy and every other covert means available to shape and compromise the resistanc…"
-image: "https://wesuspectsilence.files.wordpress.com/2022/07/unabated_3.jpg"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/business/not-enough-world-leaders-react-to-historic-un-climate-deal-62728"
+title: "'Not enough': World leaders react to historic UN climate deal"
+excerpt: "While receiving praise for the creation of a 'loss and damage' fund, COP27 has been criticised over a failure to push further efforts on cutting emissions to limit global warming to 1.5 degrees Celsiu"
+image: "https://cdni0.trtworld.com/w480/h270/q75/144398_000_32NZ9JG_1668949293716.jpg"
 group: con
 rank: 12
 ---
