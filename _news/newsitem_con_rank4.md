@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/life/un-cop27-climate-summit-in-egypt-adopts-loss-and-damage-fund-62717"
-title: "UN COP27 climate summit in Egypt adopts 'loss and damage' fund"
-excerpt: "Summit participants agree to compensate poor nations that are victims of extreme weather worsened by rich countries' carbon pollution."
-image: "https://cdni0.trtworld.com/w480/h270/q75/144380_EGY20221911_1668911933459.JPG"
+publication: "news.cgtn.com"
+link: "https://news.cgtn.com/news/2022-11-20/COP27-China-s-envoy-expects-consultation-with-U-S-to-continue-1f6zMNYgwAE/index.html"
+title: "COP27: China's envoy expects consultation with U.S. to continue"
+excerpt: "China's special envoy for climate change, Xie Zhenhua, said on Saturday he expects to continue direct consultations on climate change with his U.S. counterpart John Kerry after the COP27 summit in Egy"
+image: "https://news.cgtn.com/news/2022-11-20/COP27-China-s-envoy-expects-consultation-with-U-S-to-continue-1f6zMNYgwAE/img/252ec59239b941c1831b390fdd719a1e/252ec59239b941c1831b390fdd719a1e-750.png"
 group: con
 rank: 4
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "democracynow.org"
-link: "https://www.democracynow.org/2022/11/17/eriel_deranger_tom_goldtooth_at_cop27"
-title: "Indigenous Activists Tom Goldtooth & Eriel Deranger on the Link Between Colonialism & Climate Crisis"
-excerpt: "Democracy Now! is broadcasting live from COP27, the U.N. climate conference in Sharm el-Sheikh, Egypt, where hundreds of activists protested outside the plenary hall Thursday to demand climate justice"
-image: "https://www.democracynow.org/images/story/30/65230/full_hd/seg1-Goldtooth-Eriel.jpg"
+publication: "bbc.com"
+link: "https://www.bbc.com/news/science-environment-63584993.amp"
+title: "BP chief listed as COP27 delegate for Mauritania - BBC News"
+excerpt: "Chief executive of leading oil company is registered for COP27 as a delegate from poor African nation."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/9DE3/production/_127591404_8b02a6d3109de19484839f21a08d34e1284f7485.jpg"
 group: pro
 rank: 13
 ---

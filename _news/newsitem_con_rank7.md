@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/life/loss-and-damage-keeps-cop27-at-standstill-as-talks-continue-overtime-62699"
-title: "'Loss and damage' keeps COP27 at standstill as talks continue overtime"
-excerpt: "A final text to conclude the summit has yet to be agreed upon, with outstanding issues including the creation of a new fund for reparations."
-image: "https://cdni0.trtworld.com/w480/h270/q75/144346_AP22323308727034_1668851410462.jpg"
+publication: "gulfnews.com"
+link: "https://gulfnews.com/"
+title: "Gulf News: Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema"
+excerpt: "Get the latest update on UAE, business, life style, UAE jobs, gold rate, Exchange rate, UAE holidays, Dubai police, RTA and prayer times from UAE’s largest news portal."
+image: "https://assets.gulfnews.com/images/gn-logo-1200x630.png"
 group: con
 rank: 7
 ---

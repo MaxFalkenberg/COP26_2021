@@ -1,9 +1,9 @@
 ---
-publication: "thenational.scot"
-link: "https://www.thenational.scot/news/23136855.fm-celebrates-inclusion-loss-damage-fund-cop27-agreement/"
-title: "Nicola Sturgeon welcomes loss and damage fund as COP27 talks drag on"
-excerpt: "NICOLA Sturgeon has welcomed the establishment of a loss and damage fund for developing nations in the draft text of the COP27 agreement."
-image: "https://www.thenational.scot/resources/images/16098637/?type=og-image"
+publication: "climatechangenews.com"
+link: "https://www.climatechangenews.com/2022/11/20/in-low-energy-finish-oil-and-gas-escape-censure-at-cop27/"
+title: "In low-energy finish, oil and gas escape censure at Cop27"
+excerpt: "At dawn on Sunday, exhausted negotiators accepted a climate deal in Sharm el-Sheikh that paves the way to a fund for climate victims but falls short on mitigation"
+image: "https://cdn.climatechangenews.com/files/2022/11/20044500/52511583763_d9262117ef_c-e1668919539782.jpg"
 group: pro
 rank: 11
 ---
