@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/19/cop27-climate-conference-egypt-updates/"
-title: "COP27 live updates: In historic move, nations agree to pay to help vulnerable countries with climate disasters"
-excerpt: "All the latest updates from COP27 in Egypt, the United Nations climate change conference in its final hours. "
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F2AWQCWAGH5DTM447D3MWPFA6E.jpg&w=1440"
+publication: "bbc.com"
+link: "https://www.bbc.com/news/av/science-environment-63692549"
+title: "Moment deal is declared to pay poorer nations for climate change"
+excerpt: "President Sameh Shoukry announced a historic 'loss and damage' deal to help poor countries with climate change."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/126B0/production/_127704457_untitled.png"
 group: pro
 rank: 7
 ---

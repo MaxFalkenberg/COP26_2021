@@ -1,9 +1,9 @@
 ---
-publication: "rt.com"
-link: "https://www.rt.com/business/566815-german-producers-meat-shortages/"
-title: "German producers warn of meat shortages – Die Welt"
-excerpt: "Meat producers in Germany expect supply bottlenecks within half a year, Die Welt reports"
-image: "https://mf.b37mrtl.ru/files/2022.11/article/6378984485f5403ea657fc4e.jpg"
+publication: "independentsentinel.com"
+link: "https://www.independentsentinel.com/john-kerry-us-totally-supportive-of-paying-climate-reparations/"
+title: "John Kerry: US - 'Totally Supportive' of Paying Climate Reparations"
+excerpt: "Americans are allegedly 'totally supportive' of this insanity. That's what John Kerry believes. Did he ask the..."
+image: "https://www.independentsentinel.com/wp-content/uploads/2022/11/kerry-john.jpg"
 group: con
 rank: 13
 ---

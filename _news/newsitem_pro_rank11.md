@@ -1,9 +1,9 @@
 ---
-publication: "axios.com"
-link: "https://www.axios.com/2022/11/18/indigenous-activists-seen-not-heard-at-cop27"
-title: "Indigenous activists 'seen, not heard' at COP27"
-excerpt: "Several tell Axios they're being shut out of decision-making dialogues."
-image: "https://images.axios.com/eCA54Sw1ewgfC6q4NsFcj_byhuA=/0x0:1920x1080/1366x768/2022/11/16/1668637546354.jpg"
+publication: "aljazeera.com"
+link: "https://www.aljazeera.com/news/2022/11/19/cop27-in-deadlock-as-us-envoy-john-kerry-contracts-covid-19"
+title: "COP27 in deadlock as US envoy John Kerry contracts COVID-19"
+excerpt: "Loss and damage remains a sticking point at COP27, particularly how to compensate poor countries hit by climate change."
+image: "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-11-18T202556Z_429112739_RC2KHX9WHIE4_RTRMADP_3_CLIMATE-UN-KERRY-COVID.jpg?resize=1920%2C1440"
 group: pro
 rank: 11
 ---

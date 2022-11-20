@@ -1,9 +1,9 @@
 ---
-publication: "climateawarenessreport.wordpress.com"
-link: "https://climateawarenessreport.wordpress.com/2022/11/20/cop27-makes-ground-on-loss-damage/"
-title: "COP27 Makes Ground on Loss & Damage"
-excerpt: "Various attempts to salvage the stalled talks have yielded results with adoption of decision on establishing a loss and damage fund. After innumerable hiccups over the text of overarching cover dec…"
-image: "https://climateawarenessreport.files.wordpress.com/2022/11/eo0a4450.jpg"
+publication: "rt.com"
+link: "https://www.rt.com/business/566815-german-producers-meat-shortages/"
+title: "German producers warn of meat shortages – Die Welt"
+excerpt: "Meat producers in Germany expect supply bottlenecks within half a year, Die Welt reports"
+image: "https://mf.b37mrtl.ru/files/2022.11/article/6378984485f5403ea657fc4e.jpg"
 group: con
 rank: 12
 ---

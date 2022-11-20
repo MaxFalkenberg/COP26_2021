@@ -1,9 +1,9 @@
 ---
 publication: "theguardian.com"
-link: "https://www.theguardian.com/environment/live/2022/nov/19/cop27-fears-15c-target-danger-negotiations-overrun-live"
-title: "Cop27: members ‘deeply disappointed’ by summit outcomes despite historic loss and damage fund – live"
-excerpt: "Despite breakthrough on fund for developing nations, Cop27 outcomes look disappointingly similar to last year’s climate summit in Scotland"
-image: "https://i.guim.co.uk/img/media/348496d446307c7e3dc16727fa7877860546e124/0_288_8640_5184/master/8640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ba9593fc9866dc4f4d093662a01ec34c"
+link: "https://www.theguardian.com/commentisfree/2022/nov/18/leaders-climate-breakdown-fail-power-cop27"
+title: "Our leaders had a final chance to halt climate breakdown. They failed each and every one of us | George Monbiot"
+excerpt: "It’s a miracle that any one of us is alive today. Those with the power to grant that miracle to future generations chose not to, says Guardian columnist George Monbiot"
+image: "https://i.guim.co.uk/img/media/cadf4e569ee4bb754813162eaf2f27b4d566ef6d/0_0_2126_1277/master/2126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=953f6bb0f523f07168beb60aed8b2ca3"
 group: pro
 rank: 3
 ---
