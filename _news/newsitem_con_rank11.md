@@ -1,9 +1,9 @@
 ---
-publication: "firstfactcheck.substack.com"
-link: "https://firstfactcheck.substack.com/p/stalinist-cop27-edits-out-blasphemous"
-title: "Stalinist COP27 edits out blasphemous Mount Sinai 'Ten Climate Commandments'. "
-excerpt: "Spot the difference."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8cbfbfb3-88b5-47bc-9a98-c3f94f31039d_1514x1436.png"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/life/loss-and-damage-keeps-cop27-at-standstill-as-talks-continue-overtime-62699"
+title: "'Loss and damage' keeps COP27 at standstill as talks continue overtime"
+excerpt: "A final text to conclude the summit has yet to be agreed upon, with outstanding issues including the creation of a new fund for reparations."
+image: "https://cdni0.trtworld.com/w480/h270/q75/144346_AP22323308727034_1668851410462.jpg"
 group: con
 rank: 11
 ---
