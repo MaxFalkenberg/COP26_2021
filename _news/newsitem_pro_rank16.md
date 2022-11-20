@@ -1,9 +1,9 @@
 ---
-publication: "insideclimatenews.org"
-link: "https://insideclimatenews.org/news/18112022/is-cop27-the-end-of-hopes-for-limiting-global-warming-to-1-5-degrees-celsius/"
-title: "Is COP27 the End of Hopes for Limiting Global Warming to 1.5 Degrees Celsius? - Inside Climate News"
-excerpt: "SHARM EL-SHEIKH, Egypt—The COP27 climate conference in Egypt may be remembered as the moment when the world gave up on limiting global warming to 1.5 degrees Celsius, the most ambitious goal set by th"
-image: "https://insideclimatenews.org/wp-content/uploads/2022/11/GettyImages-1244874277-scaled.jpg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/opinions/2022/11/09/nigerian-president-cop27-africa-climate-change/"
+title: "Opinion | Muhammadu Buhari: How not to talk with Africa about climate change"
+excerpt: "Africa didn’t cause the mess, yet it pays the price."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AP4LAIA73OM4NZ6CU2XNMC7LNE.JPG&w=1440"
 group: pro
 rank: 16
 ---

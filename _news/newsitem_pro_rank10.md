@@ -1,9 +1,9 @@
 ---
-publication: "aljazeera.com"
-link: "https://www.aljazeera.com/news/2022/11/19/cop27-in-deadlock-as-us-envoy-john-kerry-contracts-covid-19"
-title: "COP27 in deadlock as US envoy John Kerry contracts COVID-19"
-excerpt: "Loss and damage remains a sticking point at COP27, particularly how to compensate poor countries hit by climate change."
-image: "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-11-18T202556Z_429112739_RC2KHX9WHIE4_RTRMADP_3_CLIMATE-UN-KERRY-COVID.jpg?resize=1920%2C1440"
+publication: "truthout.org"
+link: "https://truthout.org/articles/greenwashing-governments-and-oil-companies-turned-cop27-into-a-climate-disaster/"
+title: "COP27 Looked More Like a Fossil Fuel Industry Trade Show Than a Climate Summit"
+excerpt: "In the end, COP27 looked more like a fossil fuel industry trade show than a climate summit."
+image: "https://truthout.org/wp-content/uploads/2022/11/2022_1118-cop27-1200x675.jpg"
 group: pro
 rank: 10
 ---

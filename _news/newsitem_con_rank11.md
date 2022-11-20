@@ -1,9 +1,9 @@
 ---
-publication: "gulfnews.com"
-link: "https://gulfnews.com/"
-title: "Gulf News: Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema"
-excerpt: "Get the latest update on UAE, business, life style, UAE jobs, gold rate, Exchange rate, UAE holidays, Dubai police, RTA and prayer times from UAE’s largest news portal."
-image: "https://assets.gulfnews.com/images/gn-logo-1200x630.png"
+publication: "firstfactcheck.substack.com"
+link: "https://firstfactcheck.substack.com/p/stalinist-cop27-edits-out-blasphemous"
+title: "Stalinist COP27 edits out blasphemous Mount Sinai 'Ten Climate Commandments'. "
+excerpt: "Spot the difference."
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8cbfbfb3-88b5-47bc-9a98-c3f94f31039d_1514x1436.png"
 group: con
 rank: 11
 ---
