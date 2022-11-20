@@ -1,9 +1,5 @@
 ---
-publication: "ec.europa.eu"
-link: "https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_22_7042"
-title: "Press corner"
-excerpt: "Highlights, press releases and speeches"
-image: "https://ec.europa.eu/commission/presscorner/assets/framework/images/logo/ec_logo.png"
-group: pro
-rank: 14
----
+publication: "bloomberg.com"
+link: "https://www.bloomberg.com/news/articles/2022-11-20/cop27-approves-last-ditch-deal-for-historic-climate-damage-fund"
+title: None
+excerpt: None
