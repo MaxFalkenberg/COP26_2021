@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/business/not-enough-world-leaders-react-to-historic-un-climate-deal-62728"
-title: "'Not enough': World leaders react to historic UN climate deal"
-excerpt: "While receiving praise for the creation of a 'loss and damage' fund, COP27 has been criticised over a failure to push further efforts on cutting emissions to limit global warming to 1.5 degrees Celsiu"
-image: "https://cdni0.trtworld.com/w480/h270/q75/144398_000_32NZ9JG_1668949293716.jpg"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1279999.shtml"
+title: "COP27 concludes on Sunday, yields ‘historic’ deal on climate loss and damage  "
+excerpt: "In what has been hailed as a "
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/8f25207c-64e3-4e1d-bfd1-ba3da6750b77_s.jpeg"
 group: con
 rank: 5
 ---

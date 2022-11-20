@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/20/is-cop27-the-end-of-hopes-for-limiting-global-warming-to-1-5-degrees-celsius-auspol-climatecrisis-ecologicalcrisis-economiccrisis-tellthetruth-insiders/"
-title: "Is COP27 the End of Hopes for Limiting Global Warming to 1.5 Degrees Celsius? #auspol #ClimateCrisis #EcologicalCrisis #EconomicCrisis #TellTheTruth #insiders"
-excerpt: "The climate talks are going into overtime with little progress toward the emissions cuts required to meet the goals of the Paris Agreement. BY Bob Berwyn November 18, 2022 18 November 2022, Egypt, …"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_2003.jpg"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/20/France-regrets-COP27-s-lack-of-ambition-despite-progress-Minister-"
+title: "France regrets COP27’s ‘lack of ambition’ despite progress: Minister   "
+excerpt: "France on Sunday said it regretted the “lack of ambition” in the agreement reached at the COP27 climate summit in Egypt despite progress on providing"
+image: "https://vid.alarabiya.net/images/2022/11/20/f275ea92-a788-48a2-9d1e-6f08c83d744a/f275ea92-a788-48a2-9d1e-6f08c83d744a_16x9_600x338.PNG"
 group: con
 rank: 7
 ---
