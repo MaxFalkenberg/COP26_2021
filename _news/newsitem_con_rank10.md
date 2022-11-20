@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/world/2022/11/20/France-regrets-COP27-s-lack-of-ambition-despite-progress-Minister-"
-title: "France regrets COP27’s ‘lack of ambition’ despite progress: Minister   "
-excerpt: "France on Sunday said it regretted the “lack of ambition” in the agreement reached at the COP27 climate summit in Egypt despite progress on providing"
-image: "https://vid.alarabiya.net/images/2022/11/20/f275ea92-a788-48a2-9d1e-6f08c83d744a/f275ea92-a788-48a2-9d1e-6f08c83d744a_16x9_600x338.PNG"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1279999.shtml"
+title: "COP27 concludes on Sunday, yields ‘historic’ deal on climate loss and damage  "
+excerpt: "In what has been hailed as a "
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/8f25207c-64e3-4e1d-bfd1-ba3da6750b77_s.jpeg"
 group: con
 rank: 10
 ---
