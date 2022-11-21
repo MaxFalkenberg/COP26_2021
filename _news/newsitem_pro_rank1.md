@@ -1,9 +1,9 @@
 ---
 publication: "theguardian.com"
-link: "https://www.theguardian.com/commentisfree/2022/nov/20/big-takeaway-cop27-climate-conferences-arent-working"
-title: "The big takeaway from Cop27? These climate conferences just aren’t working | Bill McGuire"
-excerpt: "We need something smaller, leaner and fully focused on the crisis at hand, says Bill McGuire, Prof Emeritus of Geophysical & Climate Hazards at UCL"
-image: "https://i.guim.co.uk/img/media/e305e0892e4a2fddfc5e44291d5074ddf278f164/0_266_3987_2392/master/3987.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=27cbba429377334534c036fab2dca214"
+link: "https://www.theguardian.com/environment/2022/nov/20/world-still-on-brink-of-climate-catastrophe-after-cop27-deal"
+title: "World still ‘on brink of climate catastrophe’ after Cop27 deal"
+excerpt: "Experts say biggest economies must pledge more cuts to carbon emissions but hail agreement to set up loss and damage fund"
+image: "https://i.guim.co.uk/img/media/48522d00c8f01db527893b3a7c5d23d04c357694/0_0_4774_2864/master/4774.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ddbe4d3bc3c8740ebc51a339ebc112e"
 group: pro
 rank: 1
 ---

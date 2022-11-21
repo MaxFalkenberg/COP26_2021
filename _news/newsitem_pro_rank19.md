@@ -1,9 +1,9 @@
 ---
-publication: "democracynow.org"
-link: "https://www.democracynow.org/2022/11/14/climate_justice_movement_human_rights_cop27"
-title: "“No Climate Justice Without Human Rights”: Groups Protest Inaction, Repression at U.N. Summit in Egypt"
-excerpt: "Democracy Now! is in Sharm el-Sheikh, Egypt, where the COP27 U.N. climate conference has entered its second week amid protests against the host government’s repression and world leaders’ inaction on t"
-image: "https://www.democracynow.org/images/story/80/65180/full_hd/seg1-COP27-Protest.jpg"
+publication: "bylinetimes.com"
+link: "https://bylinetimes.com/2022/11/17/sponsor-microsoft-partnering-with-egypts-big-oil-drive-to-increase-fossil-fuel-investments/"
+title: "Sponsor Microsoft Partnering with Egypt's Big Oil Drive to ‘Increase’ Fossil Fuel Investments – Byline Times"
+excerpt: "Documents reveal Microsoft is working with the Egyptian Government to use COP27 to maximise fossil fuel exploitation – and the owners of the Daily Mail are helping them"
+image: "https://bylinetimes.com/wp-content/uploads/2022/11/2K3CW0F-600x314.jpg"
 group: pro
 rank: 19
 ---

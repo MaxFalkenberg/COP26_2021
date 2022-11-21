@@ -1,9 +1,9 @@
 ---
-publication: "english.alarabiya.net"
-link: "https://english.alarabiya.net/News/world/2022/11/20/France-regrets-COP27-s-lack-of-ambition-despite-progress-Minister-"
-title: "France regrets COP27’s ‘lack of ambition’ despite progress: Minister   "
-excerpt: "France on Sunday said it regretted the “lack of ambition” in the agreement reached at the COP27 climate summit in Egypt despite progress on providing"
-image: "https://vid.alarabiya.net/images/2022/11/20/f275ea92-a788-48a2-9d1e-6f08c83d744a/f275ea92-a788-48a2-9d1e-6f08c83d744a_16x9_600x338.PNG"
+publication: "ertarailvolunteer.blogspot.com"
+link: "https://ertarailvolunteer.blogspot.com/2022/11/cop27-demands-we-need-modal-shift.html"
+title: "COP27 demands we need modal shift facilitated by redirecting existing funds"
+excerpt: "A blog about the voluntary English Regional Transport Association (ERTA)"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpREi4HkXXnlkhEJ2pnq9w-aQHh4tclqx7QnMfV3lV2yTtsNUpdyAyhlxsUEK90Aep0lO1FzuPd5YJuvHqNhmYU0L2oDOsaxPSxq4hQo5FiOvEE1BUxbmoL_zPvXaaI8HAX-kVH66QqQDpvyjU6Dpqfj9xiE9d5qyTZOjiE0YlYn-VZrMBp0qM7fy/w1200-h630-p-k-no-nu/Thameslink%20unit%20no.700.106%20at%20St.Albans%20City%20on%20service%20from%20Bedford%20to%20Gatwick%20Airport.JPG"
 group: con
 rank: 14
 ---

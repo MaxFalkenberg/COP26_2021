@@ -1,9 +1,9 @@
 ---
-publication: "standard.co.uk"
-link: "https://www.standard.co.uk/news/politics/extreme-weather-cop27-fossil-fuels-agreement-climate-change-b1041390.html"
-title: "Extreme weather will get worse after ‘disappointing’ COP27"
-excerpt: "The world will continue to see natural disasters and extreme weather conditions driven by climate change after nations failed to agree limiting the use of fossil fuels at COP27, a leading scientist wa"
-image: "https://static.standard.co.uk/2022/11/16/12/bf41150ef0aa7b0c81f234563235cc7eY29udGVudHNlYXJjaGFwaSwxNjY4Njg1MTk3-2.69650440.jpg?width=1200&width=1200&auto=webp&quality=75"
+publication: "theconversation.com"
+link: "https://theconversation.com/cop27-one-big-breakthrough-but-ultimately-an-inadequate-response-to-the-climate-crisis-194056"
+title: "COP27: one big breakthrough but ultimately an inadequate response to the climate crisis"
+excerpt: "The big news of COP27 was agreement to establish a fund for ‘loss and damage’. But many lamented the summit’s overall outcome, saying it falls short of a sufficient response to the climate crisis."
+image: "https://images.theconversation.com/files/496273/original/file-20221120-9492-kbhv5b.jpg?ixlib=rb-1.1.0&rect=46%2C0%2C5143%2C2571&q=45&auto=format&w=1356&h=668&fit=crop"
 group: pro
 rank: 9
 ---

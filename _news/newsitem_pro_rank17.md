@@ -5,5 +5,5 @@ title: "COP27: Climate costs deal struck but no fossil fuel progress"
 excerpt: "Rich nations will pay climate damages, but the final deal does not cut fossil fuels further."
 image: "https://ichef.bbci.co.uk/news/1024/branded_news/15D76/production/_127726498_globe-index3-getty.jpg"
 group: pro
-rank: 8
+rank: 17
 ---
