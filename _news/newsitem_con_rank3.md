@@ -1,9 +1,9 @@
 ---
-publication: "disastrousearth.wordpress.com"
-link: "https://disastrousearth.wordpress.com/2022/11/19/cop27-and-global-warming-hoax-have-failed-miserably-as-public-has-awakened/"
-title: "COP27 And Global Warming Hoax Have Failed Miserably As Public Has Awakened"
-excerpt: "For 50 years the hoax and scam of Global Warming was pushed by United Nations and those having vested interest and an eye upon money making and total control out of this hoax. But Perry4Law Organis…"
-image: "https://disastrousearth.files.wordpress.com/2022/11/exit-door.png"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/21/the-world-votes-for-climate-hell-cop27-ecologicalcrisis-climatecrisis-economiccrisis-tellthetruth-auspol-hyperthreat-time-for-plane/"
+title: "The world votes for “climate hell” #COP27 #EcologicalCrisis #ClimateCrisis #EconomicCrisis #TellTheTruth #auspol Hyperthreat time for #PlanE"
+excerpt: "The world votes for “climate hell” By Julian CribbNov 21, 2022 Something of epochal importance happened in Egypt last week – the most significant event since Cheops shoved up his triangular monumen…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1970.jpg"
 group: con
 rank: 3
 ---
