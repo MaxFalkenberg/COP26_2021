@@ -1,9 +1,9 @@
 ---
-publication: "climatechangenews.com"
-link: "https://www.climatechangenews.com/2022/11/20/what-was-decided-at-cop27-climate-talks-in-sharm-el-sheikh/"
-title: "What was decided at Cop27 climate talks in Sharm el-Sheikh?"
-excerpt: "The Sharm el-Sheikh Implementation Plan made a breakthrough on support for climate victims, but avoided confronting the oil and gas sector"
-image: "https://cdn.climatechangenews.com/files/2022/11/20054819/52510644272_3ba500384d_c-e1668923321888.jpg"
+publication: "mol.im"
+link: "https://mol.im/a/11449123"
+title: "Ministers brace for backlash after COP agrees 'loss and damage' fund"
+excerpt: "A 'loss and damage' mechanism was signed off in principle at the UN gathering in Egypt in the early hours of the morning."
+image: "https://i.dailymail.co.uk/1s/2022/11/20/08/64739889-0-image-a-12_1668934579482.jpg"
 group: pro
 rank: 16
 ---

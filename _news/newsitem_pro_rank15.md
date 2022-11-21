@@ -1,9 +1,9 @@
 ---
-publication: "climatechangenews.com"
-link: "https://www.climatechangenews.com/2022/11/20/in-low-energy-finish-oil-and-gas-escape-censure-at-cop27/"
-title: "In low-energy finish, oil and gas escape censure at Cop27"
-excerpt: "At dawn on Sunday, exhausted negotiators accepted a climate deal in Sharm el-Sheikh that paves the way to a fund for climate victims but falls short on mitigation"
-image: "https://cdn.climatechangenews.com/files/2022/11/20044500/52511583763_d9262117ef_c-e1668919539782.jpg"
+publication: "bbc.com"
+link: "https://www.bbc.com/news/science-environment-63693738"
+title: "Climate change: Five key takeaways from COP27"
+excerpt: "The biggest win on climate since the Paris Agreement in 2015... or the biggest loss?"
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/4FE2/production/_127705402_f6c5f2e6042db43ee1b6a1c89fcec448c26c47fb0_0_5500_36671000x667.jpg"
 group: pro
 rank: 15
 ---

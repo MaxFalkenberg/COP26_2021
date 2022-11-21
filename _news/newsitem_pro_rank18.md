@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/united-nations-john-kerry-climate-and-environment-18f6e5cb8183c59ceaf0cf2408842e6c"
-title: "UN climate deal: Calamity cash, but no new emissions cuts"
-excerpt: "SHARM EL-SHEIKH, Egypt (AP) — For the first time, the nations of the world decided to help pay for the damage an overheating world is inflicting on poor countries, but they finished marathon climate t"
-image: "https://storage.googleapis.com/afs-prod/media/3cc034ecb1f740269f8e2a73f45a4f47/3000.jpeg"
+publication: "climatechangenews.com"
+link: "https://www.climatechangenews.com/2022/11/20/in-low-energy-finish-oil-and-gas-escape-censure-at-cop27/"
+title: "In low-energy finish, oil and gas escape censure at Cop27"
+excerpt: "At dawn on Sunday, exhausted negotiators accepted a climate deal in Sharm el-Sheikh that paves the way to a fund for climate victims but falls short on mitigation"
+image: "https://cdn.climatechangenews.com/files/2022/11/20044500/52511583763_d9262117ef_c-e1668919539782.jpg"
 group: pro
 rank: 18
 ---

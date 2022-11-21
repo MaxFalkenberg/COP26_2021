@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/countries-agree-loss-damage-fund-final-cop27-deal-elusive-2022-11-20/"
-title: "COP27 delivers climate fund breakthrough at cost of progress on emissions"
-excerpt: "The deal was widely lauded as a triumph for responding to the impact that global warming is having on vulnerable countries. But many countries said they felt pressured to give up on tougher commitment"
-image: "https://www.reuters.com/resizer/B7qu5BU4VgzlJvdpTJ0cJItNl9I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7HYLM6C2NNLLDOLIIFZAQJCC3Y.jpg"
+publication: "theconversation.com"
+link: "https://theconversation.com/cop27-one-big-breakthrough-but-ultimately-an-inadequate-response-to-the-climate-crisis-194056"
+title: "COP27: one big breakthrough but ultimately an inadequate response to the climate crisis"
+excerpt: "The big news of COP27 was agreement to establish a fund for ‘loss and damage’. But many lamented the summit’s overall outcome, saying it falls short of a sufficient response to the climate crisis."
+image: "https://images.theconversation.com/files/496273/original/file-20221120-9492-kbhv5b.jpg?ixlib=rb-1.1.0&rect=46%2C0%2C5143%2C2571&q=45&auto=format&w=1356&h=668&fit=crop"
 group: pro
 rank: 14
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "theconversation.com"
-link: "https://theconversation.com/cop27-one-big-breakthrough-but-ultimately-an-inadequate-response-to-the-climate-crisis-194056"
-title: "COP27: one big breakthrough but ultimately an inadequate response to the climate crisis"
-excerpt: "The big news of COP27 was agreement to establish a fund for ‘loss and damage’. But many lamented the summit’s overall outcome, saying it falls short of a sufficient response to the climate crisis."
-image: "https://images.theconversation.com/files/496273/original/file-20221120-9492-kbhv5b.jpg?ixlib=rb-1.1.0&rect=46%2C0%2C5143%2C2571&q=45&auto=format&w=1356&h=668&fit=crop"
+publication: "apnews.com"
+link: "https://apnews.com/article/united-nations-john-kerry-climate-and-environment-18f6e5cb8183c59ceaf0cf2408842e6c"
+title: "UN climate deal: Calamity cash, but no new emissions cuts"
+excerpt: "SHARM EL-SHEIKH, Egypt (AP) — For the first time, the nations of the world decided to help pay for the damage an overheating world is inflicting on poor countries, but they finished marathon climate t"
+image: "https://storage.googleapis.com/afs-prod/media/3cc034ecb1f740269f8e2a73f45a4f47/3000.jpeg"
 group: pro
 rank: 19
 ---
