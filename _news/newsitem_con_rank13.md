@@ -1,9 +1,9 @@
 ---
-publication: "wesuspectsilence.wordpress.com"
-link: "https://wesuspectsilence.wordpress.com/2022/07/04/when-thinking-about-fossil-fuel-phase-outs-the-key-word-is-unabated/"
-title: "When thinking about fossil fuel phase-outs: The key word is ‘unabated’"
-excerpt: "Is it conceivable that the oldest and wealthiest pillar of industrial globalist power could contrive to use philanthropy and every other covert means available to shape and compromise the resistanc…"
-image: "https://wesuspectsilence.files.wordpress.com/2022/07/unabated_3.jpg"
+publication: "ntd.com"
+link: "https://www.ntd.com/countries-at-un-climate-talks-agree-to-loss-and-damage-fund-to-pay-for-poor-nations_882601.html"
+title: "Countries at UN Climate Talks Agree to ‘Loss and Damage’ Fund to Pay for Poor Nations"
+excerpt: "<p>At the United Nations COP27 summit in Sharm el-Sheikh, Egypt, representatives from nearly 200 countries have agreed to set up a &#8220;loss and damage&#8221; fund intended to help vulnerable countr"
+image: "https://i.ntd.com/assets/uploads/2022/11/COP27GettyImages-1244918929-352x220.jpg"
 group: con
 rank: 13
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "news.sky.com"
-link: "https://news.sky.com/story/countries-celebrate-first-ever-fund-for-climate-damages-as-cop27-deal-published-12751046"
-title: "COP27: Countries agree fund for climate-hit poor nations - but doubts remain over 1.5C warming limit"
-excerpt: "Negotiators at COP27 approve a deal to compensate poorer nations that are victims of climate change - but there is little progress in combating the root cause of global warming, the burning of fossil "
-image: "https://e3.365dm.com/22/11/1600x900/skynews-cop27-egypt-protest_5971425.jpg?20221119160426"
+publication: "qz.com"
+link: "https://qz.com/cop27-is-leaving-huge-loopholes-for-greenwashing-1849800189/amp"
+title: "COP27 may allow for greenwashing in carbon offsets"
+excerpt: "Negotiations on a new carbon market allow for dubious accounting and lack transparency"
+image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,fl_progressive,g_center,h_180,q_80,w_320/8250c6f841b693b4990648e8dff17e5b.png"
 group: pro
 rank: 19
 ---
