@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63693738"
-title: "Climate change: Five key takeaways from COP27"
-excerpt: "The biggest win on climate since the Paris Agreement in 2015... or the biggest loss?"
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/4FE2/production/_127705402_f6c5f2e6042db43ee1b6a1c89fcec448c26c47fb0_0_5500_36671000x667.jpg"
+publication: "mol.im"
+link: "https://mol.im/a/11449123"
+title: "Ministers brace for backlash after COP agrees 'loss and damage' fund"
+excerpt: "A 'loss and damage' mechanism was signed off in principle at the UN gathering in Egypt in the early hours of the morning."
+image: "https://i.dailymail.co.uk/1s/2022/11/20/08/64739889-0-image-a-12_1668934579482.jpg"
 group: pro
 rank: 13
 ---

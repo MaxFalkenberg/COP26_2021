@@ -1,9 +1,9 @@
 ---
-publication: "economist.com"
-link: "https://www.economist.com/1843/2022/11/17/inside-the-campaign-at-cop27-to-free-egypts-leading-political-prisoner"
-title: "Inside the campaign at COP27 to free Egypt’s most famous political prisoner"
-excerpt: "What happened when Sanaa Seif tried to shame the authorities into releasing her brother?"
-image: "https://www.economist.com/img/b/1984/1116/90/media-assets/image/1843_20221117_SANAA_SEIF_01.jpg"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/countries-agree-loss-damage-fund-final-cop27-deal-elusive-2022-11-20/"
+title: "COP27 delivers climate fund breakthrough at cost of progress on emissions"
+excerpt: "The deal was widely lauded as a triumph for responding to the impact that global warming is having on vulnerable countries. But many countries said they felt pressured to give up on tougher commitment"
+image: "https://www.reuters.com/resizer/B7qu5BU4VgzlJvdpTJ0cJItNl9I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7HYLM6C2NNLLDOLIIFZAQJCC3Y.jpg"
 group: pro
 rank: 18
 ---
