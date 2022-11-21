@@ -1,9 +1,9 @@
 ---
-publication: "apnews.com"
-link: "https://apnews.com/article/united-nations-john-kerry-climate-and-environment-18f6e5cb8183c59ceaf0cf2408842e6c"
-title: "UN climate deal: Calamity cash, but no new emissions cuts"
-excerpt: "SHARM EL-SHEIKH, Egypt (AP) — For the first time, the nations of the world decided to help pay for the damage an overheating world is inflicting on poor countries, but they finished marathon climate t"
-image: "https://storage.googleapis.com/afs-prod/media/3cc034ecb1f740269f8e2a73f45a4f47/3000.jpeg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/opinions/2022/11/20/egypt-cop27-climate-conference-emissions-progress/"
+title: "Opinion | The Egypt climate conference showed progress on warming is in jeopardy"
+excerpt: "The U.N. process that relies on big nations’ voluntary efforts still represents the world’s best chance to limit climate devastation."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3BGJSD5P43SEFXXE2ZEHZZTHSQ.jpg&w=1440"
 group: pro
 rank: 19
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "brainsandeggs.blogspot.com"
-link: "https://brainsandeggs.blogspot.com/2022/11/oligarcy-wins-and-we-lose-funnies.html"
-title: "'Oligarcy Wins and We Lose' Funnies"
-excerpt: "Afflicting the Comfortable since 2002"
-image: "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha32C9aKKyMRS81UnWEF2bsBPYqhQcQxBy5wHBkFu3FixGC250anX_Oa1dKUxGpG4YcTAjEm3gNVzu9csosswZLT0bLdqrPlrj2dYOFHjHv7STqDIzBRwGM0uRwT=w1200-h630-p-k-no-nu"
+publication: "firstfactcheck.substack.com"
+link: "https://firstfactcheck.substack.com/p/stalinist-cop27-edits-out-blasphemous"
+title: "Stalinist COP27 edits out blasphemous Mount Sinai 'Ten Climate Commandments'. "
+excerpt: "Spot the difference."
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8cbfbfb3-88b5-47bc-9a98-c3f94f31039d_1514x1436.png"
 group: con
 rank: 14
 ---
