@@ -1,9 +1,9 @@
 ---
-publication: "ntd.com"
-link: "https://www.ntd.com/countries-at-un-climate-talks-agree-to-loss-and-damage-fund-to-pay-for-poor-nations_882601.html"
-title: "Countries at UN Climate Talks Agree to ‘Loss and Damage’ Fund to Pay for Poor Nations"
-excerpt: "<p>At the United Nations COP27 summit in Sharm el-Sheikh, Egypt, representatives from nearly 200 countries have agreed to set up a &#8220;loss and damage&#8221; fund intended to help vulnerable countr"
-image: "https://i.ntd.com/assets/uploads/2022/11/COP27GettyImages-1244918929-352x220.jpg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/21/hothouse-earth-climatehell-cop27-ecologicalcrisis-climatecrisis-economiccrisis-tellthetruth-auspol/"
+title: "Hothouse Earth #ClimateHell #COP27 #EcologicalCrisis #ClimateCrisis #EconomicCrisis #TellTheTruth #auspol"
+excerpt: "We inhabit a planet in peril. Our once temperate world is locked on course to become a hothouse entirely of our own making. Hothouse Earth: an Inhabitant’s Guide provides a post-COP26 perspec…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/07/img_1376.jpg"
 group: con
 rank: 10
 ---
