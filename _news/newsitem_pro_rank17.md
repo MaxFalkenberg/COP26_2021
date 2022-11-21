@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63677466"
-title: "COP27: Climate costs deal struck but no fossil fuel progress"
-excerpt: "Rich nations will pay climate damages, but the final deal does not cut fossil fuels further."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/15D76/production/_127726498_globe-index3-getty.jpg"
+publication: "democracynow.org"
+link: "https://www.democracynow.org/2022/11/14/climate_justice_movement_human_rights_cop27"
+title: "“No Climate Justice Without Human Rights”: Groups Protest Inaction, Repression at U.N. Summit in Egypt"
+excerpt: "Democracy Now! is in Sharm el-Sheikh, Egypt, where the COP27 U.N. climate conference has entered its second week amid protests against the host government’s repression and world leaders’ inaction on t"
+image: "https://www.democracynow.org/images/story/80/65180/full_hd/seg1-COP27-Protest.jpg"
 group: pro
 rank: 17
 ---
