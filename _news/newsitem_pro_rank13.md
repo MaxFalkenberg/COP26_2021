@@ -1,9 +1,9 @@
 ---
-publication: "democracynow.org"
-link: "https://www.democracynow.org/2022/11/14/climate_justice_movement_human_rights_cop27"
-title: "“No Climate Justice Without Human Rights”: Groups Protest Inaction, Repression at U.N. Summit in Egypt"
-excerpt: "Democracy Now! is in Sharm el-Sheikh, Egypt, where the COP27 U.N. climate conference has entered its second week amid protests against the host government’s repression and world leaders’ inaction on t"
-image: "https://www.democracynow.org/images/story/80/65180/full_hd/seg1-COP27-Protest.jpg"
+publication: "thetimes.co.uk"
+link: "https://www.thetimes.co.uk/article/jailed-activist-alaa-abdel-fattah-came-close-to-death-during-cop27-talks-nfkwngcgs"
+title: "Jailed activist Alaa Abdel Fattah ‘came close to death’ during Cop27 talks"
+excerpt: "The family of the Egyptian-British activist Alaa Abdel Fattah have given an extraordinary account of how he came close to death before ending his prison hunger strike last week.As world leaders gather"
+image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F0529f138-6760-11ed-9ccc-9d160947f622.jpg?crop=5568%2C3132%2C0%2C290&resize=1200"
 group: pro
 rank: 13
 ---

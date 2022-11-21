@@ -1,9 +1,9 @@
 ---
-publication: "theplanet.substack.com"
-link: "https://theplanet.substack.com/p/cop27-a-small-step-forward-for-the"
-title: "COP27, a small step forward for the planet?"
-excerpt: "No progress on emissions but the loss and damages principle accepted."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1bd13215-b5fd-4579-99a3-31e3a103ce4d_1080x608.jpeg"
+publication: "notalotofpeopleknowthat.wordpress.com"
+link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/20/cop27-is-a-downpayment-on-disaster/#more-60045"
+title: "COP27 Is A Downpayment On Disaster"
+excerpt: "By Paul Homewood As usual the BBC paints the latest COP as a “historic deal”!       Despite the hype, very little has been achieved, as the BBC have to admit:"
+image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb-86.png"
 group: con
 rank: 3
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "thenational.scot"
-link: "https://www.thenational.scot/news/23139927.scotland-played-key-role-breaking-taboo-loss-damage/"
-title: "Scotland praised for 'moral leadership' shown at COP27 over loss and damage fund"
-excerpt: "Previously, developed countries had been reluctant to commit to paying up compensation for the damage already caused to countries in the Global South"
-image: "https://www.thenational.scot/resources/images/16181552/?type=og-image"
+publication: "bbc.com"
+link: "https://www.bbc.com/news/science-environment-63693738"
+title: "Climate change: Five key takeaways from COP27"
+excerpt: "The biggest win on climate since the Paris Agreement in 2015... or the biggest loss?"
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/14278/production/_127725528_cop-index-reuters.jpg"
 group: pro
 rank: 10
 ---

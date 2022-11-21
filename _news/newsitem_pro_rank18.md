@@ -1,9 +1,9 @@
 ---
-publication: "edf.org"
-link: "https://www.edf.org/media/cop27-agrees-key-milestones-and-historic-consensus-funding-loss-and-damage"
-title: "COP27 Agrees on Key Milestones and Historic Consensus on Funding for Loss and Damage"
-excerpt: "EDF’s Executive Vice President for Impact, Angela Churie Kallhauge, reflects on the outcomes of the annual United Nations climate conference."
-image: "https://www.edf.org/sites/default/files/styles/share_1200_630_focal_point/public/2022-11/COP27%20venue_UNFCC%20Flickr.jpg?h=a1e1a043&itok=AT_pufhN"
+publication: "grist.org"
+link: "https://grist.org/article/saudi-arabia-new-green-agenda-cutting-oil-production-not-part-cop27/"
+title: "Saudi Arabia has a new green agenda. Cutting oil production isn't part of it."
+excerpt: "The iconic petrostate pitched a plan to cut carbon at the UN climate summit in Egypt. And it’s soaked in oil."
+image: "https://grist.org/wp-content/uploads/2022/11/Saudi-Arabia-COP27.jpg"
 group: pro
 rank: 18
 ---
