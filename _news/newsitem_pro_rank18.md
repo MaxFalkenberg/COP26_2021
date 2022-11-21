@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop27-loss-damage-fund-heralds-new-dawn-climate-justice-2022-11-20/"
-title: "Analysis: COP27 loss and damage fund heralds 'new dawn for climate justice'"
-excerpt: "Agreement at the COP27 climate talks to set up a 'loss and damage' fund marks a milestone in the long fight to get help for poor communities on the frontlines of global warming, said officials and cam"
-image: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=120"
+publication: "channel4.com"
+link: "https://www.channel4.com/news/cop27-the-oil-and-gas-industry-needs-to-pay-for-carbon-capture-says-un-climate-rep"
+title: "COP27: ‘The oil and gas industry needs to pay’ for carbon capture says UN climate rep"
+excerpt: "Rachel Kyte, a former United Nations climate special representative joins from Massachusetts."
+image: "https://fournews-assets-prod-s3-ew1-nmprod.s3.amazonaws.com/media/2022/11/RACHEL-THUMB-1920x1080.png"
 group: pro
 rank: 18
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "ntd.com"
-link: "https://www.ntd.com/countries-at-un-climate-talks-agree-to-loss-and-damage-fund-to-pay-for-poor-nations_882601.html"
-title: "Countries at UN Climate Talks Agree to ‘Loss and Damage’ Fund to Pay for Poor Nations"
-excerpt: "<p>At the United Nations COP27 summit in Sharm el-Sheikh, Egypt, representatives from nearly 200 countries have agreed to set up a &#8220;loss and damage&#8221; fund intended to help vulnerable countr"
-image: "https://i.ntd.com/assets/uploads/2022/11/COP27GettyImages-1244918929-352x220.jpg"
+publication: "english.alarabiya.net"
+link: "https://english.alarabiya.net/News/world/2022/11/20/France-regrets-COP27-s-lack-of-ambition-despite-progress-Minister-"
+title: "France regrets COP27’s ‘lack of ambition’ despite progress: Minister   "
+excerpt: "France on Sunday said it regretted the “lack of ambition” in the agreement reached at the COP27 climate summit in Egypt despite progress on providing"
+image: "https://vid.alarabiya.net/images/2022/11/20/f275ea92-a788-48a2-9d1e-6f08c83d744a/f275ea92-a788-48a2-9d1e-6f08c83d744a_16x9_600x338.PNG"
 group: con
 rank: 14
 ---

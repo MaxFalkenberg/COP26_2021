@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/20/cop27-climate-conference-deal-fund/"
-title: "COP27 leaves world on dangerous warming path despite historic climate fund"
-excerpt: "The final decision of the U.N. Climate Conference in Egypt made little progress on emissions-cutting measures that could avert worse disasters to come."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I3IJMCUUJQB43MYAJABOEQOKOE.JPG&w=1440"
+publication: "bbc.com"
+link: "https://www.bbc.com/news/science-environment-63693738"
+title: "Climate change: Five key takeaways from COP27"
+excerpt: "The biggest win on climate since the Paris Agreement in 2015... or the biggest loss?"
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/14278/production/_127725528_cop-index-reuters.jpg"
 group: pro
 rank: 12
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63693738"
-title: "Climate change: Five key takeaways from COP27"
-excerpt: "The biggest win on climate since the Paris Agreement in 2015... or the biggest loss?"
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/14278/production/_127725528_cop-index-reuters.jpg"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/australias-climate-policies-dont-match-its-big-talk-cop27-2022-11-20/"
+title: "Analysis: Australia's climate policies don't match its big talk at COP27"
+excerpt: "Australia is talking up its green credentials at the annual U.N. climate summit, but its policies do not match the portrayal as it continues to support new mining and energy projects, and fuels the cr"
+image: "https://www.reuters.com/resizer/-izcM534lBSAYeZDX02aqamtzBY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X7YIOP5CDJNFFK3SA6IQ66EE6E.jpg"
 group: pro
 rank: 6
 ---
