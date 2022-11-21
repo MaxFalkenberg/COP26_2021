@@ -1,9 +1,9 @@
 ---
-publication: "qz.com"
-link: "https://qz.com/cop27-is-leaving-huge-loopholes-for-greenwashing-1849800189/amp"
-title: "COP27 may allow for greenwashing in carbon offsets"
-excerpt: "Negotiations on a new carbon market allow for dubious accounting and lack transparency"
-image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,fl_progressive,g_center,h_180,q_80,w_320/164cc42411d4688abdd6802952f71df7.png"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/countries-agree-loss-damage-fund-final-cop27-deal-elusive-2022-11-20/"
+title: "COP27 delivers climate fund breakthrough at cost of progress on emissions"
+excerpt: "The deal was widely lauded as a triumph for responding to the impact that global warming is having on vulnerable countries. But many countries said they felt pressured to give up on tougher commitment"
+image: "https://www.reuters.com/resizer/B7qu5BU4VgzlJvdpTJ0cJItNl9I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7HYLM6C2NNLLDOLIIFZAQJCC3Y.jpg"
 group: pro
 rank: 14
 ---

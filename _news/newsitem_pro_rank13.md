@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/opinions/2022/11/20/egypt-cop27-climate-conference-emissions-progress/"
-title: "Opinion | The Egypt climate conference showed progress on warming is in jeopardy"
-excerpt: "The U.N. process that relies on big nations’ voluntary efforts still represents the world’s best chance to limit climate devastation."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3BGJSD5P43SEFXXE2ZEHZZTHSQ.jpg&w=1440"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63677466"
+title: "COP27: Climate costs deal struck but no fossil fuel progress"
+excerpt: "Rich nations will pay climate damages, but the final deal does not cut fossil fuels further."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/5E60/production/_127706142_gettyimages-1244896339.jpg"
 group: pro
 rank: 13
 ---

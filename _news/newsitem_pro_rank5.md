@@ -1,9 +1,9 @@
 ---
-publication: "climatechangenews.com"
-link: "https://www.climatechangenews.com/2022/11/20/in-low-energy-finish-oil-and-gas-escape-censure-at-cop27/"
-title: "In low-energy finish, oil and gas escape censure at Cop27"
-excerpt: "At dawn on Sunday, exhausted negotiators accepted a climate deal in Sharm el-Sheikh that paves the way to a fund for climate victims but falls short on mitigation"
-image: "https://cdn.climatechangenews.com/files/2022/11/20044500/52511583763_d9262117ef_c-e1668919539782.jpg"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/australias-climate-policies-dont-match-its-big-talk-cop27-2022-11-20/"
+title: "Analysis: Australia's climate policies don't match its big talk at COP27"
+excerpt: "Australia is talking up its green credentials at the annual U.N. climate summit, but its policies do not match the portrayal as it continues to support new mining and energy projects, and fuels the cr"
+image: "https://www.reuters.com/resizer/-izcM534lBSAYeZDX02aqamtzBY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X7YIOP5CDJNFFK3SA6IQ66EE6E.jpg"
 group: pro
 rank: 5
 ---

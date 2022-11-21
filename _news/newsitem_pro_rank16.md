@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63677466"
-title: "COP27: Climate costs deal struck but no fossil fuel progress"
-excerpt: "Rich nations will pay climate damages, but the final deal does not cut fossil fuels further."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/5E60/production/_127706142_gettyimages-1244896339.jpg"
+publication: "climatechangenews.com"
+link: "https://www.climatechangenews.com/2022/11/20/what-was-decided-at-cop27-climate-talks-in-sharm-el-sheikh/"
+title: "What was decided at Cop27 climate talks in Sharm el-Sheikh?"
+excerpt: "The Sharm el-Sheikh Implementation Plan made a breakthrough on support for climate victims, but avoided confronting the oil and gas sector"
+image: "https://cdn.climatechangenews.com/files/2022/11/20054819/52510644272_3ba500384d_c-e1668923321888.jpg"
 group: pro
 rank: 16
 ---
