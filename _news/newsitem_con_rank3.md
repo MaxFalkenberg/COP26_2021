@@ -1,9 +1,9 @@
 ---
-publication: "gulfnews.com"
-link: "https://gulfnews.com/opinion/op-eds/cop28-in-the-uae-must-make-up-for-cop27s-shortcomings-1.92148410"
-title: "COP28 in the UAE must make up for COP27’s shortcomings"
-excerpt: "Progress in international climate negotiations has been slow. This needs to change now"
-image: "https://imagevars.gulfnews.com/2021/10/22/climate_17ca6cab07f_medium.jpg"
+publication: "disastrousearth.wordpress.com"
+link: "https://disastrousearth.wordpress.com/2022/11/19/cop27-and-global-warming-hoax-have-failed-miserably-as-public-has-awakened/"
+title: "COP27 And Global Warming Hoax Have Failed Miserably As Public Has Awakened"
+excerpt: "For 50 years the hoax and scam of Global Warming was pushed by United Nations and those having vested interest and an eye upon money making and total control out of this hoax. But Perry4Law Organis…"
+image: "https://disastrousearth.files.wordpress.com/2022/11/exit-door.png"
 group: con
 rank: 3
 ---

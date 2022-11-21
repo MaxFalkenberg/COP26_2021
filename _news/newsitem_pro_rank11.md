@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63693738"
-title: "Climate change: Five key takeaways from COP27"
-excerpt: "The biggest win on climate since the Paris Agreement in 2015... or the biggest loss?"
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/4FE2/production/_127705402_f6c5f2e6042db43ee1b6a1c89fcec448c26c47fb0_0_5500_36671000x667.jpg"
+publication: "theconversation.com"
+link: "https://theconversation.com/cop27-one-big-breakthrough-but-ultimately-an-inadequate-response-to-the-climate-crisis-194056"
+title: "COP27: one big breakthrough but ultimately an inadequate response to the climate crisis"
+excerpt: "The big news of COP27 was agreement to establish a fund for ‘loss and damage’. But many lamented the summit’s overall outcome, saying it falls short of a sufficient response to the climate crisis."
+image: "https://images.theconversation.com/files/496273/original/file-20221120-9492-kbhv5b.jpg?ixlib=rb-1.1.0&rect=46%2C0%2C5143%2C2571&q=45&auto=format&w=1356&h=668&fit=crop"
 group: pro
 rank: 11
 ---
