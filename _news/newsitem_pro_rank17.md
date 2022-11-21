@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/news/2022/11/20/cop27-deal-sharm-el-sheikh-egypt-compensation-fund-alok-sharma/"
-title: "Cop27 strikes 'historic' climate compensation deal but no progress on emissions"
-excerpt: "Alok Sharma welcomes the decision on loss and damage but warns agreement is 'not a moment of unqualified celebration'"
-image: "https://www.telegraph.co.uk/content/dam/news/2022/11/20/TELEMMGLPICT000316874619_trans_NvBQzQNjv4BqEzw5OF8VsBey80ir11mphkgR7PVUJ79uLnSHs-A1YSI.jpeg?impolicy=logo-overlay"
+publication: "edf.org"
+link: "https://www.edf.org/media/cop27-agrees-key-milestones-and-historic-consensus-funding-loss-and-damage"
+title: "COP27 Agrees on Key Milestones and Historic Consensus on Funding for Loss and Damage"
+excerpt: "EDF’s Executive Vice President for Impact, Angela Churie Kallhauge, reflects on the outcomes of the annual United Nations climate conference."
+image: "https://www.edf.org/sites/default/files/styles/share_1200_630_focal_point/public/2022-11/COP27%20venue_UNFCC%20Flickr.jpg?h=a1e1a043&itok=AT_pufhN"
 group: pro
 rank: 17
 ---

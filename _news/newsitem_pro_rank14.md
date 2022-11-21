@@ -1,9 +1,9 @@
 ---
-publication: "democracynow.org"
-link: "https://www.democracynow.org/2022/11/14/climate_justice_movement_human_rights_cop27"
-title: "“No Climate Justice Without Human Rights”: Groups Protest Inaction, Repression at U.N. Summit in Egypt"
-excerpt: "Democracy Now! is in Sharm el-Sheikh, Egypt, where the COP27 U.N. climate conference has entered its second week amid protests against the host government’s repression and world leaders’ inaction on t"
-image: "https://www.democracynow.org/images/story/80/65180/full_hd/seg1-COP27-Protest.jpg"
+publication: "torontosun.com"
+link: "https://torontosun.com/news/world/cop27-deal-delivers-landmark-on-loss-and-damage-but-little-else"
+title: "COP27 deal delivers landmark on 'loss and damage,' but little else"
+excerpt: "Countries adopted a hard-fought agreement at the COP27 summit that sets up a fund to help poor nations being battered by climate disasters."
+image: "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2022/11/AFP_32NZ9HY-scaled-e1668962433473.jpg?quality=100&strip=all"
 group: pro
 rank: 14
 ---

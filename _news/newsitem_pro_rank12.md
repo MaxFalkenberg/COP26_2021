@@ -1,9 +1,9 @@
 ---
-publication: "standard.co.uk"
-link: "https://www.standard.co.uk/news/london/extinction-rebellion-protesters-london-knightsbridge-cop27-b1041431.html"
-title: "Extinction Rebellion protesters target 13 London businesses post-COP27"
-excerpt: "The group said ‘fake oil’ was poured over offices and front steps, a fire was lit and fake blood poured on the pavement outside businesses ‘linked to the fossil fuel industry’ "
-image: "https://static.standard.co.uk/2022/11/21/12/PROTEST%20Ocean%20%2011592964.jpg?width=1200&width=1200&auto=webp&quality=75"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/news/2022/11/20/cop27-deal-sharm-el-sheikh-egypt-compensation-fund-alok-sharma/"
+title: "Cop27 strikes 'historic' climate compensation deal but no progress on emissions"
+excerpt: "Alok Sharma welcomes the decision on loss and damage but warns agreement is 'not a moment of unqualified celebration'"
+image: "https://www.telegraph.co.uk/content/dam/news/2022/11/20/TELEMMGLPICT000316874619_trans_NvBQzQNjv4BqEzw5OF8VsBey80ir11mphkgR7PVUJ79uLnSHs-A1YSI.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 12
 ---
