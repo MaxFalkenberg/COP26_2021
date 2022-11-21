@@ -1,9 +1,9 @@
 ---
-publication: "ntd.com"
-link: "https://www.ntd.com/countries-at-un-climate-talks-agree-to-loss-and-damage-fund-to-pay-for-poor-nations_882601.html"
-title: "Countries at UN Climate Talks Agree to ‘Loss and Damage’ Fund to Pay for Poor Nations"
-excerpt: "<p>At the United Nations COP27 summit in Sharm el-Sheikh, Egypt, representatives from nearly 200 countries have agreed to set up a &#8220;loss and damage&#8221; fund intended to help vulnerable countr"
-image: "https://i.ntd.com/assets/uploads/2022/11/COP27GettyImages-1244918929-352x220.jpg"
+publication: "trtworld.com"
+link: "https://www.trtworld.com/business/not-enough-world-leaders-react-to-historic-un-climate-deal-62728"
+title: "'Not enough': World leaders react to historic UN climate deal"
+excerpt: "While receiving praise for the creation of a 'loss and damage' fund, COP27 has been criticised over a failure to push further efforts on cutting emissions to limit global warming to 1.5 degrees Celsiu"
+image: "https://cdni0.trtworld.com/w480/h270/q75/144398_000_32NZ9JG_1668949293716.jpg"
 group: con
 rank: 12
 ---
