@@ -5,5 +5,5 @@ title: "“No Climate Justice Without Human Rights”: Groups Protest Inaction, 
 excerpt: "Democracy Now! is in Sharm el-Sheikh, Egypt, where the COP27 U.N. climate conference has entered its second week amid protests against the host government’s repression and world leaders’ inaction on t"
 image: "https://www.democracynow.org/images/story/80/65180/full_hd/seg1-COP27-Protest.jpg"
 group: pro
-rank: 14
+rank: 13
 ---
