@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63693738"
-title: "Climate change: Five key takeaways from COP27"
-excerpt: "The biggest win on climate since the Paris Agreement in 2015... or the biggest loss?"
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/4FE2/production/_127705402_f6c5f2e6042db43ee1b6a1c89fcec448c26c47fb0_0_5500_36671000x667.jpg"
+publication: "climatechangenews.com"
+link: "https://www.climatechangenews.com/2022/11/20/what-was-decided-at-cop27-climate-talks-in-sharm-el-sheikh/"
+title: "What was decided at Cop27 climate talks in Sharm el-Sheikh?"
+excerpt: "The Sharm el-Sheikh Implementation Plan made a breakthrough on support for climate victims, but avoided confronting the oil and gas sector"
+image: "https://cdn.climatechangenews.com/files/2022/11/20054819/52510644272_3ba500384d_c-e1668923321888.jpg"
 group: pro
 rank: 15
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63677466"
-title: "COP27: Climate costs deal struck but no fossil fuel progress"
-excerpt: "Rich nations will pay climate damages, but the final deal does not cut fossil fuels further."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/5E60/production/_127706142_gettyimages-1244896339.jpg"
+publication: "theconversation.com"
+link: "https://theconversation.com/cop27-one-big-breakthrough-but-ultimately-an-inadequate-response-to-the-climate-crisis-194056"
+title: "COP27: one big breakthrough but ultimately an inadequate response to the climate crisis"
+excerpt: "The big news of COP27 was agreement to establish a fund for ‘loss and damage’. But many lamented the summit’s overall outcome, saying it falls short of a sufficient response to the climate crisis."
+image: "https://images.theconversation.com/files/496273/original/file-20221120-9492-kbhv5b.jpg?ixlib=rb-1.1.0&rect=46%2C0%2C5143%2C2571&q=45&auto=format&w=1356&h=668&fit=crop"
 group: pro
 rank: 11
 ---
