@@ -1,9 +1,9 @@
 ---
-publication: "firstfactcheck.substack.com"
-link: "https://firstfactcheck.substack.com/p/stalinist-cop27-edits-out-blasphemous"
-title: "Stalinist COP27 edits out blasphemous Mount Sinai 'Ten Climate Commandments'. "
-excerpt: "Spot the difference."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8cbfbfb3-88b5-47bc-9a98-c3f94f31039d_1514x1436.png"
+publication: "chinadaily.com.cn"
+link: "http://www.chinadaily.com.cn/a/202211/20/WS637a4c68a31049175432acff.html"
+title: "'Loss and damage' fund OK'd at COP27"
+excerpt: "The 27th Conference of the Parties to the United Nations Framework Convention on Climate Change, or COP27, concluded on Sunday with the reaching of a historic agreement to provide 'loss and damage' fu"
+image: "http://img2.chinadaily.com.cn/images/202211/20/637a4dd3a31049178c92030c.jpeg"
 group: con
 rank: 14
 ---

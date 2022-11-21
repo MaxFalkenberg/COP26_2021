@@ -1,9 +1,9 @@
 ---
-publication: "wesuspectsilence.wordpress.com"
-link: "https://wesuspectsilence.wordpress.com/2022/07/04/when-thinking-about-fossil-fuel-phase-outs-the-key-word-is-unabated/"
-title: "When thinking about fossil fuel phase-outs: The key word is ‘unabated’"
-excerpt: "Is it conceivable that the oldest and wealthiest pillar of industrial globalist power could contrive to use philanthropy and every other covert means available to shape and compromise the resistanc…"
-image: "https://wesuspectsilence.files.wordpress.com/2022/07/unabated_3.jpg"
+publication: "globalresearch.ca"
+link: "https://www.globalresearch.ca/what-a-scam-it-actually-is-assessing-cop27-and-modern-climate-activism/5799585"
+title: "“What a Scam it Actually is.” Assessing COP27 and Modern Climate Activism - Global Research"
+excerpt: "All Global Research articles can be read in 51 languages by activating the “Translate Website” drop down menu on the top banner of our home page (Desktop version). Visit and follow us on Instagram at "
+image: "https://www.globalresearch.ca/wp-content/uploads/2022/11/cop27.jpg"
 group: con
 rank: 11
 ---
