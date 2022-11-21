@@ -1,9 +1,9 @@
 ---
-publication: "thenational.scot"
-link: "https://www.thenational.scot/news/23139927.scotland-played-key-role-breaking-taboo-loss-damage/"
-title: "Scotland praised for 'moral leadership' shown at COP27 over loss and damage fund"
-excerpt: "Previously, developed countries had been reluctant to commit to paying up compensation for the damage already caused to countries in the Global South"
-image: "https://www.thenational.scot/resources/images/16181552/?type=og-image"
+publication: "standard.co.uk"
+link: "https://www.standard.co.uk/news/london/extinction-rebellion-protesters-london-knightsbridge-cop27-b1041431.html"
+title: "Extinction Rebellion protesters target 13 London businesses post-COP27"
+excerpt: "The group said ‘fake oil’ was poured over offices and front steps, a fire was lit and fake blood poured on the pavement outside businesses ‘linked to the fossil fuel industry’ "
+image: "https://static.standard.co.uk/2022/11/21/12/PROTEST%20Ocean%20%2011592964.jpg?width=1200&width=1200&auto=webp&quality=75"
 group: pro
 rank: 15
 ---

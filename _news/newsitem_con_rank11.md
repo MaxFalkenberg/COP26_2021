@@ -1,9 +1,9 @@
 ---
-publication: "en.people.cn"
-link: "http://en.people.cn/n3/2022/1121/c90000-10173890.html"
-title: "Landmark 'loss and damage' fund approved as UN climate conference closes in Egypt - People's Daily Online"
-excerpt: "This photo shows the closing plenary of the COP27 climate change conference in Sharm El-Sheikh,"
-image: "/mediafile/pic/BIG/20221121/90/10242311793980899902.jpg"
+publication: "globaltimes.cn"
+link: "https://www.globaltimes.cn/page/202211/1279999.shtml"
+title: "COP27 concludes on Sunday, yields ‘historic’ deal on climate loss and damage  "
+excerpt: "In what has been hailed as a "
+image: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-06/8f25207c-64e3-4e1d-bfd1-ba3da6750b77_s.jpeg"
 group: con
 rank: 11
 ---

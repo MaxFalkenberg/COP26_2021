@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/countries-agree-loss-damage-fund-final-cop27-deal-elusive-2022-11-20/"
-title: "COP27 delivers climate fund breakthrough at cost of progress on emissions"
-excerpt: "The deal was widely lauded as a triumph for responding to the impact that global warming is having on vulnerable countries. But many countries said they felt pressured to give up on tougher commitment"
-image: "https://www.reuters.com/resizer/B7qu5BU4VgzlJvdpTJ0cJItNl9I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7HYLM6C2NNLLDOLIIFZAQJCC3Y.jpg"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/news/2022/11/20/cop27-deal-sharm-el-sheikh-egypt-compensation-fund-alok-sharma/"
+title: "Cop27 strikes 'historic' climate compensation deal but no progress on emissions"
+excerpt: "Alok Sharma welcomes the decision on loss and damage but warns agreement is 'not a moment of unqualified celebration'"
+image: "https://www.telegraph.co.uk/content/dam/news/2022/11/20/TELEMMGLPICT000316874619_trans_NvBQzQNjv4BqEzw5OF8VsBey80ir11mphkgR7PVUJ79uLnSHs-A1YSI.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 17
 ---

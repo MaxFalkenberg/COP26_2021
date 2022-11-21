@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/21/the-world-votes-for-climate-hell-cop27-ecologicalcrisis-climatecrisis-economiccrisis-tellthetruth-auspol-hyperthreat-time-for-plane/"
-title: "The world votes for “climate hell” #COP27 #EcologicalCrisis #ClimateCrisis #EconomicCrisis #TellTheTruth #auspol Hyperthreat time for #PlanE"
-excerpt: "The world votes for “climate hell” By Julian CribbNov 21, 2022 Something of epochal importance happened in Egypt last week – the most significant event since Cheops shoved up his triangular monumen…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1970.jpg"
+publication: "notalotofpeopleknowthat.wordpress.com"
+link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/20/cop27-is-a-downpayment-on-disaster/#more-60045"
+title: "COP27 Is A Downpayment On Disaster"
+excerpt: "By Paul Homewood As usual the BBC paints the latest COP as a “historic deal”!       Despite the hype, very little has been achieved, as the BBC have to admit:"
+image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb-86.png"
 group: con
 rank: 4
 ---

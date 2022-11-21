@@ -1,9 +1,9 @@
 ---
-publication: "dailykos.com"
-link: "https://www.dailykos.com/stories/2022/11/15/2136408/-COP27-Global-rivers-coalition-exposes-severe-climate-and-human-rights-risk-of-new-hydropower-dams"
-title: "COP27: Global rivers coalition exposes severe climate and human rights risk of new hydropower dams"
-excerpt: "Sharm El-Sheikh, Egypt— In a statement issued today, a global river and human rights coalition at the United Nations (UN) Climate Change Conference (COP27) called both on governments to avoid includin"
-image: "https://images.dailykos.com/images/1134463/story_image/315873816_2193982677456483_333212564692450797_n.jpg?1668557806"
+publication: "peopleandnature.wordpress.com"
+link: "https://peopleandnature.wordpress.com/2022/11/21/oil-companies-dictators-and-greenwashers-captured-cop27-hope-lies-in-movements-outside-the-talks/"
+title: "Oil companies, dictators and greenwashers captured COP27. Hope lies in movements outside the talks"
+excerpt: "This assessment of COP27 was published by Truthout on Friday, and the agreement struck yesterday doesn’t change the main points. Headlines yesterday welcomed the fund for loss and damage – but so f…"
+image: "https://peopleandnature.files.wordpress.com/2022/11/egypt2.png"
 group: con
 rank: 8
 ---
