@@ -1,9 +1,9 @@
 ---
-publication: "trtworld.com"
-link: "https://www.trtworld.com/life/un-cop27-climate-summit-in-egypt-adopts-loss-and-damage-fund-62717"
-title: "UN COP27 climate summit in Egypt adopts 'loss and damage' fund"
-excerpt: "Summit participants agree to compensate poor nations that are victims of extreme weather worsened by rich countries' carbon pollution."
-image: "https://cdni0.trtworld.com/w480/h270/q75/144380_EGY20221911_1668911933459.JPG"
+publication: "notalotofpeopleknowthat.wordpress.com"
+link: "https://notalotofpeopleknowthat.wordpress.com/2022/11/20/cop27-is-a-downpayment-on-disaster/#more-60045"
+title: "COP27 Is A Downpayment On Disaster"
+excerpt: "By Paul Homewood As usual the BBC paints the latest COP as a “historic deal”!       Despite the hype, very little has been achieved, as the BBC have to admit:"
+image: "https://notalotofpeopleknowthat.files.wordpress.com/2022/11/image_thumb-86.png"
 group: con
 rank: 4
 ---

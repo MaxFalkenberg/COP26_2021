@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/20/cop27-climate-conference-deal-fund/"
-title: "COP27 leaves world on dangerous warming path despite historic climate fund"
-excerpt: "The final decision of the U.N. Climate Conference in Egypt made little progress on emissions-cutting measures that could avert worse disasters to come."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I3IJMCUUJQB43MYAJABOEQOKOE.JPG&w=1440"
+publication: "climatechangenews.com"
+link: "https://www.climatechangenews.com/2022/11/20/what-was-decided-at-cop27-climate-talks-in-sharm-el-sheikh/"
+title: "What was decided at Cop27 climate talks in Sharm el-Sheikh?"
+excerpt: "The Sharm el-Sheikh Implementation Plan made a breakthrough on support for climate victims, but avoided confronting the oil and gas sector"
+image: "https://cdn.climatechangenews.com/files/2022/11/20054819/52510644272_3ba500384d_c-e1668923321888.jpg"
 group: pro
 rank: 8
 ---

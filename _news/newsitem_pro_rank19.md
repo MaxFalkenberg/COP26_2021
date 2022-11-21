@@ -1,9 +1,9 @@
 ---
-publication: "qz.com"
-link: "https://qz.com/cop27-is-leaving-huge-loopholes-for-greenwashing-1849800189/amp"
-title: "COP27 may allow for greenwashing in carbon offsets"
-excerpt: "Negotiations on a new carbon market allow for dubious accounting and lack transparency"
-image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,fl_progressive,g_center,h_180,q_80,w_320/8250c6f841b693b4990648e8dff17e5b.png"
+publication: "apnews.com"
+link: "https://apnews.com/article/united-nations-john-kerry-climate-and-environment-18f6e5cb8183c59ceaf0cf2408842e6c"
+title: "UN climate deal: Calamity cash, but no new emissions cuts"
+excerpt: "SHARM EL-SHEIKH, Egypt (AP) — For the first time, the nations of the world decided to help pay for the damage an overheating world is inflicting on poor countries, but they finished marathon climate t"
+image: "https://storage.googleapis.com/afs-prod/media/3cc034ecb1f740269f8e2a73f45a4f47/3000.jpeg"
 group: pro
 rank: 19
 ---

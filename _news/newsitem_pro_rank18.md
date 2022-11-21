@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://www.bbc.co.uk/news/science-environment-63677466"
-title: "COP27: Climate costs deal struck but no fossil fuel progress"
-excerpt: "Rich nations will pay climate damages, but the final deal does not cut fossil fuels further."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/5E60/production/_127706142_gettyimages-1244896339.jpg"
+publication: "qz.com"
+link: "https://qz.com/cop27-is-leaving-huge-loopholes-for-greenwashing-1849800189/amp"
+title: "COP27 may allow for greenwashing in carbon offsets"
+excerpt: "Negotiations on a new carbon market allow for dubious accounting and lack transparency"
+image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,fl_progressive,g_center,h_180,q_80,w_320/8250c6f841b693b4990648e8dff17e5b.png"
 group: pro
 rank: 18
 ---
