@@ -1,9 +1,9 @@
 ---
-publication: "standard.co.uk"
-link: "https://www.standard.co.uk/news/politics/extreme-weather-cop27-fossil-fuels-agreement-climate-change-b1041390.html"
-title: "Extreme weather will get worse after ‘disappointing’ COP27"
-excerpt: "The world will continue to see natural disasters and extreme weather conditions driven by climate change after nations failed to agree limiting the use of fossil fuels at COP27, a leading scientist wa"
-image: "https://static.standard.co.uk/2022/11/16/12/bf41150ef0aa7b0c81f234563235cc7eY29udGVudHNlYXJjaGFwaSwxNjY4Njg1MTk3-2.69650440.jpg?width=1200&width=1200&auto=webp&quality=75"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/australias-climate-policies-dont-match-its-big-talk-cop27-2022-11-20/"
+title: "Analysis: Australia's climate policies don't match its big talk at COP27"
+excerpt: "Australia is talking up its green credentials at the annual U.N. climate summit, but its policies do not match the portrayal as it continues to support new mining and energy projects, and fuels the cr"
+image: "https://www.reuters.com/resizer/-izcM534lBSAYeZDX02aqamtzBY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X7YIOP5CDJNFFK3SA6IQ66EE6E.jpg"
 group: pro
 rank: 7
 ---

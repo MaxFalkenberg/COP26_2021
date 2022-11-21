@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/countries-agree-loss-damage-fund-final-cop27-deal-elusive-2022-11-20/"
-title: "COP27 delivers climate fund breakthrough at cost of progress on emissions"
-excerpt: "The deal was widely lauded as a triumph for responding to the impact that global warming is having on vulnerable countries. But many countries said they felt pressured to give up on tougher commitment"
-image: "https://www.reuters.com/resizer/B7qu5BU4VgzlJvdpTJ0cJItNl9I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7HYLM6C2NNLLDOLIIFZAQJCC3Y.jpg"
+publication: "edf.org"
+link: "https://www.edf.org/media/cop27-agrees-key-milestones-and-historic-consensus-funding-loss-and-damage"
+title: "COP27 Agrees on Key Milestones and Historic Consensus on Funding for Loss and Damage"
+excerpt: "EDF’s Executive Vice President for Impact, Angela Churie Kallhauge, reflects on the outcomes of the annual United Nations climate conference."
+image: "https://www.edf.org/sites/default/files/styles/share_1200_630_focal_point/public/2022-11/COP27%20venue_UNFCC%20Flickr.jpg?h=a1e1a043&itok=AT_pufhN"
 group: pro
 rank: 18
 ---
