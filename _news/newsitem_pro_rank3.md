@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/20/cop27-climate-conference-deal-fund/"
-title: "COP27 leaves world on dangerous warming path despite historic climate fund"
-excerpt: "The final decision of the U.N. Climate Conference in Egypt made little progress on emissions-cutting measures that could avert worse disasters to come."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I3IJMCUUJQB43MYAJABOEQOKOE.JPG&w=1440"
+publication: "qz.com"
+link: "https://qz.com/cop27-is-leaving-huge-loopholes-for-greenwashing-1849800189/amp"
+title: "COP27 may allow for greenwashing in carbon offsets"
+excerpt: "Negotiations on a new carbon market allow for dubious accounting and lack transparency"
+image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,fl_progressive,g_center,h_180,q_80,w_320/164cc42411d4688abdd6802952f71df7.png"
 group: pro
 rank: 3
 ---

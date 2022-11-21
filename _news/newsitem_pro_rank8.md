@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/australias-climate-policies-dont-match-its-big-talk-cop27-2022-11-20/"
-title: "Analysis: Australia's climate policies don't match its big talk at COP27"
-excerpt: "Australia is talking up its green credentials at the annual U.N. climate summit, but its policies do not match the portrayal as it continues to support new mining and energy projects, and fuels the cr"
-image: "https://www.reuters.com/resizer/-izcM534lBSAYeZDX02aqamtzBY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X7YIOP5CDJNFFK3SA6IQ66EE6E.jpg"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/science-environment-63677466"
+title: "COP27: Climate costs deal struck but no fossil fuel progress"
+excerpt: "Rich nations will pay climate damages, but the final deal does not cut fossil fuels further."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/15D76/production/_127726498_globe-index3-getty.jpg"
 group: pro
 rank: 8
 ---

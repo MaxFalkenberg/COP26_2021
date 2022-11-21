@@ -1,9 +1,9 @@
 ---
-publication: "ertarailvolunteer.blogspot.com"
-link: "https://ertarailvolunteer.blogspot.com/2022/11/cop27-demands-we-need-modal-shift.html"
-title: "COP27 demands we need modal shift facilitated by redirecting existing funds"
-excerpt: "A blog about the voluntary English Regional Transport Association (ERTA)"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpREi4HkXXnlkhEJ2pnq9w-aQHh4tclqx7QnMfV3lV2yTtsNUpdyAyhlxsUEK90Aep0lO1FzuPd5YJuvHqNhmYU0L2oDOsaxPSxq4hQo5FiOvEE1BUxbmoL_zPvXaaI8HAX-kVH66QqQDpvyjU6Dpqfj9xiE9d5qyTZOjiE0YlYn-VZrMBp0qM7fy/w1200-h630-p-k-no-nu/Thameslink%20unit%20no.700.106%20at%20St.Albans%20City%20on%20service%20from%20Bedford%20to%20Gatwick%20Airport.JPG"
+publication: "ntd.com"
+link: "https://www.ntd.com/countries-at-un-climate-talks-agree-to-loss-and-damage-fund-to-pay-for-poor-nations_882601.html"
+title: "Countries at UN Climate Talks Agree to ‘Loss and Damage’ Fund to Pay for Poor Nations"
+excerpt: "<p>At the United Nations COP27 summit in Sharm el-Sheikh, Egypt, representatives from nearly 200 countries have agreed to set up a &#8220;loss and damage&#8221; fund intended to help vulnerable countr"
+image: "https://i.ntd.com/assets/uploads/2022/11/COP27GettyImages-1244918929-352x220.jpg"
 group: con
 rank: 14
 ---

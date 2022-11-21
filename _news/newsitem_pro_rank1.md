@@ -1,9 +1,9 @@
 ---
 publication: "theguardian.com"
-link: "https://www.theguardian.com/environment/2022/nov/20/cop27-summit-climate-crisis-global-heating-fossil-fuel-industry"
-title: "The 1.5C climate goal died at Cop27 – but hope must not"
-excerpt: "Every fraction of a degree increases human suffering, so the fight to end the fossil fuel industry must ramp up"
-image: "https://i.guim.co.uk/img/media/702170cff325a884514d432b411509962587e790/0_144_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bfc01807bc7e4e68fc92c1b0f5237632"
+link: "https://www.theguardian.com/commentisfree/2022/nov/20/big-takeaway-cop27-climate-conferences-arent-working"
+title: "The big takeaway from Cop27? These climate conferences just aren’t working | Bill McGuire"
+excerpt: "We need something smaller, leaner and fully focused on the crisis at hand, says Bill McGuire, Prof Emeritus of Geophysical & Climate Hazards at UCL"
+image: "https://i.guim.co.uk/img/media/e305e0892e4a2fddfc5e44291d5074ddf278f164/0_266_3987_2392/master/3987.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=27cbba429377334534c036fab2dca214"
 group: pro
 rank: 1
 ---
