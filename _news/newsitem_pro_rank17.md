@@ -1,9 +1,9 @@
 ---
-publication: "economist.com"
-link: "https://www.economist.com/1843/2022/11/17/inside-the-campaign-at-cop27-to-free-egypts-leading-political-prisoner"
-title: "Inside the campaign at COP27 to free Egypt’s most famous political prisoner"
-excerpt: "What happened when Sanaa Seif tried to shame the authorities into releasing her brother?"
-image: "https://www.economist.com/img/b/1984/1116/90/media-assets/image/1843_20221117_SANAA_SEIF_01.jpg"
+publication: "aljazeera.com"
+link: "https://www.aljazeera.com/news/2022/11/20/historic-loss-and-damage-fund-adopted-at-cop27-climate-talks"
+title: "Historic ‘loss and damage’ fund adopted at COP27 climate summit"
+excerpt: "Countries at COP27 summit agree to set up a compensation fund for poor nations suffering the impact of climate change."
+image: "https://www.aljazeera.com/wp-content/uploads/2022/11/AP22323519172738.jpg?resize=1920%2C1440"
 group: pro
 rank: 17
 ---

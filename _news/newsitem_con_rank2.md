@@ -1,9 +1,9 @@
 ---
-publication: "gulfnews.com"
-link: "https://gulfnews.com/opinion/op-eds/cop28-in-the-uae-must-make-up-for-cop27s-shortcomings-1.92148410"
-title: "COP28 in the UAE must make up for COP27’s shortcomings"
-excerpt: "Progress in international climate negotiations has been slow. This needs to change now"
-image: "https://imagevars.gulfnews.com/2021/10/22/climate_17ca6cab07f_medium.jpg"
+publication: "billmckibben.substack.com"
+link: "https://billmckibben.substack.com/p/the-tyranny-of-inertia"
+title: "The Tyranny of Inertia"
+excerpt: "Egypt Dispatch 6: Getting something this big done is...hard"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F785e1c0b-c7fc-4aa7-924a-a5c6eece6513_5100x3614.jpeg"
 group: con
 rank: 2
 ---
