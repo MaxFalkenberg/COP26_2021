@@ -1,9 +1,9 @@
 ---
-publication: "torontosun.com"
-link: "https://torontosun.com/news/world/cop27-deal-delivers-landmark-on-loss-and-damage-but-little-else"
-title: "COP27 deal delivers landmark on 'loss and damage,' but little else"
-excerpt: "Countries adopted a hard-fought agreement at the COP27 summit that sets up a fund to help poor nations being battered by climate disasters."
-image: "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2022/11/AFP_32NZ9HY-scaled-e1668962433473.jpg?quality=100&strip=all"
+publication: "theconversation.com"
+link: "https://theconversation.com/cop27s-loss-and-damage-fund-for-developing-countries-could-be-a-breakthrough-or-another-empty-climate-promise-194992"
+title: "COP27's ‘loss and damage’ fund for developing countries could be a breakthrough – or another empty climate promise"
+excerpt: "It’s a landmark agreement, acknowledging for the first time that wealthy countries bear some responsibility to help. But it leaves many unanswered questions."
+image: "https://images.theconversation.com/files/496398/original/file-20221121-16-iwtkve.jpg?ixlib=rb-1.1.0&rect=0%2C275%2C5757%2C2878&q=45&auto=format&w=1356&h=668&fit=crop"
 group: pro
 rank: 13
 ---
