@@ -1,9 +1,9 @@
 ---
-publication: "torontosun.com"
-link: "https://torontosun.com/news/world/cop27-deal-delivers-landmark-on-loss-and-damage-but-little-else"
-title: "COP27 deal delivers landmark on 'loss and damage,' but little else"
-excerpt: "Countries adopted a hard-fought agreement at the COP27 summit that sets up a fund to help poor nations being battered by climate disasters."
-image: "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2022/11/AFP_32NZ9HY-scaled-e1668962433473.jpg?quality=100&strip=all"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/news/2022/11/20/cop27-deal-sharm-el-sheikh-egypt-compensation-fund-alok-sharma/"
+title: "Cop27 strikes 'historic' climate compensation deal but no progress on emissions"
+excerpt: "Alok Sharma welcomes the decision on loss and damage but warns agreement is 'not a moment of unqualified celebration'"
+image: "https://www.telegraph.co.uk/content/dam/news/2022/11/20/TELEMMGLPICT000316874619_trans_NvBQzQNjv4BqEzw5OF8VsBey80ir11mphkgR7PVUJ79uLnSHs-A1YSI.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 12
 ---

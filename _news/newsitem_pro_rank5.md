@@ -5,5 +5,5 @@ title: "Scotland praised for 'moral leadership' shown at COP27 over loss and dam
 excerpt: "Previously, developed countries had been reluctant to commit to paying up compensation for the damage already caused to countries in the Global South"
 image: "https://www.thenational.scot/resources/images/16181552/?type=og-image"
 group: pro
-rank: 6
+rank: 5
 ---
