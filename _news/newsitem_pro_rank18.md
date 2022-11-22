@@ -1,9 +1,9 @@
 ---
-publication: "democracynow.org"
-link: "https://www.democracynow.org/2022/11/21/headlines/cop27_delegates_agree_on_historic_loss_and_damage_deal_but_make_no_progress_on_climate_catastrophe"
-title: "COP27 Delegates Agree on Historic “Loss and Damage” Deal But Make No Progress on Climate Catastrophe"
-excerpt: "In Sharm el-Sheikh, delegates at the U.N. climate summit agreed on Sunday to establish a landmark “loss and damage” fund to help the Global South deal with the worst effects of the climate catastrophe"
-image: "https://www.democracynow.org/images/headlines/59/65259/full_hd/h1-COP-extinction.jpg"
+publication: "dailymail.co.uk"
+link: "https://www.dailymail.co.uk/news/article-11416209/FOUR-private-jets-arrived-Egypt-COP27-climate-delegates-accused-hypocrisy.html"
+title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
+excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
+image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
 group: pro
 rank: 18
 ---

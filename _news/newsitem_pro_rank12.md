@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/climate-environment/2022/11/20/cop27-climate-conference-deal-fund/"
-title: "COP27 leaves world on dangerous warming path despite historic climate fund"
-excerpt: "The final decision of the U.N. Climate Conference in Egypt made little progress on emissions-cutting measures that could avert worse disasters to come."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I3IJMCUUJQB43MYAJABOEQOKOE.JPG&w=1440"
+publication: "standard.co.uk"
+link: "https://www.standard.co.uk/news/london/extinction-rebellion-protesters-london-knightsbridge-cop27-b1041431.html"
+title: "Extinction Rebellion protesters target 13 London businesses post-COP27"
+excerpt: "The group said ‘fake oil’ was poured over offices and front steps, a fire was lit and fake blood poured on the pavement outside businesses ‘linked to the fossil fuel industry’ "
+image: "https://static.standard.co.uk/2022/11/21/12/PROTEST%20Ocean%20%2011592964.jpg?width=1200&width=1200&auto=webp&quality=75"
 group: pro
 rank: 12
 ---

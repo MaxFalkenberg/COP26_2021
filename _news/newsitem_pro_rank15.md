@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/cop27-does-little-next-months-global-agenda-nature-loss-2022-11-21/"
-title: "Analysis: COP27 does little for next month's global agenda: nature loss"
-excerpt: "The U.N. climate talks in Egypt closed on Sunday with a resolution to address the dual crises of climate change and nature loss, but did little to boost next month's global meeting on biodiversity."
-image: "https://www.reuters.com/resizer/kIk4aI-v15QXr4S1JeFmfgERTKE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TV6L5P4FCVNMPIQYXH63WDGWM4.jpg"
+publication: "ox.ac.uk"
+link: "https://www.ox.ac.uk/news/2022-11-21-expert-comment-climate-justice-and-credible-targetsor-will-cop27-be-remembered-lame"
+title: "Expert Comment - Climate justice and credible targets..or will COP27"
+excerpt: "Commenting today, leading Oxford climate experts talk about the COP27 closing agreement, which creates a loss and damage fund, to support poorer nations struggling with the impacts of climate change,"
+image: "https://www.ox.ac.uk/sites/files/oxford/field/field_image_main/shutterstock_2223951369.jpg"
 group: pro
 rank: 15
 ---
