@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/20/WS637a4c68a31049175432acff.html"
-title: "'Loss and damage' fund OK'd at COP27"
-excerpt: "The 27th Conference of the Parties to the United Nations Framework Convention on Climate Change, or COP27, concluded on Sunday with the reaching of a historic agreement to provide 'loss and damage' fu"
-image: "http://img2.chinadaily.com.cn/images/202211/20/637a4dd3a31049178c92030c.jpeg"
+publication: "peopleandnature.wordpress.com"
+link: "https://peopleandnature.wordpress.com/2022/11/21/oil-companies-dictators-and-greenwashers-captured-cop27-hope-lies-in-movements-outside-the-talks/"
+title: "Oil companies, dictators and greenwashers captured COP27. Hope lies in movements outside the talks"
+excerpt: "This assessment of COP27 was published by Truthout on Friday, and the agreement struck yesterday doesn’t change the main points. Headlines yesterday welcomed the fund for loss and damage – but so f…"
+image: "https://peopleandnature.files.wordpress.com/2022/11/egypt2.png"
 group: con
 rank: 3
 ---

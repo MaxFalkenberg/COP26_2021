@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/news/2022/11/20/cop27-deal-sharm-el-sheikh-egypt-compensation-fund-alok-sharma/"
-title: "Cop27 strikes 'historic' climate compensation deal but no progress on emissions"
-excerpt: "Alok Sharma welcomes the decision on loss and damage but warns agreement is 'not a moment of unqualified celebration'"
-image: "https://www.telegraph.co.uk/content/dam/news/2022/11/20/TELEMMGLPICT000316874619_trans_NvBQzQNjv4BqEzw5OF8VsBey80ir11mphkgR7PVUJ79uLnSHs-A1YSI.jpeg?impolicy=logo-overlay"
+publication: "theconversation.com"
+link: "https://theconversation.com/cop27s-loss-and-damage-fund-for-developing-countries-could-be-a-breakthrough-or-another-empty-climate-promise-194992"
+title: "COP27's ‘loss and damage’ fund for developing countries could be a breakthrough – or another empty climate promise"
+excerpt: "It’s a landmark agreement, acknowledging for the first time that wealthy countries bear some responsibility to help. But it leaves many unanswered questions."
+image: "https://images.theconversation.com/files/496398/original/file-20221121-16-iwtkve.jpg?ixlib=rb-1.1.0&rect=0%2C275%2C5757%2C2878&q=45&auto=format&w=1356&h=668&fit=crop"
 group: pro
 rank: 13
 ---

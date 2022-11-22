@@ -1,9 +1,9 @@
 ---
-publication: "reuters.com"
-link: "https://www.reuters.com/business/cop/countries-agree-loss-damage-fund-final-cop27-deal-elusive-2022-11-20/"
-title: "COP27 delivers climate fund breakthrough at cost of progress on emissions"
-excerpt: "The deal was widely lauded as a triumph for responding to the impact that global warming is having on vulnerable countries. But many countries said they felt pressured to give up on tougher commitment"
-image: "https://www.reuters.com/resizer/B7qu5BU4VgzlJvdpTJ0cJItNl9I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7HYLM6C2NNLLDOLIIFZAQJCC3Y.jpg"
+publication: "thenewamerican.com"
+link: "https://thenewamerican.com/global-wealth-redistribution-approved-at-un-climate-summit/"
+title: "Global Wealth Redistribution Approved at UN 'Climate' Summit - The New American"
+excerpt: "SHARM EL SHEIK, EGYPT — Under the guise of paying “climate” reparations, governments of wealthier nations attending the UN climate-change summit agreed to seize potentially unlimited amounts of their "
+image: "https://jbs.org/assets/sites/2/cop27-1.jpg"
 group: pro
 rank: 19
 ---
