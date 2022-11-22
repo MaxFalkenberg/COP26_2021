@@ -1,9 +1,9 @@
 ---
-publication: "theguardian.com"
-link: "https://www.theguardian.com/environment/2022/nov/20/cop27-summit-climate-crisis-global-heating-fossil-fuel-industry"
-title: "The 1.5C climate goal died at Cop27 – but hope must not"
-excerpt: "Every fraction of a degree increases human suffering, so the fight to end the fossil fuel industry must ramp up"
-image: "https://i.guim.co.uk/img/media/702170cff325a884514d432b411509962587e790/0_144_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bfc01807bc7e4e68fc92c1b0f5237632"
+publication: "standard.co.uk"
+link: "https://www.standard.co.uk/news/politics/extreme-weather-cop27-fossil-fuels-agreement-climate-change-b1041390.html"
+title: "Extreme weather will get worse after ‘disappointing’ COP27"
+excerpt: "The world will continue to see natural disasters and extreme weather conditions driven by climate change after nations failed to agree limiting the use of fossil fuels at COP27, a leading scientist wa"
+image: "https://static.standard.co.uk/2022/11/16/12/bf41150ef0aa7b0c81f234563235cc7eY29udGVudHNlYXJjaGFwaSwxNjY4Njg1MTk3-2.69650440.jpg?width=1200&width=1200&auto=webp&quality=75"
 group: pro
 rank: 3
 ---
