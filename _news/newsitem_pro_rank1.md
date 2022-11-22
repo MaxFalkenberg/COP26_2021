@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/climate-change/opinion/cop27-good-bad-ugly-climate-summit-b2230385.html"
-title: "The good, the bad and the exceedingly ugly of this year’s Cop | Caroline Lucas"
-excerpt: "Let’s be clear, climate leadership from this government is sorely lacking"
-image: "https://static.independent.co.uk/2022/11/22/11/urnpublicidap.org0ba34a02595546c8aee422c70911e52c.jpg?quality=75&width=1200&auto=webp"
+publication: "thenewamerican.com"
+link: "https://thenewamerican.com/global-wealth-redistribution-approved-at-un-climate-summit/"
+title: "Global Wealth Redistribution Approved at UN 'Climate' Summit - The New American"
+excerpt: "SHARM EL SHEIK, EGYPT — Under the guise of paying “climate” reparations, governments of wealthier nations attending the UN climate-change summit agreed to seize potentially unlimited amounts of their "
+image: "https://jbs.org/assets/sites/2/cop27-1.jpg"
 group: pro
 rank: 1
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "thenational.scot"
-link: "https://www.thenational.scot/news/23139927.scotland-played-key-role-breaking-taboo-loss-damage/"
-title: "Scotland praised for 'moral leadership' shown at COP27 over loss and damage fund"
-excerpt: "Previously, developed countries had been reluctant to commit to paying up compensation for the damage already caused to countries in the Global South"
-image: "https://www.thenational.scot/resources/images/16181552/?type=og-image"
+publication: "independent.co.uk"
+link: "https://www.independent.co.uk/climate-change/opinion/cop27-good-bad-ugly-climate-summit-b2230385.html"
+title: "The good, the bad and the exceedingly ugly of this year’s Cop | Caroline Lucas"
+excerpt: "Let’s be clear, climate leadership from this government is sorely lacking"
+image: "https://static.independent.co.uk/2022/11/22/11/urnpublicidap.org0ba34a02595546c8aee422c70911e52c.jpg?quality=75&width=1200&auto=webp"
 group: pro
 rank: 0
 ---

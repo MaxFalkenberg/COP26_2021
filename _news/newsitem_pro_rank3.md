@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63584993"
-title: "COP27: BP chief listed as delegate for Mauritania"
-excerpt: "Chief executive of leading oil company is registered for COP27 as a delegate from poor African nation."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/9DE3/production/_127591404_8b02a6d3109de19484839f21a08d34e1284f7485.jpg"
+publication: "theguardian.com"
+link: "https://www.theguardian.com/environment/2022/nov/22/cop27-us-stinging-criticism-china-emissions"
+title: "US receives stinging criticism at Cop27 despite China’s growing emissions"
+excerpt: "The country is highlighting China’s status as top polluter after being called out for climate inaction"
+image: "https://i.guim.co.uk/img/media/073ae54ad6daf39f57a3f365ea70d5bd1df6e959/0_0_8478_5087/master/8478.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=65c304a8c25ea202f8d2a857fd482f2f"
 group: pro
 rank: 3
 ---

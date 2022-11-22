@@ -1,9 +1,9 @@
 ---
-publication: "thenation.com"
-link: "https://www.thenation.com/article/environment/climate-change-cop27-fossil-fuel-university-research/"
-title: "Students Tell Their Universities: Keep Fossil Fuel Companies Out of Climate Research"
-excerpt: "Amid COP27, members of the Fossil Free Research movement took action around the world, protesting the influence of Big Oil on crucial climate change studies."
-image: "https://www.thenation.com/wp-content/uploads/2022/11/Cambridge-Fossil-Free-Research-Week-of-Action.jpg"
+publication: "newstatesman.com"
+link: "https://www.newstatesman.com/quickfire/2022/11/end-circus-cop27"
+title: "End the circus of COP once and for all"
+excerpt: "We’re the clowns, smiling manically as weak pledges are presented as progress, amid mayhem."
+image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1244662577.jpg"
 group: pro
 rank: 6
 ---

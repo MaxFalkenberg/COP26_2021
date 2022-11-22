@@ -1,9 +1,9 @@
 ---
-publication: "peopleandnature.wordpress.com"
-link: "https://peopleandnature.wordpress.com/2022/11/21/oil-companies-dictators-and-greenwashers-captured-cop27-hope-lies-in-movements-outside-the-talks/"
-title: "Oil companies, dictators and greenwashers captured COP27. Hope lies in movements outside the talks"
-excerpt: "This assessment of COP27 was published by Truthout on Friday, and the agreement struck yesterday doesn’t change the main points. Headlines yesterday welcomed the fund for loss and damage – but so f…"
-image: "https://peopleandnature.files.wordpress.com/2022/11/egypt2.png"
+publication: "newseu.cgtn.com"
+link: "https://newseu.cgtn.com/news/2022-11-21/COP27-outcome-Achievements-and-setbacks-from-climate-summit-1f7wV7FOFdm/index.html"
+title: "COP27 impact: Achievements and setbacks from climate summit"
+excerpt: "Achievements and disappointments from the results of COP27 "
+image: "https://newseu.cgtn.com/news/2022-11-21/COP27-outcome-Achievements-and-setbacks-from-climate-summit-1f7wV7FOFdm/img/e94b939343624f0a940897eb0c153f90/e94b939343624f0a940897eb0c153f90-1920.png"
 group: con
 rank: 6
 ---

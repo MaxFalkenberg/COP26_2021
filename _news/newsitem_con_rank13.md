@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "https://www.chinadaily.com.cn/a/202211/21/WS637ada36a31049175432ae46.html"
-title: "How 5G, AI can help fossil fuel better adapt to post-COP27 world"
-excerpt: "Fossil fuel businesses have long been criticized for their environmental impact and are seeking to adapt in a world where sustainability policies are an increasingly urgent priority for governments ar"
-image: "http://img2.chinadaily.com.cn/images/202211/21/637ada36a31049178c92162d.jpeg"
+publication: "conservativefiringline.com"
+link: "https://conservativefiringline.com/what-was-the-cop27-in-egypt-all-about/"
+title: "What Was The COP27 In Egypt All About? ⋆ Conservative Firing Line"
+excerpt: "The COP27 meeting was yet another in which globalists plotted the destruction of humanity to allegedly save the planet."
+image: "https://conservativefiringline.com/wp-content/uploads/2022/11/Joe-Biden-14.jpg"
 group: con
 rank: 13
 ---

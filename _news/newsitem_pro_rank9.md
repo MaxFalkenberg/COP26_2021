@@ -1,9 +1,9 @@
 ---
-publication: "newstatesman.com"
-link: "https://www.newstatesman.com/quickfire/2022/11/end-circus-cop27"
-title: "End the circus of COP once and for all"
-excerpt: "We’re the clowns, smiling manically as weak pledges are presented as progress, amid mayhem."
-image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1244662577.jpg"
+publication: "truthout.org"
+link: "https://truthout.org/articles/chilean-indigenous-activist-says-cop27-promoted-devastating-mega-projects/"
+title: "Chilean Indigenous Activist Says COP27 Promoted Devastating Mining Projects"
+excerpt: "The COP27 climate summit has pitted the human rights of Indigenous peoples against rich nations’ energy needs."
+image: "https://truthout.org/wp-content/uploads/2022/11/GettyImages-1244846712-1200x675.jpg"
 group: pro
 rank: 9
 ---
