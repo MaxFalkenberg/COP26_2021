@@ -1,9 +1,9 @@
 ---
 publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/opinion/2022/11/21/cop27-lot-hot-air/"
-title: "Cop27 was a lot of hot air – again"
-excerpt: "The past fortnight's jamboree has been dominated  less by arguments over carbon levels than by who will pay for the damage"
-image: "https://www.telegraph.co.uk/content/dam/opinion/2022/11/20/TELEMMGLPICT000316869091_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdLdu0TL-Cg_AMOUqySXmFgU.jpeg?impolicy=logo-overlay"
+link: "https://www.telegraph.co.uk/columnists/2022/11/08/cop27-dont-owe-developing-countries-climate-reparations-owe/"
+title: "We don’t owe developing countries ‘climate reparations’ – they owe us"
+excerpt: "We are on the hook for untold billions to countries experiencing adverse weather conditions, because we invented factories – and cars"
+image: "https://www.telegraph.co.uk/content/dam/columnists/2022/11/08/TELEMMGLPICT000315446064_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 17
 ---
