@@ -1,9 +1,9 @@
 ---
-publication: "standard.co.uk"
-link: "https://www.standard.co.uk/news/london/extinction-rebellion-protesters-london-knightsbridge-cop27-b1041431.html"
-title: "Extinction Rebellion protesters target 13 London businesses post-COP27"
-excerpt: "The group said ‘fake oil’ was poured over offices and front steps, a fire was lit and fake blood poured on the pavement outside businesses ‘linked to the fossil fuel industry’ "
-image: "https://static.standard.co.uk/2022/11/21/12/PROTEST%20Ocean%20%2011592964.jpg?width=1200&width=1200&auto=webp&quality=75"
+publication: "dailymail.co.uk"
+link: "https://www.dailymail.co.uk/news/article-11416209/FOUR-private-jets-arrived-Egypt-COP27-climate-delegates-accused-hypocrisy.html"
+title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
+excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
+image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
 group: pro
 rank: 13
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "radarnewsletter.substack.com"
-link: "https://radarnewsletter.substack.com/p/cop27"
-title: "هنا كوب 27.. معالجة التغير المناخي لن تحدث دون مواجهة التضليل المناخي"
-excerpt: "«رادار نيوزليتر»"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F298ae9e6-3906-45f8-8eda-67797059b7dd_1280x840.jpeg"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/un-secretary-generals-statement-concluding-cop27-in-egypt/"
+title: "UN Secretary-General's Statement Concluding COP27 In Egypt"
+excerpt: "Blather, blather, blather. Last time I looked, we are not 'facing a burning planet.' In fact, cold temperatures at the South Pole this November have shattered all records since data collection started"
+image: "https://www.technocracy.news/wp-content/uploads/2022/11/xScreenshot-2022-11-19-23.02.51-750x375.png.pagespeed.ic_.XapWwJczoX.webp"
 group: con
 rank: 12
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "cbc.ca"
-link: "https://www.cbc.ca/news/science/biodiversity-montreal-cop27-1.6654447"
-title: "Biodiversity needs same protection as climate, say scientists, activists at COP27 | CBC News"
-excerpt: "Civil society groups, Indigenous activists and scientists are standing together at the COP27 climate conference in Sharm el-Sheikh, Egypt, and demanding firm action be taken next month at the UN Biodi"
-image: "https://i.cbc.ca/1.4583528.1668691821!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/alberta-caribou.jpg"
+publication: "democracynow.org"
+link: "https://www.democracynow.org/2022/11/21/headlines/cop27_delegates_agree_on_historic_loss_and_damage_deal_but_make_no_progress_on_climate_catastrophe"
+title: "COP27 Delegates Agree on Historic “Loss and Damage” Deal But Make No Progress on Climate Catastrophe"
+excerpt: "In Sharm el-Sheikh, delegates at the U.N. climate summit agreed on Sunday to establish a landmark “loss and damage” fund to help the Global South deal with the worst effects of the climate catastrophe"
+image: "https://www.democracynow.org/images/headlines/59/65259/full_hd/h1-COP-extinction.jpg"
 group: pro
 rank: 15
 ---
