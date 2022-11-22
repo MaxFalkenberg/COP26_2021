@@ -1,9 +1,9 @@
 ---
-publication: "newseu.cgtn.com"
-link: "https://newseu.cgtn.com/news/2022-11-21/COP27-outcome-Achievements-and-setbacks-from-climate-summit-1f7wV7FOFdm/index.html"
-title: "COP27 impact: Achievements and setbacks from climate summit"
-excerpt: "Achievements and disappointments from the results of COP27 "
-image: "https://newseu.cgtn.com/news/2022-11-21/COP27-outcome-Achievements-and-setbacks-from-climate-summit-1f7wV7FOFdm/img/e94b939343624f0a940897eb0c153f90/e94b939343624f0a940897eb0c153f90-1920.png"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/20/finnish-govt-report-reveals-lithium-and-cobalt-supplies-insufficient-climatecrisis-ecologicalcrisis-limitstogrowth-economiccrisis-brightgreenlies/"
+title: "Finnish Govt Report Reveals Lithium And Cobalt Supplies Insufficient #ClimateCrisis #EcologicalCrisis #LimitsToGrowth #EconomicCrisis #BrightGreenLies"
+excerpt: "By Jerome Onoja Okojokwu-Idu Progress on the energy transition might be threatened as a new report by the Finnish government revealed that the world does not have enough Lithium and Cobalt to repla…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1857.jpg"
 group: con
 rank: 6
 ---
