@@ -1,9 +1,9 @@
 ---
-publication: "theconversation.com"
-link: "https://theconversation.com/cop27s-loss-and-damage-fund-for-developing-countries-could-be-a-breakthrough-or-another-empty-climate-promise-194992"
-title: "COP27's ‘loss and damage’ fund for developing countries could be a breakthrough – or another empty climate promise"
-excerpt: "It’s a landmark agreement, acknowledging for the first time that wealthy countries bear some responsibility to help. But it leaves many unanswered questions."
-image: "https://images.theconversation.com/files/496398/original/file-20221121-16-iwtkve.jpg?ixlib=rb-1.1.0&rect=0%2C275%2C5757%2C2878&q=45&auto=format&w=1356&h=668&fit=crop"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/opinion/2022/11/21/cop27-lot-hot-air/"
+title: "Cop27 was a lot of hot air – again"
+excerpt: "The past fortnight's jamboree has been dominated  less by arguments over carbon levels than by who will pay for the damage"
+image: "https://www.telegraph.co.uk/content/dam/opinion/2022/11/20/TELEMMGLPICT000316869091_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdLdu0TL-Cg_AMOUqySXmFgU.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 18
 ---
