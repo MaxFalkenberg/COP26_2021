@@ -1,9 +1,9 @@
 ---
 publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/22/loss-and-damage-fund-saves-cop27-from-the-abyss-climatecrisis-ecologicalcrisis-economiccrisis-tellthetruth-demand-climateaction-sdg13-juststopoil/"
-title: "Loss and Damage Fund Saves #COP27 from the Abyss #ClimateCrisis #EcologicalCrisis #EconomicCrisis #TellTheTruth demand #ClimateAction #SDG13 #JustStopOil Unprecedented Crime!"
-excerpt: "Egyptian Foreign Minister Sameh Shoukry, chair of COP27, reads the nine-page Sharm El Sheikh Implementation Plan, the document that concluded the climate summit on Sunday Nov. 20, to an exhausted a…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1803.jpg"
+link: "https://climateactionaustralia.wordpress.com/2022/11/22/aerosols-from-burning-fossil-fuels-are-masking-global-warming-uw-researchers-find-climatecrisis-cop27-ecologicalcrisis-tellthetruth-listen-to-the-scientists/"
+title: "Aerosols from burning fossil fuels are masking global warming, UW researchers find #ClimateCrisis #COP27 #EcologicalCrisis #TellTheTruth listen to the scientists!"
+excerpt: "By Nicholas Turner Seattle Times climate reporter Climate change will become worse before it gets better. Volcanologist McGuire zeroes in on ‘the core issues at the heart of the climate emerg…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1942.jpg"
 group: con
 rank: 6
 ---

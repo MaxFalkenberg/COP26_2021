@@ -1,9 +1,9 @@
 ---
-publication: "gulfnews.com"
-link: "https://gulfnews.com/opinion/op-eds/cop28-in-the-uae-must-make-up-for-cop27s-shortcomings-1.92148410"
-title: "COP28 in the UAE must make up for COP27’s shortcomings"
-excerpt: "Progress in international climate negotiations has been slow. This needs to change now"
-image: "https://imagevars.gulfnews.com/2021/10/22/climate_17ca6cab07f_medium.jpg"
+publication: "theplanet.substack.com"
+link: "https://theplanet.substack.com/p/cop27-a-small-step-forward-for-the"
+title: "COP27, a small step forward for the planet?"
+excerpt: "No progress on emissions but the loss and damages principle accepted."
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1bd13215-b5fd-4579-99a3-31e3a103ce4d_1080x608.jpeg"
 group: con
 rank: 1
 ---

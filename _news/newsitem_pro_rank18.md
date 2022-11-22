@@ -1,9 +1,9 @@
 ---
-publication: "dailymail.co.uk"
-link: "https://www.dailymail.co.uk/news/article-11416209/FOUR-private-jets-arrived-Egypt-COP27-climate-delegates-accused-hypocrisy.html"
-title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
-excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
-image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
+publication: "newstatesman.com"
+link: "https://www.newstatesman.com/quickfire/2022/11/end-circus-cop27"
+title: "End the circus of COP once and for all"
+excerpt: "We’re the clowns, smiling manically as weak pledges are presented as progress, amid mayhem."
+image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1244662577.jpg"
 group: pro
 rank: 18
 ---
