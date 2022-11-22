@@ -1,9 +1,9 @@
 ---
-publication: "mangroveactionproject.blogspot.com"
-link: "https://mangroveactionproject.blogspot.com/2022/11/map-news-issue-559-nov-19-2022.html"
-title: "MAP News Issue #559 - Nov 19, 2022"
-excerpt: "Find news and articles about mangroves and mangrove related issues from global news stories."
-image: "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha2bN3UQjhsd58sEpqa5DgFPQwS4cfwIpejHW1BSXGGfoQQd0TZY4jMa5PfQPc83io4sVVrsKXojLqTz8EetANgsKXpMU0SucDilmLuer6cqT431EtE4-2k0LQml3EnVcigGkV2lR1GIW9y4W9ZE6LJvaWleZH_fdK63M5ACR90qTcH4E9Pv9-xA5u4nc9lXbokzww=w1200-h630-p-k-no-nu"
+publication: "theepochtimes.com"
+link: "https://www.theepochtimes.com/cory-morgan-what-does-guilbeaults-uncharacteristic-position-at-cop27-signal_4875467.html"
+title: "Cory Morgan: What Does Guilbeault's Uncharacteristic Position at COP27 Signal?"
+excerpt: "Commentary The 2022 United Nations Climate Change Conference (COP27) came and went with less fanfare than these gatherings ..."
+image: "https://img.theepochtimes.com/assets/uploads/2022/11/20/CP25122305-1200x800.jpg"
 group: con
 rank: 13
 ---
