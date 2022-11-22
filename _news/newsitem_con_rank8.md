@@ -1,9 +1,9 @@
 ---
-publication: "chinadaily.com.cn"
-link: "http://www.chinadaily.com.cn/a/202211/21/WS637b76f0a31049175432b080.html"
-title: "China contributes to climate governance at COP27: Spokesperson"
-excerpt: "China made important contributions to the Sharm el-Sheikh Climate Change Conference and will continue to promote a fair and reasonable global climate governing system that features win-win cooperation"
-image: "http://img2.chinadaily.com.cn/images/202211/21/637b79e0a31049178c92340a.jpeg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/22/loss-and-damage-fund-saves-cop27-from-the-abyss-climatecrisis-ecologicalcrisis-economiccrisis-tellthetruth-demand-climateaction-sdg13-juststopoil/"
+title: "Loss and Damage Fund Saves #COP27 from the Abyss #ClimateCrisis #EcologicalCrisis #EconomicCrisis #TellTheTruth demand #ClimateAction #SDG13 #JustStopOil Unprecedented Crime!"
+excerpt: "Egyptian Foreign Minister Sameh Shoukry, chair of COP27, reads the nine-page Sharm El Sheikh Implementation Plan, the document that concluded the climate summit on Sunday Nov. 20, to an exhausted a…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1803.jpg"
 group: con
 rank: 8
 ---

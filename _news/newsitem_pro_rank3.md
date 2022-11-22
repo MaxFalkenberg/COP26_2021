@@ -1,9 +1,9 @@
 ---
-publication: "theguardian.com"
-link: "https://www.theguardian.com/environment/2022/nov/21/more-than-30-climate-activists-just-stop-oil-were-behind-bars-in-uk-during-cop27"
-title: "More than 30 climate activists behind bars in UK during Cop27"
-excerpt: "Just Stop Oil campaigners were held on remand after charges relating to M25 protests"
-image: "https://i.guim.co.uk/img/media/7c7c6d41389b51eb71e09e4077e79a67ef983ac4/0_171_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b81a54abcc736feeb86b69fbd8445fe0"
+publication: "standard.co.uk"
+link: "https://www.standard.co.uk/news/london/extinction-rebellion-protesters-london-knightsbridge-cop27-b1041431.html"
+title: "Extinction Rebellion protesters target 13 London businesses post-COP27"
+excerpt: "The group said ‘fake oil’ was poured over offices and front steps, a fire was lit and fake blood poured on the pavement outside businesses ‘linked to the fossil fuel industry’ "
+image: "https://static.standard.co.uk/2022/11/21/12/PROTEST%20Ocean%20%2011592964.jpg?width=1200&width=1200&auto=webp&quality=75"
 group: pro
 rank: 3
 ---

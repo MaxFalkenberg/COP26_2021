@@ -1,9 +1,9 @@
 ---
-publication: "thecanary.co"
-link: "https://www.thecanary.co/global/world-analysis/2022/11/21/cop27-failed-to-get-planet-out-of-the-emergency-room-un-chief-warns/"
-title: "COP27 failed to get planet out of the emergency room, UN chief warns"
-excerpt: "Agreement on loss and damage fund at COP27 is a win, but governments failed to commit to vital action on cutting emissions."
-image: "https://www.thecanary.co/wp-content/uploads/2022/11/COP27.png"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/cop27-does-little-next-months-global-agenda-nature-loss-2022-11-21/"
+title: "Analysis: COP27 does little for next month's global agenda: nature loss"
+excerpt: "The U.N. climate talks in Egypt closed on Sunday with a resolution to address the dual crises of climate change and nature loss, but did little to boost next month's global meeting on biodiversity."
+image: "https://www.reuters.com/resizer/kIk4aI-v15QXr4S1JeFmfgERTKE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TV6L5P4FCVNMPIQYXH63WDGWM4.jpg"
 group: pro
 rank: 15
 ---

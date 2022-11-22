@@ -1,9 +1,9 @@
 ---
-publication: "bbc.com"
-link: "https://www.bbc.com/news/science-environment-63584993"
-title: "COP27: BP chief listed as delegate for Mauritania"
-excerpt: "Chief executive of leading oil company is registered for COP27 as a delegate from poor African nation."
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/9DE3/production/_127591404_8b02a6d3109de19484839f21a08d34e1284f7485.jpg"
+publication: "theconversation.com"
+link: "https://theconversation.com/cop27-will-be-remembered-as-a-failure-heres-what-went-wrong-194982"
+title: "COP27 will be remembered as a failure – here's what went wrong"
+excerpt: "The agreed loss and damage fund was a breakthrough in an otherwise inconclusive conference."
+image: "https://images.theconversation.com/files/496315/original/file-20221120-62835-al7uee.jpg?ixlib=rb-1.1.0&rect=0%2C603%2C5220%2C2610&q=45&auto=format&w=1356&h=668&fit=crop"
 group: pro
 rank: 7
 ---

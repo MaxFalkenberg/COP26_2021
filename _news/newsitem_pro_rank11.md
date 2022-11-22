@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/bb922b4e-69d5-11ed-85fc-6c020d5ba0b7"
-title: "Take it from the soup throwers, Cop’s a cop-out"
-excerpt: "If you’re enjoying the many hypocrisies flushed to the surface by the World Cup in Qatar, then allow me to go one better. Next year’s United Nations Climate Ch"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffe60c3b8-69d5-11ed-85fc-6c020d5ba0b7.jpg?crop=1500%2C844%2C0%2C78&resize=1200"
+publication: "grist.org"
+link: "https://grist.org/article/saudi-arabia-new-green-agenda-cutting-oil-production-not-part-cop27/"
+title: "Saudi Arabia has a new green agenda. Cutting oil production isn't part of it."
+excerpt: "The iconic petrostate pitched a plan to cut carbon at the UN climate summit in Egypt. And it’s soaked in oil."
+image: "https://grist.org/wp-content/uploads/2022/11/Saudi-Arabia-COP27.jpg"
 group: pro
 rank: 11
 ---

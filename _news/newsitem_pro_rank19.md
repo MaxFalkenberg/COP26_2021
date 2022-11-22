@@ -1,9 +1,9 @@
 ---
-publication: "ox.ac.uk"
-link: "https://www.ox.ac.uk/news/2022-11-21-expert-comment-climate-justice-and-credible-targetsor-will-cop27-be-remembered-lame"
-title: "Expert Comment - Climate justice and credible targets..or will COP27"
-excerpt: "Commenting today, leading Oxford climate experts talk about the COP27 closing agreement, which creates a loss and damage fund, to support poorer nations struggling with the impacts of climate change,"
-image: "https://www.ox.ac.uk/sites/files/oxford/field/field_image_main/shutterstock_2223951369.jpg"
+publication: "cbc.ca"
+link: "https://www.cbc.ca/news/science/biodiversity-montreal-cop27-1.6654447"
+title: "Biodiversity needs same protection as climate, say scientists, activists at COP27 | CBC News"
+excerpt: "Civil society groups, Indigenous activists and scientists are standing together at the COP27 climate conference in Sharm el-Sheikh, Egypt, and demanding firm action be taken next month at the UN Biodi"
+image: "https://i.cbc.ca/1.4583528.1668691821!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/alberta-caribou.jpg"
 group: pro
 rank: 19
 ---
