@@ -1,9 +1,9 @@
 ---
-publication: "thenewamerican.com"
-link: "https://thenewamerican.com/global-wealth-redistribution-approved-at-un-climate-summit/"
-title: "Global Wealth Redistribution Approved at UN 'Climate' Summit - The New American"
-excerpt: "SHARM EL SHEIK, EGYPT — Under the guise of paying “climate” reparations, governments of wealthier nations attending the UN climate-change summit agreed to seize potentially unlimited amounts of their "
-image: "https://jbs.org/assets/sites/2/cop27-1.jpg"
+publication: "thecanary.co"
+link: "https://www.thecanary.co/global/world-analysis/2022/11/21/cop27-failed-to-get-planet-out-of-the-emergency-room-un-chief-warns/"
+title: "COP27 failed to get planet out of the emergency room, UN chief warns"
+excerpt: "Agreement on loss and damage fund at COP27 is a win, but governments failed to commit to vital action on cutting emissions."
+image: "https://www.thecanary.co/wp-content/uploads/2022/11/COP27.png"
 group: pro
 rank: 16
 ---

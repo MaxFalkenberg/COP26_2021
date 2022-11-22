@@ -1,9 +1,9 @@
 ---
-publication: "ertarailvolunteer.blogspot.com"
-link: "https://ertarailvolunteer.blogspot.com/2022/11/cop27-demands-we-need-modal-shift.html"
-title: "COP27 demands we need modal shift facilitated by redirecting existing funds"
-excerpt: "A blog about the voluntary English Regional Transport Association (ERTA)"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifpREi4HkXXnlkhEJ2pnq9w-aQHh4tclqx7QnMfV3lV2yTtsNUpdyAyhlxsUEK90Aep0lO1FzuPd5YJuvHqNhmYU0L2oDOsaxPSxq4hQo5FiOvEE1BUxbmoL_zPvXaaI8HAX-kVH66QqQDpvyjU6Dpqfj9xiE9d5qyTZOjiE0YlYn-VZrMBp0qM7fy/w1200-h630-p-k-no-nu/Thameslink%20unit%20no.700.106%20at%20St.Albans%20City%20on%20service%20from%20Bedford%20to%20Gatwick%20Airport.JPG"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/20/finnish-govt-report-reveals-lithium-and-cobalt-supplies-insufficient-climatecrisis-ecologicalcrisis-limitstogrowth-economiccrisis-brightgreenlies/"
+title: "Finnish Govt Report Reveals Lithium And Cobalt Supplies Insufficient #ClimateCrisis #EcologicalCrisis #LimitsToGrowth #EconomicCrisis #BrightGreenLies"
+excerpt: "By Jerome Onoja Okojokwu-Idu Progress on the energy transition might be threatened as a new report by the Finnish government revealed that the world does not have enough Lithium and Cobalt to repla…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1857.jpg"
 group: con
 rank: 10
 ---
