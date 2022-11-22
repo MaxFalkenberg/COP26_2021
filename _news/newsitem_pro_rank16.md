@@ -1,9 +1,9 @@
 ---
-publication: "bbc.co.uk"
-link: "https://bbc.co.uk/news/science-environment-63693738"
-title: "Climate change: Five key takeaways from COP27"
-excerpt: "The biggest win on climate since the Paris Agreement in 2015... or the biggest loss?"
-image: "https://ichef.bbci.co.uk/news/1024/branded_news/14278/production/_127725528_cop-index-reuters.jpg"
+publication: "weforum.org"
+link: "https://www.weforum.org/agenda/2022/11/heres-how-leaders-close-climate-finance-gap/"
+title: "Here's how African leaders can close the climate finance gap"
+excerpt: "Africa currently falls well short of the $2.8 trillion in climate finance that it needs by 2030. We asked four Young Global Leaders how to fill the gap"
+image: "https://assets.weforum.org/editor/1utBYrP7tMThF3SJZNGgVLUqiit4vPOrJyVSFxtgcUo.png"
 group: pro
 rank: 16
 ---

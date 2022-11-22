@@ -1,9 +1,9 @@
 ---
-publication: "weforum.org"
-link: "https://www.weforum.org/agenda/2022/11/heres-how-leaders-close-climate-finance-gap/"
-title: "Here's how African leaders can close the climate finance gap"
-excerpt: "Africa currently falls well short of the $2.8 trillion in climate finance that it needs by 2030. We asked four Young Global Leaders how to fill the gap"
-image: "https://assets.weforum.org/editor/1utBYrP7tMThF3SJZNGgVLUqiit4vPOrJyVSFxtgcUo.png"
+publication: "commondreams.org"
+link: "https://www.commondreams.org/news/2022/11/21/another-terrible-failure-cop27-ends-no-action-cut-climate-wrecking-fossil-fuels"
+title: "'Another Terrible Failure': COP27 Ends With No Action to Cut Off Climate-Wrecking Fossil Fuels"
+excerpt: "'If all fossil fuels are not rapidly phased out, no amount of money will be able to cover the cost of the resulting loss and damage,' said one climate justice advocate."
+image: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-11/GettyImages-1244919117-cop-27-united-nations-climate-conference.jpg?h=cf8b8db7&itok=HO-3l9yd"
 group: pro
 rank: 17
 ---

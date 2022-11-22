@@ -1,9 +1,9 @@
 ---
-publication: "dailymail.co.uk"
-link: "https://www.dailymail.co.uk/news/article-11416209/FOUR-private-jets-arrived-Egypt-COP27-climate-delegates-accused-hypocrisy.html"
-title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
-excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
-image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
+publication: "thenation.com"
+link: "https://www.thenation.com/article/environment/climate-change-cop27-fossil-fuel-university-research/"
+title: "Students Tell Their Universities: Keep Fossil Fuel Companies Out of Climate Research"
+excerpt: "Amid COP27, members of the Fossil Free Research movement took action around the world, protesting the influence of Big Oil on crucial climate change studies."
+image: "https://www.thenation.com/wp-content/uploads/2022/11/Cambridge-Fossil-Free-Research-Week-of-Action.jpg"
 group: pro
 rank: 10
 ---

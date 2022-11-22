@@ -1,9 +1,9 @@
 ---
-publication: "thenation.com"
-link: "https://www.thenation.com/article/environment/climate-change-cop27-fossil-fuel-university-research/"
-title: "Students Tell Their Universities: Keep Fossil Fuel Companies Out of Climate Research"
-excerpt: "Amid COP27, members of the Fossil Free Research movement took action around the world, protesting the influence of Big Oil on crucial climate change studies."
-image: "https://www.thenation.com/wp-content/uploads/2022/11/Cambridge-Fossil-Free-Research-Week-of-Action.jpg"
+publication: "cbc.ca"
+link: "https://www.cbc.ca/news/science/biodiversity-montreal-cop27-1.6654447"
+title: "Biodiversity needs same protection as climate, say scientists, activists at COP27 | CBC News"
+excerpt: "Civil society groups, Indigenous activists and scientists are standing together at the COP27 climate conference in Sharm el-Sheikh, Egypt, and demanding firm action be taken next month at the UN Biodi"
+image: "https://i.cbc.ca/1.4583528.1668691821!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/alberta-caribou.jpg"
 group: pro
 rank: 11
 ---

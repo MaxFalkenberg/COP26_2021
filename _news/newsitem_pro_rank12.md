@@ -1,9 +1,9 @@
 ---
-publication: "cbc.ca"
-link: "https://www.cbc.ca/news/science/biodiversity-montreal-cop27-1.6654447"
-title: "Biodiversity needs same protection as climate, say scientists, activists at COP27 | CBC News"
-excerpt: "Civil society groups, Indigenous activists and scientists are standing together at the COP27 climate conference in Sharm el-Sheikh, Egypt, and demanding firm action be taken next month at the UN Biodi"
-image: "https://i.cbc.ca/1.4583528.1668691821!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/alberta-caribou.jpg"
+publication: "dailymail.co.uk"
+link: "https://www.dailymail.co.uk/news/article-11416209/FOUR-private-jets-arrived-Egypt-COP27-climate-delegates-accused-hypocrisy.html"
+title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
+excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
+image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
 group: pro
 rank: 12
 ---
