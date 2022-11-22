@@ -1,9 +1,9 @@
 ---
-publication: "telegraph.co.uk"
-link: "https://www.telegraph.co.uk/opinion/2022/11/21/cop27-lot-hot-air/"
-title: "Cop27 was a lot of hot air – again"
-excerpt: "The past fortnight's jamboree has been dominated  less by arguments over carbon levels than by who will pay for the damage"
-image: "https://www.telegraph.co.uk/content/dam/opinion/2022/11/20/TELEMMGLPICT000316869091_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdLdu0TL-Cg_AMOUqySXmFgU.jpeg?impolicy=logo-overlay"
+publication: "thecanary.co"
+link: "https://www.thecanary.co/global/world-analysis/2022/11/21/cop27-failed-to-get-planet-out-of-the-emergency-room-un-chief-warns/"
+title: "COP27 failed to get planet out of the emergency room, UN chief warns"
+excerpt: "Agreement on loss and damage fund at COP27 is a win, but governments failed to commit to vital action on cutting emissions."
+image: "https://www.thecanary.co/wp-content/uploads/2022/11/COP27.png"
 group: pro
 rank: 15
 ---
