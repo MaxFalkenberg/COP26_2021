@@ -1,9 +1,9 @@
 ---
-publication: "euronews.com"
-link: "https://www.euronews.com/my-europe/2022/11/21/cop27-eu-left-disappointed-by-lack-of-ambition-in-final-deal-calling-it-a-small-step-forwa"
-title: "COP27: EU left 'disappointed' by lack of ambition in final deal"
-excerpt: "A call to phase down all fossil fuels, including gas and oil, was blocked by Saudi Arabia, Russia and other big emitters. #EuropeNews"
-image: "https://static.euronews.com/articles/stories/07/20/54/26/1000x563_cmsv2_7136fbf3-d1c3-534f-9a8e-be565e26b50b-7205426.jpg"
+publication: "thenation.com"
+link: "https://www.thenation.com/"
+title: "The Nation"
+excerpt: "The Nation is the oldest continuously published weekly magazine in the United States, covering progressive political and cultural news, opinion, and analysis."
+image: "https://www.thenation.com/wp-content/themes/thenation/images/loader_40x40.GIF"
 group: pro
 rank: 19
 ---

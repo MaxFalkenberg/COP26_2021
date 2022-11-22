@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/22/aerosols-from-burning-fossil-fuels-are-masking-global-warming-uw-researchers-find-climatecrisis-cop27-ecologicalcrisis-tellthetruth-listen-to-the-scientists/"
-title: "Aerosols from burning fossil fuels are masking global warming, UW researchers find #ClimateCrisis #COP27 #EcologicalCrisis #TellTheTruth listen to the scientists!"
-excerpt: "By Nicholas Turner Seattle Times climate reporter Climate change will become worse before it gets better. Volcanologist McGuire zeroes in on ‘the core issues at the heart of the climate emerg…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1942.jpg"
+publication: "newseu.cgtn.com"
+link: "https://newseu.cgtn.com/news/2022-11-21/COP27-outcome-Achievements-and-setbacks-from-climate-summit-1f7wV7FOFdm/index.html"
+title: "COP27 impact: Achievements and setbacks from climate summit"
+excerpt: "Achievements and disappointments from the results of COP27 "
+image: "https://newseu.cgtn.com/news/2022-11-21/COP27-outcome-Achievements-and-setbacks-from-climate-summit-1f7wV7FOFdm/img/e94b939343624f0a940897eb0c153f90/e94b939343624f0a940897eb0c153f90-1920.png"
 group: con
 rank: 5
 ---

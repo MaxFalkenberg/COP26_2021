@@ -1,9 +1,9 @@
 ---
-publication: "wnd.com"
-link: "https://www.wnd.com/2022/11/cop27-egypt/"
-title: "What was the COP27 in Egypt all about?"
-excerpt: "Joseph Farah figures the elites have fun planning the demise of half the population"
-image: "https://www.wnd.com/wp-content/uploads/2022/11/Joe-Biden-14.jpg"
+publication: "chinadaily.com.cn"
+link: "https://www.chinadaily.com.cn/a/202211/21/WS637ada36a31049175432ae46.html"
+title: "How 5G, AI can help fossil fuel better adapt to post-COP27 world"
+excerpt: "Fossil fuel businesses have long been criticized for their environmental impact and are seeking to adapt in a world where sustainability policies are an increasingly urgent priority for governments ar"
+image: "http://img2.chinadaily.com.cn/images/202211/21/637ada36a31049178c92162d.jpeg"
 group: con
 rank: 13
 ---

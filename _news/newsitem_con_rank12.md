@@ -1,9 +1,9 @@
 ---
-publication: "theepochtimes.com"
-link: "https://www.theepochtimes.com/cory-morgan-what-does-guilbeaults-uncharacteristic-position-at-cop27-signal_4875467.html"
-title: "Cory Morgan: What Does Guilbeault's Uncharacteristic Position at COP27 Signal?"
-excerpt: "Commentary The 2022 United Nations Climate Change Conference (COP27) came and went with less fanfare than these gatherings ..."
-image: "https://img.theepochtimes.com/assets/uploads/2022/11/20/CP25122305-1200x800.jpg"
+publication: "conservativefiringline.com"
+link: "https://conservativefiringline.com/what-was-the-cop27-in-egypt-all-about/"
+title: "What Was The COP27 In Egypt All About? ⋆ Conservative Firing Line"
+excerpt: "The COP27 meeting was yet another in which globalists plotted the destruction of humanity to allegedly save the planet."
+image: "https://conservativefiringline.com/wp-content/uploads/2022/11/Joe-Biden-14.jpg"
 group: con
 rank: 12
 ---

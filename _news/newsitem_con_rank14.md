@@ -1,9 +1,9 @@
 ---
-publication: "radarnewsletter.substack.com"
-link: "https://radarnewsletter.substack.com/p/cop27"
-title: "هنا كوب 27.. معالجة التغير المناخي لن تحدث دون مواجهة التضليل المناخي"
-excerpt: "«رادار نيوزليتر»"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F298ae9e6-3906-45f8-8eda-67797059b7dd_1280x840.jpeg"
+publication: "globalresearch.ca"
+link: "https://www.globalresearch.ca/what-a-scam-it-actually-is-assessing-cop27-and-modern-climate-activism/5799585"
+title: "“What a Scam it Actually is.” Assessing COP27 and Modern Climate Activism - Global Research"
+excerpt: "All Global Research articles can be read in 51 languages by activating the “Translate Website” drop down menu on the top banner of our home page (Desktop version). Visit and follow us on Instagram at "
+image: "https://www.globalresearch.ca/wp-content/uploads/2022/11/cop27.jpg"
 group: con
 rank: 14
 ---

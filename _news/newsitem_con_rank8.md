@@ -1,9 +1,9 @@
 ---
-publication: "peopleandnature.wordpress.com"
-link: "https://peopleandnature.wordpress.com/2022/11/21/oil-companies-dictators-and-greenwashers-captured-cop27-hope-lies-in-movements-outside-the-talks/"
-title: "Oil companies, dictators and greenwashers captured COP27. Hope lies in movements outside the talks"
-excerpt: "This assessment of COP27 was published by Truthout on Friday, and the agreement struck yesterday doesn’t change the main points. Headlines yesterday welcomed the fund for loss and damage – but so f…"
-image: "https://peopleandnature.files.wordpress.com/2022/11/egypt2.png"
+publication: "tallbloke.wordpress.com"
+link: "https://tallbloke.wordpress.com/2022/11/21/lomborg-peterson-cop27-proposing-insane-emissions-policies/"
+title: "Lomborg & Peterson: COP27 Proposing Insane Emissions Policies"
+excerpt: "Reblogged on WordPress.com"
+image: "https://tallbloke.files.wordpress.com/2022/11/asylum-lunatics.png"
 group: con
 rank: 8
 ---

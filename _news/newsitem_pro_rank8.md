@@ -1,9 +1,9 @@
 ---
-publication: "newstatesman.com"
-link: "https://www.newstatesman.com/quickfire/2022/11/end-circus-cop27"
-title: "End the circus of COP once and for all"
-excerpt: "We’re the clowns, smiling manically as weak pledges are presented as progress, amid mayhem."
-image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1244662577.jpg"
+publication: "theconversation.com"
+link: "https://theconversation.com/cop27-will-be-remembered-as-a-failure-heres-what-went-wrong-194982"
+title: "COP27 will be remembered as a failure – here's what went wrong"
+excerpt: "The agreed loss and damage fund was a breakthrough in an otherwise inconclusive conference."
+image: "https://images.theconversation.com/files/496315/original/file-20221120-62835-al7uee.jpg?ixlib=rb-1.1.0&rect=0%2C603%2C5220%2C2610&q=45&auto=format&w=1356&h=668&fit=crop"
 group: pro
 rank: 8
 ---
