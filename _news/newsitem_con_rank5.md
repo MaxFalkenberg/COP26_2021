@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/22/loss-and-damage-fund-saves-cop27-from-the-abyss-climatecrisis-ecologicalcrisis-economiccrisis-tellthetruth-demand-climateaction-sdg13-juststopoil/"
-title: "Loss and Damage Fund Saves #COP27 from the Abyss #ClimateCrisis #EcologicalCrisis #EconomicCrisis #TellTheTruth demand #ClimateAction #SDG13 #JustStopOil Unprecedented Crime!"
-excerpt: "Egyptian Foreign Minister Sameh Shoukry, chair of COP27, reads the nine-page Sharm El Sheikh Implementation Plan, the document that concluded the climate summit on Sunday Nov. 20, to an exhausted a…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1803.jpg"
+publication: "peopleandnature.wordpress.com"
+link: "https://peopleandnature.wordpress.com/2022/11/21/oil-companies-dictators-and-greenwashers-captured-cop27-hope-lies-in-movements-outside-the-talks/"
+title: "Oil companies, dictators and greenwashers captured COP27. Hope lies in movements outside the talks"
+excerpt: "This assessment of COP27 was published by Truthout on Friday, and the agreement struck yesterday doesn’t change the main points. Headlines yesterday welcomed the fund for loss and damage – but so f…"
+image: "https://peopleandnature.files.wordpress.com/2022/11/egypt2.png"
 group: con
 rank: 5
 ---

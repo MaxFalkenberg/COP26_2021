@@ -1,9 +1,9 @@
 ---
-publication: "truthout.org"
-link: "https://truthout.org/articles/chilean-indigenous-activist-says-cop27-promoted-devastating-mega-projects/"
-title: "Chilean Indigenous Activist Says COP27 Promoted Devastating Mining Projects"
-excerpt: "The COP27 climate summit has pitted the human rights of Indigenous peoples against rich nations’ energy needs."
-image: "https://truthout.org/wp-content/uploads/2022/11/GettyImages-1244846712-1200x675.jpg"
+publication: "theconversation.com"
+link: "https://theconversation.com/cop27-will-be-remembered-as-a-failure-heres-what-went-wrong-194982"
+title: "COP27 will be remembered as a failure – here's what went wrong"
+excerpt: "The agreed loss and damage fund was a breakthrough in an otherwise inconclusive conference."
+image: "https://images.theconversation.com/files/496315/original/file-20221120-62835-al7uee.jpg?ixlib=rb-1.1.0&rect=0%2C603%2C5220%2C2610&q=45&auto=format&w=1356&h=668&fit=crop"
 group: pro
 rank: 9
 ---
