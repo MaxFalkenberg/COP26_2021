@@ -1,9 +1,9 @@
 ---
-publication: "edf.org"
-link: "https://www.edf.org/media/cop27-agrees-key-milestones-and-historic-consensus-funding-loss-and-damage"
-title: "COP27 Agrees on Key Milestones and Historic Consensus on Funding for Loss and Damage"
-excerpt: "EDF’s Executive Vice President for Impact, Angela Churie Kallhauge, reflects on the outcomes of the annual United Nations climate conference."
-image: "https://www.edf.org/sites/default/files/styles/share_1200_630_focal_point/public/2022-11/COP27%20venue_UNFCC%20Flickr.jpg?h=a1e1a043&itok=AT_pufhN"
+publication: "thecanary.co"
+link: "https://www.thecanary.co/global/world-analysis/2022/11/21/cop27-failed-to-get-planet-out-of-the-emergency-room-un-chief-warns/"
+title: "COP27 failed to get planet out of the emergency room, UN chief warns"
+excerpt: "Agreement on loss and damage fund at COP27 is a win, but governments failed to commit to vital action on cutting emissions."
+image: "https://www.thecanary.co/wp-content/uploads/2022/11/COP27.png"
 group: pro
 rank: 17
 ---

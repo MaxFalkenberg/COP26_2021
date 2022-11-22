@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/jailed-activist-alaa-abdel-fattah-came-close-to-death-during-cop27-talks-nfkwngcgs"
-title: "Jailed activist Alaa Abdel Fattah ‘came close to death’ during Cop27 talks"
-excerpt: "The family of the Egyptian-British activist Alaa Abdel Fattah have given an extraordinary account of how he came close to death before ending his prison hunger strike last week.As world leaders gather"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F0529f138-6760-11ed-9ccc-9d160947f622.jpg?crop=5568%2C3132%2C0%2C290&resize=1200"
+publication: "telegraph.co.uk"
+link: "https://www.telegraph.co.uk/news/2022/11/20/cop27-deal-sharm-el-sheikh-egypt-compensation-fund-alok-sharma/"
+title: "Cop27 strikes 'historic' climate compensation deal but no progress on emissions"
+excerpt: "Alok Sharma welcomes the decision on loss and damage but warns agreement is 'not a moment of unqualified celebration'"
+image: "https://www.telegraph.co.uk/content/dam/news/2022/11/20/TELEMMGLPICT000316874619_trans_NvBQzQNjv4BqEzw5OF8VsBey80ir11mphkgR7PVUJ79uLnSHs-A1YSI.jpeg?impolicy=logo-overlay"
 group: pro
 rank: 11
 ---
