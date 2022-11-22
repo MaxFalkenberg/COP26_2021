@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/bb922b4e-69d5-11ed-85fc-6c020d5ba0b7"
-title: "Take it from the soup throwers, Cop’s a cop-out"
-excerpt: "If you’re enjoying the many hypocrisies flushed to the surface by the World Cup in Qatar, then allow me to go one better. Next year’s United Nations Climate Ch"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffe60c3b8-69d5-11ed-85fc-6c020d5ba0b7.jpg?crop=1500%2C844%2C0%2C78&resize=1200"
+publication: "reuters.com"
+link: "https://www.reuters.com/business/cop/cop27-does-little-next-months-global-agenda-nature-loss-2022-11-21/"
+title: "Analysis: COP27 does little for next month's global agenda: nature loss"
+excerpt: "The U.N. climate talks in Egypt closed on Sunday with a resolution to address the dual crises of climate change and nature loss, but did little to boost next month's global meeting on biodiversity."
+image: "https://www.reuters.com/resizer/kIk4aI-v15QXr4S1JeFmfgERTKE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TV6L5P4FCVNMPIQYXH63WDGWM4.jpg"
 group: pro
 rank: 17
 ---

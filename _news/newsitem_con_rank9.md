@@ -1,9 +1,9 @@
 ---
-publication: "news.cgtn.com"
-link: "https://news.cgtn.com/news/2022-11-21/MOFA-COP27-results-send-positive-sign-of-strengthened-joint-efforts-1f96lWygxVe/index.html"
-title: "MOFA: COP27 results send positive sign of strengthened joint efforts"
-excerpt: "The results of the 27th session of the Conference of the Parties (COP27) to the United Nations Framework Convention on Climate Change (UNFCCC) sent a positive sign of countries' intensified cooperatio"
-image: "https://news.cgtn.com/news/2022-11-21/MOFA-COP27-results-send-positive-sign-of-strengthened-joint-efforts-1f96lWygxVe/img/81c9e9788bf24580a0bacf19958962b6/81c9e9788bf24580a0bacf19958962b6-250.png"
+publication: "orhdeletes.substack.com"
+link: "https://orhdeletes.substack.com/p/the-turn-against-symbolic-death"
+title: "Against Symbolic Death"
+excerpt: "On the end of Alaa's hunger strike"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F45f5dbfc-ee10-43ec-b17f-1f4f590c3fe9_1550x1020.png"
 group: con
 rank: 9
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "gulfnews.com"
-link: "https://gulfnews.com/opinion/op-eds/cop28-in-the-uae-must-make-up-for-cop27s-shortcomings-1.92148410"
-title: "COP28 in the UAE must make up for COP27’s shortcomings"
-excerpt: "Progress in international climate negotiations has been slow. This needs to change now"
-image: "https://imagevars.gulfnews.com/2021/10/22/climate_17ca6cab07f_medium.jpg"
+publication: "peopleandnature.wordpress.com"
+link: "https://peopleandnature.wordpress.com/2022/11/21/oil-companies-dictators-and-greenwashers-captured-cop27-hope-lies-in-movements-outside-the-talks/"
+title: "Oil companies, dictators and greenwashers captured COP27. Hope lies in movements outside the talks"
+excerpt: "This assessment of COP27 was published by Truthout on Friday, and the agreement struck yesterday doesn’t change the main points. Headlines yesterday welcomed the fund for loss and damage – but so f…"
+image: "https://peopleandnature.files.wordpress.com/2022/11/egypt2.png"
 group: con
 rank: 3
 ---
