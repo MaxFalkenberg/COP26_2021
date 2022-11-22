@@ -1,9 +1,9 @@
 ---
-publication: "thenewamerican.com"
-link: "https://thenewamerican.com/global-wealth-redistribution-approved-at-un-climate-summit/"
-title: "Global Wealth Redistribution Approved at UN 'Climate' Summit - The New American"
-excerpt: "SHARM EL SHEIK, EGYPT — Under the guise of paying “climate” reparations, governments of wealthier nations attending the UN climate-change summit agreed to seize potentially unlimited amounts of their "
-image: "https://jbs.org/assets/sites/2/cop27-1.jpg"
+publication: "axios.com"
+link: "https://www.axios.com/2022/10/28/john-kerry-cop27-biden-climate"
+title: "John Kerry preparing to leave Biden administration after next month's climate summit"
+excerpt: "The climate envoy has hinted to colleagues that he has achieved all that can be reasonably accomplished."
+image: "https://images.axios.com/-oTB5TL1zYZkYb-onrnMZdmopsc=/0x195:3600x2220/1366x768/2022/10/27/1666896938805.jpg"
 group: pro
 rank: 2
 ---

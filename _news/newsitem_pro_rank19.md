@@ -1,13 +1,13 @@
 ---
 publication: "opendemocracy.net"
-link: "https://www.opendemocracy.net/en/odr/cop27-russia-war-ukraine-climate-crisis/"
+link: "https://www.opendemocracy.net/en/cop27s-loss-and-damage-deal-was-no-win/"
 title: "
-        At COP27, Russia acted as though it had not invaded Ukraine
+        Just another COP of ‘blah, blah, blah’
     "
 excerpt: "
-        Russia urged international cooperation while ignoring its own role in making the climate crisis worse
+        This COP made no clear commitment to decarbonisation and stopping the climate disasters that cause loss and damage
     "
-image: "https://cdn2.opendemocracy.net/media/images/protester_at_COP27.2e16d0ba.fill-1200x630.jpg"
+image: "https://cdn2.opendemocracy.net/media/images/2KFRR2N.2e16d0ba.fill-1200x630.jpg"
 group: pro
 rank: 19
 ---

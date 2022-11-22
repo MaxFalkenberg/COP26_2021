@@ -1,9 +1,9 @@
 ---
-publication: "theconversation.com"
-link: "https://theconversation.com/cop27-flinched-on-phasing-out-all-fossil-fuels-whats-next-for-the-fight-to-keep-them-in-the-ground-194941"
-title: "COP27 flinched on phasing out 'all fossil fuels'. What's next for the fight to keep them in the ground?"
-excerpt: "Smaller international deals and fossil free zones point a way forward."
-image: "https://images.theconversation.com/files/496520/original/file-20221121-26-skarba.jpg?ixlib=rb-1.1.0&rect=0%2C1311%2C5245%2C2622&q=45&auto=format&w=1356&h=668&fit=crop"
+publication: "commondreams.org"
+link: "https://www.commondreams.org/news/2022/11/21/another-terrible-failure-cop27-ends-no-action-cut-climate-wrecking-fossil-fuels"
+title: "'Another Terrible Failure': COP27 Ends With No Action to Cut Off Climate-Wrecking Fossil Fuels"
+excerpt: "'If all fossil fuels are not rapidly phased out, no amount of money will be able to cover the cost of the resulting loss and damage,' said one climate justice advocate."
+image: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-11/GettyImages-1244919117-cop-27-united-nations-climate-conference.jpg?h=cf8b8db7&itok=HO-3l9yd"
 group: pro
 rank: 15
 ---
