@@ -1,9 +1,9 @@
 ---
-publication: "orhdeletes.substack.com"
-link: "https://orhdeletes.substack.com/p/the-turn-against-symbolic-death"
-title: "Against Symbolic Death"
-excerpt: "On the end of Alaa's hunger strike"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F45f5dbfc-ee10-43ec-b17f-1f4f590c3fe9_1550x1020.png"
+publication: "gulfnews.com"
+link: "https://gulfnews.com/opinion/op-eds/cop28-in-the-uae-must-make-up-for-cop27s-shortcomings-1.92148410"
+title: "COP28 in the UAE must make up for COP27’s shortcomings"
+excerpt: "Progress in international climate negotiations has been slow. This needs to change now"
+image: "https://imagevars.gulfnews.com/2021/10/22/climate_17ca6cab07f_medium.jpg"
 group: con
 rank: 2
 ---

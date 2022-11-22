@@ -1,9 +1,9 @@
 ---
-publication: "standard.co.uk"
-link: "https://www.standard.co.uk/news/london/extinction-rebellion-protesters-london-knightsbridge-cop27-b1041431.html"
-title: "Extinction Rebellion protesters target 13 London businesses post-COP27"
-excerpt: "The group said ‘fake oil’ was poured over offices and front steps, a fire was lit and fake blood poured on the pavement outside businesses ‘linked to the fossil fuel industry’ "
-image: "https://static.standard.co.uk/2022/11/21/12/PROTEST%20Ocean%20%2011592964.jpg?width=1200&width=1200&auto=webp&quality=75"
+publication: "euronews.com"
+link: "https://www.euronews.com/my-europe/2022/11/21/cop27-eu-left-disappointed-by-lack-of-ambition-in-final-deal-calling-it-a-small-step-forwa"
+title: "COP27: EU left 'disappointed' by lack of ambition in final deal"
+excerpt: "A call to phase down all fossil fuels, including gas and oil, was blocked by Saudi Arabia, Russia and other big emitters. #EuropeNews"
+image: "https://static.euronews.com/articles/stories/07/20/54/26/1000x563_cmsv2_7136fbf3-d1c3-534f-9a8e-be565e26b50b-7205426.jpg"
 group: pro
 rank: 18
 ---

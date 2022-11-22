@@ -1,9 +1,9 @@
 ---
-publication: "thecanary.co"
-link: "https://www.thecanary.co/global/world-analysis/2022/11/21/cop27-failed-to-get-planet-out-of-the-emergency-room-un-chief-warns/"
-title: "COP27 failed to get planet out of the emergency room, UN chief warns"
-excerpt: "Agreement on loss and damage fund at COP27 is a win, but governments failed to commit to vital action on cutting emissions."
-image: "https://www.thecanary.co/wp-content/uploads/2022/11/COP27.png"
+publication: "thenation.com"
+link: "https://www.thenation.com/article/environment/climate-change-cop27-fossil-fuel-university-research/"
+title: "Students Tell Their Universities: Keep Fossil Fuel Companies Out of Climate Research"
+excerpt: "Amid COP27, members of the Fossil Free Research movement took action around the world, protesting the influence of Big Oil on crucial climate change studies."
+image: "https://www.thenation.com/wp-content/uploads/2022/11/Cambridge-Fossil-Free-Research-Week-of-Action.jpg"
 group: pro
 rank: 11
 ---

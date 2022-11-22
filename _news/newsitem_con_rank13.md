@@ -1,9 +1,9 @@
 ---
-publication: "theepochtimes.com"
-link: "https://www.theepochtimes.com/cory-morgan-what-does-guilbeaults-uncharacteristic-position-at-cop27-signal_4875467.html"
-title: "Cory Morgan: What Does Guilbeault's Uncharacteristic Position at COP27 Signal?"
-excerpt: "Commentary The 2022 United Nations Climate Change Conference (COP27) came and went with less fanfare than these gatherings ..."
-image: "https://img.theepochtimes.com/assets/uploads/2022/11/20/CP25122305-1200x800.jpg"
+publication: "wnd.com"
+link: "https://www.wnd.com/2022/11/cop27-egypt/"
+title: "What was the COP27 in Egypt all about?"
+excerpt: "Joseph Farah figures the elites have fun planning the demise of half the population"
+image: "https://www.wnd.com/wp-content/uploads/2022/11/Joe-Biden-14.jpg"
 group: con
 rank: 13
 ---

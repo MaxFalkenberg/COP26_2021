@@ -1,9 +1,9 @@
 ---
-publication: "democracynow.org"
-link: "https://www.democracynow.org/2022/11/21/headlines/cop27_delegates_agree_on_historic_loss_and_damage_deal_but_make_no_progress_on_climate_catastrophe"
-title: "COP27 Delegates Agree on Historic “Loss and Damage” Deal But Make No Progress on Climate Catastrophe"
-excerpt: "In Sharm el-Sheikh, delegates at the U.N. climate summit agreed on Sunday to establish a landmark “loss and damage” fund to help the Global South deal with the worst effects of the climate catastrophe"
-image: "https://www.democracynow.org/images/headlines/59/65259/full_hd/h1-COP-extinction.jpg"
+publication: "standard.co.uk"
+link: "https://www.standard.co.uk/news/london/extinction-rebellion-protesters-london-knightsbridge-cop27-b1041431.html"
+title: "Extinction Rebellion protesters target 13 London businesses post-COP27"
+excerpt: "The group said ‘fake oil’ was poured over offices and front steps, a fire was lit and fake blood poured on the pavement outside businesses ‘linked to the fossil fuel industry’ "
+image: "https://static.standard.co.uk/2022/11/21/12/PROTEST%20Ocean%20%2011592964.jpg?width=1200&width=1200&auto=webp&quality=75"
 group: pro
 rank: 15
 ---

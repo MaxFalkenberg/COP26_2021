@@ -1,9 +1,9 @@
 ---
-publication: "arbonics.substack.com"
-link: "https://arbonics.substack.com/p/where-cop-has-failed-vcm-will-come"
-title: "Where COP has failed, VCM will come to the rescue"
-excerpt: "Do you know what the 27 in COP27 means? Yes, it’s the 27th time."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8d5c99-6e4a-4691-be3c-8505354228ea_1224x1034.png"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/un-secretary-generals-statement-concluding-cop27-in-egypt/"
+title: "UN Secretary-General's Statement Concluding COP27 In Egypt"
+excerpt: "Blather, blather, blather. Last time I looked, we are not 'facing a burning planet.' In fact, cold temperatures at the South Pole this November have shattered all records since data collection started"
+image: "https://www.technocracy.news/wp-content/uploads/2022/11/xScreenshot-2022-11-19-23.02.51-750x375.png.pagespeed.ic_.XapWwJczoX.webp"
 group: con
 rank: 11
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "technocracy.news"
-link: "https://www.technocracy.news/un-secretary-generals-statement-concluding-cop27-in-egypt/"
-title: "UN Secretary-General's Statement Concluding COP27 In Egypt"
-excerpt: "Blather, blather, blather. Last time I looked, we are not 'facing a burning planet.' In fact, cold temperatures at the South Pole this November have shattered all records since data collection started"
-image: "https://www.technocracy.news/wp-content/uploads/2022/11/xScreenshot-2022-11-19-23.02.51-750x375.png.pagespeed.ic_.XapWwJczoX.webp"
+publication: "theepochtimes.com"
+link: "https://www.theepochtimes.com/cory-morgan-what-does-guilbeaults-uncharacteristic-position-at-cop27-signal_4875467.html"
+title: "Cory Morgan: What Does Guilbeault's Uncharacteristic Position at COP27 Signal?"
+excerpt: "Commentary The 2022 United Nations Climate Change Conference (COP27) came and went with less fanfare than these gatherings ..."
+image: "https://img.theepochtimes.com/assets/uploads/2022/11/20/CP25122305-1200x800.jpg"
 group: con
 rank: 12
 ---
