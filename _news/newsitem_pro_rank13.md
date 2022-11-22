@@ -1,9 +1,9 @@
 ---
-publication: "theconversation.com"
-link: "https://theconversation.com/cop27s-loss-and-damage-fund-for-developing-countries-could-be-a-breakthrough-or-another-empty-climate-promise-194992"
-title: "COP27's ‘loss and damage’ fund for developing countries could be a breakthrough – or another empty climate promise"
-excerpt: "It’s a landmark agreement, acknowledging for the first time that wealthy countries bear some responsibility to help. But it leaves many unanswered questions."
-image: "https://images.theconversation.com/files/496398/original/file-20221121-16-iwtkve.jpg?ixlib=rb-1.1.0&rect=0%2C275%2C5757%2C2878&q=45&auto=format&w=1356&h=668&fit=crop"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/20/cop27-climate-conference-deal-fund/"
+title: "COP27 leaves world on dangerous warming path despite historic climate fund"
+excerpt: "The final decision of the U.N. Climate Conference in Egypt made little progress on emissions-cutting measures that could avert worse disasters to come."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I3IJMCUUJQB43MYAJABOEQOKOE.JPG&w=1440"
 group: pro
 rank: 13
 ---

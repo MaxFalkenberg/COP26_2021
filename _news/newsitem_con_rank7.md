@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/21/hothouse-earth-climatehell-cop27-ecologicalcrisis-climatecrisis-economiccrisis-tellthetruth-auspol/"
-title: "Hothouse Earth #ClimateHell #COP27 #EcologicalCrisis #ClimateCrisis #EconomicCrisis #TellTheTruth #auspol"
-excerpt: "We inhabit a planet in peril. Our once temperate world is locked on course to become a hothouse entirely of our own making. Hothouse Earth: an Inhabitant’s Guide provides a post-COP26 perspec…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/07/img_1376.jpg"
+publication: "newseu.cgtn.com"
+link: "https://newseu.cgtn.com/news/2022-11-21/COP27-outcome-Achievements-and-setbacks-from-climate-summit-1f7wV7FOFdm/index.html"
+title: "COP27 impact: Achievements and setbacks from climate summit"
+excerpt: "Achievements and disappointments from the results of COP27 "
+image: "https://newseu.cgtn.com/news/2022-11-21/COP27-outcome-Achievements-and-setbacks-from-climate-summit-1f7wV7FOFdm/img/e94b939343624f0a940897eb0c153f90/e94b939343624f0a940897eb0c153f90-1920.png"
 group: con
 rank: 7
 ---
