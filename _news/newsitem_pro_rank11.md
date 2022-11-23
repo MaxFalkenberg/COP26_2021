@@ -1,9 +1,9 @@
 ---
-publication: "nationalobserver.com"
-link: "https://www.nationalobserver.com/podcast/hot-politics/greenwashing-cop27"
-title: "Greenwashing at COP27"
-excerpt: "A major climate meeting was held in Egypt, and the richest countries in the world were called on to show how they will help poorer nations that contribute little to the climate crisis. They didn't get"
-image: "https://www.nationalobserver.com/sites/nationalobserver.com/files/uploaded-files/2022/11/21/hot-politics-cover-1200x675-socialmedia-share.jpg"
+publication: "nature.com"
+link: "https://www.nature.com/articles/s41562-022-01476-7"
+title: "Being a young climate activist - Nature Human Behaviour"
+excerpt: "Licypriya Kangujam is a 10-year-old climate change activist from India. She also founded the Child Movement to raise the voices of the children of the world in the fight against climate change. In con"
+image: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-022-01476-7/MediaObjects/41562_2022_1476_Figa_HTML.png"
 group: pro
 rank: 11
 ---

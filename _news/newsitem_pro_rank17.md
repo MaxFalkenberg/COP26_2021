@@ -1,9 +1,9 @@
 ---
-publication: "nature.com"
-link: "https://www.nature.com/articles/s41562-022-01476-7"
-title: "Being a young climate activist - Nature Human Behaviour"
-excerpt: "Licypriya Kangujam is a 10-year-old climate change activist from India. She also founded the Child Movement to raise the voices of the children of the world in the fight against climate change. In con"
-image: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-022-01476-7/MediaObjects/41562_2022_1476_Figa_HTML.png"
+publication: "theconversation.com"
+link: "https://theconversation.com/adapting-to-a-hotter-planet-has-never-been-more-important-and-progress-edged-forward-at-cop27-194819"
+title: "Adapting to a hotter planet has never been more important, and progress edged forward at COP27"
+excerpt: "As the costs of disasters climb, working out who will finance climate adaptation has become increasingly urgent for developing nations."
+image: "https://images.theconversation.com/files/496637/original/file-20221122-26-vyw4qt.jpg?ixlib=rb-1.1.0&rect=0%2C898%2C5410%2C2705&q=45&auto=format&w=1356&h=668&fit=crop"
 group: pro
 rank: 17
 ---

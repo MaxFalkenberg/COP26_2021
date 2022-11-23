@@ -1,9 +1,9 @@
 ---
-publication: "nationalobserver.com"
-link: "https://www.nationalobserver.com/newsletters/zero-carbon/2022/11/18/bullying-cop-buying-world-cup"
-title: "Bullying COP, buying the World Cup"
-excerpt: "It’s just a short flight from Egypt to Qatar — very convenient for the legions of lobbyists flooding COP27 as they hop across the Arabian Peninsula to collect their next trophy, the World Cup of socce"
-image: "https://www.nationalobserver.com/sites/nationalobserver.com/files/uploaded-files/2021/04/01/no_zero_carbon_twitter_ad_1200x675_02.png"
+publication: "thenation.com"
+link: "https://www.thenation.com/article/environment/cop27-loss-damage-compensation/"
+title: "In a Historic Move, Frontline Communities Will Be Compensated for Climate Crisis Impacts"
+excerpt: "At the UN climate negotiations, delegates celebrated the decision to create a mechanism by which developed countries will compensate developing countries for the havoc wreaked upon them by climate cha"
+image: "https://www.thenation.com/wp-content/uploads/2022/11/cop27-youth-gt-img2.jpg"
 group: pro
 rank: 19
 ---
