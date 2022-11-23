@@ -1,9 +1,9 @@
 ---
-publication: "theguardian.com"
-link: "https://www.theguardian.com/environment/2022/nov/22/cop27-us-stinging-criticism-china-emissions"
-title: "US receives stinging criticism at Cop27 despite China’s growing emissions"
-excerpt: "The country is highlighting China’s status as top polluter after being called out for climate inaction"
-image: "https://i.guim.co.uk/img/media/073ae54ad6daf39f57a3f365ea70d5bd1df6e959/0_0_8478_5087/master/8478.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=65c304a8c25ea202f8d2a857fd482f2f"
+publication: "19thnews.org"
+link: "https://19thnews.org/2022/11/women-cop27-climate-environment-demands/"
+title: "Representation, protection, restitution: Women lay out key demands at COP27 climate summit"
+excerpt: "Women are disproportionately impacted by climate change, but are also left out of decision-making. This year’s summit attendees are working to change that."
+image: "https://19thnews.org/wp-content/uploads/2022/11/cop27-1.jpg"
 group: pro
 rank: 8
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "worldpoliticsreview.com"
-link: "https://www.worldpoliticsreview.com/climate-change-middle-east-cop27-2022-egypt/"
-title: "At COP27, the Middle East Came Up Short on Climate Action—Again"
-excerpt: "At COP27 2022, there was a clear gap between many Middle Eastern countries’ climate change commitments and actual behavior."
-image: "https://www.worldpoliticsreview.com/wp-content/uploads/2022/11/climate-change-middle-east-cop27-2022-egypt-1122022-1.jpg"
+publication: "ft.com"
+link: "https://www.ft.com/content/33ca0d1b-6173-4ce1-a072-a8d3c0b492be"
+title: "Subscribe to read | Financial Times"
+excerpt: "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
+image: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
 group: pro
 rank: 19
 ---

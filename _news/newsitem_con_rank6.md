@@ -1,9 +1,10 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/23/cop27-laudato-si-webinar-to-encourage-churchs-action-on-climate-crisis-tellthetruth-demand-climateaction-sdg13-auspol-degrowth-less-is-more/"
-title: "COP27: Laudato si’ webinar to encourage Church’s action on climate crisis #TellTheTruth demand #ClimateAction #SDG13 #auspol #Degrowth Less is More"
-excerpt: "The European Laudato si’ Alliance hosts a webinar to explore solutions to maximize the impact of Catholics in the environmental crisis, as the COP27 climate conference ended in Egypt. By Edoa…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/07/img_1340-1.png"
+publication: "zerohedge.com"
+link: "https://www.zerohedge.com/technology/farcical-cop27-debacle-ends-tears-and-frustration-furious-eco-delegates-realize-whos"
+title: "Farcical COP27 Debacle Ends In 'Tears And Frustration' As Furious Eco-Delegates Realize Who's In Charge"
+excerpt: "Spoiler alert: it's no longer the west.
+"
+image: "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-11/tuvalu%20finmin.jpg?h=ec3ff111&itok=bZyQJI4c"
 group: con
 rank: 6
 ---

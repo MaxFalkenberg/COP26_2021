@@ -1,10 +1,9 @@
 ---
-publication: "zerohedge.com"
-link: "https://www.zerohedge.com/technology/farcical-cop27-debacle-ends-tears-and-frustration-furious-eco-delegates-realize-whos"
-title: "Farcical COP27 Debacle Ends In 'Tears And Frustration' As Furious Eco-Delegates Realize Who's In Charge"
-excerpt: "Spoiler alert: it's no longer the west.
-"
-image: "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-11/tuvalu%20finmin.jpg?h=ec3ff111&itok=bZyQJI4c"
+publication: "divesteastsussex.wordpress.com"
+link: "https://divesteastsussex.wordpress.com/2022/11/18/escc-which-side-are-you-on-join-the-tug-of-war-between-fossil-fuels-and-climate-action-outside-county-hall-on-6-december/"
+title: "Join the tug of war between fossil fuels and climate action outside County Hall on 6 December"
+excerpt: "Visit the post for more."
+image: "https://divesteastsussex.files.wordpress.com/2022/10/tug_of_war.png"
 group: con
 rank: 0
 ---

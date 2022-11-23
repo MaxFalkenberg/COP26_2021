@@ -1,9 +1,9 @@
 ---
-publication: "caribbeannewsupdates.substack.com"
-link: "https://caribbeannewsupdates.substack.com/p/landmark-loss-and-damage-deal-at"
-title: "Landmark Loss and Damage deal at COP27"
-excerpt: "Nov. 21, 2022"
-image: "https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F05362488-b1de-46bd-a4ce-6436b54024b3_256x256.png"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/justtwothings/p/23-november-2022-transition-economics"
+title: "23 November 2022. Transition | Economics "
+excerpt: "Accelerating the post-carbon business transition. // Two ‘economics books of the year’"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fccbdf366-ecbc-4ea1-87cb-3d1a8fe2de3b_2105x1232.jpeg"
 group: con
 rank: 8
 ---
