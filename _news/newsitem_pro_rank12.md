@@ -1,9 +1,9 @@
 ---
-publication: "qz.com"
-link: "https://qz.com/the-drc-had-the-biggest-african-delegation-at-cop-not-1849815871"
-title: "The DRC had the biggest African delegation at COP. Not all of them wanted to cut emissions."
-excerpt: "Despite possessing Africa's largest basin for natural carbon capture, the DRC is licensing oil exploration companies to destroy it"
-image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e9b332377e61d768ae8eed96a0f12a7a.jpg"
+publication: "theconversation.com"
+link: "https://theconversation.com/adapting-to-a-hotter-planet-has-never-been-more-important-and-progress-edged-forward-at-cop27-194819"
+title: "Adapting to a hotter planet has never been more important, and progress edged forward at COP27"
+excerpt: "As the costs of disasters climb, working out who will finance climate adaptation has become increasingly urgent for developing nations."
+image: "https://images.theconversation.com/files/496637/original/file-20221122-26-vyw4qt.jpg?ixlib=rb-1.1.0&rect=0%2C898%2C5410%2C2705&q=45&auto=format&w=1356&h=668&fit=crop"
 group: pro
 rank: 12
 ---
