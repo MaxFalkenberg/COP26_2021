@@ -1,9 +1,9 @@
 ---
-publication: "financialpost.com"
-link: "https://financialpost.com/opinion/william-watson-un-climate-change-cop27"
-title: "William Watson: Sharm el-Shakedown. More money for the UN black hole"
-excerpt: "A sensible government would pass on singing onto a guilt-expiation climate fund with highly uncertain effect. Read on."
-image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/11/no1121cop27.jpg"
+publication: "newrepublic.com"
+link: "https://newrepublic.com/article/169079/shocking-twist-cop27-one-good-thing"
+title: "How the U.S. Abruptly Shifted Decades of Climate Policy"
+excerpt: "In just 72 hours, the United States reversed course on its long-standing opposition to establishing a fund for loss and damage."
+image: "https://images.newrepublic.com/90837848948b87629ec7ea37a5f747970ffa35e7.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
 group: pro
 rank: 17
 ---

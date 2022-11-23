@@ -1,9 +1,9 @@
 ---
-publication: "thenation.com"
-link: "https://www.thenation.com/"
-title: "The Nation"
-excerpt: "The Nation is the oldest continuously published weekly magazine in the United States, covering progressive political and cultural news, opinion, and analysis."
-image: "https://www.thenation.com/wp-content/themes/thenation/images/loader_40x40.GIF"
+publication: "19thnews.org"
+link: "https://19thnews.org/2022/11/women-cop27-climate-environment-demands/"
+title: "Representation, protection, restitution: Women lay out key demands at COP27 climate summit"
+excerpt: "Women are disproportionately impacted by climate change, but are also left out of decision-making. This year’s summit attendees are working to change that."
+image: "https://19thnews.org/wp-content/uploads/2022/11/cop27-1.jpg"
 group: pro
 rank: 9
 ---

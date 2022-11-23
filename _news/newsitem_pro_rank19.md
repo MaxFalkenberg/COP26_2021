@@ -1,9 +1,9 @@
 ---
-publication: "politico.eu"
-link: "https://www.politico.eu/newsletter/digital-bridge/oversight-board-redux-cop27-cyber-weapon-more-on-ttc-summit/"
-title: "Digital Bridge: Oversight Board redux — COP27 cyber weapon — TTC summit teasers"
-excerpt: "POLITICO's weekly transatlantic tech newsletter uncovers the digital relationship between critical power-centers through exclusive insights and breaking news for global technology elites and political"
-image: "https://www.politico.eu/wp-content/uploads/2021/10/15/Digital-bridge-Social-media-–-Logo-only-High-Quality.jpg"
+publication: "commondreams.org"
+link: "https://www.commondreams.org/news/2022/11/21/another-terrible-failure-cop27-ends-no-action-cut-climate-wrecking-fossil-fuels"
+title: "'Another Terrible Failure': COP27 Ends With No Action to Cut Off Climate-Wrecking Fossil Fuels"
+excerpt: "'If all fossil fuels are not rapidly phased out, no amount of money will be able to cover the cost of the resulting loss and damage,' said one climate justice advocate."
+image: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-11/GettyImages-1244919117-cop-27-united-nations-climate-conference.jpg?h=cf8b8db7&itok=HO-3l9yd"
 group: pro
 rank: 19
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "independent.co.uk"
-link: "https://www.independent.co.uk/climate-change/opinion/cop27-good-bad-ugly-climate-summit-b2230385.html"
-title: "The good, the bad and the exceedingly ugly of this year’s Cop | Caroline Lucas"
-excerpt: "Let’s be clear, climate leadership from this government is sorely lacking"
-image: "https://static.independent.co.uk/2022/11/22/11/urnpublicidap.org0ba34a02595546c8aee422c70911e52c.jpg?quality=75&width=1200&auto=webp"
+publication: "axios.com"
+link: "https://www.axios.com/2022/10/28/john-kerry-cop27-biden-climate"
+title: "John Kerry preparing to leave Biden administration after next month's climate summit"
+excerpt: "The climate envoy has hinted to colleagues that he has achieved all that can be reasonably accomplished."
+image: "https://images.axios.com/-oTB5TL1zYZkYb-onrnMZdmopsc=/0x195:3600x2220/1366x768/2022/10/27/1666896938805.jpg"
 group: pro
 rank: 0
 ---
