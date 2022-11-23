@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/bb922b4e-69d5-11ed-85fc-6c020d5ba0b7"
-title: "Take it from the soup throwers, Cop’s a cop-out"
-excerpt: "If you’re enjoying the many hypocrisies flushed to the surface by the World Cup in Qatar, then allow me to go one better. Next year’s United Nations Climate Ch"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffe60c3b8-69d5-11ed-85fc-6c020d5ba0b7.jpg?crop=1500%2C844%2C0%2C78&resize=1200"
+publication: "theguardian.com"
+link: "https://www.theguardian.com/environment/2022/nov/20/world-still-on-brink-of-climate-catastrophe-after-cop27-deal"
+title: "World still ‘on brink of climate catastrophe’ after Cop27 deal"
+excerpt: "Experts say biggest economies must pledge more cuts to carbon emissions but hail agreement to set up loss and damage fund"
+image: "https://i.guim.co.uk/img/media/48522d00c8f01db527893b3a7c5d23d04c357694/0_0_4774_2864/master/4774.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ddbe4d3bc3c8740ebc51a339ebc112e"
 group: pro
 rank: 5
 ---
