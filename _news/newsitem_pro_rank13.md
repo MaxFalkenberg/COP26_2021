@@ -1,9 +1,9 @@
 ---
-publication: "commondreams.org"
-link: "https://www.commondreams.org/news/2022/11/21/another-terrible-failure-cop27-ends-no-action-cut-climate-wrecking-fossil-fuels"
-title: "'Another Terrible Failure': COP27 Ends With No Action to Cut Off Climate-Wrecking Fossil Fuels"
-excerpt: "'If all fossil fuels are not rapidly phased out, no amount of money will be able to cover the cost of the resulting loss and damage,' said one climate justice advocate."
-image: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-11/GettyImages-1244919117-cop-27-united-nations-climate-conference.jpg?h=cf8b8db7&itok=HO-3l9yd"
+publication: "theconversation.com"
+link: "https://theconversation.com/adapting-to-a-hotter-planet-has-never-been-more-important-and-progress-edged-forward-at-cop27-194819"
+title: "Adapting to a hotter planet has never been more important, and progress edged forward at COP27"
+excerpt: "As the costs of disasters climb, working out who will finance climate adaptation has become increasingly urgent for developing nations."
+image: "https://images.theconversation.com/files/496637/original/file-20221122-26-vyw4qt.jpg?ixlib=rb-1.1.0&rect=0%2C898%2C5410%2C2705&q=45&auto=format&w=1356&h=668&fit=crop"
 group: pro
 rank: 13
 ---

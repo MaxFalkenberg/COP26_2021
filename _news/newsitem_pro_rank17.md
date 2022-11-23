@@ -1,9 +1,9 @@
 ---
-publication: "cnbc.com"
-link: "https://www.cnbc.com/2022/11/23/young-people-just-became-official-climate-policy-stakeholders-at-cop27.html"
-title: "Young people just got a louder voice on climate change — and could soon be shaping policy"
-excerpt: "COP27 was another milestone for young climate activists as they became official climate policy stakeholders under the ACE Action Plan. "
-image: "https://image.cnbcfm.com/api/v1/image/107154229-1668787249715-gettyimages-1244835277-November_16_2022_sharm_el_sheikt_cop27_zarzycka-9.jpeg?v=1669184084&w=1920&h=1080"
+publication: "nationalobserver.com"
+link: "https://www.nationalobserver.com/2022/11/23/opinion/after-cop27-where-does-canada-stand-phasing-out-fossil-fuels"
+title: "After COP27, where does Canada stand on phasing out fossil fuels?"
+excerpt: "It was important for countries at COP27 to name the so-called elephant in the room — oil and gas — the main cause of climate change, write Keith Brooks and Dave Gray-Donald."
+image: "https://www.nationalobserver.com/sites/nationalobserver.com/files/styles/nat_social/public/img/2022/11/21/cop27_nov_21_2.jpg?itok=RIQe_4pz"
 group: pro
 rank: 17
 ---

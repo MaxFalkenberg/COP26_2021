@@ -1,9 +1,9 @@
 ---
-publication: "qz.com"
-link: "https://qz.com/the-drc-had-the-biggest-african-delegation-at-cop-not-1849815871"
-title: "The DRC had the biggest African delegation at COP. Not all of them wanted to cut emissions."
-excerpt: "Despite possessing Africa's largest basin for natural carbon capture, the DRC is licensing oil exploration companies to destroy it"
-image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e9b332377e61d768ae8eed96a0f12a7a.jpg"
+publication: "theguardian.com"
+link: "https://www.theguardian.com/environment/2022/nov/20/world-still-on-brink-of-climate-catastrophe-after-cop27-deal"
+title: "World still ‘on brink of climate catastrophe’ after Cop27 deal"
+excerpt: "Experts say biggest economies must pledge more cuts to carbon emissions but hail agreement to set up loss and damage fund"
+image: "https://i.guim.co.uk/img/media/48522d00c8f01db527893b3a7c5d23d04c357694/0_0_4774_2864/master/4774.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ddbe4d3bc3c8740ebc51a339ebc112e"
 group: pro
 rank: 8
 ---

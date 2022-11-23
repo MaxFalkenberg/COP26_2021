@@ -1,9 +1,9 @@
 ---
-publication: "axios.com"
-link: "https://www.axios.com/2022/10/28/john-kerry-cop27-biden-climate"
-title: "John Kerry preparing to leave Biden administration after next month's climate summit"
-excerpt: "The climate envoy has hinted to colleagues that he has achieved all that can be reasonably accomplished."
-image: "https://images.axios.com/-oTB5TL1zYZkYb-onrnMZdmopsc=/0x195:3600x2220/1366x768/2022/10/27/1666896938805.jpg"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/climate-environment/2022/11/23/china-climate-finance-cop27/"
+title: "How China, the world’s top polluter, avoids paying for climate damage"
+excerpt: "Analysts say it is unlikely China will pay into the historic climate fund agreed to at the U.N. climate conference to support vulnerable countries."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TWD6RJPORLYYYRNKKW6AL2FD4I.jpg&w=1440"
 group: pro
 rank: 0
 ---

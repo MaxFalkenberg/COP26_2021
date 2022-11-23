@@ -1,9 +1,9 @@
 ---
-publication: "nature.com"
-link: "https://www.nature.com/articles/s41562-022-01476-7"
-title: "Being a young climate activist - Nature Human Behaviour"
-excerpt: "Licypriya Kangujam is a 10-year-old climate change activist from India. She also founded the Child Movement to raise the voices of the children of the world in the fight against climate change. In con"
-image: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-022-01476-7/MediaObjects/41562_2022_1476_Figa_HTML.png"
+publication: "thenation.com"
+link: "https://www.thenation.com/article/environment/cop27-loss-damage-compensation/"
+title: "In a Historic Move, Frontline Communities Will Be Compensated for Climate Crisis Impacts"
+excerpt: "At the UN climate negotiations, delegates celebrated the decision to create a mechanism by which developed countries will compensate developing countries for the havoc wreaked upon them by climate cha"
+image: "https://www.thenation.com/wp-content/uploads/2022/11/cop27-youth-gt-img2.jpg"
 group: pro
 rank: 11
 ---
