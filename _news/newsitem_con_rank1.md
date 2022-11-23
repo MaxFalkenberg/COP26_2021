@@ -1,9 +1,9 @@
 ---
-publication: "orhdeletes.substack.com"
-link: "https://orhdeletes.substack.com/p/the-turn-against-symbolic-death"
-title: "Against Symbolic Death"
-excerpt: "On the end of Alaa's hunger strike"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F45f5dbfc-ee10-43ec-b17f-1f4f590c3fe9_1550x1020.png"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/un-secretary-generals-statement-concluding-cop27-in-egypt/"
+title: "UN Secretary-General's Statement Concluding COP27 In Egypt"
+excerpt: "Blather, blather, blather. Last time I looked, we are not 'facing a burning planet.' In fact, cold temperatures at the South Pole this November have shattered all records since data collection started"
+image: "https://www.technocracy.news/wp-content/uploads/2022/11/xScreenshot-2022-11-19-23.02.51-750x375.png.pagespeed.ic_.XapWwJczoX.webp"
 group: con
 rank: 1
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "wnd.com"
-link: "https://www.wnd.com/2022/11/cop27-egypt/"
-title: "What was the COP27 in Egypt all about?"
-excerpt: "Joseph Farah figures the elites have fun planning the demise of half the population"
-image: "https://www.wnd.com/wp-content/uploads/2022/11/Joe-Biden-14.jpg"
+publication: "iLoveBCCRSS.wordpress.com"
+link: "http://iLoveBCCRSS.wordpress.com"
+title: "I LOVE #BCCRSS"
+excerpt: "IT'S ILLEGAL TO USE A LEGAL NAME"
+image: "https://ilovebccrss.files.wordpress.com/2017/03/twitter3.jpg"
 group: con
 rank: 5
 ---

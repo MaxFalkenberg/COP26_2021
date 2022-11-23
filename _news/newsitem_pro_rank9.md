@@ -1,9 +1,9 @@
 ---
-publication: "theconversation.com"
-link: "https://theconversation.com/cop27-flinched-on-phasing-out-all-fossil-fuels-whats-next-for-the-fight-to-keep-them-in-the-ground-194941"
-title: "COP27 flinched on phasing out 'all fossil fuels'. What's next for the fight to keep them in the ground?"
-excerpt: "Smaller international deals and fossil free zones point a way forward."
-image: "https://images.theconversation.com/files/496520/original/file-20221121-26-skarba.jpg?ixlib=rb-1.1.0&rect=0%2C1311%2C5245%2C2622&q=45&auto=format&w=1356&h=668&fit=crop"
+publication: "nationalobserver.com"
+link: "https://www.nationalobserver.com/podcast/hot-politics/greenwashing-cop27"
+title: "Greenwashing at COP27"
+excerpt: "A major climate meeting was held in Egypt, and the richest countries in the world were called on to show how they will help poorer nations that contribute little to the climate crisis. They didn't get"
+image: "https://www.nationalobserver.com/sites/nationalobserver.com/files/uploaded-files/2022/11/21/hot-politics-cover-1200x675-socialmedia-share.jpg"
 group: pro
 rank: 9
 ---

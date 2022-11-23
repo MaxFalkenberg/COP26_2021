@@ -1,9 +1,9 @@
 ---
-publication: "dailymail.co.uk"
-link: "https://www.dailymail.co.uk/news/article-11416209/FOUR-private-jets-arrived-Egypt-COP27-climate-delegates-accused-hypocrisy.html"
-title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
-excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
-image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
+publication: "newrepublic.com"
+link: "https://newrepublic.com/article/169079/us-abruptly-shifted-decades-climate-policy"
+title: "How the U.S. Abruptly Shifted Decades of Climate Policy"
+excerpt: "In just 72 hours, the United States reversed course on its long-standing opposition to establishing a fund for loss and damage."
+image: "https://images.newrepublic.com/90837848948b87629ec7ea37a5f747970ffa35e7.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
 group: pro
 rank: 8
 ---

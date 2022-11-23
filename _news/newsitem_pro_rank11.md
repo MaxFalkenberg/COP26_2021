@@ -1,9 +1,9 @@
 ---
-publication: "nationalobserver.com"
-link: "https://www.nationalobserver.com/podcast/hot-politics/greenwashing-cop27"
-title: "Greenwashing at COP27"
-excerpt: "A major climate meeting was held in Egypt, and the richest countries in the world were called on to show how they will help poorer nations that contribute little to the climate crisis. They didn't get"
-image: "https://www.nationalobserver.com/sites/nationalobserver.com/files/uploaded-files/2022/11/21/hot-politics-cover-1200x675-socialmedia-share.jpg"
+publication: "19thnews.org"
+link: "https://19thnews.org/2022/11/women-cop27-climate-environment-demands/"
+title: "Representation, protection, restitution: Women lay out key demands at COP27 climate summit"
+excerpt: "Women are disproportionately impacted by climate change, but are also left out of decision-making. This year’s summit attendees are working to change that."
+image: "https://19thnews.org/wp-content/uploads/2022/11/cop27-1.jpg"
 group: pro
 rank: 11
 ---

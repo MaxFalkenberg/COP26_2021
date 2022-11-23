@@ -1,9 +1,9 @@
 ---
-publication: "theconversation.com"
-link: "https://theconversation.com/cop27-will-be-remembered-as-a-failure-heres-what-went-wrong-194982"
-title: "COP27 will be remembered as a failure – here's what went wrong"
-excerpt: "The agreed loss and damage fund was a breakthrough in an otherwise inconclusive conference."
-image: "https://images.theconversation.com/files/496315/original/file-20221120-62835-al7uee.jpg?ixlib=rb-1.1.0&rect=0%2C603%2C5220%2C2610&q=45&auto=format&w=1356&h=668&fit=crop"
+publication: "newrepublic.com"
+link: "https://newrepublic.com/article/169079/shocking-twist-cop27-one-good-thing"
+title: "How the U.S. Abruptly Shifted Decades of Climate Policy"
+excerpt: "In just 72 hours, the United States reversed course on its long-standing opposition to establishing a fund for loss and damage."
+image: "https://images.newrepublic.com/90837848948b87629ec7ea37a5f747970ffa35e7.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
 group: pro
 rank: 19
 ---
