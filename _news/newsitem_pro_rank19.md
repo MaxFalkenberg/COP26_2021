@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/opinions/2022/11/09/nigerian-president-cop27-africa-climate-change/"
-title: "Opinion | Muhammadu Buhari: How not to talk with Africa about climate change"
-excerpt: "Africa didn’t cause the mess, yet it pays the price."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AP4LAIA73OM4NZ6CU2XNMC7LNE.JPG&w=1440"
+publication: "theconversation.com"
+link: "https://theconversation.com/cop27-will-be-remembered-as-a-failure-heres-what-went-wrong-194982"
+title: "COP27 will be remembered as a failure – here's what went wrong"
+excerpt: "The agreed loss and damage fund was a breakthrough in an otherwise inconclusive conference."
+image: "https://images.theconversation.com/files/496315/original/file-20221120-62835-al7uee.jpg?ixlib=rb-1.1.0&rect=0%2C603%2C5220%2C2610&q=45&auto=format&w=1356&h=668&fit=crop"
 group: pro
 rank: 19
 ---

@@ -1,9 +1,13 @@
 ---
-publication: "newstatesman.com"
-link: "https://www.newstatesman.com/quickfire/2022/11/end-circus-cop27"
-title: "End the circus of COP once and for all"
-excerpt: "We’re the clowns, smiling manically as weak pledges are presented as progress, amid mayhem."
-image: "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/GettyImages-1244662577.jpg"
+publication: "opendemocracy.net"
+link: "https://www.opendemocracy.net/en/cop27s-loss-and-damage-deal-was-no-win/"
+title: "
+        Just another COP of ‘blah, blah, blah’
+    "
+excerpt: "
+        This COP made no clear commitment to decarbonisation and stopping the climate disasters that cause loss and damage
+    "
+image: "https://cdn2.opendemocracy.net/media/images/2KFRR2N.2e16d0ba.fill-1200x630.jpg"
 group: pro
 rank: 4
 ---
