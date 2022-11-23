@@ -1,9 +1,9 @@
 ---
-publication: "theglobeandmail.com"
-link: "https://www.theglobeandmail.com/opinion/article-we-can-still-keep-the-planets-warming-below-15-degrees-but-we-must-act/"
-title: "Opinion: We can still keep the planet’s warming below 1.5 degrees, but we must act now"
-excerpt: "As a young person and a climate expert, I worry about a more volatile future world"
-image: "https://www.theglobeandmail.com/resizer/ToSvdrmElDrUWZyeE0vsWCViViw=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/IKV3CCYF3NKVPADWVFLRXPKIEM.jpg"
+publication: "newrepublic.com"
+link: "https://newrepublic.com/article/169079/shocking-twist-cop27-one-good-thing"
+title: "How the U.S. Abruptly Shifted Decades of Climate Policy"
+excerpt: "In just 72 hours, the United States reversed course on its long-standing opposition to establishing a fund for loss and damage."
+image: "https://images.newrepublic.com/90837848948b87629ec7ea37a5f747970ffa35e7.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
 group: pro
 rank: 13
 ---

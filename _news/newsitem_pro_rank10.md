@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/opinions/2022/11/09/nigerian-president-cop27-africa-climate-change/"
-title: "Opinion | Muhammadu Buhari: How not to talk with Africa about climate change"
-excerpt: "Africa didn’t cause the mess, yet it pays the price."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AP4LAIA73OM4NZ6CU2XNMC7LNE.JPG&w=1440"
+publication: "theglobeandmail.com"
+link: "https://www.theglobeandmail.com/opinion/article-we-can-still-keep-the-planets-warming-below-15-degrees-but-we-must-act/"
+title: "Opinion: We can still keep the planet’s warming below 1.5 degrees, but we must act now"
+excerpt: "As a young person and a climate expert, I worry about a more volatile future world"
+image: "https://www.theglobeandmail.com/resizer/ToSvdrmElDrUWZyeE0vsWCViViw=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/IKV3CCYF3NKVPADWVFLRXPKIEM.jpg"
 group: pro
 rank: 10
 ---

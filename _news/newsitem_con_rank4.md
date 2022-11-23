@@ -1,9 +1,9 @@
 ---
-publication: "theorchard.substack.com"
-link: "https://theorchard.substack.com/p/the-contradictions-of-cop27"
-title: "The Contradictions of COP27"
-excerpt: "Fossil fuel lobbyists, politicians, organized labour and environmentalists have all gathered in Egypt to try and put their stamp on the future of climate policy."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0b324ba8-221a-4bb1-81a5-9c4daa2e15ec_640x421.jpeg"
+publication: "orhdeletes.substack.com"
+link: "https://orhdeletes.substack.com/p/why-egypts-cop-presidency-was-an"
+title: "Why Egypt's COP Presidency was an Inevitable Failure"
+excerpt: "Key takeaways of flaws in the UNFCCC process"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca488d05-340d-4b18-b4f0-bea2d23b5506_1080x833.jpeg"
 group: con
 rank: 4
 ---

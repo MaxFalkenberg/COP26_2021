@@ -1,9 +1,13 @@
 ---
-publication: "newrepublic.com"
-link: "https://newrepublic.com/article/169079/shocking-twist-cop27-one-good-thing"
-title: "How the U.S. Abruptly Shifted Decades of Climate Policy"
-excerpt: "In just 72 hours, the United States reversed course on its long-standing opposition to establishing a fund for loss and damage."
-image: "https://images.newrepublic.com/90837848948b87629ec7ea37a5f747970ffa35e7.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
+publication: "opendemocracy.net"
+link: "https://www.opendemocracy.net/en/odr/cop27-russia-war-ukraine-climate-crisis/"
+title: "
+        At COP27, Russia acted as though it had not invaded Ukraine
+    "
+excerpt: "
+        Russia urged international cooperation while ignoring its own role in making the climate crisis worse
+    "
+image: "https://cdn2.opendemocracy.net/media/images/protester_at_COP27.2e16d0ba.fill-1200x630.jpg"
 group: pro
 rank: 17
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "financialpost.com"
-link: "https://financialpost.com/opinion/william-watson-un-climate-change-cop27"
-title: "William Watson: Sharm el-Shakedown. More money for the UN black hole"
-excerpt: "A sensible government would pass on singing onto a guilt-expiation climate fund with highly uncertain effect. Read on."
-image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/11/no1121cop27.jpg"
+publication: "nationalobserver.com"
+link: "https://www.nationalobserver.com/podcast/hot-politics/greenwashing-cop27"
+title: "Greenwashing at COP27"
+excerpt: "A major climate meeting was held in Egypt, and the richest countries in the world were called on to show how they will help poorer nations that contribute little to the climate crisis. They didn't get"
+image: "https://www.nationalobserver.com/sites/nationalobserver.com/files/uploaded-files/2022/11/21/hot-politics-cover-1200x675-socialmedia-share.jpg"
 group: pro
 rank: 15
 ---

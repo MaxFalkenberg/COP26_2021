@@ -1,9 +1,9 @@
 ---
-publication: "theconversation.com"
-link: "https://theconversation.com/cop27-flinched-on-phasing-out-all-fossil-fuels-whats-next-for-the-fight-to-keep-them-in-the-ground-194941"
-title: "COP27 flinched on phasing out 'all fossil fuels'. What's next for the fight to keep them in the ground?"
-excerpt: "Smaller international deals and fossil free zones point a way forward."
-image: "https://images.theconversation.com/files/496520/original/file-20221121-26-skarba.jpg?ixlib=rb-1.1.0&rect=0%2C1311%2C5245%2C2622&q=45&auto=format&w=1356&h=668&fit=crop"
+publication: "newrepublic.com"
+link: "https://newrepublic.com/article/169079/us-abruptly-shifted-decades-climate-policy"
+title: "How the U.S. Abruptly Shifted Decades of Climate Policy"
+excerpt: "In just 72 hours, the United States reversed course on its long-standing opposition to establishing a fund for loss and damage."
+image: "https://images.newrepublic.com/90837848948b87629ec7ea37a5f747970ffa35e7.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
 group: pro
 rank: 2
 ---
