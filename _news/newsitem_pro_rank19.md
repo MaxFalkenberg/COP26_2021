@@ -1,9 +1,9 @@
 ---
-publication: "thenation.com"
-link: "https://www.thenation.com/article/environment/cop27-loss-damage-compensation/"
-title: "In a Historic Move, Frontline Communities Will Be Compensated for Climate Crisis Impacts"
-excerpt: "At the UN climate negotiations, delegates celebrated the decision to create a mechanism by which developed countries will compensate developing countries for the havoc wreaked upon them by climate cha"
-image: "https://www.thenation.com/wp-content/uploads/2022/11/cop27-youth-gt-img2.jpg"
+publication: "worldpoliticsreview.com"
+link: "https://www.worldpoliticsreview.com/climate-change-middle-east-cop27-2022-egypt/"
+title: "At COP27, the Middle East Came Up Short on Climate Action—Again"
+excerpt: "At COP27 2022, there was a clear gap between many Middle Eastern countries’ climate change commitments and actual behavior."
+image: "https://www.worldpoliticsreview.com/wp-content/uploads/2022/11/climate-change-middle-east-cop27-2022-egypt-1122022-1.jpg"
 group: pro
 rank: 19
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "divesteastsussex.wordpress.com"
-link: "https://divesteastsussex.wordpress.com/2022/11/18/escc-which-side-are-you-on-join-the-tug-of-war-between-fossil-fuels-and-climate-action-outside-county-hall-on-6-december/"
-title: "Join the tug of war between fossil fuels and climate action outside County Hall on 6 December"
-excerpt: "Visit the post for more."
-image: "https://divesteastsussex.files.wordpress.com/2022/10/tug_of_war.png"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/un-secretary-generals-statement-concluding-cop27-in-egypt/"
+title: "UN Secretary-General's Statement Concluding COP27 In Egypt"
+excerpt: "Blather, blather, blather. Last time I looked, we are not 'facing a burning planet.' In fact, cold temperatures at the South Pole this November have shattered all records since data collection started"
+image: "https://www.technocracy.news/wp-content/uploads/2022/11/xScreenshot-2022-11-19-23.02.51-750x375.png.pagespeed.ic_.XapWwJczoX.webp"
 group: con
 rank: 3
 ---

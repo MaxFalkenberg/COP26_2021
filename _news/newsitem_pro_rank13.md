@@ -1,9 +1,9 @@
 ---
-publication: "newrepublic.com"
-link: "https://newrepublic.com/article/169079/shocking-twist-cop27-one-good-thing"
-title: "How the U.S. Abruptly Shifted Decades of Climate Policy"
-excerpt: "In just 72 hours, the United States reversed course on its long-standing opposition to establishing a fund for loss and damage."
-image: "https://images.newrepublic.com/90837848948b87629ec7ea37a5f747970ffa35e7.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
+publication: "theconversation.com"
+link: "https://theconversation.com/adapting-to-a-hotter-planet-has-never-been-more-important-and-progress-edged-forward-at-cop27-194819"
+title: "Adapting to a hotter planet has never been more important, and progress edged forward at COP27"
+excerpt: "As the costs of disasters climb, working out who will finance climate adaptation has become increasingly urgent for developing nations."
+image: "https://images.theconversation.com/files/496637/original/file-20221122-26-vyw4qt.jpg?ixlib=rb-1.1.0&rect=0%2C898%2C5410%2C2705&q=45&auto=format&w=1356&h=668&fit=crop"
 group: pro
 rank: 13
 ---
