@@ -1,9 +1,9 @@
 ---
-publication: "divesteastsussex.wordpress.com"
-link: "https://divesteastsussex.wordpress.com/2022/11/18/escc-which-side-are-you-on-join-the-tug-of-war-between-fossil-fuels-and-climate-action-outside-county-hall-on-6-december/"
-title: "Join the tug of war between fossil fuels and climate action outside County Hall on 6 December"
-excerpt: "Visit the post for more."
-image: "https://divesteastsussex.files.wordpress.com/2022/10/tug_of_war.png"
+publication: "iLoveBCCRSS.wordpress.com"
+link: "http://iLoveBCCRSS.wordpress.com"
+title: "I LOVE #BCCRSS"
+excerpt: "IT'S ILLEGAL TO USE A LEGAL NAME"
+image: "https://ilovebccrss.files.wordpress.com/2017/03/twitter3.jpg"
 group: con
 rank: 7
 ---

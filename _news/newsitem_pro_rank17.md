@@ -1,13 +1,9 @@
 ---
-publication: "opendemocracy.net"
-link: "https://www.opendemocracy.net/en/odr/cop27-russia-war-ukraine-climate-crisis/"
-title: "
-        At COP27, Russia acted as though it had not invaded Ukraine
-    "
-excerpt: "
-        Russia urged international cooperation while ignoring its own role in making the climate crisis worse
-    "
-image: "https://cdn2.opendemocracy.net/media/images/protester_at_COP27.2e16d0ba.fill-1200x630.jpg"
+publication: "nature.com"
+link: "https://www.nature.com/articles/s41562-022-01476-7"
+title: "Being a young climate activist - Nature Human Behaviour"
+excerpt: "Licypriya Kangujam is a 10-year-old climate change activist from India. She also founded the Child Movement to raise the voices of the children of the world in the fight against climate change. In con"
+image: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-022-01476-7/MediaObjects/41562_2022_1476_Figa_HTML.png"
 group: pro
 rank: 17
 ---

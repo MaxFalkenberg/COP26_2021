@@ -5,5 +5,5 @@ title: "Representation, protection, restitution: Women lay out key demands at CO
 excerpt: "Women are disproportionately impacted by climate change, but are also left out of decision-making. This year’s summit attendees are working to change that."
 image: "https://19thnews.org/wp-content/uploads/2022/11/cop27-1.jpg"
 group: pro
-rank: 6
+rank: 7
 ---

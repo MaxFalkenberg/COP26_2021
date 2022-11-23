@@ -1,9 +1,9 @@
 ---
-publication: "theorchard.substack.com"
-link: "https://theorchard.substack.com/p/the-contradictions-of-cop27"
-title: "The Contradictions of COP27"
-excerpt: "Fossil fuel lobbyists, politicians, organized labour and environmentalists have all gathered in Egypt to try and put their stamp on the future of climate policy."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0b324ba8-221a-4bb1-81a5-9c4daa2e15ec_640x421.jpeg"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/23/cop27-laudato-si-webinar-to-encourage-churchs-action-on-climate-crisis-tellthetruth-demand-climateaction-sdg13-auspol-degrowth-less-is-more/"
+title: "COP27: Laudato si’ webinar to encourage Church’s action on climate crisis #TellTheTruth demand #ClimateAction #SDG13 #auspol #Degrowth Less is More"
+excerpt: "The European Laudato si’ Alliance hosts a webinar to explore solutions to maximize the impact of Catholics in the environmental crisis, as the COP27 climate conference ended in Egypt. By Edoa…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/07/img_1340-1.png"
 group: con
 rank: 5
 ---
