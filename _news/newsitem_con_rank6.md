@@ -1,9 +1,9 @@
 ---
-publication: "technocracy.news"
-link: "https://www.technocracy.news/un-secretary-generals-statement-concluding-cop27-in-egypt/"
-title: "UN Secretary-General's Statement Concluding COP27 In Egypt"
-excerpt: "Blather, blather, blather. Last time I looked, we are not 'facing a burning planet.' In fact, cold temperatures at the South Pole this November have shattered all records since data collection started"
-image: "https://www.technocracy.news/wp-content/uploads/2022/11/xScreenshot-2022-11-19-23.02.51-750x375.png.pagespeed.ic_.XapWwJczoX.webp"
+publication: "peopleandnature.wordpress.com"
+link: "https://peopleandnature.wordpress.com/2022/11/21/oil-companies-dictators-and-greenwashers-captured-cop27-hope-lies-in-movements-outside-the-talks/"
+title: "Oil companies, dictators and greenwashers captured COP27. Hope lies in movements outside the talks"
+excerpt: "This assessment of COP27 was published by Truthout on Friday, and the agreement struck yesterday doesn’t change the main points. Headlines yesterday welcomed the fund for loss and damage – but so f…"
+image: "https://peopleandnature.files.wordpress.com/2022/11/egypt2.png"
 group: con
 rank: 6
 ---

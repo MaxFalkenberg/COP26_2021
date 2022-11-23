@@ -1,13 +1,9 @@
 ---
-publication: "opendemocracy.net"
-link: "https://www.opendemocracy.net/en/odr/cop27-russia-war-ukraine-climate-crisis/"
-title: "
-        At COP27, Russia acted as though it had not invaded Ukraine
-    "
-excerpt: "
-        Russia urged international cooperation while ignoring its own role in making the climate crisis worse
-    "
-image: "https://cdn2.opendemocracy.net/media/images/protester_at_COP27.2e16d0ba.fill-1200x630.jpg"
+publication: "19thnews.org"
+link: "https://19thnews.org/2022/11/women-cop27-climate-environment-demands/"
+title: "Representation, protection, restitution: Women lay out key demands at COP27 climate summit"
+excerpt: "Women are disproportionately impacted by climate change, but are also left out of decision-making. This year’s summit attendees are working to change that."
+image: "https://19thnews.org/wp-content/uploads/2022/11/cop27-1.jpg"
 group: pro
 rank: 17
 ---

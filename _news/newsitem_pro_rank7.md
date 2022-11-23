@@ -1,9 +1,9 @@
 ---
-publication: "thetimes.co.uk"
-link: "https://www.thetimes.co.uk/article/bb922b4e-69d5-11ed-85fc-6c020d5ba0b7"
-title: "Take it from the soup throwers, Cop’s a cop-out"
-excerpt: "If you’re enjoying the many hypocrisies flushed to the surface by the World Cup in Qatar, then allow me to go one better. Next year’s United Nations Climate Ch"
-image: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffe60c3b8-69d5-11ed-85fc-6c020d5ba0b7.jpg?crop=1500%2C844%2C0%2C78&resize=1200"
+publication: "theconversation.com"
+link: "https://theconversation.com/cop27-will-be-remembered-as-a-failure-heres-what-went-wrong-194982"
+title: "COP27 will be remembered as a failure – here's what went wrong"
+excerpt: "The agreed loss and damage fund was a breakthrough in an otherwise inconclusive conference."
+image: "https://images.theconversation.com/files/496315/original/file-20221120-62835-al7uee.jpg?ixlib=rb-1.1.0&rect=0%2C603%2C5220%2C2610&q=45&auto=format&w=1356&h=668&fit=crop"
 group: pro
 rank: 7
 ---
