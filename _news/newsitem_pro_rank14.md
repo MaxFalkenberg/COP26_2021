@@ -1,9 +1,9 @@
 ---
-publication: "grist.org"
-link: "https://grist.org/equity/how-people-with-disabilities-fought-for-formal-recognition-at-cop27/"
-title: "How people with disabilities fought for formal recognition at COP27"
-excerpt: "Disabled people are pushing for the U.N. to acknowledge their unique vulnerabilities to climate change."
-image: "https://grist.org/wp-content/uploads/2022/11/COP27-disability-panel2.jpg"
+publication: "thenation.com"
+link: "https://www.thenation.com/article/environment/cop27-loss-damage-compensation/"
+title: "In a Historic Move, Frontline Communities Will Be Compensated for Climate Crisis Impacts"
+excerpt: "At the UN climate negotiations, delegates celebrated the decision to create a mechanism by which developed countries will compensate developing countries for the havoc wreaked upon them by climate cha"
+image: "https://www.thenation.com/wp-content/uploads/2022/11/cop27-youth-gt-img2.jpg"
 group: pro
 rank: 14
 ---

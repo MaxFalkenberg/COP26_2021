@@ -1,9 +1,9 @@
 ---
-publication: "thenation.com"
-link: "https://www.thenation.com/article/environment/climate-change-cop27-fossil-fuel-university-research/"
-title: "Students Tell Their Universities: Keep Fossil Fuel Companies Out of Climate Research"
-excerpt: "Amid COP27, members of the Fossil Free Research movement took action around the world, protesting the influence of Big Oil on crucial climate change studies."
-image: "https://www.thenation.com/wp-content/uploads/2022/11/Cambridge-Fossil-Free-Research-Week-of-Action.jpg"
+publication: "newrepublic.com"
+link: "https://newrepublic.com/article/169079/us-abruptly-shifted-decades-climate-policy"
+title: "How the U.S. Abruptly Shifted Decades of Climate Policy"
+excerpt: "In just 72 hours, the United States reversed course on its long-standing opposition to establishing a fund for loss and damage."
+image: "https://images.newrepublic.com/90837848948b87629ec7ea37a5f747970ffa35e7.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
 group: pro
 rank: 3
 ---

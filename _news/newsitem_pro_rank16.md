@@ -1,9 +1,9 @@
 ---
-publication: "cnbc.com"
-link: "https://www.cnbc.com/2022/11/23/young-people-just-became-official-climate-policy-stakeholders-at-cop27.html"
-title: "Young people just got a louder voice on climate change — and could soon be shaping policy"
-excerpt: "COP27 was another milestone for young climate activists as they became official climate policy stakeholders under the ACE Action Plan. "
-image: "https://image.cnbcfm.com/api/v1/image/107154229-1668787249715-gettyimages-1244835277-November_16_2022_sharm_el_sheikt_cop27_zarzycka-9.jpeg?v=1669184084&w=1920&h=1080"
+publication: "commondreams.org"
+link: "https://www.commondreams.org/news/2022/11/21/another-terrible-failure-cop27-ends-no-action-cut-climate-wrecking-fossil-fuels"
+title: "'Another Terrible Failure': COP27 Ends With No Action to Cut Off Climate-Wrecking Fossil Fuels"
+excerpt: "'If all fossil fuels are not rapidly phased out, no amount of money will be able to cover the cost of the resulting loss and damage,' said one climate justice advocate."
+image: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-11/GettyImages-1244919117-cop-27-united-nations-climate-conference.jpg?h=cf8b8db7&itok=HO-3l9yd"
 group: pro
 rank: 16
 ---
