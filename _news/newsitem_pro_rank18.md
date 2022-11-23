@@ -1,9 +1,9 @@
 ---
-publication: "theglobeandmail.com"
-link: "https://www.theglobeandmail.com/opinion/article-we-can-still-keep-the-planets-warming-below-15-degrees-but-we-must-act/"
-title: "Opinion: We can still keep the planet’s warming below 1.5 degrees, but we must act now"
-excerpt: "As a young person and a climate expert, I worry about a more volatile future world"
-image: "https://www.theglobeandmail.com/resizer/ToSvdrmElDrUWZyeE0vsWCViViw=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/IKV3CCYF3NKVPADWVFLRXPKIEM.jpg"
+publication: "19thnews.org"
+link: "https://19thnews.org/2022/11/women-cop27-climate-environment-demands/"
+title: "Representation, protection, restitution: Women lay out key demands at COP27 climate summit"
+excerpt: "Women are disproportionately impacted by climate change, but are also left out of decision-making. This year’s summit attendees are working to change that."
+image: "https://19thnews.org/wp-content/uploads/2022/11/cop27-1.jpg"
 group: pro
 rank: 18
 ---
