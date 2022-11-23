@@ -1,9 +1,9 @@
 ---
-publication: "theconversation.com"
-link: "https://theconversation.com/cop27-flinched-on-phasing-out-all-fossil-fuels-whats-next-for-the-fight-to-keep-them-in-the-ground-194941"
-title: "COP27 flinched on phasing out 'all fossil fuels'. What's next for the fight to keep them in the ground?"
-excerpt: "Smaller international deals and fossil free zones point a way forward."
-image: "https://images.theconversation.com/files/496520/original/file-20221121-26-skarba.jpg?ixlib=rb-1.1.0&rect=0%2C1311%2C5245%2C2622&q=45&auto=format&w=1356&h=668&fit=crop"
+publication: "dailymail.co.uk"
+link: "https://www.dailymail.co.uk/news/article-11416209/FOUR-private-jets-arrived-Egypt-COP27-climate-delegates-accused-hypocrisy.html"
+title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
+excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
+image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
 group: pro
 rank: 10
 ---
