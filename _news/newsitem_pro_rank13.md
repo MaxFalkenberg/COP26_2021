@@ -1,9 +1,9 @@
 ---
-publication: "newrepublic.com"
-link: "https://newrepublic.com/article/169079/us-abruptly-shifted-decades-climate-policy"
-title: "How the U.S. Abruptly Shifted Decades of Climate Policy"
-excerpt: "In just 72 hours, the United States reversed course on its long-standing opposition to establishing a fund for loss and damage."
-image: "https://images.newrepublic.com/90837848948b87629ec7ea37a5f747970ffa35e7.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
+publication: "thenation.com"
+link: "https://www.thenation.com/"
+title: "The Nation"
+excerpt: "The Nation is the oldest continuously published weekly magazine in the United States, covering progressive political and cultural news, opinion, and analysis."
+image: "https://www.thenation.com/wp-content/themes/thenation/images/loader_40x40.GIF"
 group: pro
 rank: 13
 ---
