@@ -1,9 +1,13 @@
 ---
-publication: "financialpost.com"
-link: "https://financialpost.com/opinion/william-watson-un-climate-change-cop27"
-title: "William Watson: Sharm el-Shakedown. More money for the UN black hole"
-excerpt: "A sensible government would pass on singing onto a guilt-expiation climate fund with highly uncertain effect. Read on."
-image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/11/no1121cop27.jpg"
+publication: "opendemocracy.net"
+link: "https://www.opendemocracy.net/en/odr/cop27-russia-war-ukraine-climate-crisis/"
+title: "
+        At COP27, Russia acted as though it had not invaded Ukraine
+    "
+excerpt: "
+        Russia urged international cooperation while ignoring its own role in making the climate crisis worse
+    "
+image: "https://cdn2.opendemocracy.net/media/images/protester_at_COP27.2e16d0ba.fill-1200x630.jpg"
 group: pro
 rank: 15
 ---

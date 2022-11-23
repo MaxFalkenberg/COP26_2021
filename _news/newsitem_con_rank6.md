@@ -1,9 +1,9 @@
 ---
-publication: "arbonics.substack.com"
-link: "https://arbonics.substack.com/p/where-cop-has-failed-vcm-will-come"
-title: "Where COP has failed, VCM will come to the rescue"
-excerpt: "Do you know what the 27 in COP27 means? Yes, it’s the 27th time."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8d5c99-6e4a-4691-be3c-8505354228ea_1224x1034.png"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/23/cop27-laudato-si-webinar-to-encourage-churchs-action-on-climate-crisis-tellthetruth-demand-climateaction-sdg13-auspol-degrowth-less-is-more/"
+title: "COP27: Laudato si’ webinar to encourage Church’s action on climate crisis #TellTheTruth demand #ClimateAction #SDG13 #auspol #Degrowth Less is More"
+excerpt: "The European Laudato si’ Alliance hosts a webinar to explore solutions to maximize the impact of Catholics in the environmental crisis, as the COP27 climate conference ended in Egypt. By Edoa…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/07/img_1340-1.png"
 group: con
 rank: 6
 ---
