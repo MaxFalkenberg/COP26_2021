@@ -1,9 +1,9 @@
 ---
-publication: "weforum.org"
-link: "https://www.weforum.org/agenda/2022/11/heres-how-leaders-close-climate-finance-gap/"
-title: "Here's how African leaders can close the climate finance gap"
-excerpt: "Africa currently falls well short of the $2.8 trillion in climate finance that it needs by 2030. We asked four Young Global Leaders how to fill the gap"
-image: "https://assets.weforum.org/editor/1utBYrP7tMThF3SJZNGgVLUqiit4vPOrJyVSFxtgcUo.png"
+publication: "dailymail.co.uk"
+link: "https://www.dailymail.co.uk/news/article-11416209/FOUR-private-jets-arrived-Egypt-COP27-climate-delegates-accused-hypocrisy.html"
+title: "FOUR HUNDRED private jets arrived in Egypt during COP27"
+excerpt: "Climate delegates were accused of hypocrisy after 400 private jets arrived in Egypt for COP27."
+image: "https://i.dailymail.co.uk/1s/2022/11/11/08/64437511-0-image-a-10_1668155196566.jpg"
 group: pro
 rank: 11
 ---

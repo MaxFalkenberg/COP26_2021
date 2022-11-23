@@ -1,9 +1,9 @@
 ---
-publication: "arbonics.substack.com"
-link: "https://arbonics.substack.com/p/where-cop-has-failed-vcm-will-come"
-title: "Where COP has failed, VCM will come to the rescue"
-excerpt: "Do you know what the 27 in COP27 means? Yes, it’s the 27th time."
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8d5c99-6e4a-4691-be3c-8505354228ea_1224x1034.png"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/20/finnish-govt-report-reveals-lithium-and-cobalt-supplies-insufficient-climatecrisis-ecologicalcrisis-limitstogrowth-economiccrisis-brightgreenlies/"
+title: "Finnish Govt Report Reveals Lithium And Cobalt Supplies Insufficient #ClimateCrisis #EcologicalCrisis #LimitsToGrowth #EconomicCrisis #BrightGreenLies"
+excerpt: "By Jerome Onoja Okojokwu-Idu Progress on the energy transition might be threatened as a new report by the Finnish government revealed that the world does not have enough Lithium and Cobalt to repla…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1857.jpg"
 group: con
 rank: 7
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "climateactionaustralia.wordpress.com"
-link: "https://climateactionaustralia.wordpress.com/2022/11/20/finnish-govt-report-reveals-lithium-and-cobalt-supplies-insufficient-climatecrisis-ecologicalcrisis-limitstogrowth-economiccrisis-brightgreenlies/"
-title: "Finnish Govt Report Reveals Lithium And Cobalt Supplies Insufficient #ClimateCrisis #EcologicalCrisis #LimitsToGrowth #EconomicCrisis #BrightGreenLies"
-excerpt: "By Jerome Onoja Okojokwu-Idu Progress on the energy transition might be threatened as a new report by the Finnish government revealed that the world does not have enough Lithium and Cobalt to repla…"
-image: "https://climateactionaustralia.files.wordpress.com/2022/10/img_1857.jpg"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/un-secretary-generals-statement-concluding-cop27-in-egypt/"
+title: "UN Secretary-General's Statement Concluding COP27 In Egypt"
+excerpt: "Blather, blather, blather. Last time I looked, we are not 'facing a burning planet.' In fact, cold temperatures at the South Pole this November have shattered all records since data collection started"
+image: "https://www.technocracy.news/wp-content/uploads/2022/11/xScreenshot-2022-11-19-23.02.51-750x375.png.pagespeed.ic_.XapWwJczoX.webp"
 group: con
 rank: 6
 ---
