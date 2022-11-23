@@ -1,9 +1,9 @@
 ---
-publication: "gulfnews.com"
-link: "https://gulfnews.com/opinion/op-eds/cop28-in-the-uae-must-make-up-for-cop27s-shortcomings-1.92148410"
-title: "COP28 in the UAE must make up for COP27’s shortcomings"
-excerpt: "Progress in international climate negotiations has been slow. This needs to change now"
-image: "https://imagevars.gulfnews.com/2021/10/22/climate_17ca6cab07f_medium.jpg"
+publication: "technocracy.news"
+link: "https://www.technocracy.news/un-secretary-generals-statement-concluding-cop27-in-egypt/"
+title: "UN Secretary-General's Statement Concluding COP27 In Egypt"
+excerpt: "Blather, blather, blather. Last time I looked, we are not 'facing a burning planet.' In fact, cold temperatures at the South Pole this November have shattered all records since data collection started"
+image: "https://www.technocracy.news/wp-content/uploads/2022/11/xScreenshot-2022-11-19-23.02.51-750x375.png.pagespeed.ic_.XapWwJczoX.webp"
 group: con
 rank: 2
 ---

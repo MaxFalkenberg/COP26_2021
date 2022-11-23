@@ -1,9 +1,9 @@
 ---
-publication: "orhdeletes.substack.com"
-link: "https://orhdeletes.substack.com/p/the-turn-against-symbolic-death"
-title: "Against Symbolic Death"
-excerpt: "On the end of Alaa's hunger strike"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F45f5dbfc-ee10-43ec-b17f-1f4f590c3fe9_1550x1020.png"
+publication: "climateactionaustralia.wordpress.com"
+link: "https://climateactionaustralia.wordpress.com/2022/11/22/aerosols-from-burning-fossil-fuels-are-masking-global-warming-uw-researchers-find-climatecrisis-cop27-ecologicalcrisis-tellthetruth-listen-to-the-scientists/"
+title: "Aerosols from burning fossil fuels are masking global warming, UW researchers find #ClimateCrisis #COP27 #EcologicalCrisis #TellTheTruth listen to the scientists!"
+excerpt: "By Nicholas Turner Seattle Times climate reporter Climate change will become worse before it gets better. Volcanologist McGuire zeroes in on ‘the core issues at the heart of the climate emerg…"
+image: "https://climateactionaustralia.files.wordpress.com/2022/11/img_1942.jpg"
 group: con
 rank: 3
 ---

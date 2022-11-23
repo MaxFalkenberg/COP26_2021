@@ -1,9 +1,10 @@
 ---
-publication: "thegatewaypundit.com"
-link: "https://www.thegatewaypundit.com/2022/11/john-kerry-spills-beans-u-n-s-cop27-meeting-want-replace-capitalism-new-economic-system/"
-title: "John Kerry Spills the Beans at U.N.’s COP27 Meeting: They Want to Replace Capitalism with a New Economic System"
-excerpt: "Guest post by Leo Hohmann The World Economic Forum’s climate change agenda was “modeled” off the effort to roll out vaccines during the Covid pandemic, John Kerry said during a COP27 panel discussion "
-image: "https://www.thegatewaypundit.com/wp-content/uploads/IMG_7767-1.jpg"
+publication: "zerohedge.com"
+link: "https://www.zerohedge.com/technology/farcical-cop27-debacle-ends-tears-and-frustration-furious-eco-delegates-realize-whos"
+title: "Farcical COP27 Debacle Ends In 'Tears And Frustration' As Furious Eco-Delegates Realize Who's In Charge"
+excerpt: "Spoiler alert: it's no longer the west.
+"
+image: "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-11/tuvalu%20finmin.jpg?h=ec3ff111&itok=bZyQJI4c"
 group: con
 rank: 0
 ---

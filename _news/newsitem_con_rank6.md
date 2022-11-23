@@ -1,9 +1,9 @@
 ---
-publication: "peopleandnature.wordpress.com"
-link: "https://peopleandnature.wordpress.com/2022/11/21/oil-companies-dictators-and-greenwashers-captured-cop27-hope-lies-in-movements-outside-the-talks/"
-title: "Oil companies, dictators and greenwashers captured COP27. Hope lies in movements outside the talks"
-excerpt: "This assessment of COP27 was published by Truthout on Friday, and the agreement struck yesterday doesn’t change the main points. Headlines yesterday welcomed the fund for loss and damage – but so f…"
-image: "https://peopleandnature.files.wordpress.com/2022/11/egypt2.png"
+publication: "arbonics.substack.com"
+link: "https://arbonics.substack.com/p/where-cop-has-failed-vcm-will-come"
+title: "Where COP has failed, VCM will come to the rescue"
+excerpt: "Do you know what the 27 in COP27 means? Yes, it’s the 27th time."
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8d5c99-6e4a-4691-be3c-8505354228ea_1224x1034.png"
 group: con
 rank: 6
 ---
