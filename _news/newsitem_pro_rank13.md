@@ -1,9 +1,9 @@
 ---
-publication: "theconversation.com"
-link: "https://theconversation.com/after-cop27-all-signs-point-to-world-blowing-past-the-1-5-degrees-global-warming-limit-heres-what-we-can-still-do-about-it-195080"
-title: "After COP27, all signs point to world blowing past the 1.5 degrees global warming limit – here's what we can still do about it"
-excerpt: "A leading climate scientist explains why going over 1.5 degrees Celsius puts the world in a danger zone."
-image: "https://images.theconversation.com/files/496641/original/file-20221122-13-g9a1us.jpg?ixlib=rb-1.1.0&rect=557%2C886%2C3866%2C1933&q=45&auto=format&w=1356&h=668&fit=crop"
+publication: "nationalobserver.com"
+link: "https://www.nationalobserver.com/podcast/hot-politics/greenwashing-cop27"
+title: "Greenwashing at COP27"
+excerpt: "A major climate meeting was held in Egypt, and the richest countries in the world were called on to show how they will help poorer nations that contribute little to the climate crisis. They didn't get"
+image: "https://www.nationalobserver.com/sites/nationalobserver.com/files/uploaded-files/2022/11/21/hot-politics-cover-1200x675-socialmedia-share.jpg"
 group: pro
 rank: 13
 ---

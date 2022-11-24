@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/opinions/2022/11/22/make-fossil-fuel-companies-pay-climate-catastrophe/"
-title: "Opinion | Make the fossil fuel companies pay for the climate catastrophe"
-excerpt: "If the guilty go without penalty, they will build their palaces safely above the waves on the carcasses of civilizations and foundering nations."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2HCW6QTJXAI63BQZBOJPAVSVSI.jpg&w=1440"
+publication: "commondreams.org"
+link: "https://www.commondreams.org/news/2022/11/21/another-terrible-failure-cop27-ends-no-action-cut-climate-wrecking-fossil-fuels"
+title: "'Another Terrible Failure': COP27 Ends With No Action to Cut Off Climate-Wrecking Fossil Fuels"
+excerpt: "'If all fossil fuels are not rapidly phased out, no amount of money will be able to cover the cost of the resulting loss and damage,' said one climate justice advocate."
+image: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-11/GettyImages-1244919117-cop-27-united-nations-climate-conference.jpg?h=cf8b8db7&itok=HO-3l9yd"
 group: pro
 rank: 17
 ---
