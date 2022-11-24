@@ -1,9 +1,10 @@
 ---
-publication: "thenation.com"
-link: "https://www.thenation.com/article/environment/cop27-loss-damage-compensation/"
-title: "In a Historic Move, Frontline Communities Will Be Compensated for Climate Crisis Impacts"
-excerpt: "At the UN climate negotiations, delegates celebrated the decision to create a mechanism by which developed countries will compensate developing countries for the havoc wreaked upon them by climate cha"
-image: "https://www.thenation.com/wp-content/uploads/2022/11/cop27-youth-gt-img2.jpg"
+publication: "thelancet.com"
+link: "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(22)00240-6/fulltext"
+title: "Disaster diplomacy in the wake of the 2022 Pakistan floods"
+excerpt: "In the summer of 2022, a climate-fuelled disaster hit Pakistan on a scale not seen
+before in the region."
+image: "https://www.thelancet.com/cms/asset/ab128854-4806-41a9-af8f-896b4516fd0a/fx1.jpg"
 group: pro
 rank: 13
 ---
