@@ -1,9 +1,9 @@
 ---
-publication: "cnbc.com"
-link: "https://www.cnbc.com/2022/11/23/young-people-just-became-official-climate-policy-stakeholders-at-cop27.html"
-title: "Young people just got a louder voice on climate change — and could soon be shaping policy"
-excerpt: "COP27 was another milestone for young climate activists as they became official climate policy stakeholders under the ACE Action Plan. "
-image: "https://image.cnbcfm.com/api/v1/image/107154229-1668787249715-gettyimages-1244835277-November_16_2022_sharm_el_sheikt_cop27_zarzycka-9.jpeg?v=1669184084&w=1920&h=1080"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/opinions/2022/11/22/make-fossil-fuel-companies-pay-climate-catastrophe/"
+title: "Opinion | Make the fossil fuel companies pay for the climate catastrophe"
+excerpt: "If the guilty go without penalty, they will build their palaces safely above the waves on the carcasses of civilizations and foundering nations."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2HCW6QTJXAI63BQZBOJPAVSVSI.jpg&w=1440"
 group: pro
 rank: 17
 ---

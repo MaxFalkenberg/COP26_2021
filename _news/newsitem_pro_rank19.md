@@ -1,9 +1,13 @@
 ---
-publication: "commondreams.org"
-link: "https://www.commondreams.org/news/2022/11/21/another-terrible-failure-cop27-ends-no-action-cut-climate-wrecking-fossil-fuels"
-title: "'Another Terrible Failure': COP27 Ends With No Action to Cut Off Climate-Wrecking Fossil Fuels"
-excerpt: "'If all fossil fuels are not rapidly phased out, no amount of money will be able to cover the cost of the resulting loss and damage,' said one climate justice advocate."
-image: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-11/GettyImages-1244919117-cop-27-united-nations-climate-conference.jpg?h=cf8b8db7&itok=HO-3l9yd"
+publication: "opendemocracy.net"
+link: "https://www.opendemocracy.net/en/cop27s-loss-and-damage-deal-was-no-win/"
+title: "
+        Just another COP of ‘blah, blah, blah’
+    "
+excerpt: "
+        This COP made no clear commitment to decarbonisation and stopping the climate disasters that cause loss and damage
+    "
+image: "https://cdn2.opendemocracy.net/media/images/2KFRR2N.2e16d0ba.fill-1200x630.jpg"
 group: pro
 rank: 19
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "nationalobserver.com"
-link: "https://www.nationalobserver.com/2022/11/23/opinion/after-cop27-where-does-canada-stand-phasing-out-fossil-fuels"
-title: "After COP27, where does Canada stand on phasing out fossil fuels?"
-excerpt: "It was important for countries at COP27 to name the so-called elephant in the room — oil and gas — the main cause of climate change, write Keith Brooks and Dave Gray-Donald."
-image: "https://www.nationalobserver.com/sites/nationalobserver.com/files/styles/nat_social/public/img/2022/11/21/cop27_nov_21_2.jpg?itok=RIQe_4pz"
+publication: "theconversation.com"
+link: "https://theconversation.com/after-cop27-all-signs-point-to-world-blowing-past-the-1-5-degrees-global-warming-limit-heres-what-we-can-still-do-about-it-195080"
+title: "After COP27, all signs point to world blowing past the 1.5 degrees global warming limit – here's what we can still do about it"
+excerpt: "A leading climate scientist explains why going over 1.5 degrees Celsius puts the world in a danger zone."
+image: "https://images.theconversation.com/files/496641/original/file-20221122-13-g9a1us.jpg?ixlib=rb-1.1.0&rect=557%2C886%2C3866%2C1933&q=45&auto=format&w=1356&h=668&fit=crop"
 group: pro
 rank: 15
 ---
