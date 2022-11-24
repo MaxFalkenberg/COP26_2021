@@ -1,10 +1,13 @@
 ---
-publication: "thelancet.com"
-link: "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(22)00240-6/fulltext"
-title: "Disaster diplomacy in the wake of the 2022 Pakistan floods"
-excerpt: "In the summer of 2022, a climate-fuelled disaster hit Pakistan on a scale not seen
-before in the region."
-image: "https://www.thelancet.com/cms/asset/ab128854-4806-41a9-af8f-896b4516fd0a/fx1.jpg"
+publication: "opendemocracy.net"
+link: "https://www.opendemocracy.net/en/odr/cop27-russia-war-ukraine-climate-crisis/"
+title: "
+        At COP27, Russia acted as though it had not invaded Ukraine
+    "
+excerpt: "
+        Russia urged international cooperation while ignoring its own role in making the climate crisis worse
+    "
+image: "https://cdn2.opendemocracy.net/media/images/protester_at_COP27.2e16d0ba.fill-1200x630.jpg"
 group: pro
 rank: 10
 ---

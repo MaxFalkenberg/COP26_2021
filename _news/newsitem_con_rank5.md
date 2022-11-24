@@ -1,9 +1,9 @@
 ---
-publication: "open.substack.com"
-link: "https://open.substack.com/pub/stevendonziger/p/cop27-failed-here-are-5-ways-we-can"
-title: "COP27 Failed. Here Are 5 Ways We Can Still Help Save the Planet."
-excerpt: "My latest column for The Guardian proposes a framework for how legal changes can catalyze progress"
-image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf3275dd-7d6a-4a92-b94b-f859084152ab_1920x1920.png"
+publication: "rpujolviven.blogspot.com"
+link: "https://rpujolviven.blogspot.com/2016/10/hypocrisy-to-fight-against-climate.html"
+title: "Hypocrisy: to fight against climate change in home when own oil is sold far from your home"
+excerpt: " '... In the oil business, you can work neck up or neck down: the first option you enriches while the second you only get dirty ...'     Tay..."
+image: "https://4.bp.blogspot.com/-7rfOmsZ8tRo/WBTbiqDnF8I/AAAAAAAACIc/w1Tjeb-f-Zk-F_n4ajsfYhiuwNuiZgDlACLcB/w1200-h630-p-k-no-nu/00096721.jpg"
 group: con
 rank: 5
 ---

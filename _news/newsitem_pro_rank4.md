@@ -1,9 +1,9 @@
 ---
-publication: "financialpost.com"
-link: "https://financialpost.com/opinion/cop27-climate-change"
-title: "Opinion: COP27’s bait and switch"
-excerpt: "New climate report ignores important unintended consequences that would inevitably affect Canada's economy and energy security. Read on."
-image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/11/no1122cop27.jpg"
+publication: "thenation.com"
+link: "https://www.thenation.com/article/environment/climate-change-cop27-fossil-fuel-university-research/"
+title: "Students Tell Their Universities: Keep Fossil Fuel Companies Out of Climate Research"
+excerpt: "Amid COP27, members of the Fossil Free Research movement took action around the world, protesting the influence of Big Oil on crucial climate change studies."
+image: "https://www.thenation.com/wp-content/uploads/2022/11/Cambridge-Fossil-Free-Research-Week-of-Action.jpg"
 group: pro
 rank: 4
 ---
