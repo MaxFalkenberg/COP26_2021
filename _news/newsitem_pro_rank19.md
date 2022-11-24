@@ -1,9 +1,9 @@
 ---
-publication: "washingtonpost.com"
-link: "https://www.washingtonpost.com/opinions/2022/11/22/make-fossil-fuel-companies-pay-climate-catastrophe/"
-title: "Opinion | Make the fossil fuel companies pay for the climate catastrophe"
-excerpt: "If the guilty go without penalty, they will build their palaces safely above the waves on the carcasses of civilizations and foundering nations."
-image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2HCW6QTJXAI63BQZBOJPAVSVSI.jpg&w=1440"
+publication: "euronews.com"
+link: "https://www.euronews.com/green/2022/06/24/all-the-european-countries-returning-to-dirty-coal-as-russia-threatens-to-turn-off-the-gas"
+title: "European countries return to coal as Russia threatens to turn off gas"
+excerpt: "The EU has warned member states not to slide back into dirty fossil fuels as a way of coping with the energy crisis. But what other options are there?"
+image: "https://static.euronews.com/articles/stories/06/79/61/66/1000x563_cmsv2_695ea751-52a6-5fd1-ba75-ea1dc541c3a1-6796166.jpg"
 group: pro
 rank: 19
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "theconversation.com"
-link: "https://theconversation.com/after-cop27-all-signs-point-to-world-blowing-past-the-1-5-degrees-global-warming-limit-heres-what-we-can-still-do-about-it-195080"
-title: "After COP27, all signs point to world blowing past the 1.5 degrees global warming limit – here's what we can still do about it"
-excerpt: "A leading climate scientist explains why going over 1.5 degrees Celsius puts the world in a danger zone."
-image: "https://images.theconversation.com/files/496641/original/file-20221122-13-g9a1us.jpg?ixlib=rb-1.1.0&rect=557%2C886%2C3866%2C1933&q=45&auto=format&w=1356&h=668&fit=crop"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/opinions/2022/11/22/make-fossil-fuel-companies-pay-climate-catastrophe/"
+title: "Opinion | Make the fossil fuel companies pay for the climate catastrophe"
+excerpt: "If the guilty go without penalty, they will build their palaces safely above the waves on the carcasses of civilizations and foundering nations."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2HCW6QTJXAI63BQZBOJPAVSVSI.jpg&w=1440"
 group: pro
 rank: 18
 ---
