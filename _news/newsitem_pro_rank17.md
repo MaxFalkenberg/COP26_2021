@@ -1,9 +1,9 @@
 ---
 publication: "commondreams.org"
-link: "https://www.commondreams.org/news/2022/11/21/another-terrible-failure-cop27-ends-no-action-cut-climate-wrecking-fossil-fuels"
-title: "'Another Terrible Failure': COP27 Ends With No Action to Cut Off Climate-Wrecking Fossil Fuels"
-excerpt: "'If all fossil fuels are not rapidly phased out, no amount of money will be able to cover the cost of the resulting loss and damage,' said one climate justice advocate."
-image: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-11/GettyImages-1244919117-cop-27-united-nations-climate-conference.jpg?h=cf8b8db7&itok=HO-3l9yd"
+link: "https://www.commondreams.org/news/2022/11/22/lets-try-something-new-naomi-klein-calls-boycott-next-cop-climate-summit"
+title: "'Let's Try Something New': Naomi Klein Calls for Boycott of Next COP Climate Summit"
+excerpt: "'Now is the time to decide not to do this all over again next year, when the summit will be in the UAE. Of all places.'"
+image: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-11/GettyImages-1188096239-naomi-klein.jpg?h=47ca35fc&itok=vkADmGZF"
 group: pro
 rank: 17
 ---
