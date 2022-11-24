@@ -1,9 +1,9 @@
 ---
-publication: "caribbeannewsupdates.substack.com"
-link: "https://caribbeannewsupdates.substack.com/p/landmark-loss-and-damage-deal-at"
-title: "Landmark Loss and Damage deal at COP27"
-excerpt: "Nov. 21, 2022"
-image: "https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F05362488-b1de-46bd-a4ce-6436b54024b3_256x256.png"
+publication: "open.substack.com"
+link: "https://open.substack.com/pub/stevendonziger/p/cop27-failed-here-are-5-ways-we-can"
+title: "COP27 Failed. Here Are 5 Ways We Can Still Help Save the Planet."
+excerpt: "My latest column for The Guardian proposes a framework for how legal changes can catalyze progress"
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf3275dd-7d6a-4a92-b94b-f859084152ab_1920x1920.png"
 group: con
 rank: 5
 ---

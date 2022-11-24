@@ -1,9 +1,10 @@
 ---
-publication: "to.pbs.org"
-link: "https://to.pbs.org/3MzB3rB"
-title: "PBS NewsHour"
-excerpt: "PBS NewsHour is a public media news organization with a nightly hour-long television broadcast and a robust digital footprint across the web and social media. Anchored by managing editor Judy Woodruff"
-image: "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/social-share.jpg"
+publication: "thelancet.com"
+link: "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(22)00240-6/fulltext"
+title: "Disaster diplomacy in the wake of the 2022 Pakistan floods"
+excerpt: "In the summer of 2022, a climate-fuelled disaster hit Pakistan on a scale not seen
+before in the region."
+image: "https://www.thelancet.com/cms/asset/ab128854-4806-41a9-af8f-896b4516fd0a/fx1.jpg"
 group: pro
 rank: 9
 ---

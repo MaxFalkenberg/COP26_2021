@@ -1,9 +1,9 @@
 ---
-publication: "nature.com"
-link: "https://www.nature.com/articles/s41562-022-01476-7"
-title: "Being a young climate activist - Nature Human Behaviour"
-excerpt: "Licypriya Kangujam is a 10-year-old climate change activist from India. She also founded the Child Movement to raise the voices of the children of the world in the fight against climate change. In con"
-image: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-022-01476-7/MediaObjects/41562_2022_1476_Figa_HTML.png"
+publication: "to.pbs.org"
+link: "https://to.pbs.org/3MzB3rB"
+title: "PBS NewsHour"
+excerpt: "PBS NewsHour is a public media news organization with a nightly hour-long television broadcast and a robust digital footprint across the web and social media. Anchored by managing editor Judy Woodruff"
+image: "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/social-share.jpg"
 group: pro
 rank: 8
 ---
