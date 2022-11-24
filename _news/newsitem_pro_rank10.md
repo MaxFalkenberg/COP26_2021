@@ -1,9 +1,10 @@
 ---
-publication: "nationalobserver.com"
-link: "https://www.nationalobserver.com/2022/11/23/opinion/after-cop27-where-does-canada-stand-phasing-out-fossil-fuels"
-title: "After COP27, where does Canada stand on phasing out fossil fuels?"
-excerpt: "It was important for countries at COP27 to name the so-called elephant in the room — oil and gas — the main cause of climate change, write Keith Brooks and Dave Gray-Donald."
-image: "https://www.nationalobserver.com/sites/nationalobserver.com/files/styles/nat_social/public/img/2022/11/21/cop27_nov_21_2.jpg?itok=RIQe_4pz"
+publication: "thelancet.com"
+link: "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(22)00240-6/fulltext"
+title: "Disaster diplomacy in the wake of the 2022 Pakistan floods"
+excerpt: "In the summer of 2022, a climate-fuelled disaster hit Pakistan on a scale not seen
+before in the region."
+image: "https://www.thelancet.com/cms/asset/ab128854-4806-41a9-af8f-896b4516fd0a/fx1.jpg"
 group: pro
 rank: 10
 ---

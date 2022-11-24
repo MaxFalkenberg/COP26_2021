@@ -1,9 +1,9 @@
 ---
-publication: "thenation.com"
-link: "https://www.thenation.com/article/environment/cop27-loss-damage-compensation/"
-title: "In a Historic Move, Frontline Communities Will Be Compensated for Climate Crisis Impacts"
-excerpt: "At the UN climate negotiations, delegates celebrated the decision to create a mechanism by which developed countries will compensate developing countries for the havoc wreaked upon them by climate cha"
-image: "https://www.thenation.com/wp-content/uploads/2022/11/cop27-youth-gt-img2.jpg"
+publication: "tnc.news"
+link: "https://tnc.news/2022/11/22/alshow-convoy-lawyer-kicked-out/"
+title: "The Andrew Lawton Show | Convoy lawyer Brendan Miller kicked out of Public Order Emergency Commission"
+excerpt: "Tensions ran high during today's Public Order Emergency Commission hearing as Commissioner Paul Rouleau ejected Freedom Convoy lawyer Brendan Miller while Miller attempted to raise issues regarding ou"
+image: "https://static.tnc.news/media/2022/11/soicla-al-22.png"
 group: pro
 rank: 12
 ---

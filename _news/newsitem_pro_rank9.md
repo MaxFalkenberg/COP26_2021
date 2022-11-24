@@ -1,10 +1,9 @@
 ---
-publication: "thelancet.com"
-link: "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(22)00240-6/fulltext"
-title: "Disaster diplomacy in the wake of the 2022 Pakistan floods"
-excerpt: "In the summer of 2022, a climate-fuelled disaster hit Pakistan on a scale not seen
-before in the region."
-image: "https://www.thelancet.com/cms/asset/ab128854-4806-41a9-af8f-896b4516fd0a/fx1.jpg"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/news/uk-england-london-63717863"
+title: "Just Stop Oil: Pair guilty of damaging Van Gogh painting's frame"
+excerpt: "Activists Louis McKechnie and Emily Brocklebank glued themselves to Peach Trees In Blossom."
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/169D0/production/_127742629_gettyimages-1216128566.jpg"
 group: pro
 rank: 9
 ---
