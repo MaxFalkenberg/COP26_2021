@@ -1,9 +1,9 @@
 ---
-publication: "to.pbs.org"
-link: "https://to.pbs.org/3MzB3rB"
-title: "PBS NewsHour"
-excerpt: "PBS NewsHour is a public media news organization with a nightly hour-long television broadcast and a robust digital footprint across the web and social media. Anchored by managing editor Judy Woodruff"
-image: "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/social-share.jpg"
+publication: "thenation.com"
+link: "https://www.thenation.com/article/environment/cop27-loss-damage-compensation/"
+title: "In a Historic Move, Frontline Communities Will Be Compensated for Climate Crisis Impacts"
+excerpt: "At the UN climate negotiations, delegates celebrated the decision to create a mechanism by which developed countries will compensate developing countries for the havoc wreaked upon them by climate cha"
+image: "https://www.thenation.com/wp-content/uploads/2022/11/cop27-youth-gt-img2.jpg"
 group: pro
 rank: 11
 ---

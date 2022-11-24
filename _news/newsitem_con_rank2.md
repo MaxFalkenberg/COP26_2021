@@ -1,10 +1,9 @@
 ---
-publication: "ntd.com"
-link: "https://www.ntd.com/americans-rights-are-on-the-line-award-winning-journalist-analyzes-un-g20s-recent-moves_883207.html"
-title: "Americans’ Rights Are ‘On the Line’: Award-Winning Journalist Analyzes UN, G20’s Recent Moves"
-excerpt: "<p>Award-winning international journalist Alex Newman gives his analysis on 200 countries signing a deal at UN&#8217;s COP-27 and the G20. &nbsp;</p>
-"
-image: "https://i.ntd.com/assets/uploads/2022/08/Alex-Newman-352x220.png"
+publication: "theorchard.substack.com"
+link: "https://theorchard.substack.com/p/the-contradictions-of-cop27"
+title: "The Contradictions of COP27"
+excerpt: "Fossil fuel lobbyists, politicians, organized labour and environmentalists have all gathered in Egypt to try and put their stamp on the future of climate policy."
+image: "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0b324ba8-221a-4bb1-81a5-9c4daa2e15ec_640x421.jpeg"
 group: con
 rank: 2
 ---

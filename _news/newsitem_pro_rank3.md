@@ -1,9 +1,9 @@
 ---
-publication: "grist.org"
-link: "https://grist.org/equity/how-people-with-disabilities-fought-for-formal-recognition-at-cop27/"
-title: "How people with disabilities fought for formal recognition at COP27"
-excerpt: "Disabled people are pushing for the U.N. to acknowledge their unique vulnerabilities to climate change."
-image: "https://grist.org/wp-content/uploads/2022/11/COP27-disability-panel2.jpg"
+publication: "financialpost.com"
+link: "https://financialpost.com/opinion/cop27-climate-change"
+title: "Opinion: COP27’s bait and switch"
+excerpt: "New climate report ignores important unintended consequences that would inevitably affect Canada's economy and energy security. Read on."
+image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/11/no1122cop27.jpg"
 group: pro
 rank: 3
 ---

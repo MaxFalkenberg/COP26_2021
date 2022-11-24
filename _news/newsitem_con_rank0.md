@@ -1,9 +1,10 @@
 ---
-publication: "divesteastsussex.wordpress.com"
-link: "https://divesteastsussex.wordpress.com/2022/11/18/escc-which-side-are-you-on-join-the-tug-of-war-between-fossil-fuels-and-climate-action-outside-county-hall-on-6-december/"
-title: "Join the tug of war between fossil fuels and climate action outside County Hall on 6 December"
-excerpt: "Visit the post for more."
-image: "https://divesteastsussex.files.wordpress.com/2022/10/tug_of_war.png"
+publication: "ntd.com"
+link: "https://www.ntd.com/americans-rights-are-on-the-line-award-winning-journalist-analyzes-un-g20s-recent-moves_883207.html"
+title: "Americans’ Rights Are ‘On the Line’: Award-Winning Journalist Analyzes UN, G20’s Recent Moves"
+excerpt: "<p>Award-winning international journalist Alex Newman gives his analysis on 200 countries signing a deal at UN&#8217;s COP-27 and the G20. &nbsp;</p>
+"
+image: "https://i.ntd.com/assets/uploads/2022/08/Alex-Newman-352x220.png"
 group: con
 rank: 0
 ---
