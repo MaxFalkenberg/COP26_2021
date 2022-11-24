@@ -1,9 +1,9 @@
 ---
-publication: "nationalobserver.com"
-link: "https://www.nationalobserver.com/2022/11/23/opinion/after-cop27-where-does-canada-stand-phasing-out-fossil-fuels"
-title: "After COP27, where does Canada stand on phasing out fossil fuels?"
-excerpt: "It was important for countries at COP27 to name the so-called elephant in the room — oil and gas — the main cause of climate change, write Keith Brooks and Dave Gray-Donald."
-image: "https://www.nationalobserver.com/sites/nationalobserver.com/files/styles/nat_social/public/img/2022/11/21/cop27_nov_21_2.jpg?itok=RIQe_4pz"
+publication: "tnc.news"
+link: "https://tnc.news/2022/11/22/alshow-convoy-lawyer-kicked-out/"
+title: "The Andrew Lawton Show | Convoy lawyer Brendan Miller kicked out of Public Order Emergency Commission"
+excerpt: "Tensions ran high during today's Public Order Emergency Commission hearing as Commissioner Paul Rouleau ejected Freedom Convoy lawyer Brendan Miller while Miller attempted to raise issues regarding ou"
+image: "https://static.tnc.news/media/2022/11/soicla-al-22.png"
 group: pro
 rank: 11
 ---
