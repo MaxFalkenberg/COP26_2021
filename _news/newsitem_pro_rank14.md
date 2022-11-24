@@ -1,9 +1,9 @@
 ---
-publication: "cnbc.com"
-link: "https://www.cnbc.com/2022/11/23/young-people-just-became-official-climate-policy-stakeholders-at-cop27.html"
-title: "Young people just got a louder voice on climate change — and could soon be shaping policy"
-excerpt: "COP27 was another milestone for young climate activists as they became official climate policy stakeholders under the ACE Action Plan. "
-image: "https://image.cnbcfm.com/api/v1/image/107154229-1668787249715-gettyimages-1244835277-November_16_2022_sharm_el_sheikt_cop27_zarzycka-9.jpeg?v=1669184084&w=1920&h=1080"
+publication: "nationalobserver.com"
+link: "https://www.nationalobserver.com/podcast/hot-politics/greenwashing-cop27"
+title: "Greenwashing at COP27"
+excerpt: "A major climate meeting was held in Egypt, and the richest countries in the world were called on to show how they will help poorer nations that contribute little to the climate crisis. They didn't get"
+image: "https://www.nationalobserver.com/sites/nationalobserver.com/files/uploaded-files/2022/11/21/hot-politics-cover-1200x675-socialmedia-share.jpg"
 group: pro
 rank: 14
 ---

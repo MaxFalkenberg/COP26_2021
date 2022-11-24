@@ -1,9 +1,9 @@
 ---
-publication: "theconversation.com"
-link: "https://theconversation.com/adapting-to-a-hotter-planet-has-never-been-more-important-and-progress-edged-forward-at-cop27-194819"
-title: "Adapting to a hotter planet has never been more important, and progress edged forward at COP27"
-excerpt: "As the costs of disasters climb, working out who will finance climate adaptation has become increasingly urgent for developing nations."
-image: "https://images.theconversation.com/files/496637/original/file-20221122-26-vyw4qt.jpg?ixlib=rb-1.1.0&rect=0%2C898%2C5410%2C2705&q=45&auto=format&w=1356&h=668&fit=crop"
+publication: "nationalobserver.com"
+link: "https://www.nationalobserver.com/2022/11/23/opinion/after-cop27-where-does-canada-stand-phasing-out-fossil-fuels"
+title: "After COP27, where does Canada stand on phasing out fossil fuels?"
+excerpt: "It was important for countries at COP27 to name the so-called elephant in the room — oil and gas — the main cause of climate change, write Keith Brooks and Dave Gray-Donald."
+image: "https://www.nationalobserver.com/sites/nationalobserver.com/files/styles/nat_social/public/img/2022/11/21/cop27_nov_21_2.jpg?itok=RIQe_4pz"
 group: pro
 rank: 10
 ---
