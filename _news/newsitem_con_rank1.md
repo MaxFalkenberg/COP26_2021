@@ -1,9 +1,9 @@
 ---
-publication: "rpujolviven.blogspot.com"
-link: "https://rpujolviven.blogspot.com/2014/03/the-carbon-bubble.html"
-title: "The carbon bubble"
-excerpt: " Atmospheric CO 2  is arriving other time at 400 ppm . Obviously last moths it was under mythic threshold but to follow the sawtooth graphic..."
-image: "//1.bp.blogspot.com/-gI0IZ4BJ89w/UxcciWNb0VI/AAAAAAAABHE/Vs7k-voksEw/w1200-h630-p-k-no-nu/tmp_mlo_one_week-1153749904.png"
+publication: "londongreenleft.blogspot.com"
+link: "https://londongreenleft.blogspot.com/2022/11/extract-from-ecosocialism-not-extinction.html"
+title: "Extract From: Ecosocialism Not Extinction  "
+excerpt: "Written by Allan Todd (2022)     “The central preomise of ecosocialism, already suggested by the term itself, is that non-ecological sociali..."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOnGFu2WFN8j2gycS06HZ75nEWFUt9D1NBDq-lEWGmFZc0ehRT64ddPVWfVUqWM0wlx6h9catM047Q3HlFivr_j7zniynnGXzXUkbNwsYs89KkQDEdsv803SwGwXV7sU8ubdbFNIo7LZwYyldmPBXiisfqqouBt4GcVM1rQMbf-gWB1F7iYKac9jVB/w1200-h630-p-k-no-nu/ECOSOCIALISM.NOTEXTINCTION%20(1).jpg"
 group: con
 rank: 1
 ---
