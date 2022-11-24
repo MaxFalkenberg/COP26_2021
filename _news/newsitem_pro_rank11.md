@@ -1,9 +1,13 @@
 ---
-publication: "tnc.news"
-link: "https://tnc.news/2022/11/22/alshow-convoy-lawyer-kicked-out/"
-title: "The Andrew Lawton Show | Convoy lawyer Brendan Miller kicked out of Public Order Emergency Commission"
-excerpt: "Tensions ran high during today's Public Order Emergency Commission hearing as Commissioner Paul Rouleau ejected Freedom Convoy lawyer Brendan Miller while Miller attempted to raise issues regarding ou"
-image: "https://static.tnc.news/media/2022/11/soicla-al-22.png"
+publication: "opendemocracy.net"
+link: "https://www.opendemocracy.net/en/odr/cop27-russia-war-ukraine-climate-crisis/"
+title: "
+        At COP27, Russia acted as though it had not invaded Ukraine
+    "
+excerpt: "
+        Russia urged international cooperation while ignoring its own role in making the climate crisis worse
+    "
+image: "https://cdn2.opendemocracy.net/media/images/protester_at_COP27.2e16d0ba.fill-1200x630.jpg"
 group: pro
 rank: 11
 ---

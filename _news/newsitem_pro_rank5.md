@@ -1,9 +1,9 @@
 ---
-publication: "thenation.com"
-link: "https://www.thenation.com/article/environment/climate-change-cop27-fossil-fuel-university-research/"
-title: "Students Tell Their Universities: Keep Fossil Fuel Companies Out of Climate Research"
-excerpt: "Amid COP27, members of the Fossil Free Research movement took action around the world, protesting the influence of Big Oil on crucial climate change studies."
-image: "https://www.thenation.com/wp-content/uploads/2022/11/Cambridge-Fossil-Free-Research-Week-of-Action.jpg"
+publication: "commondreams.org"
+link: "https://www.commondreams.org/news/2022/11/22/steven-donziger-says-criminalize-ecocide-help-save-planet"
+title: "Steven Donziger Says Criminalize Ecocide to 'Help Save the Planet'"
+excerpt: "'It's all too easy to feel overwhelmed and helpless in the face of such widespread catastrophe. But we as citizens can do something right now,' writes U.S. human rights attorney Steven Donziger, offer"
+image: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-11/GettyImages-1235627683-Steven-Donziger.jpg?h=1ddbbac8&itok=mMyU9uBH"
 group: pro
 rank: 5
 ---

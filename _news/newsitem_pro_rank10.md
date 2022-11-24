@@ -1,10 +1,9 @@
 ---
-publication: "thelancet.com"
-link: "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(22)00240-6/fulltext"
-title: "Disaster diplomacy in the wake of the 2022 Pakistan floods"
-excerpt: "In the summer of 2022, a climate-fuelled disaster hit Pakistan on a scale not seen
-before in the region."
-image: "https://www.thelancet.com/cms/asset/ab128854-4806-41a9-af8f-896b4516fd0a/fx1.jpg"
+publication: "vice.com"
+link: "https://www.vice.com/en/article/88q7gp/cop27-pakistan-loss-damages-climate-finance"
+title: "Big Promises Were Made at COP27. Where’s the Money?"
+excerpt: "“This is a down payment on investment in our futures, and in climate justice,” Sherry Rehman, Pakistan’s climate change minister said."
+image: "https://video-images.vice.com/articles/637f383943c1bf52eed1e857/lede/1669281993243-gettyimages-1440934843.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDIyeGg7MHh3LDAuMTU1eGgmcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
 group: pro
 rank: 10
 ---

@@ -1,9 +1,9 @@
 ---
-publication: "ft.com"
-link: "https://www.ft.com/content/f5ae04d2-8861-4414-adf7-b09e38221df4"
-title: "Subscribe to read | Financial Times"
-excerpt: "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
-image: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/energy.jpg"
+publication: "climatechangenews.com"
+link: "https://www.climatechangenews.com/2022/11/24/late-night-fossil-fuel-fight-leaves-bitter-taste-after-cop27/"
+title: "Late-night fossil fuel fight leaves bitter taste after Cop27"
+excerpt: "After two grueling nights of overtime in Sharm el-Sheikh, the blame game began, with allegations of stonewalling and hypocrisy"
+image: "https://cdn.climatechangenews.com/files/2022/11/23171400/Tired-negotiators.jpg"
 group: pro
 rank: 17
 ---

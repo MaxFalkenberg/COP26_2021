@@ -1,9 +1,10 @@
 ---
-publication: "commondreams.org"
-link: "https://www.commondreams.org/news/2022/11/22/steven-donziger-says-criminalize-ecocide-help-save-planet"
-title: "Steven Donziger Says Criminalize Ecocide to 'Help Save the Planet'"
-excerpt: "'It's all too easy to feel overwhelmed and helpless in the face of such widespread catastrophe. But we as citizens can do something right now,' writes U.S. human rights attorney Steven Donziger, offer"
-image: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-11/GettyImages-1235627683-Steven-Donziger.jpg?h=1ddbbac8&itok=mMyU9uBH"
+publication: "thelancet.com"
+link: "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(22)00240-6/fulltext"
+title: "Disaster diplomacy in the wake of the 2022 Pakistan floods"
+excerpt: "In the summer of 2022, a climate-fuelled disaster hit Pakistan on a scale not seen
+before in the region."
+image: "https://www.thelancet.com/cms/asset/ab128854-4806-41a9-af8f-896b4516fd0a/fx1.jpg"
 group: pro
 rank: 8
 ---
