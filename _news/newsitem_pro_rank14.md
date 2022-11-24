@@ -1,9 +1,13 @@
 ---
-publication: "thenation.com"
-link: "https://www.thenation.com/article/environment/cop27-loss-damage-compensation/"
-title: "In a Historic Move, Frontline Communities Will Be Compensated for Climate Crisis Impacts"
-excerpt: "At the UN climate negotiations, delegates celebrated the decision to create a mechanism by which developed countries will compensate developing countries for the havoc wreaked upon them by climate cha"
-image: "https://www.thenation.com/wp-content/uploads/2022/11/cop27-youth-gt-img2.jpg"
+publication: "opendemocracy.net"
+link: "https://www.opendemocracy.net/en/odr/cop27-russia-war-ukraine-climate-crisis/"
+title: "
+        At COP27, Russia acted as though it had not invaded Ukraine
+    "
+excerpt: "
+        Russia urged international cooperation while ignoring its own role in making the climate crisis worse
+    "
+image: "https://cdn2.opendemocracy.net/media/images/protester_at_COP27.2e16d0ba.fill-1200x630.jpg"
 group: pro
 rank: 14
 ---

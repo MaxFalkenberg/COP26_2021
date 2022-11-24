@@ -1,9 +1,9 @@
 ---
-publication: "nationalobserver.com"
-link: "https://www.nationalobserver.com/podcast/hot-politics/greenwashing-cop27"
-title: "Greenwashing at COP27"
-excerpt: "A major climate meeting was held in Egypt, and the richest countries in the world were called on to show how they will help poorer nations that contribute little to the climate crisis. They didn't get"
-image: "https://www.nationalobserver.com/sites/nationalobserver.com/files/uploaded-files/2022/11/21/hot-politics-cover-1200x675-socialmedia-share.jpg"
+publication: "tnc.news"
+link: "https://tnc.news/2022/11/22/alshow-convoy-lawyer-kicked-out/"
+title: "The Andrew Lawton Show | Convoy lawyer Brendan Miller kicked out of Public Order Emergency Commission"
+excerpt: "Tensions ran high during today's Public Order Emergency Commission hearing as Commissioner Paul Rouleau ejected Freedom Convoy lawyer Brendan Miller while Miller attempted to raise issues regarding ou"
+image: "https://static.tnc.news/media/2022/11/soicla-al-22.png"
 group: pro
 rank: 16
 ---

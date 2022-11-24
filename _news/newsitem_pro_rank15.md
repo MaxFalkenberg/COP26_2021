@@ -1,13 +1,9 @@
 ---
-publication: "opendemocracy.net"
-link: "https://www.opendemocracy.net/en/odr/cop27-russia-war-ukraine-climate-crisis/"
-title: "
-        At COP27, Russia acted as though it had not invaded Ukraine
-    "
-excerpt: "
-        Russia urged international cooperation while ignoring its own role in making the climate crisis worse
-    "
-image: "https://cdn2.opendemocracy.net/media/images/protester_at_COP27.2e16d0ba.fill-1200x630.jpg"
+publication: "nationalobserver.com"
+link: "https://www.nationalobserver.com/podcast/hot-politics/greenwashing-cop27"
+title: "Greenwashing at COP27"
+excerpt: "A major climate meeting was held in Egypt, and the richest countries in the world were called on to show how they will help poorer nations that contribute little to the climate crisis. They didn't get"
+image: "https://www.nationalobserver.com/sites/nationalobserver.com/files/uploaded-files/2022/11/21/hot-politics-cover-1200x675-socialmedia-share.jpg"
 group: pro
 rank: 15
 ---

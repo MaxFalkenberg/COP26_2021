@@ -1,9 +1,9 @@
 ---
-publication: "qz.com"
-link: "https://qz.com/the-drc-had-the-biggest-african-delegation-at-cop-not-1849815871"
-title: "The DRC had the biggest African delegation at COP. Not all of them wanted to cut emissions."
-excerpt: "Despite possessing Africa's largest basin for natural carbon capture, the DRC is licensing oil exploration companies to destroy it"
-image: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e9b332377e61d768ae8eed96a0f12a7a.jpg"
+publication: "theguardian.com"
+link: "https://www.theguardian.com/environment/2022/nov/24/fair-cop27-where-did-peter-duttons-figure-of-2tn-for-climate-damage-fund-come-from"
+title: "Fair Cop27? Where did Peter Dutton’s figure of $2tn for climate damage fund come from? | Temperature Check"
+excerpt: "Meanwhile, BP’s CEO was in town spruiking the energy giant’s climate credentials, as its oil output increases from last year"
+image: "https://i.guim.co.uk/img/media/456436b2aa2e04ac1fc20c95b5292f0bc45588d0/0_0_5464_3278/master/5464.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=6cc98559cd8d01eb7d1ca428b1e674bb"
 group: pro
 rank: 5
 ---
