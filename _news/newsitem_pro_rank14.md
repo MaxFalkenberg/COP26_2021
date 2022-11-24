@@ -1,9 +1,9 @@
 ---
-publication: "theconversation.com"
-link: "https://theconversation.com/after-cop27-all-signs-point-to-world-blowing-past-the-1-5-degrees-global-warming-limit-heres-what-we-can-still-do-about-it-195080"
-title: "After COP27, all signs point to world blowing past the 1.5 degrees global warming limit – here's what we can still do about it"
-excerpt: "A leading climate scientist explains why going over 1.5 degrees Celsius puts the world in a danger zone."
-image: "https://images.theconversation.com/files/496641/original/file-20221122-13-g9a1us.jpg?ixlib=rb-1.1.0&rect=557%2C886%2C3866%2C1933&q=45&auto=format&w=1356&h=668&fit=crop"
+publication: "cnbc.com"
+link: "https://www.cnbc.com/2022/11/23/young-people-just-became-official-climate-policy-stakeholders-at-cop27.html"
+title: "Young people just got a louder voice on climate change — and could soon be shaping policy"
+excerpt: "COP27 was another milestone for young climate activists as they became official climate policy stakeholders under the ACE Action Plan. "
+image: "https://image.cnbcfm.com/api/v1/image/107154229-1668787249715-gettyimages-1244835277-November_16_2022_sharm_el_sheikt_cop27_zarzycka-9.jpeg?v=1669184084&w=1920&h=1080"
 group: pro
 rank: 14
 ---

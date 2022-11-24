@@ -1,9 +1,9 @@
 ---
-publication: "commondreams.org"
-link: "https://www.commondreams.org/news/2022/11/22/lets-try-something-new-naomi-klein-calls-boycott-next-cop-climate-summit"
-title: "'Let's Try Something New': Naomi Klein Calls for Boycott of Next COP Climate Summit"
-excerpt: "'Now is the time to decide not to do this all over again next year, when the summit will be in the UAE. Of all places.'"
-image: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-11/GettyImages-1188096239-naomi-klein.jpg?h=47ca35fc&itok=vkADmGZF"
+publication: "washingtonpost.com"
+link: "https://www.washingtonpost.com/opinions/2022/11/22/make-fossil-fuel-companies-pay-climate-catastrophe/"
+title: "Opinion | Make the fossil fuel companies pay for the climate catastrophe"
+excerpt: "If the guilty go without penalty, they will build their palaces safely above the waves on the carcasses of civilizations and foundering nations."
+image: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2HCW6QTJXAI63BQZBOJPAVSVSI.jpg&w=1440"
 group: pro
 rank: 17
 ---
