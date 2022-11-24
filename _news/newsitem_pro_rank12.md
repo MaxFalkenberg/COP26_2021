@@ -1,9 +1,9 @@
 ---
-publication: "thenation.com"
-link: "https://www.thenation.com/article/environment/cop27-loss-damage-compensation/"
-title: "In a Historic Move, Frontline Communities Will Be Compensated for Climate Crisis Impacts"
-excerpt: "At the UN climate negotiations, delegates celebrated the decision to create a mechanism by which developed countries will compensate developing countries for the havoc wreaked upon them by climate cha"
-image: "https://www.thenation.com/wp-content/uploads/2022/11/cop27-youth-gt-img2.jpg"
+publication: "theconversation.com"
+link: "https://theconversation.com/adapting-to-a-hotter-planet-has-never-been-more-important-and-progress-edged-forward-at-cop27-194819"
+title: "Adapting to a hotter planet has never been more important, and progress edged forward at COP27"
+excerpt: "As the costs of disasters climb, working out who will finance climate adaptation has become increasingly urgent for developing nations."
+image: "https://images.theconversation.com/files/496637/original/file-20221122-26-vyw4qt.jpg?ixlib=rb-1.1.0&rect=0%2C898%2C5410%2C2705&q=45&auto=format&w=1356&h=668&fit=crop"
 group: pro
 rank: 12
 ---
