@@ -1,9 +1,9 @@
 ---
-publication: "theconversation.com"
-link: "https://theconversation.com/after-cop27-all-signs-point-to-world-blowing-past-the-1-5-degrees-global-warming-limit-heres-what-we-can-still-do-about-it-195080"
-title: "After COP27, all signs point to world blowing past the 1.5 degrees global warming limit – here's what we can still do about it"
-excerpt: "A leading climate scientist explains why going over 1.5 degrees Celsius puts the world in a danger zone."
-image: "https://images.theconversation.com/files/496641/original/file-20221122-13-g9a1us.jpg?ixlib=rb-1.1.0&rect=557%2C886%2C3866%2C1933&q=45&auto=format&w=1356&h=668&fit=crop"
+publication: "commondreams.org"
+link: "https://www.commondreams.org/news/2022/11/21/another-terrible-failure-cop27-ends-no-action-cut-climate-wrecking-fossil-fuels"
+title: "'Another Terrible Failure': COP27 Ends With No Action to Cut Off Climate-Wrecking Fossil Fuels"
+excerpt: "'If all fossil fuels are not rapidly phased out, no amount of money will be able to cover the cost of the resulting loss and damage,' said one climate justice advocate."
+image: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-11/GettyImages-1244919117-cop-27-united-nations-climate-conference.jpg?h=cf8b8db7&itok=HO-3l9yd"
 group: pro
 rank: 19
 ---
