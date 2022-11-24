@@ -1,9 +1,9 @@
 ---
-publication: "financialpost.com"
-link: "https://financialpost.com/opinion/cop27-climate-change"
-title: "Opinion: COP27’s bait and switch"
-excerpt: "New climate report ignores important unintended consequences that would inevitably affect Canada's economy and energy security. Read on."
-image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/11/no1122cop27.jpg"
+publication: "ft.com"
+link: "https://www.ft.com/content/f5ae04d2-8861-4414-adf7-b09e38221df4"
+title: "Subscribe to read | Financial Times"
+excerpt: "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
+image: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/energy.jpg"
 group: pro
 rank: 16
 ---

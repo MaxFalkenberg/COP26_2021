@@ -1,9 +1,9 @@
 ---
-publication: "reportage.spektrum.de"
-link: "https://reportage.spektrum.de/fighting-for-the-last-drops"
-title: "Fighting for the last drops - spektrum.de"
-excerpt: "What it means when the planet dries out can be felt in the devastating drought in Kenya"
-image: "https://cdn-i.pageflow.io/_a11912/_e31924/main/image_files/processed_attachments/000/449/363/v1/medium/Teaser.JPG?1665397681"
+publication: "bbc.co.uk"
+link: "https://www.bbc.co.uk/learningenglish/english/course/newsreview-2022/unit-1/session-46"
+title: "BBC Learning English - Course: News Review  / Unit 1 / Session 46 / Activity 1"
+excerpt: None
+image: "https://ichef.bbc.co.uk/images/ic/640x360/p0djb8z6.jpg"
 group: pro
 rank: 19
 ---
